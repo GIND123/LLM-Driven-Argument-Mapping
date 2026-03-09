@@ -62,6 +62,72 @@ def get_raw_pdf_dir() -> Path:
     return candidates[0]
 
 
+# ---------------------------------------------------------------------------
+# PDF-conversion noise patterns (compiled once)
+# ---------------------------------------------------------------------------
+
+# Substrings to strip from the extracted text (PDFCrowd watermarks, etc.).
+_NOISE_PATTERNS: List[re.Pattern] = [
+    re.compile(
+        r"Explore\s+our\s+developer[\-\s]*friendly\s+HTML\s+to\s+PDF\s+API",
+        re.IGNORECASE,
+    ),
+    re.compile(r"Printed\s+using\s+PDFCrowd\s+HTML\s+to\s+PDF", re.IGNORECASE),
+    re.compile(r"PDFCrowd\s+HTML\s+to\s+PDF", re.IGNORECASE),
+]
+
+# Whole-line junk (line is dropped when it matches *entirely*).
+_JUNK_LINE_RES: List[re.Pattern] = [
+    re.compile(r"^\s*Table\s+Of\s+Contents\s*$", re.IGNORECASE),
+    re.compile(r"^\s*Page\s+\d+\s+of\s+\d+\s*$", re.IGNORECASE),
+    re.compile(r"^\s*--+>\s*$"),           # HTML comment remnants like "  -->"
+    re.compile(r"^\s*Policy\s*$", re.IGNORECASE),
+    re.compile(r"^\s*References\s*$", re.IGNORECASE),
+    re.compile(r"^\s*Background\s*$", re.IGNORECASE),
+]
+
+# HTML / XML tags  &  entities.
+_HTML_TAG_RE = re.compile(r"<[^>]+>")
+_HTML_ENTITY_RE = re.compile(r"&(?:#\d+|#x[0-9a-fA-F]+|[a-zA-Z]+);")
+
+
+def _clean_extracted_text(raw_text: str) -> str:
+    """Remove HTML artefacts, PDFCrowd noise, and normalise whitespace.
+
+    IMPORTANT: pdfplumber line-breaks inside these HTML-to-PDF documents are
+    *not* reliable sentence boundaries.  This function therefore collapses ALL
+    whitespace into single spaces so that downstream splitting can work from a
+    clean, uniform string.
+    """
+    text = raw_text
+
+    # 1. Strip HTML / XML tags.
+    text = _HTML_TAG_RE.sub(" ", text)
+
+    # 2. Remove HTML entities.
+    text = _HTML_ENTITY_RE.sub(" ", text)
+
+    # 3. Remove known noise substrings.
+    for pat in _NOISE_PATTERNS:
+        text = pat.sub(" ", text)
+
+    # 4. Line-level filtering – drop whole-line junk.
+    kept_lines: List[str] = []
+    for line in text.splitlines():
+        stripped = line.strip()
+        if not stripped:
+            continue
+        if any(pat.match(stripped) for pat in _JUNK_LINE_RES):
+            continue
+        kept_lines.append(stripped)
+    text = " ".join(kept_lines)
+
+    # 5. Collapse all remaining multi-spaces into one.
+    text = re.sub(r"\s{2,}", " ", text).strip()
+
+    return text
+
+
 @st.cache_data(show_spinner=False)
 def extract_text_from_pdf_cached(pdf_path_str: str, mtime_ns: int) -> str:
     _ = mtime_ns  # invalidate cache when file changes
@@ -71,25 +137,91 @@ def extract_text_from_pdf_cached(pdf_path_str: str, mtime_ns: int) -> str:
             page_text = page.extract_text() or ""
             if page_text.strip():
                 text_chunks.append(page_text)
-    return "\n".join(text_chunks)
+    raw = "\n".join(text_chunks)
+    return _clean_extracted_text(raw)
 
 
 def extract_text_from_pdf(pdf_path: Path) -> str:
     return extract_text_from_pdf_cached(str(pdf_path), pdf_path.stat().st_mtime_ns)
 
 
+# ---------------------------------------------------------------------------
+# Sentence splitting
+# ---------------------------------------------------------------------------
+
+# Minimum chars / alpha-chars for a fragment to be kept as its own sentence.
+_MIN_SENT_LEN = 10
+_MIN_ALPHA = 3
+
+# Short fragments (under this many chars) produced by spaCy are merged back
+# into the previous sentence — handles trailing clauses spaCy clips off.
+_MERGE_THRESHOLD = 40
+
+# Split only at Roman-numeral major section headers  (I.  II.  III. …)
+# so no whole section becomes one giant blob for spaCy.
+# Pure lookahead — no characters are consumed by the split.
+_ROMAN_SECTION_RE = re.compile(
+    r"(?<=\s)(?=(?:X{0,3})(?:IX|IV|V?I{0,3})\.\s+[A-Z][a-z])",
+)
+
+
+def _is_meaningful(text: str) -> bool:
+    """Return True if *text* has enough content to be worth annotating."""
+    return len(text) >= _MIN_SENT_LEN and sum(1 for c in text if c.isalpha()) >= _MIN_ALPHA
+
+
 @st.cache_data(show_spinner=False)
 def split_into_sentences_cached(text: str) -> List[Dict[str, object]]:
+    """Three-pass sentence splitter tuned for Aetna Clinical Policy Bulletins.
+
+    Pass 1 — Section pre-split
+        Split the flat cleaned string at Roman-numeral section headers
+        (I. Medical Necessity, II. Experimental …).  This prevents an entire
+        section from becoming one mega-chunk fed to spaCy.
+
+    Pass 2 — spaCy sentencizer
+        Run spaCy's rule-based sentencizer on each section chunk.
+        List items (A./B./C., separated by semicolons) intentionally stay
+        together — they form ONE argumentative unit (one PREMISE or CLAIM)
+        that an annotator can label as a whole.
+
+    Pass 3 — Short-fragment merge
+        Any spaCy fragment shorter than _MERGE_THRESHOLD chars is appended
+        to the previous sentence.  This catches short trailing clauses that
+        the sentencizer sometimes detaches from their parent sentence.
+    """
     nlp = load_spacy_model()
-    doc = nlp(text)
+
+    # Pass 1: section-level pre-split.
+    sections = [s.strip() for s in _ROMAN_SECTION_RE.split(text) if s.strip()]
+
+    # Pass 2: spaCy sentencizer within each section.
+    raw_frags: List[str] = []
+    for section in sections:
+        doc = nlp(section)
+        for sent in doc.sents:
+            frag = sent.text.strip()
+            if frag:
+                raw_frags.append(frag)
+
+    # Pass 3: merge very short trailing fragments into the previous sentence.
+    merged: List[str] = []
+    for frag in raw_frags:
+        if merged and len(frag) < _MERGE_THRESHOLD:
+            merged[-1] = merged[-1].rstrip() + " " + frag
+        else:
+            merged.append(frag)
+
+    # Build the final numbered list, dropping non-meaningful entries.
     sentences: List[Dict[str, object]] = []
     idx = 1
-    for sent in doc.sents:
-        sent_text = sent.text.strip()
-        if not sent_text:
+    for frag in merged:
+        frag = frag.strip()
+        if not _is_meaningful(frag):
             continue
-        sentences.append({"id": idx, "text": sent_text})
+        sentences.append({"id": idx, "text": frag})
         idx += 1
+
     return sentences
 
 
