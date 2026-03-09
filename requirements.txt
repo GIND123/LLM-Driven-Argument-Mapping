@@ -1,0 +1,11 @@
+streamlit
+flask
+pandas
+numpy
+nltk
+spacy
+pdfminer.six
+PyPDF2
+scikit-learn
+python-dotenv
+tqdm
