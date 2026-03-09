@@ -1,0 +1,12 @@
+{
+  "document_id": "Epilepsy_Surgery_-_Medical_Clinical_Policy_Bulletins___Aetna",
+  "source": "Aetna Clinical Policy Bulletin",
+  "relations": [
+    {
+      "source": 5,
+      "target": 3,
+      "type": "ATTACK",
+      "similarity": 0.4976
+    }
+  ]
+}
