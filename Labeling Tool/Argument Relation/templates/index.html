@@ -5,414 +5,170 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Argument Relation Annotation Tool</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Use Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
-
         body {
-            font-family: 'Inter', sans-serif;
-            background: #0f1117;
-            color: #e0e0e0;
-            min-height: 100vh;
+            background-color: #f8f9fa;
+            font-family: "Inter", -apple-system, sans-serif;
         }
 
-        .container {
-            max-width: 1100px;
-            margin: 0 auto;
-            padding: 2rem 1.5rem;
+        .panel {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
         }
 
-        h1 {
-            font-size: 2rem;
-            font-weight: 700;
-            background: linear-gradient(135deg, #6ee7b7, #3b82f6);
-            background-clip: text;
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            margin-bottom: 1.5rem;
-        }
-
-        h2 {
-            font-size: 1.25rem;
-            font-weight: 600;
-            color: #93c5fd;
-            margin-bottom: 0.5rem;
-        }
-
-        /* Flash messages */
-        .flash {
-            padding: 0.75rem 1rem;
-            border-radius: 0.5rem;
-            margin-bottom: 1rem;
-            font-size: 0.9rem;
-        }
-
-        .flash.success {
-            background: rgba(16, 185, 129, 0.15);
-            border: 1px solid #10b981;
-            color: #6ee7b7;
-        }
-
-        .flash.warning {
-            background: rgba(245, 158, 11, 0.15);
-            border: 1px solid #f59e0b;
-            color: #fbbf24;
-        }
-
-        .flash.error {
-            background: rgba(239, 68, 68, 0.15);
-            border: 1px solid #ef4444;
-            color: #fca5a5;
-        }
-
-        .flash.info {
-            background: rgba(59, 130, 246, 0.15);
-            border: 1px solid #3b82f6;
-            color: #93c5fd;
-        }
-
-        /* Cards */
-        .card {
-            background: #1e1e2e;
-            border: 1px solid #2d2d44;
-            border-radius: 0.75rem;
-            padding: 1.5rem;
-            margin-bottom: 1.5rem;
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
-        }
-
-        /* Selects */
-        select,
-        option {
-            background: #161625;
-            color: #e0e0e0;
-            border: 1px solid #3d3d5c;
-            border-radius: 0.4rem;
-            padding: 0.5rem 0.75rem;
-            font-family: 'Inter', sans-serif;
-            font-size: 0.9rem;
-            outline: none;
-            cursor: pointer;
-        }
-
-        select:focus {
-            border-color: #6366f1;
-            box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.3);
-        }
-
-        /* Buttons */
-        .btn {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            padding: 0.6rem 1.5rem;
-            border: none;
-            border-radius: 0.5rem;
-            font-family: 'Inter', sans-serif;
-            font-size: 0.9rem;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.2s ease;
-            text-decoration: none;
-        }
-
-        .btn-primary {
-            background: linear-gradient(135deg, #6366f1, #8b5cf6);
-            color: #fff;
-        }
-
-        .btn-primary:hover {
-            transform: translateY(-1px);
-            box-shadow: 0 4px 15px rgba(99, 102, 241, 0.4);
-        }
-
-        .btn-secondary {
-            background: #2d2d44;
-            color: #c0c0d0;
-            border: 1px solid #3d3d5c;
-        }
-
-        .btn-secondary:hover {
-            background: #3d3d5c;
-            color: #fff;
-        }
-
-        .btn-success {
-            background: linear-gradient(135deg, #10b981, #059669);
-            color: #fff;
-        }
-
-        .btn-success:hover {
-            transform: translateY(-1px);
-            box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);
-        }
-
-        .btn:disabled,
-        .btn[disabled] {
-            opacity: 0.4;
-            cursor: not-allowed;
-            transform: none !important;
-            box-shadow: none !important;
-        }
-
-        .btn-block {
-            display: block;
-            width: 100%;
-        }
-
-        /* Metrics */
-        .metrics-row {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 1rem;
-            margin-bottom: 1rem;
-        }
-
-        .metric-card {
-            background: #161625;
-            border: 1px solid #2d2d44;
-            border-radius: 0.6rem;
-            padding: 1rem;
-            text-align: center;
-        }
-
-        .metric-value {
-            font-size: 1.75rem;
-            font-weight: 700;
-            color: #8b5cf6;
-        }
-
-        .metric-label {
-            font-size: 0.8rem;
-            color: #888;
-            margin-top: 0.25rem;
-        }
-
-        /* Progress bar */
-        .progress-bar-container {
-            background: #161625;
-            border-radius: 0.5rem;
-            height: 1.5rem;
-            overflow: hidden;
-            margin-bottom: 1rem;
-            position: relative;
-            border: 1px solid #2d2d44;
-        }
-
-        .progress-bar-fill {
-            height: 100%;
-            background: linear-gradient(90deg, #6366f1, #8b5cf6, #a78bfa);
-            border-radius: 0.5rem;
-            transition: width 0.4s ease;
-        }
-
-        .progress-bar-text {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            font-size: 0.75rem;
-            font-weight: 600;
-            color: #fff;
-            text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
-        }
-
-        /* Filter radio buttons */
-        .filter-group {
-            display: flex;
-            gap: 0.5rem;
-            flex-wrap: wrap;
-            margin-bottom: 1.5rem;
-        }
-
-        .filter-group a {
-            padding: 0.4rem 1rem;
-            border-radius: 2rem;
-            font-size: 0.8rem;
-            font-weight: 500;
-            text-decoration: none;
-            border: 1px solid #3d3d5c;
-            color: #c0c0d0;
-            transition: all 0.2s ease;
-        }
-
-        .filter-group a:hover {
-            background: #2d2d44;
-            color: #fff;
-        }
-
-        .filter-group a.active {
-            background: linear-gradient(135deg, #6366f1, #8b5cf6);
-            color: #fff;
-            border-color: transparent;
-        }
-
-        /* Pair cards */
         .premise-box {
-            background: rgba(16, 185, 129, 0.1);
-            border: 1px solid rgba(16, 185, 129, 0.3);
-            border-radius: 0.5rem;
-            padding: 0.85rem;
-            margin-bottom: 0.75rem;
-            color: #a7f3d0;
+            background-color: #d1f2d9;
+            color: #0f5132;
+            border: 1px solid #badbcc;
+            border-radius: 6px;
+            padding: 14px;
+            margin-bottom: 12px;
+            font-size: 1.05rem;
+            line-height: 1.5;
         }
 
         .premise-box b {
-            color: #6ee7b7;
+            color: #0a3622;
         }
 
         .claim-box {
-            background: rgba(239, 68, 68, 0.1);
-            border: 1px solid rgba(239, 68, 68, 0.3);
-            border-radius: 0.5rem;
-            padding: 0.85rem;
-            margin-bottom: 0.75rem;
-            color: #fca5a5;
+            background-color: #f8d7da;
+            color: #842029;
+            border: 1px solid #f5c2c7;
+            border-radius: 6px;
+            padding: 14px;
+            margin-bottom: 12px;
+            font-size: 1.05rem;
+            line-height: 1.5;
         }
 
         .claim-box b {
-            color: #f87171;
+            color: #58151c;
         }
 
-        .similarity {
-            font-size: 0.8rem;
-            color: #888;
-            margin-bottom: 1rem;
+        .similarity-badge {
+            font-size: 0.85rem;
+            color: #6c757d;
+            margin-bottom: 16px;
         }
 
-        /* Navigation */
-        .nav-row {
-            display: flex;
-            gap: 0.75rem;
-            margin-top: 1rem;
-            margin-bottom: 1rem;
-        }
-
-        .nav-row form {
-            flex: 1;
-        }
-
-        /* Relation form */
-        .relation-form {
-            display: flex;
-            gap: 0.75rem;
-            align-items: flex-end;
-            margin-bottom: 0.75rem;
-        }
-
-        .relation-form .form-group {
-            flex: 1;
-        }
-
-        .relation-form .form-group label {
-            display: block;
-            font-size: 0.8rem;
-            color: #888;
-            margin-bottom: 0.3rem;
-        }
-
-        /* Pair position info */
         .pair-info {
             text-align: center;
-            color: #888;
-            font-size: 0.85rem;
-            margin-bottom: 1rem;
-        }
-
-        /* Loading overlay */
-        .loading {
-            text-align: center;
-            padding: 3rem;
-            color: #888;
+            color: #6c757d;
+            font-size: 0.9rem;
+            font-weight: 500;
+            margin-bottom: 12px;
         }
     </style>
 </head>
 
 <body>
-    <div class="container">
-        <h1>🔗 Argument Relation Annotation Tool</h1>
+    <div class="container py-4">
+        <h1 class="mb-4">🔗 Argument Relation Annotation Tool</h1>
 
         <!-- Flash messages -->
         {% with messages = get_flashed_messages(with_categories=true) %}
         {% if messages %}
         {% for category, message in messages %}
-        <div class="flash {{ category }}">{{ message }}</div>
+        <div class="alert alert-{{ 'success' if category == 'success' else 'danger' if category == 'error' else 'warning' if category == 'warning' else 'info' }} alert-dismissible fade show"
+            role="alert">
+            {{ message }}
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
         {% endfor %}
         {% endif %}
         {% endwith %}
 
         {% if not session.get('rel_doc_data') %}
         <!-- Document Selection -->
-        <div class="card">
-            <h2>Select a Document</h2>
+        <div class="panel">
+            <h4 class="mb-3 text-primary">Select a Document</h4>
             {% if files|length == 0 %}
-            <div class="flash error">No annotation JSON files found in the Argument_Component directory.</div>
+            <div class="alert alert-danger">No annotation JSON files found in the Argument_Component directory.</div>
             {% else %}
-            <form method="POST" action="{{ url_for('load_document') }}" style="margin-top: 1rem;">
-                <div style="display: flex; gap: 0.75rem; align-items: flex-end;">
-                    <div style="flex: 1;">
-                        <label for="selected_file"
-                            style="display: block; font-size: 0.8rem; color: #888; margin-bottom: 0.3rem;">Document</label>
-                        <select name="selected_file" id="selected_file" style="width: 100%;">
+            <form method="POST" action="{{ url_for('load_document') }}">
+                <div class="row align-items-end">
+                    <div class="col-md-9">
+                        <label for="selected_file" class="form-label">Document</label>
+                        <select name="selected_file" id="selected_file" class="form-select">
                             {% for f in files %}
                             <option value="{{ f }}">{{ f }}</option>
                             {% endfor %}
                         </select>
                     </div>
-                    <button type="submit" class="btn btn-primary">Load Document</button>
+                    <div class="col-md-3">
+                        <button type="submit" class="btn btn-primary w-100">Load Document</button>
+                    </div>
                 </div>
             </form>
             {% endif %}
         </div>
-        <div class="flash info">Load a document to begin relation annotation.</div>
+        <div class="alert alert-info">Load a document to begin relation annotation.</div>
 
         {% else %}
         <!-- Document loaded — Annotation Interface -->
-        <div class="card">
-            <h2>Document: {{ session.get('rel_loaded_doc', '') }}</h2>
+        <div class="panel">
+            <h4 class="mb-4 text-primary">Document: {{ session.get('rel_loaded_doc', '') }}</h4>
 
-            <div class="metrics-row">
-                <div class="metric-card">
-                    <div class="metric-value">{{ total_sentences }}</div>
-                    <div class="metric-label">Total Sentences</div>
+            <div class="row text-center mb-4">
+                <div class="col-md-4">
+                    <h2 class="mb-0">{{ total_sentences }}</h2>
+                    <span class="text-muted small text-uppercase fw-bold">Total Sentences</span>
                 </div>
-                <div class="metric-card">
-                    <div class="metric-value">{{ arg_sentences }}</div>
-                    <div class="metric-label">Argument Sentences</div>
+                <div class="col-md-4">
+                    <h2 class="mb-0 text-success">{{ arg_sentences }}</h2>
+                    <span class="text-muted small text-uppercase fw-bold">Argument Sentences</span>
                 </div>
-                <div class="metric-card">
-                    <div class="metric-value">{{ total_pairs }}</div>
-                    <div class="metric-label">Candidate Pairs</div>
+                <div class="col-md-4">
+                    <h2 class="mb-0 text-info">{{ total_pairs }}</h2>
+                    <span class="text-muted small text-uppercase fw-bold">Candidate Pairs</span>
                 </div>
             </div>
 
-            <div class="progress-bar-container">
-                <div class="progress-bar-fill" style="width: {{ progress_pct }}%;"></div>
-                <div class="progress-bar-text">{{ annotated_count }} / {{ total_pairs }} annotated</div>
+            <div class="progress mb-4" style="height: 25px; border-radius: 12px;">
+                <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar"
+                    style="width: {{ progress_pct }}%;">
+                    {{ annotated_count }} / {{ total_pairs }} annotated
+                </div>
             </div>
-        </div>
 
-        <!-- Filter -->
-        <div class="filter-group">
-            <a href="{{ url_for('index', filter='Show All') }}"
-                class="{% if filter_mode == 'Show All' %}active{% endif %}">Show All</a>
-            <a href="{{ url_for('index', filter='Show Annotated') }}"
-                class="{% if filter_mode == 'Show Annotated' %}active{% endif %}">Show Annotated</a>
-            <a href="{{ url_for('index', filter='Show Unannotated') }}"
-                class="{% if filter_mode == 'Show Unannotated' %}active{% endif %}">Show Unannotated</a>
+            <div class="d-flex justify-content-between align-items-center flex-wrap gap-2">
+                <!-- Filter buttons -->
+                <div class="btn-group" role="group">
+                    <a href="{{ url_for('index', filter='Show All') }}"
+                        class="btn {% if filter_mode == 'Show All' %}btn-secondary{% else %}btn-outline-secondary{% endif %}">Show
+                        All</a>
+                    <a href="{{ url_for('index', filter='Show Annotated') }}"
+                        class="btn {% if filter_mode == 'Show Annotated' %}btn-success{% else %}btn-outline-success{% endif %}">Show
+                        Annotated</a>
+                    <a href="{{ url_for('index', filter='Show Unannotated') }}"
+                        class="btn {% if filter_mode == 'Show Unannotated' %}btn-warning{% else %}btn-outline-warning{% endif %}">Show
+                        Unannotated</a>
+                </div>
+
+                <!-- Save & Reset -->
+                <div class="d-flex gap-2">
+                    <form method="POST" action="{{ url_for('save') }}" class="d-inline">
+                        <button type="submit" class="btn btn-primary px-4 shadow-sm">💾 Save Relations</button>
+                    </form>
+                    <form method="POST" action="{{ url_for('reset') }}" class="d-inline">
+                        <button type="submit" class="btn btn-outline-danger">Reset</button>
+                    </form>
+                </div>
+            </div>
         </div>
 
         {% if visible_count == 0 %}
-        <div class="flash info">No candidate pairs in this filter.</div>
+        <div class="alert alert-info">No candidate pairs match the current filter.</div>
         {% else %}
         <!-- Candidate Pair -->
-        <div class="card">
-            <h2 style="margin-bottom: 1rem;">Candidate Pair</h2>
-
+        <div class="panel">
+            <h4 class="mb-3 text-primary">Candidate Pair</h4>
             <div class="pair-info">Pair {{ cursor + 1 }} of {{ visible_count }}</div>
 
             <div class="premise-box">
@@ -425,52 +181,52 @@
                 {{ pair.target_text }}
             </div>
 
-            <div class="similarity">Cosine similarity: {{ "%.4f"|format(pair.similarity) }}</div>
+            <div class="similarity-badge">
+                <span class="badge bg-light text-dark border">Cosine similarity: {{ "%.4f"|format(pair.similarity)
+                    }}</span>
+            </div>
 
             <!-- Relation Form -->
             <form method="POST" action="{{ url_for('confirm_relation') }}">
-                <div class="relation-form">
-                    <div class="form-group">
-                        <label for="relation_type">Relation Type</label>
-                        <select name="relation_type" id="relation_type" style="width: 100%;">
+                <div class="row align-items-end mb-3">
+                    <div class="col-md-6">
+                        <label for="relation_type" class="form-label">Relation Type</label>
+                        <select name="relation_type" id="relation_type" class="form-select fw-bold">
                             {% for opt in relation_options %}
                             <option value="{{ opt }}" {% if opt==current_saved %}selected{% endif %}>{{ opt }}</option>
                             {% endfor %}
                         </select>
                     </div>
-                    <button type="submit" class="btn btn-primary" style="margin-bottom: 2px;">Confirm Relation</button>
+                    <div class="col-md-3">
+                        <button type="submit" class="btn btn-primary w-100">✅ Confirm Relation</button>
+                    </div>
                 </div>
             </form>
 
             <!-- Navigation -->
-            <div class="nav-row">
-                <form method="POST" action="{{ url_for('navigate') }}">
-                    <input type="hidden" name="direction" value="prev">
-                    <button type="submit" class="btn btn-secondary btn-block" {% if cursor <=0 %}disabled{% endif %}>←
-                        Previous Pair</button>
-                </form>
-                <form method="POST" action="{{ url_for('navigate') }}">
-                    <input type="hidden" name="direction" value="next">
-                    <button type="submit" class="btn btn-secondary btn-block" {% if cursor>= visible_count - 1
-                        %}disabled{% endif %}>Next Pair →</button>
-                </form>
+            <div class="row">
+                <div class="col-6">
+                    <form method="POST" action="{{ url_for('navigate') }}">
+                        <input type="hidden" name="direction" value="prev">
+                        <button type="submit" class="btn btn-outline-secondary w-100" {% if cursor <=0 %}disabled{%
+                            endif %}>← Previous Pair</button>
+                    </form>
+                </div>
+                <div class="col-6">
+                    <form method="POST" action="{{ url_for('navigate') }}">
+                        <input type="hidden" name="direction" value="next">
+                        <button type="submit" class="btn btn-outline-secondary w-100" {% if cursor>= visible_count - 1
+                            %}disabled{% endif %}>Next Pair →</button>
+                    </form>
+                </div>
             </div>
         </div>
         {% endif %}
 
-        <!-- Save Relations -->
-        <form method="POST" action="{{ url_for('save') }}">
-            <button type="submit" class="btn btn-success btn-block" style="padding: 0.85rem;">💾 Save Relations</button>
-        </form>
-
-        <br>
-        <!-- Reset / load another document -->
-        <form method="POST" action="{{ url_for('reset') }}">
-            <button type="submit" class="btn btn-secondary btn-block" style="font-size: 0.8rem;">Reset &amp; Load
-                Another Document</button>
-        </form>
         {% endif %}
     </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

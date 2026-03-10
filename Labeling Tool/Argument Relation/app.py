@@ -57,7 +57,7 @@ def load_annotation_files() -> List[Path]:
     return sorted(ARG_COMPONENT_DIR.glob("*.json"), key=lambda p: p.name.lower())
 
 
-def load_document(json_path_str: str, mtime_ns: int) -> Dict:
+def _load_document_json(json_path_str: str, mtime_ns: int) -> Dict:
     cache_key = f"{json_path_str}:{mtime_ns}"
     if cache_key in _document_cache:
         return _document_cache[cache_key]
@@ -297,7 +297,7 @@ def load_document():
         return redirect(url_for("index"))
 
     path = options[selected_name]
-    doc = load_document(str(path), path.stat().st_mtime_ns)
+    doc = _load_document_json(str(path), path.stat().st_mtime_ns)
     candidates = generate_candidate_pairs(doc.get("sentences", []))
 
     _app_state["rel_loaded_doc"] = selected_name
