@@ -1,0 +1,536 @@
+{
+  "document_id": "Epilepsy_Surgery_-_Medical_Clinical_Policy_Bulletins___Aetna",
+  "source": "Aetna Clinical Policy Bulletin",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Epilepsy Surgery Number: 0394 Applicable CPT / HCPCS / ICD-10 Codes Scope of Policy This Clinical Policy Bulletin addresses epilepsy surgery.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 2,
+      "text": "I. Medical Necessity Aetna considers the following interventions medically necessary when all of the following selection criteria are met: A. Epilepsy Surgery Cerebral hemispherectomy, corpus callosotomy, and temporal lobectomy (including selective amygdalohippocampectomy) when all of the following selection criteria are met: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "Non-epileptic attacks such as cardiogenic syncope and psychogenic seizures have been ruled out; and 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "The diagnosis of epilepsy has been documented, and the epileptic seizure type and syndrome has been clearly defined.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "In general, appropriate candidates for epilepsy surgery are members who are incapacitated by their frequent seizures as well as the toxicity of anti-epileptic drugs.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "The general characteristics of individuals for each type of surgical procedure for epilepsy are as follows: a. Cerebral hemispherectomy Members with unilateral multi-focal epilepsy associated with infantile hemiplegia (especially in hemimegalencephaly and Sturge-Weber disease); b. Corpus callosotomy Members with focal to bilateral seizures (formerly known as secondarily generalized seizures); c. Temporal lobectomy Members with focal impaired awareness seizures (formerly known as complex partial seizures) of temporal or extra-temporal origin; and 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Members' quality of life may significantly improve with surgery; and 4.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Seizures occur at a frequency that interferes with members' daily living and threatens their well being; and 5.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "The member has tried and failed 2 or more antiepileptic drugs for a minimum of 3 months each absent a contraindication to such a trial.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Such a trial must include documentation of compliance.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "Aetna considers cerebral hemispherectomy, corpus callosotomy, and temporal lobectomy (including selective amygdalohippocampectomy) experimental, investigational, or unproven when selection criteria are not met.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "B. Deep Brain Stimulation Deep brain stimulation for members with intractable seizures when medical necessity criteria are met in CPB 0208 - Deep Brain Stimulation; C. Responsive Cortical Stimulation Responsive cortical stimulation/responsive neurostimulation (e.g., the NeuroPace RNS System) for adults with intractable focal aware seizures (formerly partial seizures (motor or sensory)) or focal impaired awareness seizures (formerly complex partial seizures) (with motor manifestations)) with or without focal to bilateral seizures (formerly known as secondarily generalized seizures) when the following criteria are met: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "Non-epileptic attacks such as cardiogenic syncope and psychogenic seizures have been ruled out; and 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "The diagnosis of epilepsy has been documented, and the epileptic seizure type and syndrome has been clearly defined.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "In general, appropriate candidates for responsive cortical stimulation are members who are incapacitated by their frequent seizures as well as the toxicity of anti-epileptic drugs; and 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 16,
+      "text": "The member has been diagnosed with no more than two epileptogenic regions; and 4.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 17,
+      "text": "Indications for responsive cortical stimulation - member has one of the following indications for responsive cortical stimulation: a. Independent onset of left and right temporal lobe onset seizures in persons who are not candidates for resection due to the loss of memory and language that bilateral temporal resection is known to cause; or b. Left temporal lobe onset seizures where there is concern of language or memory impairment with a resection based upon WADA testing and the rest of the diagnostic work up; or c. More than one zone of ictal onset, either temporal lobe, neocortical, or both, clearly localized by intracranial recordings, MEG, or other suitable presurgical evaluation making surgical resection unlikely to be successful; or d. A well-defined neocortical focus for seizures, with or without anatomic abnormality on neuroimaging, either with or without overlap of eloquent cortex; and 5.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 18,
+      "text": "Member has seizures that are severe enough to cause injuries or significantly impair functional ability in domains including employment, psychosocial, education and mobility; and 6.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "Members' quality of life may significantly improve with responsive cortical stimulation; and 7.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 20,
+      "text": "There must have been an adequate period of therapy of two or more antiepileptic drugs, namely, the correct drugs used in the correct dosage, carefully monitored for treatment effects and members' compliance; and 8.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 21,
+      "text": "Member does not have an electronic medical device that delivers electrical energy to the head; and 9.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 22,
+      "text": "Member's seizure onset zones are not located below the level of the subthalamic nucleus (lead placement would present too high a risk).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "Aetna considers responsive cortical stimulation experimental, investigational, or unproven for primary generalized seizures and for all other indications.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 24,
+      "text": "D. Stereotactic Radiosurgery Stereotactic radiosurgery for the treatment of small-volume hypothalamic hamartomas with 3 intractable epilepsy in children with seizures aged over 1 year, hamartoma less than 3 cm and 2 area of fusion with hypothalamus less than 150 mm .",
+      "label": "CLAIM"
+    },
+    {
+      "id": 25,
+      "text": "Aetna considers the use of stereotactic radiosurgery including radiofrequency amygdalohippocampectomy for medial temporal lobe epilepsy and epilepsy arising in other functional cortical regions experimental, investigational, or unproven because its effectiveness for these indications has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 26,
+      "text": "E. Magnetic Resonance-guided Laser Interstitial Thermal Therapy Magnetic resonance-guided laser interstitial thermal therapy (MRgLITT) (e.g. the NeuroBlate and the Visualase Thermal Therapy System) as an alternative to standard surgery where criteria in section A. on epilepsy surgery are met.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 28,
+      "text": "Experimental, Investigational, or Unproven Aetna considers the following interventions experimental, investigational, or unproven because the effectiveness of these approaches has not been established: Artificial intelligence-assisted technologies (convolutional neural network algorithm, deep learning) for localization of epileptogenic zone; Chronic pulvinar stimulation for the treatment of drug-resistant epilepsy; Epicranial neurostimulator system for the treatment of epilepsy; Examination of genetic variations in members with refractory epilepsy to guide the selection of surgical candidates; Hippocampal electrical stimulation for the treatment of mesial temporal lobe epilepsy; Intraoperative magnetic resonance imaging in pediatric epilepsy surgery for the treatment of focal cortical dysplasia; Localized neocortical resections for uncontrolled focal impaired awareness seizures (formerly complex partial seizures); Radiofrequency-thermocoagulation for the treatment of pediatric epilepsy; Responsive neurostimulation of the centromedian nucleus of the thalamus for the treatment of pediatric drug-resistant generalized epilepsy; Robotic stereotactic assistance (ROSA) device for the evaluation of the electrode implantation accuracy in epilepsy surgery; Stem cell therapy as well as gene therapy for the treatment of refractory epilepsy; Subpial transection surgery for refractory epilepsy; The use of high-frequency oscillations in epilepsy surgery planning; Translocator protein 18 kDa (TSPO) PET imaging in the pre-surgical evaluation of patients with drug-resistant focal epilepsy; Trigeminal nerve stimulation for members with intractable seizures. III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 30,
+      "text": "The goal of epilepsy surgery is not only to decrease the frequency of seizures, but also to improve quality of life.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 31,
+      "text": "Temporal lobectomy has been found to be safe and effective for treating patients with complex partial seizures of temporal or extratemporal origin.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 32,
+      "text": "Patients who have a single identifiable focus in a restricted cortical area that can be safely excised without producing additional disability can be considered as candidates for temporal lobectomy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 33,
+      "text": "Corpus callosotomy has been found to be safe and effective for treating patients with partial and secondarily generalized seizures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 34,
+      "text": "There is only limited evidence that cerebral hemispherectomy is effective in managing unilateral multi-focal epilepsy associated with infantile hemiplegia (especially in hemimegalencephaly and Sturge-Weber disease).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 36,
+      "text": "Since the advent of deep brain stimulation (DBS) for the treatment of a variety of movement disorders, studies have been performed to ascertain whether this method can reduce seizure frequency.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 43,
+      "text": "Ten of 12 patients underwent long-term MTL DBS; 2 of 12 patients underwent selective amygdalo-hippocampectomy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 44,
+      "text": "After mean follow-up of 31 months (range of 12 to 52 months), 1 of 10 stimulated patients was seizure-free (more than 1 year), 1 of 10 patients had a greater than 90 % reduction in seizure frequency; 5 of 10 patients had a seizure-frequency reduction of greater than equal to 50 %; 2 of 10 patients had a seizure-frequency reduction of 30 to 49 %; and 1 of 10 patients was a non-responder.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 45,
+      "text": "None of the patients reported side effects.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 46,
+      "text": "In 1 patient, magnetic resonance imaging (MRI) showed asymptomatic intra-cranial hemorrhages along the trajectory of the DBS electrodes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 47,
+      "text": "None of the patients showed changes in clinical neurological testing.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 48,
+      "text": "Patients who underwent selective amygdalo- hippocampectomy are seizure-free (more than 1 year), anti-epileptic drugs are unchanged, and no side effects have occurred.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 49,
+      "text": "The authors concluded that this open pilot study demonstrated the potential efficacy of long- term DBS in MTL structures that should now be further confirmed by multi-center randomized controlled trials (RCTs).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 59,
+      "text": "In a pilot study (n = 5), Velasco and colleagues (2005) examined the safety and effectiveness of cerebellar stimulation (CS) on patients with medically refractory motor seizures, and especially generalized tonic-clonic seizures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 77,
+      "text": "These investigators concluded that the superomedial cerebellar cortex appears to be a safe and effective target for electrical stimulation for decreasing motor seizures over the long-term.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 78,
+      "text": "The effect shows generalized tonic-clonic seizure reduction after 1 to 2 months and continues to decrease over the first 6 months and then maintains this effectiveness over the study period of 2 years and beyond.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 86,
+      "text": "The authors concluded that CS seems to remain a stimulation target worth exploring for defining its potential in the treatment of medically intractable epilepsy, although the data from the double-blind clinical studies that were performed failed to establish a clear benefit in regard to seizure frequency.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 99,
+      "text": "The authors demonstrated important beneficial trends, some long-term benefits, and absence of adverse effects of hippocampal electrical stimulation in MTLE.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 115,
+      "text": "The authors concluded that electrical stimulation of the hippocampus provides a non-lesional method that improves seizure outcome without memory deterioration in patients with hippocampal epileptic foci.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 124,
+      "text": "The authors reviewed current animal and human research in responsive brain stimulation for epilepsy and discussed the NeuroPace RNS System, an investigational implantable responsive neurostimulator system that is being evaluated in a multi-center, randomized, double- blinded trial to assess the safety and efficacy of responsive stimulation for the treatment of medically refractory epilepsy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 133,
+      "text": "The authors concluded that responsive cortical stimulation reduces the frequency of disabling partial seizures, is associated with improvements in quality of life, and is well-tolerated with no mood or cognitive effects.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 136,
+      "text": "Furthermore, responsive cortical stimulation has yet to be approved for use in the U.S. Gamma knife (GK) radiosurgery has been proposed as an alternative to classic microsurgery in MTLE.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 161,
+      "text": "The authors concluded that GK radiosurgery for unilateral MTLE offers seizure remission rates comparable with those reported previously for open surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 177,
+      "text": "The authors concluded that radiosurgery with 25-, 20, or 18-Gy marginal dose levels did not lead to seizure control in this patient series, although subsequent epilepsy surgery could stop seizures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 187,
+      "text": "The authors concluded that results of stereotactic radiofrequency AHE are promising.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 189,
+      "text": "The authors concluded that only well-conducted, blinded, randomized trials, followed by long-term systematic observation will yield a clear picture of the effect of this promising therapy, and will help guide its future use.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 204,
+      "text": "The authors concluded that the findings of this study provided preliminary evidence that eTNS is safe and may be effective in subjects with DRE.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 227,
+      "text": "The authors concluded that although statistically significant reductions in seizures had been observed using several different stimulation techniques, including VNS, DBS, and RNS, these effects are currently only palliative and do not approach the effectiveness comparable with that seen in resection in appropriately selected patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 228,
+      "text": "They stated that more research is needed to determine optimal stimulation targets and techniques as well as to determine which epilepsy patients will benefit most from this technology.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 241,
+      "text": "The authors concluded that there is no evidence to support or refute the use of subpial transection surgery for medically refractory cases of epilepsy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 258,
+      "text": "The authors concluded that no reliable conclusions can be drawn regarding the effectiveness of using HFOs in epilepsy surgery decision making at present.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 259,
+      "text": "The NeuroPace RNS System is a responsive cortical stimulator for the treatment of medically intractable partial epilepsy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 260,
+      "text": "The RNS System includes a cranially implanted programmable neurostimulator that is connected to one or two depth and/or subdural cortical strip leads that are surgically placed in or on the brain at the seizure focus.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 269,
+      "text": "The investigators reported that serious adverse event rate was not different between subjects receiving active and sham stimulation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 271,
+      "text": "There were no adverse effects on neuropsychological function or mood.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 273,
+      "text": "Adults with medically refractory partial onset seizures were treated with a cranially implanted responsive neurostimulator that delivers stimulation to 1 or 2 seizure ® foci via chronically implanted electrodes when specific electrocorticographic patterns are detected (RNS System).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 282,
+      "text": "Patients with RNS Stimulators cannot undergo magnetic resonance imaging (MRI) procedures, nor can they undergo diathermy procedures, electro-convulsive therapy (ECT) or transcranial magnetic stimulation (TMS).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 286,
+      "text": "Maguire et al (2011) stated that “There is consensus that amygdalohippocampectomy is likely to be beneficial for people with drug-resistant temporal lobe epilepsy”.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 287,
+      "text": "Kuang et al (2014) noted that TLE is a recurrent chronic nervous system disease. The conventional treatment is medicine.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 288,
+      "text": "So far, anterior temporal lobectomy (ATL) and selective amygdalohippocampectomy (SAH; removal of the amygdala and hippocampus only) are becoming the 2 main approaches.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 296,
+      "text": "The authors concluded that it is advised that clinically, physicians should choose the appropriate approach according to operation indications to improve the results of post-operative recovery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 304,
+      "text": "The authors concluded that SAH is a safe technique for resection of medial temporal lobe epileptogenic foci leading to drug-resistant MTLE.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 314,
+      "text": "The authors concluded that seizure control by SAH was comparable to ATL.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 328,
+      "text": "The authors concluded that real-time MR-guided stereotactic laser amygdalohippocampotomy is a technically novel, safe, and effective alternative to open surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 342,
+      "text": "The authors concluded that mesial temporal lobe surgery has been widely evaluated and has become the standard treatment for MTLE associated with HS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 352,
+      "text": "Finally, while neuromodulatory devices such as responsive neuro-stimulation, vagal nerve stimulation, and deep brain stimulation have a role in the treatment of certain patients, these remain palliative procedures for those who are not candidates for resection or ablation, as complete seizure freedom rates are low.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 353,
+      "text": "The authors concluded that further development and investigation of both established and novel strategies for the surgical treatment of TLE will be critical moving forward, given the significant burden of this disease.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 366,
+      "text": "The authors concluded that this study provided descriptive results regarding the use of MRgLITT in a mixed population of pediatric, lesional, drug-resistant epilepsy cases.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 377,
+      "text": "There were no differences in total ablated volume of the amygdalohippocampus complex or individual volumes of hippocampus, amygdala, entorhinal cortex, para-hippocampal gyrus, and fusiform gyrus between seizure-free and non-seizure-free patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 379,
+      "text": "The authors concluded that MRI-guided stereotactic LiTT is a safe alternative to ATL in patients with medically intractable MTLE.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 385,
+      "text": "Patients with medically refractory epilepsy undergoing standard pre-surgical evaluation were found to have corresponding lesions fulfilling imaging characteristics of CCM and were prospectively enrolled.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 392,
+      "text": "The authors concluded that minimally invasive MRT-guided SLA of epileptogenic CCM is a potentially safe and effective alternative to open resection; additional experience and longer follow-up are needed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 407,
+      "text": "The authors stated that in cases of well-localized MTLE this procedure may offer similar (albeit slightly lower) rates of seizure freedom versus traditional surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 408,
+      "text": "They concluded that MRgLITT may be an alternative treatment option for high-risk surgical patients and, more importantly, could increase referrals for surgery in patients with medically refractory MTLE, however, data are limited and long-term outcomes have not been evaluated.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 421,
+      "text": "The authors concluded that laser neurosurgery has evolved over recent decades; clinical indications are currently being defined and will continue to emerge as laser technologies become more sophisticated.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 434,
+      "text": "The authors concluded that MRgLITT is a safe and effective therapeutic option for the management of medically intractable epilepsy in the adult and pediatric populations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 435,
+      "text": "Of particular significance is the minimally invasive nature of MRgLITT, which enables the surgical management of patients who are not good candidates for, or are otherwise averse to, open resection.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 436,
+      "text": "Compared to other minimally invasive procedures, MRgLITT is associated with improved outcomes and better side effect profile.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 437,
+      "text": "While open surgical procedures have demonstrated slightly higher rates of seizure freedom, MRgLITT is associated with reduced hospitalization time, decreased post-operative pain, and improved neuropsychological function.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 445,
+      "text": "Neuropsychological deficits appear to be reduced because of the smaller volume of ablated cortex in contrast to large resections.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 446,
+      "text": "The authors concluded that more research must be done to establish optimal targeting of structures for ablation and selection of candidates for surgery, and more patients must be studied to better establish efficacy and adverse effect rates.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 468,
+      "text": "The authors concluded that except for 1 very small RCT, only short-term RCTs on intra-cranial neurostimulation for epilepsy are available.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 469,
+      "text": "Compared to sham stimulation, 1 to 3 months of anterior thalamic DBS ((multi)focal epilepsy), responsive ictal onset zone stimulation ((multi)focal epilepsy) and hippocampal DBS (temporal lobe epilepsy) moderately reduced seizure frequency in refractory epilepsy patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 470,
+      "text": "Anterior thalamic DBS was associated with higher rates of self-reported depression and subjective memory impairment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 490,
+      "text": "The authors concluded that no reliable conclusions can be drawn regarding the efficacy of using HFOs in epilepsy surgery decision-making at present.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 491,
+      "text": "Feyissa and associates (2018) examined the relationship between HFOs and the presence of pre-operative seizures, WHO tumor grade, and isocitrate dehydrogenase 1 (IDH1) mutational status in gliomas.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 498,
+      "text": "The authors concluded that HFOs were common in brain tumor-related epilepsy, and HFO rate may be a useful measure of epileptogenicity in gliomas.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 504,
+      "text": "Oscillations in the gamma frequency range, as seen in the majority of this cohort, have been implicated in generating ictal-like discharges in an in-vitro model of epilepsy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 508,
+      "text": "Although these investigators observed that in their cohort HFO-generating tissue was completely resected (on the basis of post-operative MRI findings along with intra-operative photos of grid and/or strip placement), they did not examine the completeness of resection of HFO-generating tissue because of the lack of post-resection ECoG in the majority.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 509,
+      "text": "However, the favorable seizure freedom outcome of the cohort (9 of 12 become seizure-free), albeit with a short follow-up period, could reflect the extent of surgery, with a majority (9 of 12) undergoing gross-total resection.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 510,
+      "text": "Indeed, peri-tumoral tissue could be associated with subtle pathologies such as mild forms of cortical dysplasia that could be highly epileptogenic and may result in seizure recurrence if left unresected.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 513,
+      "text": "Taken together, given that HFOs were seen only in those presenting with seizures, the lack of surgical tailoring using HFOs as a surrogate, and the non-controlled surgical outcome data, these findings should be interpreted cautiously; and prospective studies addressing these issues are needed to reproduce these findings and to further highlight the clinical utility of HFOs in BTRE.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 523,
+      "text": "The authors concluded that although the evidence is still scarce, the findings of this systematic review suggested that studying genetic variations in patients with refractory epilepsy could help guide the selection of surgical candidates.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 530,
+      "text": "These investigators found that 18.4 % (47 of 256) experienced greater than or equal to 1 year of seizure freedom, with 62 % (29 of 47) seizure-free at the last follow-up and an average seizure-free period of 3.2 years (range of 1.04 to 9.6 years).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 533,
+      "text": "The authors concluded that adjunctive brain-responsive neurostimulation provided significant and sustained reductions in the frequency of FOS with improved QOL.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 548,
+      "text": "The authors concluded that in this real-world experience, safety was similar and clinical seizure outcomes exceeded those of the prospective clinical trials, corroborating effectiveness of this therapy and suggesting that clinical experience has informed more effective programming.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 580,
+      "text": "The authors concluded that extra-hippocampal or temporal stem white matter targeting during RNS surgery for bitemporal MTLE was feasible and allowed for electrographic seizure detection.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 588,
+      "text": "The authors discussed the clinical use and mechanisms of action of RNS and DBS in the treatment of epilepsy and highlighted recent advances that may both improve outcomes and present new challenges.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 592,
+      "text": "Neurostimulation of the anterior nucleus of the thalamus (ANT) using conventional stimulation settings in animal studies has been associated with reduced mossy fiber sprouting and decreased neurodegeneration with altered gene expression and cytokines.",
+      "label": "PREMISE"
+    }
+  ]
+}

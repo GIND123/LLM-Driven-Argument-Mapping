@@ -1,0 +1,1016 @@
+{
+  "document_id": "Chronic_Fatigue_Syndrome_-_Medical_Clinical_Policy_Bulletins",
+  "source": "Aetna Clinical Policy Bulletin",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Chronic Fatigue Syndrome Number: 0369 Applicable CPT / HCPCS / ICD-10 Codes Scope of Policy This Clinical Policy Bulletin addresses chronic fatigue syndrome.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 2,
+      "text": "I. Medical Necessity A. Aetna considers the following as medically necessary exclusionary tests to be used for the evaluation of members suspected of having chronic fatigue syndrome (CFS) as recommended by the National Institutes of Health.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "The selection of studies depends on the specific characteristics of a given case: 1. Anti-nuclear antibodies (ANA) 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Blood and serum chemistries (blood urea nitrogen, calcium, creatinine, glucose, serum electrolytes) 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Complete blood count (CBC) with differential cell count 4. Erythrocyte sedimentation rate (ESR) 5. HIV serologyFootnotes* 6.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Immunoglobulin levels (in patients with documented recurrent bacterial infections)Footnotes* 7. Liver function tests (chemistries) 8.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Lyme serologyFootnotes* (when endemic) 9.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "MRI of headFootnotes* (to rule out multiple sclerosis) 10.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "PolysomnographyFootnotes* (to rule out sleep disorder) 11. Rheumatoid factor (RF)Footnotes* 12. Serum cortisolFootnotes* 13. TB skin testFootnotes* 14.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Thyroid function tests (thyroid hormone [T3 or T4] uptake or thyroid hormone binding ratio [THBR], thyroid stimulating hormone [TSH]) 15. Urinalysis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "Footnotes* Optional tests to be used when clinically indicated. II.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 13,
+      "text": "The peer-reviewed medical literature does not support their value in the diagnosis or treatment of individuals with CFS: A. Laboratory Tests Adrenocorticotrophic hormone (ACTH) stimulation test Blood and cerebrospinal fluid cytokines assays ELISA/ACT testing Evaluation of alterations in DNA methylation Evaluation of corneal small fiber tortuosity Evaluation of enteric dysbiosis (abnormal microbial ecology) Evaluation metabolomics (blood and urine metabolites analysis) Evaluation of mitochondrial abnormalities Evaluation of premature telomere attrition (accelerated aging) Functional elevation of natural killer (NK) cells Gene expression profiling Inflammatory proteins (e.g., c-reactive protein, interleukin-2, interleukin-4, transforming growth factor-β and tumor necrosis factor) as biomarkers for CFS Magnetic resonance imaging (MRI) scans (except MRI of the head where signs and symptoms suggest multiple sclerosis).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "Measurements of delayed hypersensitivity Measurements of muscle blood flow (e.g., by Doppler ultrasound), muscle metabolism (e.g., by magnetic resonance spectroscopy) and muscle oxygen saturation and blood volume (e.g., by near-infrared spectroscopy) for identifying members with CFS Measurements of plasma brain natriuretic peptide levels for guidance of targeted therapy of CFS Production and response to cytokines Quantification of B and T cell subsets Quantification of NK cells Radionuclide scans (such as single-photon emission computed tomography (SPECT) and positron emission tomography (PET)) RNAse L enzymatic activity assay or RNase L protein quantification Serological tests for Candida albicans Serum 2-5A synthetase activity Serum acylcarnitine levels T cell response to mitogenic stimulation Tilt table testing Unstimulated salivary cortisol activity Urinary free cortisol, carnitine, iodine, and the metabolome Viral serologies including but not limited to: Coxsackie virus serology Enterovirus serology Herpes virus serologies (e.g., cytomegalovirus, Epstein Barr virus, human herpes virus-6) Retrovirus serologies (except HIV) Vitamin A and E assays B. Treatments Acupuncture and moxibustion Anakinra Anti-viral agents (e.g., acyclovir, famciclovir) Body awareness interventions Breathing re-training Clonidine Cosyntropin (Cortrosyn) injection Cranio-cervical fusion Dexamphetamine Distant healing Duloxetine Galantamine Gastro-intestinal flora altering therapy Glucocorticoids Graded exercise therapy Immunoadsorption therapy Intramuscular immunoglobulin injections Intravenous glutathione Intravenous immunoglobulin (IVIG) Intravenous magnesium Melatonin Methylphenidate Mind-body interventions Mineralocorticoids Monoamine oxidase inhibitors (e.g., isocarboxazid, moclobemide, nialamide, phenelzine, rasagiline, selegiline, and tranylcypromine) Nutraceutical interventions Ondansetron Probiotics Repetitive transcranial magnetic stimulation Rintatolimod Rituximab Thyroxine Vitamin injections (e.g., vitamin C, thiamine, B-complex vitamins). III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 16,
+      "text": "A thorough medical history, physical examination, mental status examination, and laboratory tests must be conducted to identify underlying or contributing conditions that require treatment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 17,
+      "text": "Diagnosis or classification cannot be made without such an evaluation.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 18,
+      "text": "Clinically evaluated, unexplained chronic fatigue cases can be classified as CFS if the member meets both of the following criteria: A. Clinically evaluated, unexplained persistent or relapsing chronic fatigue that is of new or definite onset (i.e., not lifelong), is not the result of ongoing exertion, is not substantially alleviated by rest, and results in substantial reduction in previous levels of occupational, educational, social, or personal activities; and B. The concurrent occurrence of 4 or more of the following symptoms: substantial impairment in short-term memory or concentration; sore throat; tender lymph nodes; muscle pain, multi-joint pain without swelling or redness; headaches of a new type, pattern, or severity; non-refreshing sleep; and post-exertional malaise lasting more than 24 hours.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "These symptoms must have persisted or recurred during 6 or more consecutive months of illness and must not have predated the fatigue.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 20,
+      "text": "Conditions That Exclude a Diagnosis of CFS A. Alcohol or other substance abuse, occurring within 2 years of the onset of chronic fatigue and any time afterwards.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 21,
+      "text": "Severe obesity as defined by a body mass index [BMI = weight in kilograms divided by (height in meters)2] equal to or greater than 45.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 22,
+      "text": "Note: BMI values vary considerably among different age groups and populations.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "No “normal” or “average” range of values can be suggested in a fashion that is meaningful.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 24,
+      "text": "The range of 45 or greater was selected because it clearly falls within the range of severe obesity.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 25,
+      "text": "Any active medical condition that may explain the presence of chronic fatigue, such as untreated hypothyroidism, sleep apnea and narcolepsy, and iatrogenic conditions such as side effects of medication.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 26,
+      "text": "B. Any active medical condition that may explain the presence of chronic fatigue, such as untreated hypothyroidism, sleep apnea and narcolepsy, and iatrogenic conditions such as side effects of medication.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 27,
+      "text": "C. Any past or current diagnosis of a major depressive disorder with psychotic or melancholic features; bipolar affective disorders; schizophrenia of any subtype; delusional disorders of any subtype; dementia of any subtype; anorexia nervosa; or bulimia nervosa.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 28,
+      "text": "D. Some diagnosable illnesses may relapse or may not have completely resolved during treatment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 29,
+      "text": "If the persistence of such a condition could explain the presence of chronic fatigue, and if it cannot be clearly established that the original condition has completely resolved with treatment, then such members should not be classified as having CFS.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 30,
+      "text": "Examples of illnesses that can present such a picture include some types of malignancies and chronic cases of hepatitis B or C virus infection.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 31,
+      "text": "Any unexplained abnormality detected on examination or other testing that strongly suggests an exclusionary condition must be resolved before attempting further classification.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 32,
+      "text": "Conditions That Do Not Exclude a Diagnosis of CFS A. Any condition defined primarily by symptoms that cannot be confirmed by diagnostic laboratory tests, including fibromyalgia, anxiety disorders, somatoform disorders, non-psychotic or melancholic depression, neurasthenia, and multiple chemical sensitivity disorder.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 33,
+      "text": "B. Any condition under specific treatment sufficient to alleviate all symptoms related to that condition and for which the adequacy of treatment has been documented.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 34,
+      "text": "Such conditions include hypothyroidism for which the adequacy of replacement hormone has been verified by normal thyroid-stimulating hormone levels, or asthma in which the adequacy of treatment as been determined by pulmonary function and other testing.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 35,
+      "text": "C. Any condition, such as Lyme disease or syphilis that was treated with definitive therapy before development of chronic symptoms.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 36,
+      "text": "D. Any isolated and unexplained physical examination finding, or laboratory or imaging test abnormality that is insufficient to strongly suggest the existence of an exclusionary condition.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 37,
+      "text": "Such conditions include an elevated anti-nuclear antibody titer that is inadequate, without additional laboratory or clinical evidence, to strongly support a diagnosis of a discrete connective tissue disorder.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 38,
+      "text": "Note on the use of laboratory tests in the diagnosis of CFS: According to the CDC, a minimum battery of laboratory screening tests should be performed.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 39,
+      "text": "Routinely performing other screening tests for all individuals has no known value.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 46,
+      "text": "Examples of specific tests that do not confirm or exclude the diagnosis of CFS include serologic tests for Epstein- Barr virus, enteroviruses, retroviruses, human herpes virus 6, and Candida albicans; tests of immunologic function, including cell population and function studies; and imaging studies, including magnetic resonance imaging scans and radionuclide (such as single-photon emission computed tomography and positron emission tomography). IV.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 48,
+      "text": "Diagnosis of CFS can be made only after alternative medical and psychiatric causes of chronic fatiguing illnesses have been excluded.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 49,
+      "text": "No definitive diagnostic tests for this condition have been validated in scientific studies.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 50,
+      "text": "Because CFS is clinically non-specific and lacks an identifiable cause or diagnostic test, it remains a diagnosis of exclusion.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 51,
+      "text": "In the revised definition, a consensus viewpoint from many of the leading CFS researchers and clinicians (including input from patient group representatives), CFS is treated as a subset of chronic fatigue, a broader category defined as unexplained fatigue of greater than or equal to 6-month's duration.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 52,
+      "text": "Chronic fatigue in turn, is treated as a subset of prolonged fatigue, which is defined as fatigue lasting 1 or more months.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 53,
+      "text": "The expectation is that scientists will devise epidemiologic studies of populations with prolonged fatigue and chronic fatigue, and search within those populations for illness patterns consistent with CFS.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 54,
+      "text": "In addition to a thorough history and physical examination, recommended procedures for evaluating patients suspected of having CFS include a mental status examination to identify abnormalities in mood, intellectual function, memory and personality.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 55,
+      "text": "Evidence of psychiatric, neurologic or cognitive disorder requires that an appropriate psychiatric, psychological, or neurological evaluation be done.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 56,
+      "text": "Laboratory tests include a complete blood count with differential cell count, an erythrocyte sedimentation rate, a chemistry profile including liver function tests, thyroid function test (either a thyroid panel or thyroid stimulating hormone), anti-nuclear antibodies, and urinalysis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 57,
+      "text": "Additional tests, if indicated, include rheumatoid factor, immune globulin levels, tuberculin skin test, Lyme disease serology (if patient lives in an endemic area), HIV serology, MRI of the head (if indicated to rule out multiple sclerosis), and polysomnography (if indicated to rule out a sleep disorder).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 58,
+      "text": "The following tests do not confirm or exclude the diagnosis of CFS: serologic tests for Epstein-Barr virus, retroviruses (except HIV), human herpes virus 6, enteroviruses and Candida albicans; and tests of immunologic function, including cell population and function studies.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 59,
+      "text": "Immunologic abnormalities in patients with suspected CFS is an active area of research into the pathogenesis of CFS.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 60,
+      "text": "However, the published literature is inadequate to determine the sensitivity, specificity, and positive and negative predictive values of these tests.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 61,
+      "text": "Most of the research has compared the immunologic function of patients with CFS with healthy normal controls, so that it is impossible to know whether the subtle immunologic abnormalities seen are specific to CFS or could be seen in other patients with a wide variety of illnesses with overlapping symptoms.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 62,
+      "text": "Although it was originally thought that CFS was related to a viral etiology, more recent studies have failed to find any predictable association between CFS and any particular virus.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 64,
+      "text": "Since that time, there have been investigations into the immune function of patients with CFS, such as quantitative studies of natural killer cells, B and T cell subsets, and the production of cytokines, such as interferons and interleukin-2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 65,
+      "text": "Assessments of these immunologic parameters have produced conflicting results, in part related to varying methodologies used, the heterogeneity of patients who are tested at different points in their disease, and the dynamic nature of the immune system that makes assessment of single tests difficult.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 66,
+      "text": "While assessments of levels of IgG subsets have shown a decrease in IgG1 and IgG3, the studies were performed on small numbers of patients with undefined control groups or only healthy controls.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 68,
+      "text": "While immune function may provide a fertile path for research, its use in the clinical diagnosis and management of CFS is still investigational.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 69,
+      "text": "McCully et al (2004) examined if CFS is associated with reduced blood flow and muscle oxidative metabolism.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 70,
+      "text": "Muscle blood flow was measured in the femoral artery with Doppler ultrasound after exercise.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 71,
+      "text": "Muscle metabolism was measured in the medial gastrocnemius muscle with (31)P-magnetic resonance spectroscopy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 72,
+      "text": "Muscle oxygen saturation and blood volume were measured using near-infrared spectroscopy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 73,
+      "text": "The authors concluded that CFS patients showed evidence of reduced hyperemic flow and reduced oxygen delivery but no evidence that this impaired muscle metabolism.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 74,
+      "text": "Thus, CFS patients might have altered control of blood flow, but this is unlikely to influence muscle metabolism.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "In addition, abnormalities in muscle metabolism do not appear to be responsible for the CFS symptoms.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 76,
+      "text": "Ribonuclease L (RNase L) is a protein induced by interferon that may affect certain anti-viral and anti-tumor effects observed when interferon is induced.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 77,
+      "text": "Once activated, RNase L is thought to cleave viral DNA and triggering removal of the infected cell by inducing apoptosis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 78,
+      "text": "It has been posited that, in the immune cells of CFS patients, RNase L is cleaved by proteases; the resultant RNase L fragments have been posited to increase RNase L enzymatic activity and cleave cellular RNA at an accelerated rate, and also bind to and disrupt normal cellular ion flow.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 79,
+      "text": "In this way, the RNase L fragments are thought to account for some of the physiological symptoms of CFS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 80,
+      "text": "Tests have been developed to quantify RNase L protein fragments (RNase L protein assay (RNAP), R.E.D. Laboratories, Reno, NV)) and to measure abnormal RNase L activity (RNase L activity assay (RNAA)).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 81,
+      "text": "Although there is evidence that RNase L fragments are increased in a subset of patients with CFS, it has not been demonstrated that measurement of RNase L fragments or enzymatic activity is useful for either the diagnosis or management of persons with CFS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 82,
+      "text": "Kawai and Rokutan (2007) noted that CFS is a complex disease and has no laboratory biomarkers, which makes diagnosis of CFS difficult.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 87,
+      "text": "Fostel and colleagues (2006) stated that CFS is a complex syndrome that cannot simply be associated with changes in individual laboratory tests or expression levels of individual genes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 91,
+      "text": "if CFS patients with an asynchronous breathing pattern present with diminished lung function in comparison with CFS patients with a synchronous breathing pattern; and III.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 92,
+      "text": "if 1 session of breathing re-training in CFS patients with an asynchronous breathing pattern is able to improve lung function.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 93,
+      "text": "I. the point prevalence of asynchronous breathing in patients with CFS; II.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 94,
+      "text": "if CFS patients with an asynchronous breathing pattern present with diminished lung function in comparison with CFS patients with a synchronous breathing pattern; and III.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 95,
+      "text": "if 1 session of breathing re-training in CFS patients with an asynchronous breathing pattern is able to improve lung function.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 97,
+      "text": "Patients presenting with an asynchronous breathing pattern were given 20 to 30 mins of breathing re-training.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 98,
+      "text": "Patients presenting with a synchronous breathing pattern entered the control group and received no intervention.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 103,
+      "text": "The authors concluded that these findings provided preliminary evidence supportive of an asynchronous breathing pattern in a subgroup of CFS patients, and breathing re-training might be useful for improving tidal volume and respiratory rate in CFS patients presenting with an asynchronous breathing motion.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 104,
+      "text": "In a randomized controlled, partially blinded study, Walach and colleagues (2008) examined the effectiveness of distant healing (a form of spiritual healing) for patients with CFS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 110,
+      "text": "There were no differences over 6 months in post-treatment MHCS scores between the treated and untreated groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 111,
+      "text": "There was a non-significant outcome (p = 0.11) for healing with PHCS (1.11; 95 % confidence interval [CI]: -0.255 to 2.473 at 6 months) and a significant effect (p = 0.027) for blinding; patients who were unblinded became worse during the trial (-1.544; 95 % CI: -2.913 to -0.176).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 112,
+      "text": "These investigators found no relevant interaction for blinding among treated patients in MHCS and PHCS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 114,
+      "text": "The authors concluded that in patients with CFS, distant healing appears to have no statistically significant effect on mental and physical health, but the expectation of improvement did improve outcome.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 115,
+      "text": "VanNess et al (2010) examined the effects of an exercise challenge on CFS symptoms from a patient perspective.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 127,
+      "text": "The authors concluded that these findings suggest that post- exertional malaise is both a real and an incapacitating condition for women with CFS and that their responses to exercise are distinctively different from those of sedentary controls.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 128,
+      "text": "Porter et al (2010) systematically reviewed the current literature related to alternative and complementary treatments for myalgic encephalomyelitis/CFS and fibromyalgia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 131,
+      "text": "Several databases (e.g., PubMed, MEDLINE,((R)) PsychInfo) were systematically searched for randomized and non-randomized controlled trials of alternative treatments and non-pharmacological supplements.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 132,
+      "text": "Included studies were checked for references and several experts were contacted for referred articles.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 141,
+      "text": "Likewise, magnesium, l- carnitine, and S-adenosylmethionine are non-pharmacological supplements with the most potential for further research.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 142,
+      "text": "Individualized treatment plans that involve several pharmacological agents and natural remedies appear promising as well.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 143,
+      "text": "Sanchez-Barcelo et al (2010) noted that the efficacy of melatonin has been assessed as a treatment of aging and depression, blood diseases, CFS, cardiovascular diseases, diabetes, fibromyalgia, gastrointestinal tract diseases, infectious diseases, neurological diseases, ocular diseases, rheumatoid arthritis, as well as sleep disturbances.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 145,
+      "text": "The conclusion of the current review is that the use of melatonin as an adjuvant therapy seems to be well- founded for arterial hypertension, diabetes, glaucoma, irritable bowel syndrome, macular degeneration, protection of the gastric mucosa, side effects of chemotherapy and radiation in cancer patients or hemodialysis in patients with renal insufficiency and, especially, for sleep disorders of circadian etiology (e.g., jet-lag, delayed sleep phase syndrome, sleep deterioration associated with aging) as well as in those related with neurological degenerative diseases (e.g., Alzheimer) or Smith- Magenis syndrome.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 146,
+      "text": "The utility of melatonin in anesthetic procedures has also been confirmed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 157,
+      "text": "The authors concluded that these findings demonstrated no benefit of ondansetron compared to placebo in the treatment of CFS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 158,
+      "text": "Alraek et al (2011) performed a systematic review of randomized controlled trials (RCTs) of complementary and alternative medicines (CAM) treatments in patients with CFS/myalgic encephalomyelitis (ME) was undertaken to summarize the existing evidence from RCTs of CAM treatments in this patient population.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 163,
+      "text": "The CAM therapy from the RCTs included the following: mind-body medicine, distant healing, massage, tuina and tai chi, homeopathy, ginseng, and dietary supplementation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 168,
+      "text": "The authors concluded that the results of this systematic review provided limited evidence for the effectiveness of CAM therapy in relieving symptoms of CFS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 169,
+      "text": "However, the authors were not able to draw firm conclusions concerning CAM therapy for CFS due to the limited number of RCTs for each therapy, the small sample size of each study and the high risk of bias in these trials.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 172,
+      "text": "Patients with CFS must have clinically evaluated, unexplained, persistent, or relapsing fatigue plus four or more specifically defined associated symptoms.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 173,
+      "text": "After a thorough history and physical examination, the patient is asked to keep temperature and weight records and limited laboratory testing is performed including: I. complete blood count with differential count, II. erythrocyte sedimentation rate, III. chemistry screen, IV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 174,
+      "text": "thyroid stimulating hormone level, and V. other tests when clinically indicated.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 175,
+      "text": "I. complete blood count with differential count, II. erythrocyte sedimentation rate, III. chemistry screen, IV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 176,
+      "text": "thyroid stimulating hormone level, and V. other tests when clinically indicated.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 177,
+      "text": "Expensive immunologic tests and serologies are not useful.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 181,
+      "text": "Among the modalities that have been tried are immune serum globulin, rituximab, acyclovir, galantamine, fluoxetine and other antidepressants, methylphenidate and modafinil (stimulants), glucocorticoids, amantadine, doxycycline, magnesium, evening primrose oil, vitamin B12, Ampligen, essential fatty acids, bovine or porcine liver extract, dialyzable leukocyte extract, cimetidine, ranitidine, interferons, exclusion diets, BioBran MGN-3 (a natural killer cell stimulant), and removal of dental fillings”.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 182,
+      "text": "Knight et al (2013) noted that a range of interventions have been used for the management of CFS/ME in children and adolescents.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 193,
+      "text": "The authors concluded that evidence for the effectiveness of interventions for children and adolescents with CFS/ME is still emerging.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 195,
+      "text": "Moreover, they stated that there is some evidence that children and adolescents with CFS/ME benefit from particular interventions; however, there remain gaps in the current evidence base.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 196,
+      "text": "Powell et al (2013) stated that the hypothalamic-pituitary-adrenal (HPA) axis is a psycho-neuroendocrine regulator of the stress response and immune system, and dysfunctions have been associated with outcomes in several physical health conditions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 197,
+      "text": "Its end product, cortisol, is relevant to fatigue due to its role in energy metabolism.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 198,
+      "text": "These investigators examined the relationship between different markers of unstimulated salivary cortisol activity in everyday life in CFS and fatigue assessed in other clinical and general populations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 203,
+      "text": "In the narrative review, total cortisol output (CAR or CP) was rarely associated with fatigue in any population; CAR increase and DCS were most relevant.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 204,
+      "text": "The authors concluded that outcomes reflecting within-day change in cortisol levels (CAR increase; DCS) may be the most relevant to fatigue experience, and future research in this area should report at least one such marker.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 207,
+      "text": "Sulheim et al (2014) explored the pathophysiology of CFS and assessed clonidine hydrochloride pharmacotherapy in adolescents with CFS by using a hypothesis that patients with CFS have enhanced sympathetic activity and that sympatho-inhibition by clonidine would improve symptoms and function.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 219,
+      "text": "The authors concluded that adolescent CFS is associated with enhanced sympathetic nervous activity, low-grade systemic inflammation, attenuated HPA axis function, cognitive impairment, and large activity reduction, but not with common microorganisms.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 220,
+      "text": "Low-dose clonidine attenuated sympathetic outflow and systemic inflammation in CFS but has a concomitant negative effect on physical activity; thus, sympathetic and inflammatory enhancement may be compensatory mechanisms.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 224,
+      "text": "In a 12-week, randomized, double-blind study, Arnold et al (2015) compared duloxetine 60 to 120 mg/day (n = 30) with placebo (n = 30) for safety and effectiveness in the treatment of patients with CFS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 225,
+      "text": "The primary outcome measure was the Multidimensional Fatigue Inventory general fatigue subscale (range of 4 to 20, with higher scores indicating greater fatigue).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 226,
+      "text": "Secondary measures were the remaining Multidimensional Fatigue Inventory subscales, Brief Pain Inventory, Medical Outcomes Study Short Form-36, Hospital Anxiety and Depression Scale, Centers for Disease Control and Prevention Symptom Inventory, Patient Global Impression of Improvement, and Clinical Global Impression of Severity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 227,
+      "text": "The primary analysis of efficacy for continuous variables was a longitudinal analysis of the intent-to-treat sample, with treatment-by- time interaction as the measure of effect.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 229,
+      "text": "The duloxetine group was significantly superior to the placebo group on the Multidimensional Fatigue Inventory mental fatigue score, Brief Pain Inventory average pain severity and interference scores, Short Form-36 bodily pain domain, and Clinical Global Impression of Severity score.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 231,
+      "text": "The authors concluded that the primary efficacy measure of general fatigue did not significantly improve with duloxetine when compared with placebo.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 232,
+      "text": "They stated that significant improvement in secondary measures of mental fatigue, pain, and global measure of severity suggested that duloxetine may be effective for some CFS symptom domains, but larger controlled trials are needed to confirm these results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 236,
+      "text": "These investigators evaluated the effectiveness of body awareness interventions (BAI) in fibromyalgia (FM) and CFS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 242,
+      "text": "The authors concluded that body awareness seems to play an important role in anxiety, depression and HRQoL. Moreover, they stated that interpretations have to be done carefully since the lack of high quality studies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 250,
+      "text": "No other cytokines were present in abnormal concentrations in the majority of studies, although insufficient data were available for some cytokines.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 252,
+      "text": "The authors concluded that the finding of elevated TGF-β concentration, at biologically relevant levels, needs further exploration, but circulating cytokines do not seem to explain the core characteristic of post-exertional fatigue.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 253,
+      "text": "Alterations in DNA Methylation Fischer et al (2023) stated that functional somatic syndromes (FSS) are highly prevalent across all levels of health care.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 262,
+      "text": "In genome-wide studies in fibromyalgia syndrome, differential methylation in sites related to HDAC4 , TMEM44 , KCNQ1 , SLC17A9 , PRKG1 , ALPK3 , TFAP2A , and LY6G5C was found.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 263,
+      "text": "The authors concluded that there is tentative evidence in favor of altered DNA methylation in CFS and in fibromyalgia syndrome.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 264,
+      "text": "In CFS in particular, there is evidence that these alterations are linked to pathways that may bear relevance to key pathophysiological alterations (i.e., hypocortisolism and low-grade inflammation) as well as some of the most debilitating symptoms these individuals experience.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 281,
+      "text": "Two DNA viruses (human herpes virus (HHV)-7 and parvovirus B19, including their co-infection) and 3 RNA viruses (borna disease virus (BDV), enterovirus and coxsackie B virus) showed ORs of greater than 2.0 compared with healthy and/or diseased subjects.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 282,
+      "text": "Specifically, BDV exceeded the cut-off with an OR of 3.47 or higher (indicating a \"moderate association\" by Cohen's d test) compared to both healthy and diseased controls.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 284,
+      "text": "In contrast to previous studies, this research represented the 1st meta-analysis that systematically examined many relevant viruses, and it has identified some potential viruses, including BDV, parvovirus B19, and coxsackie B virus.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 294,
+      "text": "Serum Acylcarnitine Levels Jinushi et al (2023) stated that ME/CFS/SEID is a condition diagnosed primarily based on clinical symptoms, including prolonged fatigue and post-exertional malaise; however, there is no specific test for the disease.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 296,
+      "text": "Previous studies have reported that patients with ME/CFS/SEID have low serum acylcarnitine levels, which may serve as a surrogate test for patients suspected of having this disease.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 312,
+      "text": "Urinary Biomarkers Taccori et al (2023) stated that ME/CFS is a multi-factorial disorder that affects many body systems including the immune, nervous, endocrine, cardiovascular, and urinary systems.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 330,
+      "text": "These biomarkers are also non-specific and are associated with other conditions, as they are a tertiary by-product it is difficult to determine particular disrupted up-stream pathways associated with these urinary-based changes observed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 332,
+      "text": "They stated that further conduction of urine-based studies using alternative methodologies with more stringent recruitment criteria may provide better understanding on the pathophysiology of and diagnostic potential of urinary-based biomarkers in ME/CFS patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 335,
+      "text": "At 16 weeks, there was no benefit from galantamine in the primary end point (improvement in the Clinical Global Impression Scale) or in any secondary end points.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 339,
+      "text": "There were no differences in B cell levels between patients in the rituximab group who achieved a response compared with those who did not achieve a response.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 342,
+      "text": "Rintatolimod is an investigational immune modulator and antiviral drug that has been approved for the treatment of CFS/SEID in Canada and Europe.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 345,
+      "text": "Rekeland and colleagues (2019) noted that previous phase-II clinical trials indicated benefit from B-cell depletion using rituximab in patients with chronic fatigue syndrome/myalgic encephalomyelitis (CFS/ME).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 346,
+      "text": "The association between rituximab serum concentrations and the effect and clinical relevance of anti-drug antibodies (ADAs) against rituximab in CFS/ME is unknown.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 347,
+      "text": "In an open-label, phase-II clinical trial, these researchers retrospectively measured rituximab concentrations and ADAs in serum samples from patients with maintenance rituximab treatment (KTS-2-2010) to examine possible associations with clinical improvement and clinical and biochemical data.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 348,
+      "text": "Patients with CFS/ME meeting the Canadian criteria received rituximab (500 mg/m2) infusions: 2 infusions 2 weeks apart (induction), followed by maintenance treatment at 3, 6, 10, and 15 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 358,
+      "text": "Intervention was treatment induction with 2 infusions of rituximab, 500 mg/m2 of body surface area (BSA), 2 weeks apart, followed by 4 maintenance infusions with a fixed dose of 500 mg at 3, 6, 9, and 12 months (n = 77), or placebo (n = 74).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 359,
+      "text": "Primary outcomes were overall response rate (ORR; fatigue score greater than or equal to 4.5 for greater than or equal to 8 consecutive weeks) and repeated measurements of fatigue score over 24 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 360,
+      "text": "Secondary outcomes included repeated measurements of self-reported function over 24 months, components of the SF-36 Health Survey and Fatigue Severity Scale over 24 months, and changes from baseline to 18 months in these measures and physical activity level.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 363,
+      "text": "The treatment groups did not differ in fatigue score over 24 months (difference in average score, 0.02 [CI: -0.27 to 0.31]; p = 0.80) or any of the secondary end-points; 20 patients (26.0 %) in the rituximab group and 14 (18.9 %) in the placebo group had serious adverse events (AEs).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 375,
+      "text": "Primary outcomes were identified as fatigue, pain, mood, neurocognitive dysfunction and sleep quality, symptom severity, functional status, and well-being or overall health status; 20 pharmaceutical classes were trialed; 10 medications were shown to be slightly to moderately effective in their respective study groups (p < 0.05).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 377,
+      "text": "The unknown etiology of CFS/ME, and complications arising from its heterogeneous nature, contributed to the lack of clear evidence for pharmaceutical interventions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 382,
+      "text": "These researchers hypothesized that CFS is mediated by changes in hypothalamo-pituitary function and so measured the adrenocorticotrophic hormone (ACTH), cortisol, growth hormone (GH), and prolactin responses to insulin-induced hypoglycemia, and the ACTH, cortisol, and prolactin responses to serotoninergic stimulation with dexfenfluramine in non- depressed CFS patients and normal controls.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 387,
+      "text": "Blunted ACTH responses but normal cortisol responses to exogenous corticotropin-releasing hormone (CRH), the main regulator of this axis, have been previously demonstrated in CFS patients, some of whom had a co-morbid psychiatric disorder.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 390,
+      "text": "ACTH and cortisol responses were measured following the administration of 100 ug ovine CRH.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 391,
+      "text": "Basal ACTH and cortisol values did not differ between the 2 groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 392,
+      "text": "The release of ACTH was significantly attenuated in the CFS group (p < 0.005), as was the release of cortisol (p < 0.05).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 393,
+      "text": "The blunted response of ACTH to exogenous CRH stimulation may be due to an abnormality in CRH levels with a resultant alteration in pituitary CRH receptor sensitivity, or it may reflect a dysregulation of vasopressin or other factors involved in HPA regulation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 394,
+      "text": "The authors concluded that a diminished output of neurotrophic ACTH, causing a reduced adrenocortical secretory reserve, inadequately compensated for by adrenoceptor up-regulation, may explain the reduced cortisol production demonstrated in this study.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 396,
+      "text": "De Becker et al (1999) noted that previous studies have demonstrated concentrating neuroendocrinological disturbances in CFS patients, concentrating in particular on low cortisol levels and a hypothalamic deficiency.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 398,
+      "text": "These researchers found normal basal DHEA levels, but a blunted serum DHEA response curve to i.v. ACTH injection.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 400,
+      "text": "The authors concluded that relative glucocorticoid deficiency might contribute to the overall clinical picture in CFS, and could explain some of the immunological disturbances observed in this syndrome.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 402,
+      "text": "Scott et al (2000) stated that abnormalities of the production of DHEA, the adrenal androgen, have been linked with disorders such as obesity and psychological disorders such as major depression; ACTH is the primary stimulant of DHEA, and cortisol, from the adrenal.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 403,
+      "text": "These researchers examined the DHEA and DHEA/cortisol response to the novel low-dose ACTH test in healthy subjects and a cohort with CFS: this test is useful in assessing subtle irregularities of pituitary-adrenal activity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 407,
+      "text": "The authors suggested this divergence of response between the 2 groups represented an imbalance in the relative synthetic pathways of the CFS group which, if present chronically and if comparable to daily stressors, may manifest itself as an inappropriate response to stress.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 409,
+      "text": "Zarkovic et al (2003) stated that CFS is defined as constellation of the prolonged fatigue and several somatic symptoms, in the absence of organic or severe psychiatric disease.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 411,
+      "text": "Similarities between the signs and symptoms of CFS and adrenal insufficiency prompted the research of the hypothalamo-pituitary-adrenal axis (HPA) derangement in the pathogenesis of the CFS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 412,
+      "text": "Early studies showed mild glucocorticoid deficiency, probably of central origin that was compensated by enhanced adrenal sensitivity to ACTH.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 415,
+      "text": "Cortisol response to insulin induced hypoglycemia was same as in the control subjects while ACTH response was reported to be same or enhanced.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 418,
+      "text": "Scott et al found that maximal cortisol increment from baseline is significantly lower in CFS subjects.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 422,
+      "text": "They compared cortisol response in the CFS subjects with the response in control and in subjects with suppressed HPA axis due to prolonged corticosteroid use.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 438,
+      "text": "Maximal cortisol response to the ACTH stimulation and area under the cortisol response curve was significantly larger in C group compared to AI group, but there was no difference between CFS and other two groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 449,
+      "text": "However, there was no difference between CFS and AI group in any of the parameters, although AI group had significantly lower cortisol concentrations at 15 and 30 minutes, maximal cortisol response, area under the cortisol curve, maximal cortisol increment, and maximal cortisol change velocity than C group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 453,
+      "text": "Cleare et al (2011) found that ACTH responses to hCRH and the hypothalamic challenges IST and d- fenfluramine did not differ between CFS subjects and healthy controls.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 455,
+      "text": "The finding of reduced UFC output, and the finding of reduced adrenal responses to these challenges when pituitary responses were controlled for, together with other findings of reduced adrenal gland output in other studies suggested an alternative hypothesis of adrenal gland dysfunction in CFS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 458,
+      "text": "Repetitive Transcranial Magnetic Stimulation In a case-series study, Kakuda and colleagues (2016) applied facilitatory high-frequency repetitive transcranial magnetic stimulation (rTMS) to the dorsolateral prefrontal cortex (DLPFC) of 7 CFS patients over 3 days; 5 patients completed the 3-day protocol without any adverse events (AEs).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 460,
+      "text": "In most of the patients, treatment resulted in an improvement of fatigue symptoms.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 462,
+      "text": "They stated that further large-scale studies are needed to confirm the therapeutic benefits of high-frequency rTMS, determine the optimal cortical target area and find the optimal duration and intensity of treatment for CFS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 464,
+      "text": "Comparative studies, such as randomized controlled design studies that include a large number of patients, are needed to confirm the efficacy of rTMS in CFS patients, II.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 466,
+      "text": "The identification of the clinical factors that correlate with the effectiveness of rTMS can help in the selection of patients who will best benefit from the treatment, III.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 472,
+      "text": "although all patients met the inclusion criteria for rTMS application, they were a heterogeneous group based on the wide variability of age, duration of illness and severity of the fatigue symptoms.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 474,
+      "text": "although it is difficult to stimulate deep brain lesions using the currently available technology, the stimulation of other brain areas with functional or structural abnormalities in CFS, such as the cingulate cortex and brainstem, may produce a better clinical improvement, and IV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 477,
+      "text": "Circulating Cytokine Profiling Moneghetti and colleagues (2018) stated that CFS/ME is a heterogeneous syndrome in which patients often experience severe fatigue and malaise following exertion.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 505,
+      "text": "The authors concluded that despite the availability of moderate quality studies, the findings of this review were inconclusive as to whether cytokines play any definitive role in CFS/ME/SEID, and consequently, they would not serve as reliable biomarkers.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 519,
+      "text": "The authors concluded that this study found a significant association of CFS/ME with premature telomere attrition that was largely moderated by female subjects of less than 45 years of age.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 532,
+      "text": "The authors concluded that peripheral IL-1 inhibition using anakinra for 4 weeks did not result in a clinically significant reduction in fatigue severity in women with CFS and severe fatigue.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 533,
+      "text": "Probiotics for Chronic Fatigue Syndrome Corbitt and colleagues (2018) stated that gastro-intestinal (GI) symptoms and irritable bowel (IB) symptoms have been associated with CFS/ ME.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 542,
+      "text": "The level of evidence identified for the use of probiotics in IBS was excellent in quality; however, the evidence available for the use of probiotic interventions in CFS/ME was poor and limited.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 545,
+      "text": "Roman and associates (2018) noted that evidence suggested that the gut microbiota might play an important role in fibromyalgia syndrome (FMS) and CFS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 553,
+      "text": "The studied strains of probiotics have demonstrated a significant effect on modulating the anxiety and inflammatory processes in CFS patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 560,
+      "text": "The authors concluded that the findings of this study confirmed an association between reduced cardiac volumes and BNP in CFS; lack of relationship between length of disease suggested that findings were not secondary to deconditioning.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 564,
+      "text": "These researchers examined the evidence for the presence of abnormal microbial ecology in CFS/ME in comparison to healthy controls, with one exception being probiotic-supplemented CFS/ME patients, and whether the composition of the microbiome plays a role in symptom causation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 578,
+      "text": "Plasma was analyzed by ELISA for levels of the cytokines tumor necrosis factor-alpha (TNF-α), IL-4, IL-6 and IL-10.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 595,
+      "text": "These investigators argued that the vast majority of CFS/ME neuroimaging has failed to use optimal techniques for studying brain-stem, despite its probable centrality to any neuro-inflammatory causes or autonomic effects; MRS was discussed as a less informative but more widely available, less invasive, and less expensive option for imaging neuro- inflammation, and existing studies using MRS neuroimaging were reviewed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 597,
+      "text": "The authors argued that both the biological mechanisms of cytokines and the innumerable sources of potential variance in their measurement made it unlikely that a consistent and replicable diagnostic cytokine profile will ever be discovered.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 605,
+      "text": "Intravenous Magnesium for the Treatment of Chronic Fatigue Syndrome In a pilot study, Baars and colleagues (2008) examined the effect of the anthroposophic drug hepar magnesium D10 intravenously administered on seasonal fatigue symptoms.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 608,
+      "text": "Outcome measures included mean division of 24 hours in categories: sleep, rest, everyday activities, and activities that required a large effort; fatigue-related single questions: unusual emotional response to events, problems with short-term memory, the degree to which fatigue after effort continues for longer than 2 hours, the degree to which people at the end of the day had a complete lack of energy; and the degree to which people were still fit after the evening meal; Multi-dimensional Fatigue Index: general fatigue, physical fatigue, reduced activity, reduced motivation, and mental fatigue; subjective experiences with regard to the effect of the treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 609,
+      "text": "No changes in division in 24-hour categories were found; pre-treatment versus post-treatment analyses (after 1 and 2.5 weeks, at the end of treatment, and 1.5 weeks after the end of treatment) demonstrated overall large statistically significant differences; 18 of 22 patients (82 %) who completed the final questionnaire judged that treatment overall had been effective for their fatigue symptoms; 9 patients (41 %) judged a strong improvement and 9 patients (41 %) a light improvement as a result of the treatment; 4 patients reported no change.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 611,
+      "text": "The authors concluded that there were clear indications that hepar magnesium D10 administered intravenously could have a positive effect on sub-syndromal seasonal affective disorder symptoms of fatigue.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 624,
+      "text": "The authors concluded that a consistent finding among all studies included in this review was impaired NK cell cytotoxicity, suggesting that it is a reliable and appropriate cellular model for continued research in ME/CFS patients.",
+      "label": "PREMISE"
+    }
+  ]
+}
