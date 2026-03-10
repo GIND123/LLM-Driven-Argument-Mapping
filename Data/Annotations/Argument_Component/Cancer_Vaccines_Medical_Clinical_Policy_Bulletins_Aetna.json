@@ -1,0 +1,996 @@
+{
+  "document_id": "Cancer_Vaccines_-_Medical_Clinical_Policy_Bulletins___Aetna.",
+  "source": "Aetna Clinical Policy Bulletin",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Cancer Vaccines Number: 0557 Applicable CPT / HCPCS / ICD-10 Codes Scope of Policy This Clinical Policy Bulletin addresses cancer vaccines.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 2,
+      "text": "I. Experimental, Investigational, or Unproven Aetna considers the following cancer vaccines experimental, investigational, or unproven because the safety and effectiveness of these approaches has not been established: A. Helper multi-peptide (6MHP) vaccine for metastatic melanoma B. HLA-A24-binding peptide vaccines for gastric cancer C. Melanoma vaccine (also known as Theraccine vaccine or Oncophage vaccine) for any indication D. p16(INK4a)-based peptide vaccine for human papillomavirus-associated cancers (e.g., anal, cervical, oropharyngeal, penile, rectal, vaginal, and vulvar cancers) E. p62 DNA vaccine (Elenagen) for solid tumors (e.g., breast, kidney, lung, and ovary cancers as well as melanoma) F. Use of whole cancer stem cell-based vaccines as an adjuvant strategy for the surgical management of solid tumors G. Vaccine therapy including tumor-associated antigenic peptide-based vaccines in the treatment of the following cancers (not an all-inclusive list) because the clinical evidence is not sufficient to permit conclusions on the health outcome effects of vaccine therapy in the treatment of these cancers: Acute myeloid leukemia Breast cancer Central nervous system cancers (e.g., glioblastoma and neuroblastoma) Colorectal cancer Gallbladder cancer Gastric cancer Glioma Head and neck cancer Hepatic cancer Lung cancer Oral squamous cell carcinoma Ovarian cancer Pancreatic cancer.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description There is no specific CPT code for melanoma vaccine (e.g., Theraccine vaccine or Oncophage vaccine, cancer vaccine therapy, helper multi-peptide (6MHP) vaccine, or vaccine therapy including tumor-associated antigenic peptide-based vaccines): CPT codes not covered for indications listed in the CPB: HLA-A-24-binding peptide vaccines, p16(INK4a)-based peptide vaccine, p62 DNA vaccine (Elenagen), Stem cell-based vaccines - no specific code: ICD-10 codes not covered for indications listed in the CPB: Melanoma of ovary or kidney - no specific code : C00.0 – C96.9 Malignant neoplasms D00.00 - D09.9 Carcinoma in situ Z23 Encounter for immunization Melanoma Vaccine Melanoma vaccine is prepared from melanoma cell lines that are cultured in-vitro.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "The vaccine product is designed to contain 1 or more antigens that are unique to melanoma cells; some preparations also contain \"adjuvants\" (such as bacillus Calmette-Guerin [BCG]) thought to enhance immunogenicity of the preparation.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Currently, no melanoma vaccine products are licensed for marketing in the United States.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Until a commercial preparation is available, there is significant potential for variability between products and batches.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Effects that are seen in patients to whom these products are administered may be due to the components thought to be active, or to other components which are contaminants, adjuvants or excipients.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "In those studies lacking a concurrent control group, it is impossible to distinguish which components are active.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "Ribi Immunochem Research has developed a standardized melanoma vaccine called Melacine.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "As a biological, this product would be evaluated and licensed by the Center for Biological Evaluation and Research of the Food and Drug Administration (FDA).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "At this time, no application for licensure has been filed for this product.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "Several published studies have suggested that melanoma vaccine may be effective in the treatment of malignant melanoma and/or prevention of metastasis of melanoma; however, these studies are not adequate to establish the safety and/or efficacy of this therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 13,
+      "text": "In addition, there have been a number of reports of phase I and phase II studies that have demonstrated increases in tumor-specific cytotoxic T lymphocytes and other immune responses in patients vaccinated with various melanoma vaccines.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 14,
+      "text": "A number of these studies have incorporated interleukin-2 and other adjuvants to improve immune response to melanoma vaccine.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 15,
+      "text": "The second interim report from a phase III, multi-center randomized controlled clinical trial of a melanoma vaccine, however, showed no significant overall survival benefit in vaccinated melanoma patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 16,
+      "text": "A retrospective analysis of clinical trial results identified subsets of patients that appeared to have improved survival with the vaccine; this retrospective analysis suggests that a vaccine may be effective in selected subgroups of melanoma patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 17,
+      "text": "Randomized controlled clinical trials, where subgroups of patients are identified prospectively, are necessary to confirm the efficacy of melanoma vaccine in selected patient subgroups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 18,
+      "text": "Kuhn and Hanke (1997) concluded in a recent review of the current status of melanoma vaccines that \"[t]he clinical effectiveness of melanoma vaccines is unclear and adequately controlled studies need yet to be performed\".",
+      "label": "PREMISE"
+    },
+    {
+      "id": 19,
+      "text": "A former President of the American Cancer Society stated that \"[t]he success of melanoma vaccines has been inhibited by the large number of potential antigen targets on the melanoma cell, which may vary from tumor to tumor.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 22,
+      "text": "The FDA orphan drug designation was designed to encourage the development of therapies for conditions affecting fewer than 200,000 people in the United States.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 24,
+      "text": "The Oncophage vaccine is prepared by removing a tumor from the patient and isolate specific antigens of the particular cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 26,
+      "text": "According to Antigenics, Inc., studies have shown that the protein complex, when purified from tumor cells and reintroduced to the patient, appears to stimulate cellular immunity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 27,
+      "text": "The immune response appears to be directed specifically to cancer cells, leaving the patient's healthy tissue intact.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 28,
+      "text": "In May 2002, Antigenics reported that it had begun enrolling patients in the United States and Europe in a pivotal phase III trial of Oncophage for stage IV metastatic melanoma.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 29,
+      "text": "Elliott and Dalgleish (2004) stated that melanoma vaccines offer new hope to patients with metastatic melanoma, although convincing survival advantages have yet to be reported.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 30,
+      "text": "Bystryn and Reynolds (2005) stated that vaccines are a promising but still experimental treatment for melanoma.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 31,
+      "text": "Guidelines on malignant melanoma from the National Institute for Health and Clinical Excellence (2006) have concluded that \"[v]accine therapy for advanced [malignant melanoma] remains uncertain and its use should only be in the context of a clinical trial.\"",
+      "label": "PREMISE"
+    },
+    {
+      "id": 35,
+      "text": "Melanoma vaccines can be classified into 6 groups: I. whole-cell vaccines, II. dendritic cell vaccines, III. peptide vaccines, IV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 36,
+      "text": "ganglioside vaccines, V. DNA vaccines and VI. viral vectors. I. whole-cell vaccines, II. dendritic cell vaccines, III. peptide vaccines, IV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 37,
+      "text": "ganglioside vaccines, V. DNA vaccines and VI. viral vectors.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 38,
+      "text": "The main characteristics of these vaccines including their advantages and disadvantages and the results from conducted trials were presented.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 39,
+      "text": "Clinical responses to melanoma vaccines are still poor and currently there is no melanoma vaccine with a proven efficacy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 42,
+      "text": "This is in agreement with the observations of Stein and Brownell (2008) who noted that advanced melanoma has a poor prognosis, and standard adjuvant treatment offers little survival advantage.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 48,
+      "text": "Lesterhuis and associates (2008) stated that dendritic cells are the directors of the immune system, capable of inducing tumor antigen-specific T-cell and B-cell responses.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 51,
+      "text": "In recent years, additional trials have been carried out in melanoma patients, and although immunological responses are often reported, objective clinical responses remain anecdotal with objective response rates not exceeding 5 to 10 %.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 52,
+      "text": "Thus, dendritic cells vaccination research has now entered a stage in between \"proof of principle\" and \"proof of efficacy\" trials.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 54,
+      "text": "Faries et al (2009) examined the effect of the addition of granulocyte/macrophage colony-stimulating factor (GM-CSF) to vaccination with a melanoma vaccine.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 58,
+      "text": "The GM-CSF arm showed enhanced antibody responses with an increase in IgM titer against the TA90 antigen and increased TA90 immune complexes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 60,
+      "text": "Peripheral blood leukocyte profiles showed increases in eosinophils and basophils with decreased monocytes in the GM-CSF arm.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 66,
+      "text": "A total of 121 eligible patients with resected stage IIB to IV melanoma were vaccinated with 12 major histocompatibility complex class I-restricted melanoma peptides to stimulate CD8+ T cells plus a human leukocyte antigen (HLA)-DR-restricted tetanus helper peptide to stimulate CD4+ T cells, emulsified in incomplete Freund's adjuvant, with or without 110 microg GM-CSF.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 67,
+      "text": "Among 119 evaluable patients, T-cell responses were assessed by IFN-gamma ELIspot assay and tetramer analysis. Clinical outcomes were recorded.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 68,
+      "text": "CD8+ T-cell response rates to the 12 MHC class I-restricted melanoma peptides (by day 50) with or without GM-CSF were 34 % and 73 %, respectively (p < 0.001), by direct ELIspot assay.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 70,
+      "text": "CD4+ T-cell responses to tetanus helper peptide were higher without GM-CSF (95 % versus 77 %; p = 0.005).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 72,
+      "text": "Three-year overall and disease-free survival estimates (95 % confidence interval) were 76 % (67 % to 83 %) and 52 % (43 % to 61 %), respectively, with too few events to assess differences by study group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 73,
+      "text": "The authors concluded that high immune response rates for this multi- peptide vaccine were achieved, but CD8+ and CD4+ T-cell responses were lower when administered with GM-CSF.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "Kaufman (2012) noted that the inherent immunogenicity of melanoma and renal cell carcinoma (RCC) has made these tumors a focus of considerable research in vaccine development.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 77,
+      "text": "Melanoma has been a useful model for the identification of tumor-associated antigens and a number of putative renal cell antigens have been described more recently.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 78,
+      "text": "These antigens have been targeted using a variety of vaccine strategies, including protein- and peptide-based vaccines, recombinant antigen-expressing vectors, and whole cell vaccine approaches.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 84,
+      "text": "In general, ovarian tumors are named according to the kind of cells the tumor started from and whether the tumor is benign or cancerous.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 85,
+      "text": "There are 3 main types of ovarian tumors: I. germ cell tumors start from the cells that produce the ova (eggs); II.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 86,
+      "text": "stromal tumors start from connective tissue cells that hold the ovary together and produce the female hormones estrogen and progesterone; III.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 87,
+      "text": "epithelial tumors start from the cells that cover the outer surface of the ovary.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 91,
+      "text": "Therapeutic vaccines are intended to coerce the cellular components of the immune system to attack malignant tissue.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 92,
+      "text": "Prophylactic vaccines are intended to induce the production of antibodies capable of neutralizing viral antigens before they infect host cells.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 93,
+      "text": "The National Cancer Institute Ovarian Epithelial Cancer Treatment PDQ (2008) states that vaccines are under clinical evaluation in the treatment of ovarian cancer, primarily as part of consolidation therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 95,
+      "text": "Antigen-specific active immunotherapy aims to induce a tumor-antigen-specific anti-tumor immune responses as an alternative treatment for ovarian cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 107,
+      "text": "In a review, Gardner and Jewell (2011) wrote that future trials will determine the role of biologic agents and vaccine therapies for ovarian cancer, as well as their impact on quality of life.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 108,
+      "text": "Vaccines for Selected Types of Cancer Krishnadas et al (2013) stated that patients with relapsed stage 4 neuroblastoma have an extremely poor long- term prognosis, making the investigation of new agents of interest.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 109,
+      "text": "These investigators reported the outcome of the first patient treated in a phase I study for relapsed neuroblastoma, using the chemotherapy agent decitabine to up-regulate cancer testis antigen expression, followed by a dendritic cell vaccine targeting the cancer testis antigens MAGE-A1, MAGE-A3, and NY-ESO-1.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 110,
+      "text": "The patient in this study had persistent tumor in his bone marrow after completion of standard therapy for neuroblastoma, including multi-agent chemotherapy, tumor resection, stem cell transplantation, radiation therapy, and anti-GD2 monoclonal antibodies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 112,
+      "text": "After 3 cycles of decitabine and vaccine, this patient achieved a complete remission and is now 1 year from his last treatment, with no evidence of tumor in his bone marrow or other sites.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 113,
+      "text": "This patient was noted to have an increase in MAGE-A3-specific T cells.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 114,
+      "text": "This was the first report combining demethylating chemotherapy to enhance tumor antigen expression followed by a cancer antigen vaccine.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 119,
+      "text": "Hall et al (2013) discussed recent clinical trials using immunotherapy techniques to treat both non-small cell lung cancer (NSCLC) and small cell lung cancer (SCLC) and high-lighted ongoing immunotherapy research efforts at the authors’ center.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 120,
+      "text": "For NSCLC, phase II clinical trials have examined allogeneic vaccines that target either mucin 1 (MUC1), epidermal growth factor or melanoma-associated antigen 3.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 122,
+      "text": "An autologous cellular therapy directed against transforming growth factor beta-2 and a recombinant protein with antitumor properties have also shown promise in prolonging survival in NSCLC in phase II trials.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 123,
+      "text": "The monoclonal antibodies ipilimumab, BMS-936558 (anti-PD-1), and BMS936559 (anti-PD-L1) lead to enhanced T-cell-mediated anti-tumor effects and have produced objective responses in early-phase clinical trials.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 125,
+      "text": "The authors concluded that recent clinical trials in lung cancer demonstrated the potential of immunotherapeutics to increase overall survival in patients with lung cancer compared with the current standard of care.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 128,
+      "text": "Advances in DNA and RNA sequencing and drug development may also ultimately allow for the creation of personalized vaccines consisting of several antigens uniquely expressed by an individual’s tumor ….",
+      "label": "PREMISE"
+    },
+    {
+      "id": 129,
+      "text": "Two immunotherapeutic approaches showing promise in NSCLC are immune checkpoint inhibition and cancer vaccination.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 130,
+      "text": "Multiple agents are currently in advanced clinical development, and the results of ongoing randomized clinical trials will define the role of immunotherapy in the treatment of NSCLC”.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 132,
+      "text": "In a phase II clinical trial, Morse et al (2013) examined if 1 of 2 vaccines based on dendritic cells (DCs) and poxvectors encoding CEA (carcinoembryonic antigen) and MUC1 (PANVAC) would lengthen survival in patients with resected metastases of colorectal cancer (CRC).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 133,
+      "text": "Patients, disease-free after CRC metastasectomy and peri-operative chemotherapy (n = 74), were randomized to injections of autologous DCs modified with PANVAC (DC/PANVAC) or PANVAC with per injection GM-CSF (granulocyte-macrophage colony-stimulating factor).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 134,
+      "text": "End-points were recurrence-free survival, overall survival (OS), and rate of CEA-specific immune responses.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 136,
+      "text": "Recurrence-free survival at 2 years was similar (47 % and 55 % for DC/PANVAC and PANVAC/GM-CSF, respectively) (χ P = 0.48).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 142,
+      "text": "Ding and Ming (2014) noted that lung cancer is the most common malignancy worldwide in terms of incidence and mortality.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 144,
+      "text": "Immunotherapy consists of mainly therapeutic vaccination designed to induce or amplify the immune responses directed against tumor- associated antigens.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 149,
+      "text": "The vaccine group had produced significant improvement in OS compared with the control group (hazard ratio [HR] 0.83, 95 % confidence interval [CI]: 0.76 to 0.91; Z = 3.79, p = 0.0002].",
+      "label": "PREMISE"
+    },
+    {
+      "id": 150,
+      "text": "Subgroup analysis showed a more significant improvement of OS in the subgroup compared with the control group (HR 0.70, 95 % CI: 0.59 to 0.82; Z = 4.42, p < 0.00001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 151,
+      "text": "No increased incidence of adverse events was obtained in the therapeutic vaccination group compared with the control group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 152,
+      "text": "The authors concluded that therapeutic vaccination added benefits to NSCLC patients and may become a standard complementary therapeutic approach in the future if the associated toxicity is reduced.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 159,
+      "text": "The authors concluded that immunotherapy may improve the survival of patients with GBM.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 160,
+      "text": "Kobayashi et al (2014) stated that DC-based cancer vaccines may have a significant benefit to patients with advanced pancreatic cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 164,
+      "text": "The mean survival time from diagnosis was 16.5 months (95 % CI: 14.4 to 18.5) and that from the first vaccination was 9.9 months (95 % CI: 8.0 to 12.9).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 165,
+      "text": "Known prognostic baseline factors related to advanced pancreatic cancer, namely ECOG-PS, peritoneal metastasis, liver metastasis, and the prognostic nutrition index, were also representative.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 169,
+      "text": "Helper Multi-Peptide (6MHP) Vaccine for Metastatic Melanoma Hu and colleagues (2015) stated that a multi-peptide vaccine (6MHP), designed to induce helper T cells against melanocytic and cancer-testis antigens, has been shown to induce specific Th1-dominant CD4+ T cell responses.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 170,
+      "text": "These researchers compared the long-term outcome of patients with metastatic melanoma vaccinated with 6MHP to that of a group of unvaccinated historical controls.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 171,
+      "text": "The 6MHP vaccine was given to patients with metastatic melanoma.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 172,
+      "text": "Circulating CD4+ T cell responses were measured by proliferation or direct IFN-gamma ELIspot assay.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 173,
+      "text": "Overall survival of vaccinated patients was compared to a group of clinically comparable historical controls using multi-variable Cox regression analysis and Kaplan-Meier survival analysis, taking into account age, metastatic site, and resection status.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 174,
+      "text": "Across 40 vaccinated patients and 87 controls, resection status (HR 0.54, p = 0.004) and vaccination (HR 0.24, p < 0.001) were associated with improved OS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 175,
+      "text": "Forty pairs of vaccinated patients and controls were matched by metastatic site, resection status, and age within 10 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 176,
+      "text": "Median survival was significantly longer for vaccinated patients (5.4 versus 1.3 years, p < 0.001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 177,
+      "text": "Among the vaccinated patients, the development of a specific immune response after vaccination was associated with improved survival (HR 0.35, p = 0.040).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 178,
+      "text": "The authors concluded that helper peptide vaccination was associated with improved OS among patients with metastatic melanoma; they stated that these data support a randomized prospective trial of the 6MHP vaccine.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 179,
+      "text": "Tumor-Associated Antigenic Peptide-Based Vaccines for Cancers Peres Lde and associates (2015) discussed peptide-based vaccines in breast cancer, immune responses and clinical outcomes, which include studies on animal models and phase I, phase I/II, phase II and phase III clinical trials.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 180,
+      "text": "These researchers stated that peptide-based vaccines are powerful neoadjuvant immunotherapies that can directly target proteins expressed in tumor cells, mainly tumor-associated antigens (TAAs).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 181,
+      "text": "The most common breast cancer TAA epitopes are derived from MUC1, HER2/neu and CEA proteins.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 182,
+      "text": "Peptides derived from TAAs could be successfully used to elicit CD8 and CD4 T cell-specific responses.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 183,
+      "text": "Thus, choosing peptides that adapt to natural variations of HLA genes is critical.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 184,
+      "text": "The most attractive advantage is that the target response is more specific and less toxic than for other therapies and vaccines.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 185,
+      "text": "Prominent studies on NeuVax - E75 (epitope for HER2/neu and GM-CSF) in breast cancer and DPX-0907 (HLA-A2-TAAs) expressed in breast cancer, ovarian and prostate cancer have shown the efficacy of peptide-based vaccines as neoadjuvant immunotherapy against cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 187,
+      "text": "Nishimura and co-workers (2015) noted that recent genome-wide cDNA microarray analysis of gene expression profiles in comprehensive tumor types coupled with isolation of cancer tissues by laser- microbeam microdissection have revealed ideal TAAs that are frequently over-expressed in various cancers including head and neck squamous cell cancer (HNSCC) and lung cancer, but not in most normal tissues except for testis, placenta, and fetal organs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 188,
+      "text": "Pre-clinical studies using HLA-transgenic mice and human T cells in-vitro showed that TAA-derived CTL-epitope short peptides (SPs) are highly immunogenic and induce HLA-A2 or -A24-restricted CTLs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 189,
+      "text": "Based on the accumulated evidence, these researchers carried out a phase II clinical trial of the TAA-SP vaccine in advanced 37 HNSCC patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 190,
+      "text": "This study showed a significant induction of TAA-specific CTLs in the majority of patients without serious adverse effects.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 192,
+      "text": "Another phase II clinical trial of therapeutic TAA-SP vaccine, designed to evaluate the ability of prevention of recurrence, is ongoing in HNSCC patients who have received curative operations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 193,
+      "text": "Further studies in human pre-clinical studies and in-vivo studies using HLA class I transgenic mice showed TAA-derived long peptides (TAA-LPs) have the capacity to induce not only promiscuous HLA class II-restricted CD4(+) T helper type 1 cells but also tumor-specific CTLs through a cross-presentation mechanism.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 194,
+      "text": "Moreover, these investigators observed an augmentation of TAA-LP-specific T helper type 1 cell responses and tumor antigen-spreading in HNSCC patients vaccinated with TAA-SPs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 196,
+      "text": "Chamani and colleagues (2018) noted that the E75 peptide vaccine, derived from tumor-associated antigen HER2, is the most frequently studied anti-HER2 vaccination strategy for the treatment of breast cancer patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 201,
+      "text": "Meta-analysis of delayed-type hypersensitivity (DTH) reactions and CD8+-T cell levels, as immune responses, displayed the significant differences in the vaccinated groups compared to their non-vaccinated counterparts.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 205,
+      "text": "HLA-A24-Binding Peptide Vaccines for Gastric Cancer Fujiwara and colleagues (2017) performed a clinical trial using HLA-A24-binding peptide vaccines containing a combination of novel cancer-testis antigens and anti-angiogenic peptides for advanced gastric cancer (GC).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 206,
+      "text": "A total of 35 GC patients who had shown resistance to the standard therapy were enrolled in this clinical trial using vaccinations with a mixture of multiple peptides derived from DEPDC1, URLC10, FoxM1, Kif20A and VEGFR1.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 207,
+      "text": "The safety, OS, and the immunological responses based on an ELISPOT assay were determined to assess differences in patients who were HLA-A24-positive [24(+)] and HLA-A24- negative [24(-)].",
+      "label": "PREMISE"
+    },
+    {
+      "id": 208,
+      "text": "No severe adverse events (AEs) were observed except for severe skin reactions in 4 patients.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 212,
+      "text": "The authors concluded that peptide vaccine therapy was found to be safe and is expected to induce specific T cell responses in patients with advanced GC.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 213,
+      "text": "They stated that the survival benefit of peptide vaccine monotherapy may not have been shown and further trials are needed to confirm these results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 214,
+      "text": "p16(INK4a)-Based Peptide Vaccine for Human Papillomavirus-Associated Cancers Reuschenbach and colleagues (2016) stated that the cyclin-dependent kinase inhibitor p16(INK4a) is strongly and consistently over-expressed in all human papillomavirus (HPV)-associated cancers.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 216,
+      "text": "To test this hypothesis, these investigators performed a phase I/IIa first-in-human trial to evaluate the safety and immunogenicity of a p16(INK4a)-based peptide vaccine.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 217,
+      "text": "A total of 26 patients with different, advanced, p16(INK4a)-overexpressing, HPV DNA-positive cancers were included after the completion of standard treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 218,
+      "text": "According to protocol, 12 subcutaneous injections of a p16(INK4) peptide (P16_37-63) mixed in a water-in-oil emulsion with immuno-adjuvant activity (Montanide ISA-51 VG) were administered over a 6- month period.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 220,
+      "text": "Clusters of differentiation (CD) 4 T cells were detected in 14 of 20 patients (3 of whom had pre-existing CD4 T cells before vaccination), CD8 T cells were detected in 5 of 20 patients, and antibodies were detected in 14 of 20 patients (1 of whom had pre-existing antibodies).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 226,
+      "text": "The authors concluded that vaccination with the p16(INK4a -derived peptide P16_37-63 appeared to induce cellular and humoral immune responses and did not cause severe toxicities.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 227,
+      "text": "They stated that the findings of the current study paved the way for the further clinical development of p16(INK4a -based cancer immuno-therapeutics.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 228,
+      "text": "p62 DNA Vaccine (Elenagen) for Solid Tumors (e.g., Breast, Kidney, Lung, and Ovary Cancers as well as Melanoma) Ponomarenko and colleagues (2017) noted that Elenagen is a plasmid encoding p62/SQSTM1, the first DNA vaccine possessing 2 mutually complementing mechanisms of action: I. it elicits immune response against p62, and II.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 229,
+      "text": "it mitigates systemic chronic inflammation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 230,
+      "text": "I. it elicits immune response against p62, and II.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 231,
+      "text": "it mitigates systemic chronic inflammation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 232,
+      "text": "Previously, Elenagen demonstrated anti-tumor safety and effectivness in rodent tumor models and spontaneous tumors in dogs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 237,
+      "text": "The authors concluded that Elenagen demonstrated good safety profile and ant-itumor activity in advanced solid tumors; especially encouraging is its ability to restore tumor sensitivity to chemotherapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 239,
+      "text": "Vaccine for Ovarian Cancer In a pilot clinical trial, Tanyi and co-workers (2018) tested a personalized vaccine generated by autologous DCs pulsed with oxidized autologous whole-tumor cell lysate (OCDC), which was injected intranodally in platinum-treated, immunotherapy-naïve, recurrent ovarian cancer patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 243,
+      "text": "Vaccination also amplified T cell responses against mutated neoepitopes derived from non-synonymous somatic tumor mutations, and this included priming of T cells against previously unrecognized neoepitopes, as well as novel T cell clones of markedly higher avidity against previously recognized neoepitopes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 244,
+      "text": "The authors concluded that the use of oxidized whole-tumor lysate DC vaccine is safe and effective in eliciting a broad anti-tumor immunity, including private neoantigens, and warrants further clinical testing.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 250,
+      "text": "WT1-specific cytotoxic T-lymphocytes were detected in 7 patients, and WT1 and HLA class I antigens were positive in all 34 cases.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 251,
+      "text": "The authors concluded that the findings of this study clarified the safety and potential acquisition of immunity after vaccination targeting WT1.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 254,
+      "text": "Chemotherapy, especially gemcitabine, is generally used for the treatment of advanced pancreatic cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 255,
+      "text": "Despite the treatment, the fatality rate for advanced pancreatic cancer is alarmingly high; therefore, there is a need for better therapeutic alternatives that has drawn focus to cancer vaccinations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 256,
+      "text": "The Wilms tumor gene (WT1), typically associated with Wilms tumor, is found to be excessively expressed in some cancers, such as pancreatic cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 257,
+      "text": "This characteristic feature is harvested to develop cancer vaccines against WT1.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 259,
+      "text": "They carried out a literature search on databases Medline, Web of Science, ScienceDirect, and Google Scholar using the keywords \"advanced pancreatic cancer\", \"cancer vaccines\", \"WT1 vaccines,\" and \"pulsed DC vaccines\", and the results were studied to construct this review.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 260,
+      "text": "WT1 vaccines work by introducing peptides from the WT1 protein to trigger an immune response involving cytotoxic T lymphocytes via antigen-presenting cells.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 261,
+      "text": "Upon activation, these lymphocytes induce apoptosis in cancer cells by targeting those with increased WT1 levels.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 262,
+      "text": "WT1 vaccinations, which are usually administered in addition to chemotherapy, have showed clinically positive results and minimal side effects.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 265,
+      "text": "Targeting the over-expressed WT1 strategically highlighted a prospective option for tailored therapies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 268,
+      "text": "Vaccine for Gallbladder Cancer Rojas-Sepulveda and colleagues (2018) stated that immunotherapy based on check-point blockers has proven survival benefits in patients with melanoma and other malignancies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 271,
+      "text": "In these studies, 60 % of stage IV melanoma DC-treated patients showed immunological responses correlating with improved survival.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 275,
+      "text": "By characterizing 9 different GBCCLs and several fresh tumor tissues, these researchers found that they expressed some tumor-associated antigens such as CEA, MUC-1, CA19-9, Erb2, Survivin, and several CEAs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 278,
+      "text": "Furthermore, conditioned lysate- matured DCs were capable of strongly inducing CD4+ and CD8+ T cell activation, in both allogeneic and autologous cell co-cultures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 281,
+      "text": "Vaccine for Gastric Cancer In a phase-I/Ib, open-label, single-arm, clinical trial, Sundar and colleagues (2018) evaluated the safety, tolerability and optimal scheduling regimen of OTSGC-A24 cancer vaccine in patients with advanced gastric cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 284,
+      "text": "Based on the highest specific cytotoxic T lymphocyte (CTL) induction rate at 4 weeks, using the ELISPOT test, cohorts were expanded to define the optimal dosing schedule for OTSGC-A24.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 291,
+      "text": "The best radiological was SD (40 %); median progression free survival (PFS) was 1.7 months (95 % CI: 1.4 to 3.5) and median OS was 5.7 months (95 % CI: 3.8 to 8.6).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 292,
+      "text": "The authors concluded that OTSGC-A24 combined peptide cancer vaccine was well-tolerated.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 293,
+      "text": "Significant responses in CTL were observed and the recommended phase-II dose is 1 mg OTSGC-A24 sub-cutaneous, every 2 weeks.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 295,
+      "text": "Vaccine for Glioma Platten and associates (2018) reviewed the current state of glioma vaccine development and highlighted the challenges associated with clinical implementation of these approaches.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 297,
+      "text": "Advances in antigen discovery, including the definition of neoepitopes including epidermal growth factor receptor variant III (EGFRvIII), isocitrate dehydrogenase (IDH)1R132H and histone (H)3.3K27M, using multi-omic approaches and computational algorithms allow targeting single antigens, but also implementing truly personalized approaches.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 299,
+      "text": "The authors concluded that as an increasing amount of clinical data defy the concept of the central nervous system (CNS) as a strictly immuno-privileged site, novel vaccine approaches enter the clinic including critical efforts to identify biomarkers of response and resistance and strategies to overcome the immunosuppressive glioma microenvironment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 300,
+      "text": "Vaccine for Oral Squamous Cell Carcinoma Dong and co-workers (2018) stated that due to the high-quality immunogenicity of tumor-derived autophagosomes (DRibbles), these researchers examined the anti-tumor ability and mechanism of DRibble- loaded dendritic cells (DRibble-DCs).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 301,
+      "text": "DRibbles extracted from the oral squamous cell carcinoma cell line SCC7 express specific LC3-II and ubiquitination marker.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 302,
+      "text": "Immunization of mice with the DRibble-DCs vaccine led to the proliferation and differentiation of CD3+CD4+IFN-γ+ and CD3+CD8+IFN-γ+ T cells.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 308,
+      "text": "Moreover, the DRibble-DCs vaccine achieved significantly better anti-tumor efficacy than DRibbles and tumor cell lysate-loaded DCs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 318,
+      "text": "These researchers observed no significant difference in RCB 0/I rates between patients with (36.4 %) and without (31.9 %) tecemotide in the overall study population (p = 0.40), nor in endocrine and chemotherapy-treated subgroups (25.0 % versus 13.3 %, p = 0.17; 39.6 % versus 37.8 %, p = 0.75, respectively).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 319,
+      "text": "The addition of tecemotide did not affect overall pCR rates (22.5 % versus 17.4 %, p = 0.23), MUC-1 expression, or tumor-infiltrating lymphocytes content.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 321,
+      "text": "The authors concluded that neoadjuvant tecemotide was safe, but did not improve RCB or pCR rates in patients receiving standard neoadjuvant therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 327,
+      "text": "In this 4-arm, prospective, randomized, single-blinded, multi-center, phase-II clinical trial, disease-free node positive and high-risk node negative BC patients enrolled after SOC therapy; 6 monthly inoculations of vaccine (VG) versus control (CG) were administered as the primary vaccine series with 4 boosters at 6-month intervals.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 337,
+      "text": "Despite the development of targeted therapies, tyrosine kinase inhibitors, as well as monoclonal antibodies and their toxin conjugates, all metastatic tumors develop resistance, and nearly 1/3 of HER2+ BC patients develop resistance to all these therapies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 338,
+      "text": "Although antibody therapy has shown promising results in BC patients, passive immunotherapy approaches have limitations and need continuous administration over a long period.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 340,
+      "text": "In particular, cancer relapse could be avoided due to the presence of a longer period of immunological memory with an effective vaccine that can protect against various tumor antigens.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 341,
+      "text": "Cancer vaccines are broadly classified as preventive and therapeutic.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 343,
+      "text": "These investigators provided details regarding the tumor environment, different types of vaccines, their advantages and disadvantages, and the current status of various vaccine candidates with a focus on vaccines for BC.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 346,
+      "text": "Zachariah et al (2021) stated that BC prevention remains the ultimate cost-effective method to reduce the global burden of invasive BC (IBC).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 347,
+      "text": "To-date, surgery and chemoprevention remain the main risk-reducing modalities for those with hereditary cancer syndromes, as well as high-risk non-hereditary breast lesions such as ADH, ALH, or LCIS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 348,
+      "text": "Ductal carcinoma in situ (DCIS) is a pre-invasive malignant lesion of the breast that closely mirrors IBC and, if left untreated, develops into IBC in up to 50 % of lesions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 349,
+      "text": "Certain high-risk patients with DCIS may have a 25 % risk of developing recurrent DCIS or IBC, even after surgical resection.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 350,
+      "text": "The development of BC elicits a strong immune response, which brings to prominence the numerous advantages associated with immune-based cancer prevention over drug-based chemoprevention, supported by the success of dendritic cell vaccines targeting HER2-expressing BC.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 358,
+      "text": "The components of a BC vaccine, the antigen, the delivery system, and the adjuvant, can have a significant impact on vaccine immunogenicity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 361,
+      "text": "Mutated proteins and neoantigen epitopes are found only in a small minority of patients and are enriched in the triple-negative subtype.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 366,
+      "text": "Breast cancer vaccines as single agents are now studied in the context of the prevention of relapse or development of disease.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 369,
+      "text": "Corti et al (2022) noted that the ability to exploit the immune system as a weapon against cancer has revolutionized the treatment of cancer patients, especially through immune checkpoint inhibitors (ICIs); however, ICIs demonstrated a modest benefit in treating BC, with the exception of certain subsets of triple- negative BCs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 370,
+      "text": "An immune-suppressive tumor micro-environment (TME), typically present in BC, is an important factor in the poor response to immunotherapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 372,
+      "text": "In particular, neoantigens are emerging as the preferred targets for CVs, with gene-based and viral vector-based platforms in development.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 376,
+      "text": "Vaccine for Hepatic Cancer Zhang and colleagues (2020) stated that MAGE family genes have been studied as targets for tumor immunotherapy for a long time.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 377,
+      "text": "These researchers combined MAGE1-, MAGE3- and MAGEn-derived peptides as a cancer vaccine and examined if a new combination nano-emulsion-encapsulated vaccine could be used to inhibit the growth of tumor cells in humanized SCID mice.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 378,
+      "text": "The nano-emulsion-encapsulated complex protein vaccine (MAGE1, MAGE3, and MAGEn/HSP70 fusion protein; M1M3MnH) was prepared using a magnetic ultrasonic technique.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 380,
+      "text": "Then, the humanized SCID mice were challenged with M3-HHCC cells and immunized with nano-emulsion-encapsulated MAGE1-MAGE3-MAGEn/HSP70 [NE(M1M3MnH)] or M1M3MnH. The cellular immune responses were detected by IFN-γ ELISPOT and cytotoxicity assays.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 382,
+      "text": "The results showed that the immune responses elicited by NE(M1M3MnH) were apparently stronger than those elicited by M1M3MnH, NE(-) or PBS, suggesting that this novel nano-emulsion carrier induced potent anti-tumor immunity against the encapsulated antigens.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 396,
+      "text": "HBV-related HCC may acquire more benefits from tumor vaccines than HCV-related HCC.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 400,
+      "text": "Dendritic Cell-Based Cancer Vaccines Chen and colleagues (2020) stated that the success of peptide-based dendritic cell (DC) cancer vaccines mainly depends on the utilized peptides and selection of an appropriate adjuvant.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 402,
+      "text": "Three synthetic HLA-A∗0201-restricted peptides were separately linked with HMGB1-derived peptide (SAFFLFCSE, denoted as HB100-108) as immunoadjuvant via double arginine (RR) linker and loaded onto human monocyte-derived DCs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 405,
+      "text": "The ability of peptide-pulsed DCs to activate allogeneic T cells has been evaluated by a degranulation assay and detection of secreted cytokines.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 407,
+      "text": "Results revealed that DCs efficiently take up peptides+HB100-108 and expressed higher levels of surface markers (HLA-ABC, HLA-DR, CD80, CD86, CD83, CD40, and CCR7) and proinflammatory cytokines (IL- 6, IFN-γ, TNF-α, and IL-12) than control DCs, free peptide-pulsed DCs, and free HB100-108-pulsed DC groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 409,
+      "text": "The authors concluded that these findings suggested that antigenic peptides covalently linked with HB100-108/pulsed DCs could be a promising strategy to improve the current DC-based cancer vaccines.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 410,
+      "text": "Whole Cancer Stem Cell-Based Vaccines for the Surgical Management of Solid Tumors In a systematic review and meta-analysis of RCTs, Bastin et al (2023) examined the safety and effectiveness of autologous whole cell vaccines as immunotherapies for solid tumors.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 416,
+      "text": "A total of 18 studies were identified with a total of 714 patients enrolled in control and 808 in vaccine arms.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 429,
+      "text": "Hashemi et al (2023) stated that despite the conventional cancer therapeutic, cancer treatment remains a medical challenge due to neoplasm metastasis and cancer recurrence; thus, new approaches promoting therapeutic strategies are highly desirable.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 430,
+      "text": "As a new therapy, the use of whole neoplastic stem cells or cancer stem cell (CSC)-based vaccines is one strategy to overcome these obstacles.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 433,
+      "text": "Interventional studies of whole CSC-based vaccines in rodent cancer models (38 studies) and human cancer patients (11 studies) were included; the vaccine preparation methodologies, effects, and overall outcomes were evaluated.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 434,
+      "text": "Pre-clinical studies were divided into 4 groups: CSC- lysates/inactivated-CSC-based vaccines, CSC-lysate-loaded dendritic cell (CSC-DC) vaccines, cytotoxic T- cell (CTL) vaccines generated with CSC-DC (CSC-DC-CTL), and combinatorial treatments performed in the prophylactic and therapeutic experimental models.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 440,
+      "text": "Vaccine for Acute Myeloid Leukemia Khanmiri et al (2024) noted that acute myeloid leukemia (AML) is classified as a hematologic malignancy characterized by the proliferation of immature blood cells within the bone marrow (BM), resulting in an aberrant and unregulated cellular growth.",
+      "label": "PREMISE"
+    }
+  ]
+}

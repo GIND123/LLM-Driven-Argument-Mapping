@@ -1,0 +1,121 @@
+{
+  "document_id": "Voice_Therapy_-_Medical_Clinical_Policy_Bulletins___Aetna.ht",
+  "source": "Aetna Clinical Policy Bulletin",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Voice Therapy Number: 0646 Applicable CPT / HCPCS / ICD-10 Codes Scope of Policy This Clinical Policy Bulletin addresses voice therapy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 2,
+      "text": "I. Medical Necessity Aetna considers voice therapy medically necessary to restore the ability of the member to produce speech sounds from the larynx for any of the following indications: A. Essential voice tremor; or B. Following surgery or traumatic injury to the vocal cords; or C. Following treatment for laryngeal (glottic) carcinoma; or D. Muscle tension dysphonia (functional dysphonia); or E. Paradoxical vocal cord motion; or F. Post-laryngectomy (esophageal speech production); or G. Spastic (spasmodic) dysphonia; or H. Symptomatic benign vocal fold lesions (cysts, nodules and polyps); or I. Vocal cord paralysis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "Aetna considers voice therapy not medically necessary for any of the following indications: A. Improvement of voice quality; or B. Occupational or recreational purposes (e.g., public speaking, singing, etc.);",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "or C. Self-limited conditions, such as acute laryngitis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Maintenance treatment, where the member's symptoms are not improving, is considered not medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "If no clinical benefit is appreciated after 4 weeks of voice therapy, then the treatment plan should be re-evaluated.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Further voice therapy is not considered medically necessary if the member does not demonstrate meaningful improvement in symptoms.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Note: Megaphones or amplifiers (e.g., ChatterVox, Mega Mite Megaphone) may be of use in the absence of illness or injury and therefore do not meet Aetna's definition of covered durable medical equipment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "Note: An electronic artificial larynx (artificial voice box) that is used by laryngectomized individuals and persons with a permanently inoperative larynx is covered as a prosthetic.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "See \"Note\" regarding electronic speech aids accompanying CPB 0437 - Speech Generating Devices.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "See also CPB 0560 - Voice Prosthesis for Voice Rehabilitation Following Total Laryngectomy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 12,
+      "text": "Note: Voice therapy for male-to-female transgender individuals to feminize the voice or for female-to- male transgender individuals to masculinize the voice is considered not medically necessary and cosmetic.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "See also CPB 0615 - Gender Affirming Surgery. II.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 14,
+      "text": "Experimental, Investigational, or Unproven Aetna considers voice therapy experimental, investigational, or unproven for the following because their effectiveness has not been established: Pre-operative voice therapy for improving outcomes of surgery for benign vocal fold lesions; Vocal fold motion impairment following chemotherapy administration. III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "Policy Limitations and Exclusions Note: Voice therapy is subject to any benefit limitations and exclusions applicable to speech therapy. IV.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 16,
+      "text": "Related Policies CPB 0243 - Speech Therapy CPB 0437 - Speech Generating Devices CPB 0560 - Voice Prosthesis for Voice Rehabilitation Following Total Laryngectomy CPB 0615 - Gender Affirming Surgery Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description CPT codes covered if selection criteria are met: Treatment of speech, language, voice, communication, and/or auditory processing disorder; individual [voice therapy] [not covered for male-to-female transgender 92507 individuals to feminize the voice or female-to-male transgender individuals to masculinize the voice] Treatment of speech, language, voice, communication, and/or auditory processing disorder; group, two or more individuals [voice therapy] [not covered for male-to- 92508 female transgender individuals to feminize the voice or female-to-male transgender individuals to masculinize the voice] Other CPT codes related to the CPB: 31360 Laryngectomy; total, without radical neck dissection 31365 total, with radical neck dissection Code Code Description 31367 subtotal supraglottic, without radical neck dissection 31368 subtotal supraglottic, with radical neck dissection 31370 Partial laryngectomy (hemilaryngectomy); horizontal 31375 laterovertical 31380 anterovertical 31382 antero-latero-vertical 31505 - 31592 Laryngoscopy and laryngoplasty procedures (therapeutic) Construction of tracheoesophageal fistula and subsequent insertion of an alaryngeal 31611 speech prosthesis (e.g., voice button, Blom-Singer prosthesis) 92521 Evaluation of speech fluency (eg, stuttering, cluttering) Evaluation of speech sound production (eg, articulation, phonological process, apraxia, dysarthria) [not covered for male-to-female transgender individuals to 92522 feminize the voice or female-to-male transgender individuals to masculinize the voice] Evaluation of speech sound production (eg, articulation, phonological process, apraxia, dysarthria); with evaluation of language comprehension and expression (eg, 92523 receptive and expressive language) [not covered for male-to-female transgender individuals to feminize the voice or female-to-male transgender individuals to masculinize the voice] Behavioral and qualitative analysis of voice and resonance [not covered for male-to- 92524 female transgender individuals to feminize the voice or female-to-male transgender individuals to masculinize the voice] 92597 Evaluation for use and/or fitting of voice prosthetic device to supplement oral speech Injection and intravenous infusion chemotherapy and other highly complex drug or 96401 - 96417 highly complex biologic agent administration Intra-arterial chemotherapy and other highly complex drug or highly complex 96420 - 96425 biologic agent administration HCPCS codes covered if selection criteria are met: Services performed by a qualified speech-language pathologist in the home health or G0153 hospice setting, each 15 minutes Services performed by a qualified speech-language pathologist, in the home health G0161 setting, in the establishment or delivery of a safe and effective speech-language pathology maintenance program, each 15 minutes S9128 Speech therapy, in the home, per diem HCPCS codes not covered for indications listed in the CPB: L8510 Voice amplifier Other HCPCS codes related to the CPB: L8500 Artificial larynx, any type L8505 Artificial larynx replacement battery / accessory, any type L8507 Tracheo-esophageal voice prosthesis, patient inserted, any type, each Tracheo-esophageal voice prosthesis, inserted by a licensed health care provider, any L8509 type V5362 Speech screening Code Code Description V5363 Language screening ICD-10 codes covered if selection criteria are met: D14.1 Benign neoplasm of larynx [benign vocal fold lesions] F44.4 Conversion disorder with motor symptom or deficit [functional dysphonia] G25.2 Other specified forms of tremor [voice] J38.00 - J38.02 Paralysis of vocal cords and larnyx J38.1 Polyp of vocal cord and larynx J38.2 Nodules of vocal cords R49.0 Dysphonia [functional dysphonia] S19.83X+ Other specified injuries of vocal cord Z90.02 Acquired absence of larynx [Esophageal speech production] ICD-10 codes not covered for indications listed in the CPB: A15.5 Tuberculous laryngitis A36.2 Laryngeal diphtheria A52.73 Symptomatic late syphilis of other respiratory organs A69.1 Other Vincent's infections [Vincent's angina] F64.1 Gender identity disorder in adolescences and adulthood I69.020 - I69.028 I69.120 - I69.128 I69.220 - I69.228 Sequelae of cerebrovascular disease, speech and language deficits I69.320 - I69.328 I69.820 - I69.828 I69.920 - I69.928 J02.0 Streptococcal pharyngitis J03.00 Acute streptococcal tonsillitis J03.01 Acute recurrent streptococcal tonsillitis J04.0 Acute laryngitis J04.2 Acute laryngotracheitis J05.0 Acute obstructive laryngitis [croup] J06.0 Acute laryngopharyngitis J10.1 Influenza due to other identified influenza virus with other respiratory manifestations J11.1 Influenza due to unidentified influenza virus with other respiratory manifestations R47.02 Dysphasia R47.1 Dysarthria and anarthria R47.81 - R47.89 Other speech disturbances Z51.89 Encounter for other specified aftercare [occupational therapy] Vocal cord paralysis is a voice disorder that occurs when one or both of the vocal cords (or vocal folds) do not open or close properly (NIDCD, 1999).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 17,
+      "text": "Vocal cord paralysis is a common disorder, and symptoms can range from mild to life-threatening.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 18,
+      "text": "Someone who has vocal cord paralysis often has difficulty swallowing and coughing because food or liquids slip into the trachea and lungs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 19,
+      "text": "This happens because the paralyzed cord or cords remain open, leaving the airway passage and the lungs unprotected.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 20,
+      "text": "Vocal cord paralysis may be caused by head trauma, a neurological insult such as a stroke, a neck injury, lung or thyroid cancer, a tumor pressing on a nerve, or a viral infection (NIDCD, 1999).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 21,
+      "text": "In older people, vocal cord paralysis is a common problem affecting voice production.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 22,
+      "text": "People with certain neurological conditions, such as multiple sclerosis or Parkinson's disease, or people who have had a stroke may experience vocal cord paralysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 23,
+      "text": "In many cases, however, the cause is unknown.",
+      "label": "NON_ARGUMENTATIVE"
+    }
+  ]
+}

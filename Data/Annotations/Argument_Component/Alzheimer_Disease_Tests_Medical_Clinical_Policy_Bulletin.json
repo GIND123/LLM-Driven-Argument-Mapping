@@ -1,0 +1,736 @@
+{
+  "document_id": "Alzheimer's_Disease_Tests_-_Medical_Clinical_Policy_Bulletin",
+  "source": "Aetna Clinical Policy Bulletin",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Alzheimer's Disease Tests Number: 0349 (Replaces CPB 436) Applicable CPT / HCPCS / ICD-10 Codes Scope of Policy This Clinical Policy Bulletin addresses Alzheimer's disease tests.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 2,
+      "text": "I. Medical Necessity Aetna considers the following tests medically necessary for the diagnosis or management of Alzheimer's disease (AD) when criteria are met: A. Lumbar puncture to confirm at least one of the following detected in cerebrospinal fluid (CSF) as determined by the lab assay for assessment of mild cognitive impairment (MCI) when AD is suspected: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "Presence of elevated phosphorylated tau (P-tau) protein and/or elevated total tau (T-tau) protein, and reduced beta amyloid-42 (AB42); or 2. Low AB42/AB40 ratio; or 3. Elevated P-tau/AB42 ratio; or 4.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Elevated T-tau/AB42 ratio; B. Brain magnetic resonance imaging (MRI) for any the following indications in persons on Aduhelm, Leqembi, or Kisunla therapy: see CPB 0996 - Aducanumab-avwa (Aduhelm), CPB 1026 - Lecanemab-irmb (Leqembi), or CPB 1066 - Donanemab-azbt (Kisunla). 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Within one year prior to initiating aducanumab-avwa (Aduhelm), lecanemab-irmb (Leqembi), or donanemab-azbt (Kisunla) therapy to indicate AD; or 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "To evaluate for evidence of amyloid-related imaging abnormalities (ARIA) prior to the 5th, 7th, 9th, and 12th aducanumab (Aduhelm) dose, prior to 5th, 7th, and 14th lecanemab-irmb (Leqembi) dose, or prior to 2nd dose, 3rd dose, 4th dose, and 7th donanemab-azbt (Kisunla) dose; C. For amyloid PET scan indications, see CPB 0071 - Positron Emission Tomography (PET); D. Genetic mutation testing for amyloid precursor protein (APP), presenilin-1 (PSEN1), or presenilin-2 (PSEN2) for members with MCI or mild AD dementia who are less than 50 years of age and are being considered for aducanumab (Aduhelm) or lecanemab-irmb (Leqembi) therapy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "For Aduhelm, member must be enrolled in a clinical trial.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "See CPB 0996 - Aducanumab-avwa (Aduhelm) or CPB 1026 - Lecanemab-irmb (Leqembi).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 9,
+      "text": "E. Apolipoprotein E 4 (ApoE4) testing for members with MCI or mild AD dementia being considered for aducanumab (Aduhelm), lecanemab-irmb (Leqembi), or donanemab-azbt (Kisunla) therapy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "For Aduhelm, member must be enrolled in a clinical trial.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "See CPB 0996 - Aducanumab-avwa (Aduhelm), CPB 1026 - Lecanemab-irmb, or CPB 1066 - Donanemab-azbt (Kisunla). II.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 12,
+      "text": "Experimental, Investigational, or Unproven The following tests/measurements are considered experimental, investigational, or unproven for the diagnosis and/or assessment of members with AD and related dementias (not an all-inclusive list): Apolipoprotein E (ApoE) for all other indications not listed in Section I Artificial intelligence and machine learning applications ATP-binding cassette transporter (ABCA7) Automated computerized cognitive assessment aids Bcl-2 rs956572 polymorphism testing Beta-site amyloid precursor protein cleaving enzyme 1 (BACE1) Blood neurodegenerative analytes (e.g., levels of cholesterol, ferritin and iron) as biomarkers in AD progression Cerebrospinal fluid (CSF) alpha-synuclein for prediction of early disease progression in AD) CSF chitinase enzyme activity Circadian rhythm analysis CSF golgin A4 CSF microRNAs (e.g., hsa-miR-27a-3p) CSF prion protein concentration CSF synaptic biomarkers (e.g., GAP-43, neurogranin, SNAP-25 total, SNAP-25aa40, synaptotagmin-1) CSF soluble amyloid precursor proteins (sAPP) level/CSF β-secretase activity CSF stathmin protein level CSF visinin-like protein-1 (VILIP-1) level Cognitive event-related potentials (cognitive evoked potentials) DNA methylation profiling (brain tissue or peripheral blood) Electronystagmography (in the absence of signs of vertigo or balance disorder) Evaluation of Helicobacter pylori infection for prediction of risk of AD Genetic variation of mitochondrial DNA Gustatory function testing Homocysteine (serum level) INNO-BIA AlzBio3 immunoassay kit (a multiplex immunoassay that allows simultaneous quantification of amyloid-beta, p-tau, and t-tau) Insulin degrading enzyme polymorphisms Long-term measurement of cortisol LucentAD Complete Macular thickness Microtubule-associated protein tau (MAPT) MindX Blood Test - Memory/Alzheimer's Monokine-induced gamma interferon (MIG) Morphometric imaging, protein kinase C-epsilon (PKCe), and quantitative imaging of phosphorylated Erk1 and Erk2 (e.g., Discern test; NeuroDiagnostics, LLC) N-terminal pro-brain natriuretic peptide (NT-proBNP) Olfactory screening tests Particulate matter with an aerodynamic diameter of less than or equal to 2.5 μm (PM2.5) Plasma Beta amyloid 40 (Aβ40) protein Plasma Beta amyloid 42 (Aβ42) protein Plasma clusterin level Plasma glial fibrillary acidic protein (as a biomarker for progression of AD) Plasma lipoproteome Plasma prion protein concentration Plasma tau – including phosphorylated tau (P-tau) (p-tau231, p-tau217 [e.g., ALZpath pTau217]] and/or total tau (T-tau) protein Plasma YKL-30 Pituitary adenylate cyclase-activating polypeptide (PACAP) PrecivityAD2 test Precivity-ApoE Red blood cell omega-3 fatty acid level Remote monitoring for early detection of AD Resting state eye-closed cortical electroencephalography Retinal microvascular changes (as biomarkers for early diagnosis of AD and monitoring of disease progression) Serum ceramides Serum insulin-like growth factor-1 (IGF-1; also known as somatomedin C) Serum microRNAs Serum neurofilament light concentration Serum triglycerides Syn-One test (cutaneous alpha-synuclein testing) for the diagnosis and assessment of AD and related dementias Toxoplasma gondii Transforming growth factor-beta1 (TGF-β1) TREM2 (triggering receptor expressed on myeloid cells 2) Tympanometry (in the absence of hearing loss) Urinary AD7c-NTP (neuronal thread protein/neural thread protein) Use of astrocyte biomarkers in the management of AD Videopupillography and tropicamide drop test. III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "Related Policies CPB 0071 - Positron Emission Tomography (PET) CPB 0140 - Genetic Testing CPB 0181 - Evoked Potential Studies CPB 0788 - Alzheimer's Disease: Experimental Treatments CPB 0996 - Aducanumab-avwa (Aduhelm) CPB 1026 - Lecanemab-irmb (Leqembi) CPB 1066 - Donanemab-azbt (Kisunla) Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description CPT codes covered if selection criteria are met: Code Code Description 0358U Neurology (mild cognitive impairment), analysis of B-amyloid 1-42 and 1-40, chemiluminescence enzyme immunoassay, cerebral spinal fluid, reported as positive, likely positive, or negative 0445U β-amyloid (Abeta42) and phospho tau (181P) (pTau181), electrochemiluminescent immunoassay (ECLIA) cerebral spinal fluid, ratio reported as positive or negative for amyloid pathology 0459U B-amyloid (Abeta42) and total tau (tTau), electrochemiluminescent immunoassay (ECLIA), cerebral spinal fluid, ratio reported as positive or negative for amyloid pathology 62270 Spinal puncture, lumbar, diagnostic 70551 Magnetic resonance (eg, proton) imaging, brain (including brain stem); without contrast material 70552 with contrast material(s) 70553 without contrast material, followed by contrast material(s) and further sequences 81401 Molecular pathology procedure, Level 2 (eg, 2-10 SNPs, 1 methylated variant, or 1 somatic variant [typically using nonsequencing target variant analysis], or detection of a dynamic mutation disorder/triplet repeat) [Apolipoprotein E 4(APOE4) testing] 81405 Molecular pathology procedure, Level 6 full gene sequence PSEN1 (presenilin 1) (eg, Alzheimer disease) 81406 Molecular pathology procedure, Level 7 full gene sequence APP (amyloid beta [A4] precursor protein) (eg, Alzheimer disease), full gene sequence PSEN2 (presenilin 2 [Alzheimer disease 4]) (eg, Alzheimer disease) 82233 Beta-amyloid; 1-40 (Abeta 40) [not covered for plasma Beta amyloid (Aβ40 and Aβ42)] 82234 Beta-amyloid; 1-42 (Abeta 42)[not covered for plasma Beta amyloid (Aβ40 and Aβ42)] 82542 Column chromatography, includes mass spectrometry, if performed (eg, HPLC, LC, LC/MS, LC/MS-MS, GC, GC/MS-MS, GC/MS, HPLC/MS), non-drug analyte(s) not elsewhere specified, qualitative or quantitative, each specimen [Apolipoprotein E 4 (APOE4) testing] 83520 Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative, not otherwise specified [ATP-binding cassette transporter (ABCA7) test, cerebrospinal fluid microRNAs, cerebrospinal fluid prion protein concentration, plasma prion protein concentration or transforming growth factor- beta1, simultaneous quantification of amyloid-beta, p-tau, t-tau, CSF neurogranin, and plasma tau][cerebrospinal fluid (CSF) synaptic biomarkers (e.g., GAP-43, SNAP-25 total, SNAP-25aa40, synaptotagmin-1)] [plasma p-tau231] 84393 Tau, phosphorylated (eg, pTau 181, pTau 217), each [not covered for plasma tau (phosphorylated tau and total tau protein)] 84394 Tau, total (tTau) [not covered for plasma tau (phosphorylated tau and total tau protein)] CPT codes not covered for indications listed in the CPB: Bcl-2 rs956572 polymorphism testing, Resting state eye-closed cortical electroencephalography, Cerebrospinal fluid (CSF) golgin A4 testing, plasma lipoproteome, particulate matter with an aerodynamic diameter of less than or equal to 2.5μm (PM2.5), plasma glial fibrillary acidic protein, syn- one test, artificial intelligence and machine learning applications, gustatory function testing, plasma YKL-30, monokine-induced gamma interferon (MIG) and PrecivityAD2 test, evaluation of Helicobacter pylori infection, remote monitoring for early detection of AD - no specific code Code Code Description 0206U Neurology (Alzheimer disease); cell aggregation using morphometric imaging and protein kinase C-epsilon (PKCe) concentration in response to amylospheroid treatment by ELISA, cultured skin fibroblasts, each reported as positive or negative for Alzheimer disease +0207U Disease quantitative imaging of phosphorylated ERK1 and ERK2 in response to bradykinin treatment by in situ immunofluorescence, using cultured skin fibroblasts, reported as a probability index for Alzheimer disease (List separately in addition to code for primary procedure) 0289U Neurology (Alzheimer disease), mRNA, gene expression profiling by RNA sequencing of 24 genes, whole blood, algorithm reported as predictive risk score 0393U Neurology (eg, Parkinson disease, dementia with Lewy bodies), cerebrospinal fluid (CSF), detection of misfolded α-synuclein protein by seed amplification assay, qualitative 0412U Beta amyloid, AB42/40 ratio, immunoprecipitation with quantitation by liquid chromatography with tandem mass spectrometry (LC-MS/MS) and qualitative ApoE isoform-specific proteotyping, plasma combined with age, algorithm reported as presence or absence of brain amyloid pathology 0479U Tau, phosphorylated, pTau217 0503U Neurology (Alzheimer disease), beta amyloid (Aβ40, Aβ42, Aβ42/40 ratio) and tau- protein (ptau217, np-tau217, ptau217/np- tau217 ratio), blood, immunoprecipitation with quantitation by liquid chromatography with tandem mass spectrometry (LC- MS/MS), algorithm score reported as likelihood of positive or negative for amyloid plaques 0568U Neurology (dementia), beta amyloid (AB40, AB42, AB42/40 ratio), tau-protein phosphorylated at residue (eg, pTau217), neurofilament light chain (NfL), and glial fibrillary acidic protein (GFAP), by ultra-high sensitivity molecule array detection, plasma, algorithm reported as positive, intermediate, or negative for Alzheimer pathology 0596U Neurology (Alzheimer disease), plasma, 3 distinct isoform-specific peptides (APOE2, APOE3, and APOE4) by liquid chromatography with tandem mass spectrometry (LC- MS/MS), reported as an APOE prototype 0551U Tau, phosphorylated, pTau217, by single-molecule array (ultrasensitive digital protein detection), using plasma 0568U Neurology (dementia), beta amyloid (Aβ40, Aβ42, Aβ42/40 ratio), tau-protein phosphorylated at residue (eg, pTau217), neurofilament light chain (NfL), and glial fibrillary acidic protein (GFAP), by ultra-high sensitivity molecule array detection, plasma, algorithm reported as positive, intermediate, or negative for Alzheimer pathology 82172 Apolipoprotein, each 82465 Cholesterol, serum or whole blood, total 82530 Cortisol; free [long-term measurement of cortisol] 82533 Cortisol; total [long-term measurement of cortisol] 82728 Ferritin 83090 Homocysteine 83540 Iron 83880 Natriuretic peptide 83884 Neurofilament light chain (NfL) 84305 Somatomedin 84478 Triglycerides 86777 Antibody; Toxoplasma 86778 Antibody; Toxoplasma, IgM Code Code Description 92134 Scanning computerized ophthalmic diagnostic imaging, posterior segment, with interpretation and report, unilateral or bilateral; retina 92540 Basic vestibular evaluation, includes spontaneous nystagmus test with eccentric gaze fixation nystagmus, with recording, positional nystagmus test, minimum of 4 positions, with recording, optokinetic nystagmust test, bidirectional foveal and peripheral stimulation, with recording, and oscillating tracking test, with recording 92541 - 92548 Vestibular function tests, with recording (e.g., ENG, PENG), and medical diagnostic evaluation [in the absence of signs of vertigo or balance disorder] 92550 Tympanometry and reflex threshold measurements 92567 Tympanometry (impedance testing) [in the absence of hearing loss] 92568 - 92569 Acoustic reflex testing [in the absence of hearing loss] 92570 Acoustic immittance testing, includes tympanometry (impedance testing), acoustic reflex threshold testing, and acoustic reflex decay testing Other CPT codes related to the CPB: 78608 Brain imaging, positron emission tomography (PET); metabolic evaluation 88271 - 88275 Molecular cytogenetics HCPCS codes covered if selection criteria are met: S3852 DNA analysis for APOE epsilon 4 allele for susceptibility to Alzheimer's disease HCPCS codes not covered for indications listed in the CPB: Automated Computerized Cognitive Assessment Aids - no specific code Other HCPCS codes related to the CPB: A9586 Florbetapir f18, diagnostic, per study dose, up to 10 millicuries A9598 Positron emission tomography radiopharmaceutical, diagnostic, for non-tumor identification, not otherwise classified J0172 Injection, aducanumab-avwa, 2 mg J0174 Injection, lecanemab-irmb, 1 mg J0175 Injection, donanemab-azbt, 2 mg Q9982 Flutemetamol F18, diagnostic, per study dose, up to 5 millicuries ICD-10 codes covered if selection criteria are met: F01.50 - F03.C4 Dementia [For age less than 50 years] G30.0 - G30.9 Alzheimer's disease G31.84 Mild cognitive impairment, so stated I68.0 Cerebral amyloid angiopathy R90.89 Other abnormal findings on diagnostic imaging of central nervous system R94.02 Abnormal brain scan ICD-10 codes not covered for indications listed in the CPB (not all-inclusive): Code Code Description F07.0 - F07.9 Personality and behavioral disorders due to known physiological condition H35.09 Other intraretinal microvascular abnormalities R41.1 - R41.3 Amnesia R43.0 - R43.9 Disturbances of smell and taste Z13.858 Encounter for screening for other nervous system disorders [screening for dementia] Z82.0 Family history of epilepsy and other diseases of the nervous system [family history of Alzheimer's disease] Alzheimer disease (AD) is the most common form of dementia.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "It is a neurologic condition characterized by loss of mental ability severe enough to interfere with normal activities of daily living, lasting at least six months and not present from birth.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 15,
+      "text": "AD usually occurs in adulthood and is marked by a decline in cognitive functions such as remembering, reasoning and planning.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 16,
+      "text": "The diagnosis of AD is a clinical diagnosis, focusing on the exclusion of other causes of senile dementia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 17,
+      "text": "Both the tau and BA-42 molecules are components of the neurofibrillary tangles associated with AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 18,
+      "text": "Levels of these molecules found in the cerebro-spinal fluid (CSF) have been investigated as a diagnostic test for AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 19,
+      "text": "Additionally, there is an association between the apolipoprotein E (apoE) epsilon 4 genotype and AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 20,
+      "text": "The apoE genotype consists of one of several different combinations of the 3 different alleles, which are labeled 2, 3 or 4.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 21,
+      "text": "It has been shown that the presence of one allele (apoE4) is over-represented in patients with late onset AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 22,
+      "text": "There is inadequate data regarding the positive and negative predictive values of CSF levels of tau and BA- 42 in the diagnosis of AD in patients with clinical symptoms consistent with possible AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 23,
+      "text": "While the presence of an apoE4 allele may be associated with an increased risk of AD, the associated positive and negative predictive values are inadequate to validate apoE genotyping as a diagnostic test for AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 24,
+      "text": "Additionally, there is no information regarding how such testing would influence the management of the patient.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 25,
+      "text": "A high positive predictive value may not be clinically useful since the diagnosis can be made clinically.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 26,
+      "text": "The Agency for Health Care Policy and Research Clinical Practice Guideline addressed the diagnosis and assessment of AD and related dementias.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 27,
+      "text": "The guideline stated that \"it is not yet possible to depend on apoE genotyping for definitive guidance about diagnosis or treatment of Alzheimer's disease\" (Costa et al, 1996).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 28,
+      "text": "Furthermore, the algorithm presented in the Guideline for the recognition and initial assessment of AD did not incorporate measurement of CSF levels of the peptides tau and BA-42.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 29,
+      "text": "The Alzheimer's Disease Guidelines Panel concluded that the role of these markers in the diagnosis and management of patients with AD are questions for further research.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 30,
+      "text": "Genetic tests are laboratory studies of human deoxyribonucleic acid (DNA), chromosomes, genes or gene products to diagnose the presence of a variation associated with a high risk of having or transmitting a specific genetic disorder.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 31,
+      "text": "Genetic screening for persons who may be at high risk for AD, such as those with the apolipoprotein E 4 gene locus on chromosome 19, is a highly debated issue, particularly because currently no demonstrated intervention can prevent or delay the dementing process, and no evidence exists about predicting age of onset for person with this genotype.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 32,
+      "text": "Identifiable genetic mutations are rare causes of AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 33,
+      "text": "Persons with early onset of AD (before age 65) may show an autosomal dominant pattern of inheritance.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 34,
+      "text": "Nearly all of the autosomal dominant familial forms of AD are related to mutations in one of three different genes: mutations of the amyloid precursor protein (APP) gene on chromosome 21 and genes encoding presenilin 1 (PS1) on chromosome 14 and presenilin 2 (PS2) on chromosome 1.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 35,
+      "text": "However, only 2 to 10 % of all persons with AD have early onset disease, and genetic mutations have been identified in 30 to 50 % of these patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 36,
+      "text": "In addition, although detection of genetic mutations may have prognostic significance, there is no evidence that genetic testing for AD would alter the management of patients such that clinical outcomes are improved.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 37,
+      "text": "The PS-1 DNA Sequencing Test, replacing the Symptomatic PS-1 Analysis and Interpretation Test (Athena Diagnostics), is used for evaluating patients with progressive demential with onset before age 65 with a positive family history of early-onset AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 38,
+      "text": "It detects sequence variations in the presenilin 1 (PS-1) gene by means of polymerase chain reaction and DNA sequencing.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 39,
+      "text": "However, there is insufficient evidence to support its clinical value at this time.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 40,
+      "text": "Efforts to develop biologic markers for the presence of AD, such as tests that could be performed on samples of blood or CSF, are important research topics for confirming a suspected diagnosis of AD.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 41,
+      "text": "According to the Canadian Consensus Conference on Dementia (1999) and the American Academy of Neurology's practice parameter on Diagnosis of Dementia (2001), the usefulness of tests for tau, BA-42, and apoE for the diagnosis of AD has not been established.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 42,
+      "text": "The AD-associated neuronal thread protein (AD7c-NTP) gene encodes an approximately 41 kD membrane- spanning phosphoprotein that causes apoptosis and neuritic sprouting in transfected neuronal cells.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 43,
+      "text": "The AD7c-NTP gene is over-expressed in AD beginning early in the course of disease.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 44,
+      "text": "The levels of neuronal thread protein in post-mortem brain tissue correlate with the levels measured in paired ventricular fluid samples, suggesting that the protein is secreted or released by dying cells into CSF.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 45,
+      "text": "Recent studies have suggested that urine test for AD7c-NTP could be used to assess the risk of developing AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 46,
+      "text": "de la Monte and Wands (2002) reported that elevated levels of AD7c-NTP can be detected in both CSF and urine of patients with early or moderately severe AD, and the CSF and urinary levels of AD7c-NTP correlate with the severity of dementia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 47,
+      "text": "The authors reported that the newest configuration of the AD7c-NTP assay, termed \"7c Gold\", has greater than 90 % sensitivity and specificity for detecting early AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 48,
+      "text": "Munzar et al (2002) reported that the competitive enzyme-linked immuno-sorbent assay (ELISA)-format AD7C-NTP test in urine is an accurate method for determining AD7c-NTP levels in AD and could be used as a biochemical marker for AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 49,
+      "text": "Additional studies are needed to validate these preliminary results and to demonstrate the impact of AD7c- NTP screening on clinical outcomes.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 50,
+      "text": "In a 2001 American Academy of Neurology's practice parameter for the diagnosis of dementia (Knopman et al, 2001) stated that \"no laboratory tests have yet emerged that are appropriate for routine use in the clinical evaluation of patients with suspected AD\".",
+      "label": "PREMISE"
+    },
+    {
+      "id": 51,
+      "text": "The practice parameter concluded that further research is needed to improve clinical definitions of dementia and its subtypes, as well as to determine the utility of various instruments of neuroimaging, biomarkers, and genetic testing in increasing diagnostic accuracy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 52,
+      "text": "The tropicamide drop test has been proposed as a rapid, non-invasive method for the early diagnosis of AD based on the observation that patients with AD exhibit greater pupillary dilation following administration of a diluted solution (0.01 %) of the cholinergic antagonist, tropicamide.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 53,
+      "text": "However, subsequent studies reported that pupillary response to tropicamide does not differentiate between AD patients and healthy subjects.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 54,
+      "text": "The tropicamide drop test is associated with high individual variability in the pupillary response to topically applied drugs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 55,
+      "text": "Furthermore, the reliability (test-retest) of the tropicamide drop test is questionable.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 56,
+      "text": "Mild cognitive impairment is a transition period between physiological aging and dementia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 57,
+      "text": "Each year more than 12 % of individuals with mild cognitive impairment develop AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 58,
+      "text": "In a controlled study, Eibenstein and colleagues (2005) assessed the presence of an olfactory deficit in patients with amnesic mild cognitive impairment (aMCI).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 59,
+      "text": "A total of 29 subjects diagnosed with aMCI and a homogeneous control group of 29 subjects were enrolled in the study.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 60,
+      "text": "Olfactory function was assessed by the Sniffin' Sticks Screening Test (SSST) and the Mini Mental State Examination, the Clinical Dementia Rating, the Geriatric Depression Scale and the Mental Deterioration Battery were used to evaluate the neurocognitive status.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 61,
+      "text": "Individuals with aMCI showed a significant impairment of their olfactory identification compared to controls (SSST score: 8.3 +/- 2.1 versus 10.8 +/- 0.9; p < 0.001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 62,
+      "text": "These results suggested that olfactory tests should be part of the diagnostic armamentarium of pre-clinical dementia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 63,
+      "text": "They noted that a long-term follow-up might confirm the olfactory identification function as an early and reliable marker in the diagnosis of pre-clinical dementia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 64,
+      "text": "Hampel and Shen (2009) noted that AD is characterized by the progressive formation of insoluble amyloid plaques and vascular deposits consisting of the amyloid beta-peptide (Abeta) in the brain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 65,
+      "text": "Pathological mechanisms are already active early in the pre-symptomatic stage of AD.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 66,
+      "text": "Beta-site amyloid precursor protein cleaving enzyme 1 (BACE1), also known as beta-secretase, is one of the 2 key enzymes in APP processing; the other being gamma-secretase.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 67,
+      "text": "The Abeta peptide results from cleavage of APP initially by BACE1 to produce the C99 fragment and releases soluble APPbeta (sAPPbeta); C99 is then further cleaved by gamma-secretase leading to the Abeta peptide.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 68,
+      "text": "Increased BACE1 activity and elevated levels of insoluble Abeta peptide have been shown in brain tissue of patients with sporadic AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 69,
+      "text": "Since the CSF is in direct contact with the extra-cellular space of the central nervous system, biochemical changes in the brain can potentially be reflected in CSF.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 70,
+      "text": "Thus, CSF-based detection of BACE1 levels and activity might be valuable in aiding early detection and prediction, particularly in pre-clinical or even pre-symptomatic subjects who are at risk of AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 71,
+      "text": "Recently, these researchers were among the first groups to quantitatively analyze the enzymatic activities and protein levels of BACE1 in the CSF.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 72,
+      "text": "Preliminary research using recently developed BACE1 ELISAs, BACE1 enzymatic activity, sAPPbeta and total Abeta1-x ELISAs were used by examining these hypothesis driven functional candidate markers in subjects with clinically diagnosed AD and amnestic mild cognitive impairment (MCI).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 73,
+      "text": "Two sandwich ELISAs were used and BACE1 enzymatic activities were seen by synthetic fluorescence substrate and total Abeta levels by sandwich-ELISA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 74,
+      "text": "Moreover, elevated CSF levels of BACE1 protein were associated with an increased risk ratio in MCI.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "Interestingly, amnestic MCI subjects showed increased levels of BACE1 activity compared to healthy controls (HC) and AD patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 76,
+      "text": "For total Abeta and tau, increased CSF levels were associated with a higher risk of MCI compared to HC as well.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 77,
+      "text": "BACE1 activity was significantly correlated with BACE1 protein concentration and total Abeta levels, with Abeta being itself correlated with the BACE1 protein level.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 78,
+      "text": "The authors concluded that currently, independent studies are ongoing to validate BACE1 and functionally associated proteins as candidate biomarkers for early detection, prediction, progression as well as for biological activity in AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 79,
+      "text": "Schmand and colleagues (2010) noted that abnormal levels of biomarkers in CSF and atrophy of medial temporal lobe (MTL) structures on magnetic resonance imaging (MRI) are being used increasingly to diagnose early AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 80,
+      "text": "These investigators evaluated the claim that these biomarkers can detect pre-clinical AD before behavioral (i.e., memory) symptoms arise.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 81,
+      "text": "They included all relevant longitudinal studies of CSF and MRI biomarkers published between January 2003 and November 2008.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 82,
+      "text": "Subjects were not demented at baseline but some declined to MCI or to AD during follow-up.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 83,
+      "text": "Measures of tau and beta-amyloid in CSF, MTL atrophy on MRI, and performance on delayed memory tasks were extracted from the papers or obtained from the investigators.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 84,
+      "text": "A total of 21 MRI studies and 14 CSF studies were retrieved.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 85,
+      "text": "The effect sizes of total tau, phosphorylated tau and amyloid beta 42 ranged from 0.91 to 1.11.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 86,
+      "text": "The effect size of MTL atrophy was 0.75.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 87,
+      "text": "Memory performance had an effect size of 1.06.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 88,
+      "text": "Atrophy of MTL and memory impairment tended to increase when assessed closer to the moment of diagnosis, whereas effect sizes of CSF biomarkers tended to increase when assessed longer before the diagnosis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 89,
+      "text": "The authors concluded that memory impairment is a more accurate predictor of early AD than atrophy of MTL on MRI, whereas CSF abnormalities and memory impairment are about equally predictive.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 90,
+      "text": "Consequently, the CSF and MRI biomarkers are not very sensitive to pre-clinical AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 91,
+      "text": "Cerebro-spinal fluid markers remain promising, but studies with long follow-up periods in elderly subjects who are normal at baseline are needed to evaluate this promise.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 92,
+      "text": "In a cross-sectional study, Carlesimo et al (2010) examined the relationship between age-related memory decline and MRI hippocampal anatomical changes in a cohort of healthy individuals.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 93,
+      "text": "A total of 76 healthy individuals (44 males and 32 females), ranging in age from 20 to 80 years, were recruited.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 94,
+      "text": "These individuals were submitted to a 3-T MRI protocol with a whole-brain T1-weighted and diffusion-weighted scanning and a neuropsychological assessment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 95,
+      "text": "For each subject, these researchers calculated the volumes of the total brain (gray + white matter) and hippocampi.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 96,
+      "text": "The segmented hippocampi defined the binary masks where mean values of mean diffusivity (MD) and fractional anisotropy (FA) were calculated.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 97,
+      "text": "Neuropsychological evaluation included tests of verbal memory (15-min delayed recall of a 15-word list) and visuospatial memory (20-min delayed reproduction of Rey complex figure).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 98,
+      "text": "Hippocampal MD, but not hippocampal FA, hippocampal volume, or total brain volume, predicted performance of individuals beyond their 50s on tests of verbal as well as visuo-spatial memory.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 99,
+      "text": "The author concluded that high mean diffusivity values in the hippocampal formation of healthy elderly individuals predict memory decline, as reflected by performance on tests of declarative verbal and visual-spatial memory.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 100,
+      "text": "In the present study, none of the subjects fulfilled the clinical or neuropsychological criteria for MCI.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 101,
+      "text": "Nevertheless, in a number of subjects beyond their 50s, high MD values in the hippocampal formation were accompanied by performance scores that were not truly pathological, but fell in the lower portion of the normal range on tests of declarative memory.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 102,
+      "text": "The relevant question is if these individuals represent a very early stage in the progression of AD, anterior to the development of an aMCI, or whether, instead, they represent the lower portion of the normal distribution formed by aged individuals who will not develop dementia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 103,
+      "text": "The authors stated that longitudinal studies that follow the outcome of these individuals are needed to discriminate between these 2 alternative hypotheses.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 104,
+      "text": "In an editorial that accompanied the afore-mentioned article, Schuff (2010) noted that these findings by Carlesimo et al raise several important issues such as I. they imply that memory deficits in healthy individuals have a biologic underpinning without apparent tissue loss, though the processes underlying the variations in diffusivity are largely unclear, and II.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 105,
+      "text": "alterations in the brain's microstructure may potentially provide new clues for a separation of normal aging from pathology.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 106,
+      "text": "However, unless prospective studies are conducted, the issue remains open whether mean diffusivity is better as early predictor of AD than volume.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 107,
+      "text": "It also would be premature to dismiss the value of anatomical MRI, because new developments in MRI have led to improvements in mapping the anatomy of the hippocampus, including differentiation of the subfields.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 108,
+      "text": "Hooshmand et al (2010) examined the relation between serum levels of homocysteine (tHcy) and holotranscobalamin (holoTC), the active fraction of vitamin B12, and risk of incident AD in a sample of Finnish community-dwelling elderly.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 109,
+      "text": "A dementia-free sample of 271 subjects aged 65 to 79 years derived from the Cardiovascular Risk Factors, Aging, and Dementia (CAIDE) study was followed-up for 7 years to detect incident AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 110,
+      "text": "The association between serum tHcy and holoTC with AD was analyzed with multiple logistic regression after adjusting for several potential confounders, including common vascular risk factors.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 111,
+      "text": "The odds ratios (ORs) (95 % confidence interval [CI]) for AD were 1.16 (1.04 to 1.31) per increase of 1 μmol/L of tHcy at baseline and 0.980 (0.965 to 0.995) for each increase of 1 pmol/L baseline holoTC.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 112,
+      "text": "Adjustment for several potential confounders including age, sex, education, APOE ε4 allele, body mass index, Mini-Mental State Examination, smoking, stroke, and blood pressure did not alter the associations: ORs (95 % CI) for AD became 1.19 (1.01 to 1.39) for tHcy and 0.977 (0.958 to 0.997) for holoTC.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 113,
+      "text": "Adjusting for holoTC attenuated the tHcy-AD link (OR changed from 1.16 to 1.10, 95 % CI: 0.96 to 1.25).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 114,
+      "text": "The holoTC-AD relationship was less influenced by controlling for tHcy (OR changed from 0.980 to 0.984, 95 % CI: 0.968 to 1.000).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 115,
+      "text": "Addition of folate did not change any of the results.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 116,
+      "text": "The authors concluded that these findings suggested that both tHcy and holoTC may be involved in the development of AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 117,
+      "text": "The tHcy- AD link may be partly explained by serum holoTC.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 118,
+      "text": "The authors stated that the role of holoTC in AD should be further investigated; further studies on the role of sensitive markers of B12 status in identifying individuals who are at increased risk of AD are needed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 119,
+      "text": "In an editorial that accompanied the afore-mentioned study, Seshadri (2010) stated that observational studies and larger clinical trials are indicated, targeting older persons with MCI, simultaneously assessing holoTC (and B12) and plasma tHcy (and folate, methylmalonic acid).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 120,
+      "text": "Careful examination of the evidence is needed to ascertain who is the perpetrator in the complex pathology of AD and other dementias.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 121,
+      "text": "Perneczky et al (2011) examined if soluble amyloid precursor proteins (sAPP) in CSF improve the identification of patients with incipient AD in a group of patients with MCI.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 122,
+      "text": "A cohort study with follow-up assessments of 58 patients with MCI with baseline CSF sampling was conducted: 21 patients had progressed to probable AD (MCI-AD), 27 still had MCI, 8 had reverted to normal (MCI-NAD), and 2 patients with fronto-temporal dementia (FTD) were excluded.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 123,
+      "text": "Sixteen additional patients with FTD were included to explore the specificity of the CSF markers.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 124,
+      "text": "Cerebro-spinal fluid concentrations of sAPPα, sAPPβ, tau, and Aβ(1-42) were measured with sensitive and specific ELISAs.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 125,
+      "text": "Associations between diagnostic status, CSF protein concentrations, and other patient characteristics were explored using multiple logistic regression analyses with stepwise variable selection.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 126,
+      "text": "The optimal sensitivity and specificity of the best models were derived from receiver operating characteristic curves.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 127,
+      "text": "The MCI-AD group had significantly higher sAPPβ concentrations than the MCI-NAD and the FTD groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 128,
+      "text": "A combination of sAPPβ, tau, and age differentiated the MCI-AD and the MCI-NAD groups with a sensitivity of 80.0 % and a specificity of 81.0 %.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 129,
+      "text": "The best model for the differentiation of the MCI-AD and the FTD groups included sAPPβ and tau, and showed a sensitivity of 95.2 % and a specificity of 81.2 %.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 130,
+      "text": "Aβ(1-42) and sAPPα did not significantly contribute to the models.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 131,
+      "text": "The authors concluded that these findings suggested that sAPPβ may be clinically useful, and superior to Aβ(1-42), in the early and differential diagnosis of incipient AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 132,
+      "text": "Limitations of this study included patient recruitment at a specialized memory clinic, which may restrict the generalization of the results to the general population with incipient AD and the lack of pathologic confirmation of AD and FTD.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 133,
+      "text": "Also, the recruitment of a modest number of patients and the relatively short follow-up period may have under-estimated the predictive value of sAPPβ.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 134,
+      "text": "The authors stated that replications of these findings in larger multi-center studies are needed.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 135,
+      "text": "Further studies are needed to examine the clinical value of sAPPβ for the differentiation of AD from healthy aging and from other neurodegenerative disorders, and to investigate its use as a marker for anti-amyloid treatment response.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 136,
+      "text": "In a case-cohort study, Schrijvers et al (2011) evaluated the potential of plasma clusterin as a biomarker of the presence, severity, and risk of AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 137,
+      "text": "Plasma levels of clusterin were measured at baseline (1997 to 1999) in 60 individuals with prevalent AD, a random subcohort of 926 participants, and an additional 156 participants diagnosed with AD during follow-up until January 1, 2007 (mean [SD], 7.2 [2.3] years).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 138,
+      "text": "Main outcome measures included prevalent AD, severity of AD measured by the Mini-Mental State Examination (MMSE) score, and the risk of developing AD during follow-up.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 139,
+      "text": "The likelihood of prevalent AD increased with increasing plasma levels of clusterin (OR per SD increase of plasma clusterin level, 1.63; 95 % CI: 1.21 to 2.20; adjusted for age, sex, education level, apolipoprotein E status, diabetes, smoking, coronary heart disease, and hypertension).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 140,
+      "text": "Among patients with AD, higher clusterin levels were associated with more severe disease (adjusted difference in MMSE score per SD increase in clusterin levels, -1.36; 95 % CI: -2.70 to -0.02; p = 0.047).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 141,
+      "text": "Plasma clusterin levels were not related to the risk of incident AD during total follow- up (adjusted hazard ratio [HR], 1.00; 95 % CI: 0.85 to 1.17; p for trend = 0.77) or within 3 years of baseline (adjusted HR, 1.09; 95 % CI: 0.84 to1.42; p for trend = 0.65).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 142,
+      "text": "The authors concluded that plasma clusterin levels were significantly associated with baseline prevalence and severity of AD, but not with incidence of AD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 143,
+      "text": "They stated that increased clusterin levels do not precede development of AD and thus are not a potential early marker of subclinical disease.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 144,
+      "text": "Tan and colleagues (2012) stated that higher dietary intake and circulating levels of docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA) have been related to a reduced risk for dementia, but the pathways underlying this association remain unclear.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 145,
+      "text": "These investigators examined the cross-sectional relation of red blood cell (RBC) fatty acid levels to subclinical imaging and cognitive markers of dementia risk in a middle- aged to elderly community-based cohort.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 146,
+      "text": "They related RBC DHA and EPA levels in dementia-free Framingham Study participants (n = 1,575; 854 women, age 67 +/- 9 years) to performance on",
+      "label": "PREMISE"
+    }
+  ]
+}

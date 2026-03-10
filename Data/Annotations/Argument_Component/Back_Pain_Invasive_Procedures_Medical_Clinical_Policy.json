@@ -1,0 +1,1036 @@
+{
+  "document_id": "Back_Pain_-_Invasive_Procedures_-_Medical_Clinical_Policy_Bu",
+  "source": "Aetna Clinical Policy Bulletin",
+  "sentences": [
+    {
+      "id": 2,
+      "text": "Note: Precertification may be required for select procedures and interventions.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 3,
+      "text": "Use the CPT code search tool to see if precertification is required.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 4,
+      "text": "I. Medical Necessity Aetna considers any of the following injections or procedure medically necessary for the treatment of back pain; provided that only one invasive modality or procedure will be considered medically necessary at a time. A. Facet joint injections 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "An initial facet injection (intra-articular and medial branch block) from C2-3 to L5-S1 is considered medically necessary for the diagnosis of facet pain in persons with severe chronic neck and back pain when the following criteria are met: a. Member has symptoms suggestive of facet joint syndrome (symptoms of facet joint syndrome include absence of radiculopathy, pain that is aggravated by extension, rotation or lateral bending of the spine and is not typically associated with any neurological deficits); and b. Facet mediated pain is confirmed by provocative testing on physical examination (to confirm that pain is exacerbated by extension and rotation); and c. Imaging studies suggest no other obvious cause of pain (such as fracture, tumor, infection, or significant extraspinal lesion); and d. Pain limits daily activities; and e. Pain has lasted more than 3 months; and f. Pain has persisted despite six or more weeks of conservative treatment (including, systemic medications, and/or physical therapy); and g. Radiofrequency facet neurolysis is being considered. 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Injection of no more than three (3) facet joint levels are considered medically necessary during the same session/procedure.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "These may be performed bilaterally during the same session for a total of up to six injections. 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "A second diagnostic facet injection (intraarticular and medial branch block) is considered medically necessary to confirm the validity of the clinical response to the initial facet injection when it is administered at the same level as the initial facet injection, and where the initial facet injection produced a positive response (i.e., resulted in an 80% relief of facet mediated pain for at least the expected minimum duration of the effect of the local anesthetic).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "If the initial injection did not produce a positive response, a second diagnostic injection is considered not medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Additional sets of facet injections or medial branch blocks at the same levels and side are considered experimental, investigational, or unproven because they have no proven value.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "Aetna considers diagnostic facet joint injections not medically necessary where radiofrequency facet neurolysis is not being considered.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "Diagnostic facet joint injections are considered experimental, investigational, or unproven for neck and back pain with untreated radiculopathy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "Facet joint injections are considered experimental, investigational, or unproven as therapy for back and neck pain and for all other indications because their effectiveness for these indications has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "Note: Facet joint injections (intra-articular and medial branch blocks) containing corticosteroids are considered therapeutic injections.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "Aetna considers ultrasound guidance of facet injections experimental, investigational, or unproven because of insufficient evidence of its effectiveness.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 16,
+      "text": "B. Trigger point injections Aetna considers trigger point injections of normal saline, corticosteroids and/or local anesthetics medically necessary for treating members with chronic neck or back pain or myofascial pain syndrome when all of the following selection criteria are met: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 17,
+      "text": "Conservative treatment such as bed rest, exercises, heating or cooling modalities, massage, and pharmacotherapies such as non-steroidal anti-inflammatory drugs (NSAIDS), muscle relaxants, non-narcotic analgesics, should have been tried and failed, and 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 18,
+      "text": "Symptoms have persisted for more than 3 months, and 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "Trigger points have been identified by palpation; and 4.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 20,
+      "text": "Trigger point injections are not administered in isolation, but are provided as part of a comprehensive pain management program, including physical therapy, patient education, psychosocial support, and oral medication where appropriate.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 21,
+      "text": "A trigger point is defined as a specific point or area where, if stimulated by touch or pressure, a painful response will be induced.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 22,
+      "text": "A set of trigger point injections means injections in several trigger points in one sitting.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 23,
+      "text": "Up to 4 sets of injections are considered medically necessary to diagnose the origin of a patient's pain and achieve a therapeutic effect; additional sets of trigger point injections are not considered medically necessary if no clinical response is achieved.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 24,
+      "text": "It is not considered medically necessary to repeat injections for this indication more frequently than every 7 days.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 25,
+      "text": "Once a diagnosis is established and a therapeutic effect is achieved, it is rarely considered medically necessary to repeat trigger point injections more frequently than once every 2 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 26,
+      "text": "Repeated injections extending beyond 12 months may be reviewed for continued medical necessity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 27,
+      "text": "Trigger point injections are considered experimental, investigational, or unproven for all other indications because their effectiveness for indications other than the ones listed above has not been established.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 28,
+      "text": "Aetna considers ultrasound or electromyography (EMG) guidance of trigger point injections experimental, investigational or unproven because of insufficient evidence of its effectiveness.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 29,
+      "text": "For acupuncture and dry needling, see CPB 0135 - Acupuncture and Dry Needling. C. Sacroiliac joint injections 1.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 30,
+      "text": "Aetna considers sacroiliac joint injections medically necessary to relieve pain associated with lower lumbosacral disturbances in members who meet all of the following criteria: a. Member has sacroiliac joint (SIJ) pain for greater than 3 months; and b. Member has pain at or close to the posterior superior iliac spine (PSIS) with possible radiation into buttocks, posterior thigh, or groin and can point to the location of pain (Fortin Finger Test); and c. Member has at least 3 of 5 physical examination maneuvers specific for SI joint pain: i. Compression ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 31,
+      "text": "Posterior Pelvic Pain Provocation test - P4 (Thigh Thrust) iii. Patrick's test (Fabere) iv.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 32,
+      "text": "Sacroiliac distraction test v. Gaenslen's test; and d. Other causes of low back pain have been ruled out, including lumbar disc degeneration, lumbar disc herniation, lumbar spondylolisthesis, lumbar spinal stenosis, lumbar facet degeneration, and lumbar vertebral body fracture; and e. Member has tried 6 weeks of adequate forms of conservative treatment with little or no response, including pharmacotherapy (e.g., NSAIDS), activity modification, and active therapy (including physical therapy where appropriate); and f. The injections are not used in isolation, but are provided as part of a comprehensive pain management program, including physical therapy, education, psychosocial support, and oral medication where appropriate. 2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 33,
+      "text": "Up to 2 therapeutic / diagnostic sacroiliac injections are considered medically necessary to diagnose the member's pain and achieve a therapeutic effect.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 34,
+      "text": "It is not considered medically necessary to repeat these therapeutic / diagnostic injections more frequently than once every 7 days. 3.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 35,
+      "text": "Additional therapeutic sacroiliac injections are considered medically necessary if the member has improvement in lower back pain numeric rating scale (NRS) of at least 70% of the pre-injection NRS score after fluoroscopic or CT controlled injection of local anesthetic with or without steroid into affected SI joint.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 36,
+      "text": "If the member experiences less than a 70% reduction of pain for the expected duration of the anesthetic, additional sacroiliac joint injections are not considered medically necessary. 4.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 37,
+      "text": "Once the diagnosis is established, up to four therapeutic sacroiliac injections, repeated no more frequently than once every 7 days, are considered medically necessary every 12 months.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 38,
+      "text": "Ultrasound guidance of sacroiliac joint injections is considered not medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 39,
+      "text": "Sacroiliac joint injections are considered experimental, investigational, or unproven for all other indications because their effectiveness for indications other than the ones listed above has not been established.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 40,
+      "text": "D. Interlaminar epidural injections Aetna considers interlaminar epidural injections of corticosteroid preparations (e.g., Depo- Medrol), with or without added anesthetic agents, medically necessary for the following: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 41,
+      "text": "In the outpatient setting for management of members with radiculopathy or sciatica when all of the following are met: a. Pain is radicular in nature (radicular signs may include, but are not limited to, a positive straight leg raise or a dermatomal pattern of sensory loss).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 42,
+      "text": "Note: In low back pain, radicular means pain and/or numbness that radiates below the knee; in neck pain, it is pain, numbness or weakness in the shoulder, arm, wrist, or hand; and b. Intraspinal tumor or other space-occupying lesion, or non-spinal origin for pain, has been ruled out as the cause of pain: Where indicated for evaluating lumbar, cervical or thoracic pain, advanced diagnostic imaging should be performed within 24 months prior to initiating intralaminar epidural injections; and c. Member has failed to improve after 4 or more weeks of conservative treatments (e.g., rest, systemic analgesics, physical therapy); and d. Interlaminar epidural injections are provided as part of a comprehensive pain management program, which includes physical therapy, patient education, psychosocial support, and oral medications, where appropriate. 2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 43,
+      "text": "Additional interlaminar epidural injections, if the initial injection resulted in at least two of the following for at least two weeks: a. A 50 % or greater relief in pain; and b. Increase in the level of function/physical activity (e.g., return to work); and c. Reduction in the use of pain medication and/or additional medical services such as physical therapy/chiropractic care; and d. The interlaminar epidural injections are provided as part of a comprehensive pain management program, which includes physical therapy, patient education, psychosocial support, and oral medications.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 44,
+      "text": "Additional epidural injections are not considered medically necessary if these criteria are not met. 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 45,
+      "text": "No more than one interlaminar epidural injection is considered medically necessary per session: a. More than one interlaminar epidural injection in a single region per session is considered not medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 46,
+      "text": "b. Interlaminar epidural injection of more than one region per session is considered not medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 47,
+      "text": "Repeat epidural injections more frequently than every two weeks are not considered medically necessary. 4.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 48,
+      "text": "A total of up to 3 interlaminar epidural injections per region, per episode of pain are considered medically necessary in 6 months, and up to four interlaminar epidural steroid injections per region (ie, cervical, thoracic, lumbar) per rolling 12-month period are considered medically necessary, only upon return of pain and/or deterioration in function and only when responsiveness to prior injections has occurred (ie, the individual should have at least a 50% reduction in pain and/or symptoms for two weeks).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 49,
+      "text": "Additional interlaminar epidural injections per region per rolling 12-month period are considered not medically necessary; and experimental, investigational, or unproven because they have no proven value.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 50,
+      "text": "Aetna considers ultrasound guidance of epidural injections experimental, investigational, or unproven because of insufficient evidence of its effectiveness.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 51,
+      "text": "Interlaminar epidural injections of corticosteroid preparations, with or without added anesthetic agents, are considered experimental, investigational, or unproven for all other indications (e.g., non-specific low back pain [LBP] and failed back syndrome) because their effectiveness for indications other than the ones listed above has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 52,
+      "text": "For transforaminal epidural injections, see CPB 0722 - Transforaminal Epidural Injections.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 53,
+      "text": "E. Non-pulsed radiofrequency facet denervation Aetna considers non-pulsed radiofrequency facet denervation (also known as facet neurotomy, facet rhizotomy, or articular rhizolysis) medically necessary for treatment of members with intractable cervical or back pain with or without sciatica in the outpatient setting when all of the following are met: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 54,
+      "text": "Member has experienced severe pain limiting activities of daily living for at least 6 months; and 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 55,
+      "text": "Member has had no prior spinal fusion surgery at the level to be treated; and 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 56,
+      "text": "Neuroradiologic studies are negative or fail to confirm disc herniation; and 4.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 57,
+      "text": "Member has no significant narrowing of the vertebral canal or spinal instability requiring surgery; and 5.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 58,
+      "text": "Member has tried and failed six or more weeks of conservative treatments such as bed rest, back supports, physiotherapy, correction of postural abnormality, as well as pharmacotherapies (e.g., anti-inflammatory agents, analgesics, and muscle relaxants); and 6.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 59,
+      "text": "The member has two positive diagnostic facet joint injections (intraarticular or medial branch blocks) at the level to be treated, as evidenced by at least 80% relief of facet mediated pain for at least the expected minimum duration of the effect of the local anesthetic used.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 60,
+      "text": "When performing radiofrequency joint denervations/ablations, it may be necessary to perform the procedure at the same level(s) bilaterally; however, radiofrequency ablation of no more than three levels are considered medically necessary during the same session/procedure.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 61,
+      "text": "Provided that greater than 50% pain relief is obtained for at least twelve weeks, further facet denervation procedures should be at intervals of at least six months per level per side, at a maximum of twice per rolling calendar year.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 62,
+      "text": "Only 1 treatment procedure per level per side is considered medically necessary in a 6-month period.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 63,
+      "text": "Non-pulsed radiofrequency facet denervation is considered experimental, investigational, or unproven for all other indications because its effectiveness for indications other than the ones listed above has not been established.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 64,
+      "text": "See also CPB 0735 - Pulsed Radiofrequency.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 65,
+      "text": "F. Spinal Fixation Aetna considers pedicle screws medically necessary for posterior spinal fusion (see CPB 0743 - Spinal Surgery: Laminectomy and Fusion).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 66,
+      "text": "Aetna considers the use of interspinous or interlaminar distraction or stabilization devices with or without lumbar laminectomy and/or fusion experimental, investigational, or unproven.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 67,
+      "text": "Aetna considers CoFix for interlaminar/interspinous stabilization experimental, investigational, or unproven.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 68,
+      "text": "G. Intervertebral body fusion devices Aetna considers intervertebral body fusion devices (synthetic spine cages/spacers) (see Appendix) medically necessary for the following: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 69,
+      "text": "Use with allograft or autogenous bone graft in members who meet criteria for lumbar spinal fusion as outlined in CPB 0743 - Spinal Surgery: Laminectomy and Fusion and for thoracic fusion; 2.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 70,
+      "text": "Synthetic spine cages/spacers for cervical fusion for members who meet criteria in CPB 0743 - Spinal Surgery: Laminectomy and Fusion with any the following indications for use of a synthetic cervical cage/spacer: a. Cervical corpectomy (removal of half or more of vertebral body, not mere removal of osteophytes and minor decompression) in the treatment of one of the following: i. For tumors involving one or more vertebrae, or ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 72,
+      "text": "Symptomatic central canal stenosis caused by vertebral body pathology (such as due to fracture, tumor or congenital or acquired deformity of the vertebral body).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 73,
+      "text": "b. Cervical fusion for pseudarthrosis in persons with prior fusion; or c. For adjacent level disease that has developed in persons with a prior cervical fusion involving a plate, in order to avoid dissection for plate removal when a stand-alone cage/spacer is being used.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 74,
+      "text": "Spine cages are otherwise not considered medically necessary for cervical fusion because they have not been proven more effective than bone graft for this indication.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 75,
+      "text": "Spine cages and structural allograft are considered experimental, investigational, or unproven for indications other than interbody fusion because their effectiveness for indications other than those listed above has not been established. 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 76,
+      "text": "Expandable cages are considered medically necessary for members who meet criteria for fusion in CPB 0743 - Spinal Surgery: Laminectomy and Fusion and who meet either of the following criteria: a. At L2-S1; or b. For members with osseous defects at the fusion site (i.e., voids or gaps in bone due to trauma, surgical resection, or congenital defects).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 77,
+      "text": "Expandable cages are considered experimental, investigational, or unproven for all other indications.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 78,
+      "text": "H. Percutaneous polymethylmethacrylate vertebroplasty (PPV), kyphoplasty, or SpineJack System Aetna considers percutaneous polymethylmethacrylate vertebroplasty (PPV), kyphoplasty, or SpineJack System medically necessary for members with persistent, debilitating pain in the thoracic or lumbar vertebral bodies resulting from any of the following: 1. Multiple myeloma; or 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 79,
+      "text": "Painful and/or aggressive hemangiomas; or 3.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 80,
+      "text": "Painful vertebral eosinophilic granuloma; or 4.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 81,
+      "text": "Painful, debilitating osteoporotic acute or subacute collapse/compression fractures (proven not to be chronic on recent imaging); or 5.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 82,
+      "text": "Primary malignant neoplasm of bone or bone marrow; or 6.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 83,
+      "text": "Secondary osteolytic metastasis, excluding sacrum and coccyx, but including cervical; And when all of the following criteria have been met: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 84,
+      "text": "The pain is localized to the level of the pathology being treated; and 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 85,
+      "text": "Other causes of pain such as spinal stenosis or herniated intervertebral disk have been ruled out by computed tomography or magnetic resonance imaging; and 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 86,
+      "text": "The affected vertebra has not been extensively destroyed and is at least 1/3 of its original height with intact posterior cortex; And for painful, debilitating osteoporotic acute or subacute collapse/compression fractures (proven not to be chronic on recent imaging): 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 87,
+      "text": "The affected vertebra has at least 25 % (1/4) height loss/compression, but not been extensively destroyed and is at least 1/3 of its original height with intact posterior cortex; and 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 88,
+      "text": "Maximum of 3 vertebral fractures per procedure; and 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 89,
+      "text": "Severe debilitating pain or loss of mobility that cannot be relieved by a minimum of 6 weeks of optimal non-invasive therapy that includes physical therapy, bracing and/or oral medications; and 4.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 90,
+      "text": "There needs to be documentation for continuum of care for an evaluation of bone mineral density and osteoporosis education for subsequent treatment as indicated and instructed to take part in an osteoporosis prevention/treatment program.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 91,
+      "text": "All other indications for these procedures are considered experimental, investigational, or unproven.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 92,
+      "text": "I. Lateral (including extreme [XLIF], extra and direct lateral [DLIF]) interbody fusion Aetna considers lateral (including extreme [XLIF], extra and direct lateral [DLIF]) interbody fusion an acceptable method of performing a medically necessary anterior interbody fusion.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 93,
+      "text": "See CPB 0743 - Spinal Surgery: Laminectomy and Fusion.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 94,
+      "text": "J. Coccygectomy Aetna considers coccygectomy medically necessary for individuals with coccygodynia who have tried and failed to respond to 6 months of conservative management to include at least 6 weeks of in person therapy in the past year, either physical therapy for pelvic floor strengthening or chiropractic manipulation specifically for coccydynia, and treatment with medications including non-steroidal anti-inflammatory medications unless contraindication is documented.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 95,
+      "text": "K. Vertebral body replacement spacers Aetna considers vertebral body replacement spacers (e.g., AVS AL PEEK Spacer) medically necessary for vertebral body replacement used in spine surgery for persons with a collapsed, damaged or unstable vertebral body resected or excised during total and partial vertebrectomy procedures due to tumor or trauma (vertebral body replacement should not be confused with Interspinous distraction devices (spacers) (e.g., X-Stop)).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 96,
+      "text": "L. Minimally invasive transforaminal lumbar interbody fusion with direct visualization Aetna considers minimally invasive transforaminal lumbar interbody fusion with direct visualization medically necessary when criteria are met in CPB 0743 - Spinal Surgery: Laminectomy and Fusion.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 97,
+      "text": "M. Cementoplasty Aetna considers cementoplasty medically necessary for individuals with bone pain from pelvic bone metastases with reduced mobility and have failed conventional pain treatments (e.g., acetaminophen, non-steroidal anti-inflammatory drugs, and opioids).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 98,
+      "text": "For \"cementoplasty\" for vertebral indications, see section on vertebroplasty.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 99,
+      "text": "N. Sacroiliac joint fusion Aetna considers minimally invasive fusion involving transfixion of the sacroiliac joint (e.g., iFuse) medically necessary for sacroiliac joint syndrome interfering with activities of daily living when all of the following criteria are met: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 100,
+      "text": "Adults 18 years of age or older with sacroiliac joint (SIJ) pain for greater than 6 months (or greater than 18 months for pregnancy induced pelvic girdle pain): and 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 101,
+      "text": "Diagnosis of the SI joint as the primary pain generator based on all of the following: a. Member has pain at or close to the posterior superior iliac spine (PSIS) with possible radiation into buttocks, posterior thigh, or groin and can point to the location of pain (Fortin Finger Test); and b. Member has at least 3 of 5 physical examination maneuvers specific for SI joint pain: i. Compression ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 102,
+      "text": "Posterior Pelvic Pain Provocation test - P4 (Thigh Thrust) iii. Patrick's test (Fabere) iv.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 103,
+      "text": "Sacroiliac distraction test v. Gaenslen's test; and c. Other causes of low back pain have been ruled out, including lumbar disc degeneration, lumbar disc herniation, lumbar spondylolisthesis, lumbar spinal stenosis, lumbar facet degeneration, and lumbar vertebral body fracture; i. Clinician has documented that other neighboring motion segments have been evaluated and ruled out as potential pain generators, including diagnostic testing with facet/medial branch blocks and or interlaminar epidural injections, as appropriate based on the member's presentation; and ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 104,
+      "text": "Member has had recent (within 6 months) diagnostic imaging studies that include all of the following: a. Plain X-rays and/or cross sectional imaging of the pelvis (CT or MRI) that excludes the presence of destructive lesions (e.g. tumor, infection), acute fracture or inflammatory arthropathy that would not be properly addressed by SIJ fusion; and b. Plain X-rays of the pelvis including the ipsilateral hip to exclude potential concomitant hip pathology; and c. Cross-sectional imaging (e.g. CT or MRI) of the lumbar spine to exclude potential concomitant neural compression or other degenerative conditions; and d. Sacroiliac pathology is not caused by autoimmune disease (e.g. ankylosing spondylitis) and/or neoplasia (e.g. benign or malignant tumor) and/or crystal arthropathy; and e. Member does not have a generalized pain behavior (e.g., somatoform disorder) or generalized pain disorders (e.g. fibromyalgia); and f. Member has improvement in lower back pain numeric rating scale (NRS) of at least 70% of the pre injection NRS score after two separate fluoroscopic or CT controlled injection of local anesthetic (and at least one injection must be therapeutic and include a steroid) into affected SI joint within the past year.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 105,
+      "text": "These injections must have been isolated to only the SI joint, so if they were combined with other injections at the same time (e.g., hip, trochanteric bursa, or lumbar spine) they could not be used to meet this criterion; and 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 106,
+      "text": "Baseline lower back pain score of at least 5 on 0-10 point NRS; and 4.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 107,
+      "text": "Member should have tried 6 months of adequate forms of conservative treatment with little or no response, including pharmacotherapy (e.g., NSAIDS), activity modification, and at least three months of formal in-person physical therapy in the past year; and 5.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 108,
+      "text": "Radiologic evidence of SI joint degeneration on imaging; and 6.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 109,
+      "text": "Member should be nicotine-free (including smoking, use of tobacco products, and nicotine replacement therapy) for at least 1 year prior to surgery.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 110,
+      "text": "For persons with recent nicotine use, documentation of nicotine cessation should include a lab report (not surgeon summary) showing blood or urinary nicotine level of less than or equal to 10 ng/ml (or urinary cotinine levels of less than or equal to 10 ng/ml) drawn within 6 weeks prior to surgery .",
+      "label": "CLAIM"
+    },
+    {
+      "id": 111,
+      "text": "Open sacroiliac joint fusion is considered medically necessary for sacroiliac joint infection, tumor involving the sacrum, and sacroiliac pain due to severe traumatic injury where a trial of an external fixator is successful in providing pain relief.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 112,
+      "text": "Sacroiliac joint fusions are considered experimental, investigational, or unproven for all other indications because their effectiveness for indications other than the ones listed above has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 113,
+      "text": "Posterior non-transfixing sacroiliac joint fixations or use of additional joint implants with a transfixing device (\"hybrid\" fusions) are considered experimental, investigational or unproven because of insufficient evidence of effectiveness and long term outcomes.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 114,
+      "text": "O. Intramuscular or intravenous injection of ketorolac tromethamine (Toradol) Aetna considers intramuscular or intravenous injection of ketorolac tromethamine (Toradol) medically necessary for the short-term (up to 5 days) treatment of adults with acute back pain and/or neck pain.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 115,
+      "text": "P. The Spinal System-X (Corus) The Spinal System-X (corus) is a supply and not an implant, and therefore is covered as part of the global surgical fee and not separately reimbursable.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 116,
+      "text": "For intercostal nerve blocks, see CPB 0863 - Nerve Blocks. II.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 117,
+      "text": "Experimental, Investigational, or Unproven The following are considered experimental, investigational, or unproven because of insufficient evidence of their effectiveness for these indications: AccuraScope procedure; AnchorKnot Tissue Approximation Kit (Anchor Orthopedics) for lumbar discectomy; Annulus repair devices (Xclose Tissue Repair System, Barricaid, Disc Annular Repair Technology (DART) System); BacFast HD for isolated facet fusion; Biomet Aspen fusion system (an interlaminar fixation device) (see Appendix); Chemical ablation (including but not limited to alcohol, phenol, or sodium morrhuate) of facet joints; Chymopapain chemonucleolysis, for all indications, including the following (not an all-inclusive list): Acute LBP alone Cauda equina syndrome For herniated discs Multiple back operations (failed back surgery syndrome) Neurologic disease (e.g., multiple sclerosis) Pregnancy Profound or rapidly progressive neurologic deficit Sciatica due to a herniated disc Sequestered disc fragment Severe spinal stenosis Severe spondylolisthesis Spinal cord tumor Spinal instability When performed with chondroitinase ABC or agents other than chymopapain; Coccygeal ganglion (ganglion impar) block for coccydynia, pelvic pain, and all other indications; Cooled radiofrequency ablation (e.g., Coolief) for facet denervation; Cryoablation (cryoanesthesia, cryodenervation, cryoneurolysis, or cryosurgery) for the treatment of lumbar facet joint pain; Custom (patient-specific) synthetic cages/spacers (e.g., Carslmed Aprevo) for spinal fusion; Deuk Laser Disc Repair; Devices for annular repair (e.g., Inclose Surgical Mesh System); Direct visual rhizotomy (extradural transection or avulsion of other spinal nerve) for the treatment of chronic low back pain; Disc-FX System for the treatment (disc decompression, ablation, or annular modulation) of contained disc herniations in the cervical, thoracic, and lumbar spine; DiscoGel (intradiscal alcohol injection) for the treatment of back and neck pain; Discseel procedure (regenerative spine procedure) for the treatment of back pain; Dynamic (intervertebral) stabilization (e.g., BioFlex, CD Horizon Agile Dynamic Stabilization Device, DSS Dynamic Soft Stabilization System, Dynabolt Dynamic Stabilization System, Dynesys Spinal System, Graf ligamentoplasty/Graf artificial ligament, Isobar Spinal System, NFix, Satellite Spinal System, Stabilimax NZ Dynamic Spine Stabilization System, and the Zodiak DynaMo System); Endoscopic laser foraminoplasty, endoscopic foraminotomy, laminotomy, and rhizotomy (endoscopic radiofrequency ablation); Endoscopic transforaminal diskectomy; Epidural fat grafting during lumbar decompression laminectomy/discectomy; Epidural injections of lytic agents (e.g., hyaluronidase, hypertonic saline) or mechanical lysis in the treatment of adhesive arachnoiditis, epidural fibrosis, failed back syndrome, or other indications; Epidural steroid injections for the treatment of non-radicular low back pain; Epiduroscopy (also known as epidural myeloscopy, epidural spinal endoscopy, myeloscopy, and spinal endoscopy) for the diagnosis and treatment of intractable LBP or other indications; Facet chemodenervation/chemical facet neurolysis; Facet joint allograft implants (NuFix facet fusion, TruFuse facet fusion) Facet joint implantation (Total Posterior-element System (TOPS) (Premia Spine), Total Facet Arthroplasty System (TFAS) (Archus Orthopedics), ACADIA Facet Replacement System (Facet Solutions/Globus Medical); Far lateral microendoscopic diskectomy (FLMED) for extra-foraminal lumbar disc herniations or other indications; Fluoroscopic guidance for trigger point injection; Hardware injections/blocks; iFuse Bedrock Granite Implant System; Injection of steroid into the ilio-lumbar ligament for the treatment of low back pain (LBP); Interlaminar lumbar instrumented fusion (ILIF); Interspinous and interlaminar distraction devices (see Appendix); Interspinous fixation devices (Benefix Interspinous Fixation System, CD HORIZON SPIRE Plate, PrimaLOK SP, SP-Fix Spinous Process Fixation Plate, and Stabilink interspinous fixation device) for spinal stenosis or other indications (see Appendix); Intracept System (intra-osseous basivertebral nerve ablation) for the treatment of low back pain, and neck pain; Intradiscal injection of local anesthetic for the treatment of low back pain; Intradiscal injection of notochordal cell-derived matrix for the treatment of intervertebral disc disease; Intradiscal injection of platelet-rich plasma; Intradical injection of steroid; Intradiscal, paravertebral, or epidural oxygen or ozone injections; Intramuscular steroid injection for the treatment of back pain, neck pain Intravenous administration of corticosteroids, lidocaine, magnesium, or vitamin B12 (cyanocobalamin) as a treatment for back pain and neck pain; ION procedure (Ion Facet Screw System); Khan kinetic treatment (KKT); Laser facet denervation; LigaPASS System for use as a ligament augmentation technique in spinal fusions; Least invasive lumbar decompression interbody fusion (LINDIF); Magnetic resonance imaging-guided focused ultrasound (MRgFUS) for the treatment of lumbar facet joint pain; Microendoscopic discectomy (MED; same as lumbar endoscopic discectomy utilizing microscope) procedure for decompression of lumbar spine stenosis, lumbar disc herniation, or other indications; Microsurgical anterior foraminotomy for cervical spondylotic myelopathy or other indications; Minimally invasive/endoscopic cervical laminoforaminotomy for cervical radiculopathy/lateral and foraminal cervical disc herniations or other indications; Minimally invasive lumbar decompression (MILD) procedure (percutaneous laminotomy/laminectomy (interlaminar approach) for decompression of neural elements under indirect image guidance) for lumbar canal stenosis or other indications; Minimally invasive thoracic discectomy for the treatment of back pain; Minimally invasive endoscopic transforaminal lumbar interbody fusion (endoscopic MITLIF; same as endoscopic MAST fusion) for lumbar disc degeneration and instability or other indications; OptiMesh grafting system; Percutaneous cement discoplasty for the treatment of lumbar degenerative diseases; Percutaneous cervical and lumbar diskectomy; Percutaneous endoscopic diskectomy with or without laser (PELD) (also known as arthroscopic microdiskectomy or Yeung Endoscopic Spinal Surgery System [Y.E.S.S.]); Percutaneous lumbar discectomy (manual or automated) for treatment of degenerative disc disease; Piriformis muscle resection and other surgery for piriformis syndrome; Platelet-rich plasma for facet joint injections; Posterior intrafacet implants (e.g., DTRAX Cervical Cage) for posterior cervical fusion; Psoas compartment block for lumbar radiculopathy or myositis ossification; Puborectalis and iliococcygeus trigger point injections for the treatment of pelvic pain; Racz procedure (epidural adhesiolysis with the Racz catheter) for the treatment of members with adhesive arachnoiditis, epidural adhesions, failed back syndrome from multiple previous surgeries for herniated lumbar disk, or other indications; Radiofrequency denervation for sacroiliac joint pain; Radiofrequency lesioning of dorsal root ganglia for back pain; Radiofrequency lesioning of terminal (peripheral) nerve endings for back pain; Radiofrequency/pulsed radiofrequency ablation of trigger point pain; Sacroiliac ligament injection for the treatment of unspecified dorsalgia; Sacroplasty for osteoporotic sacral insufficiency fractures and other indications; Tendon and/or tendon sheath injections for the spine; Tendon sheath injections for the treatment of back pain; Therapeutic facet joint injections; Total Facet Arthroplasty System (TFAS) for the treatment of spinal stenosis; Transforaminal percutaneous endoscopic discectomy for the treatment of discogenic low back pain; Ultrasound guidance of epidural injections; Ultrasound guidance of facet injections; Ultrasound or electromyography (EMG) guidance of trigger point injections; Vesselplasty (e.g., Vessel-X). III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 118,
+      "text": "Policy Limitations and Exclusions A. Laser: Clinical studies have not established a clinically significant benefit of use of a laser over a scalpel in spinal surgery.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 119,
+      "text": "No additional benefit will be provided for the use of a laser in spinal surgery.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 120,
+      "text": "B. Microscope and endoscope: Use of a microscope or endoscope is considered an integral part of the spinal surgery and not separately reimbursable. IV.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 121,
+      "text": "Related CMS Coverage Guidance This Clinical Policy Bulletin (CPB) supplements but does not replace, modify, or supersede existing Medicare Regulations or applicable National Coverage Determinations (NCDs) or Local Coverage Determinations (LCDs).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 122,
+      "text": "The supplemental medical necessity criteria in this CPB further define those indications for services that are proven safe and effective where those indications are not fully established in applicable NCDs and LCDs.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 123,
+      "text": "These supplemental medical necessity criteria are based upon evidence-based guidelines and clinical studies in the peer-reviewed published medical literature.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 124,
+      "text": "The background section of this CPB includes an explanation of the rationale that supports adoption of the medical necessity criteria and a summary of evidence that was considered during the development of the CPB; the reference section includes a list of the sources of such evidence.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 125,
+      "text": "While there is a possible risk of reduced or delayed care with any coverage criteria, Aetna believes that the benefits of these criteria – ensuring patients receive services that are appropriate, safe, and effective – substantially outweigh any clinical harms.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 143,
+      "text": "Medication is delivered to the nerve roots on both the right and left sides of the inflamed area at the same time.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 144,
+      "text": "Lumbar - the epidural needle is placed in the midline in the low back to treat back pain which is associated with radiation into a lower extremity (lumbar radiculopathy).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 145,
+      "text": "Thoracic - the epidural needle is placed in the midline in the upper or middle back.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 146,
+      "text": "Transforaminal - the needle is placed to the side of the vertebra in the neural foramen, just above the opening for the nerve root and outside the epidural space; this method treats one side at a time.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 147,
+      "text": "The goal of this treatment is to reduce inflammation and block the spinal nerve roots to relieve radicular pain or sciatica.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 148,
+      "text": "It can also provide sufficient pain relief to allow the individual to progress with their rehabilitation program.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 149,
+      "text": "The efficacy of epidurally administered steroids has been demonstrated without adverse consequence in a large number of patients with reproducible results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 150,
+      "text": "In a large number of studies, long-term relief of pain (greater than 3 months) can be achieved in at least 10 to 30% of patients, while short-term relief (less than 1 month) can be achieved in 60 to 100% of patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 151,
+      "text": "Results for cervical pain are somewhat lower than those for lumbar pain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 152,
+      "text": "Such therapy is considered under accepted guidelines to be indicated in patients with low back and cervical pain that has not resolved after only a short period of more conservative measures since studies have shown a better response to therapy in patients whose pain is of shorter duration.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 153,
+      "text": "Even if pain relief is temporary, it may have long-term benefit because it allows initiation of physical therapy or other rehabilitative measures at an earlier stage.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 155,
+      "text": "The American Academy of Neurology's assessment on the use of epidural steroid injections in the treatment of radicular lumbosacral pain (Armond et al, 2007) concluded that: Epidural steroid injections may result in some improvement in radicular lumbosacral pain when determined between 2 and 6 weeks following the injection, compared to control treatment (Level C, Class I to III evidence).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 156,
+      "text": "The average magnitude of effect is small, and the generalizability of the observation is limited by the small number of studies, limited to highly selected patient populations, the few techniques and doses studied, and variable comparison treatments.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 161,
+      "text": "A recommendation for epidural steroid injection for patients with symptomatic spinal stenosis was not offered based on insufficient or poor evidence.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 162,
+      "text": "Langer-Gould et al (2013) discussed the American Academy of Neurology (AAN)'s top five recommendations in the “Choosing Wisely” campaign promoting high-value neurologic medicine and physician-patient communication.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 167,
+      "text": "Trigger points have also been treated with dry needling.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 170,
+      "text": "When palpated, these hyper-irritable areas cause pain in distant areas, or referred pain zones, which are specific for each trigger point.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 171,
+      "text": "Trigger point injection, or direct wet needling, involves injection of fluid directly into the trigger point located in the taut muscle band.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 231,
+      "text": "There is an expectation of fusion rates > 90% with fewer complications due to the absence of graft harvesting (Class III).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 232,
+      "text": "Carbon fiber cages may be considered as well with fusion rates ranging from 55 to 62% in the larger studies (Class III).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 233,
+      "text": "Polymethyl- methylmethacrylate may be considered to preserve intervertebral distraction after discectomy, but is a poor fusion substrate (Class II).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 235,
+      "text": "The CNS assessment concluded that, “Given the generally high rates of improved clinical outcome with anterior cervical discectomy and fusion, regardless of methodology, the evaluation of medical- economic factors may play an important role in future studies.”",
+      "label": "PREMISE"
+    },
+    {
+      "id": 237,
+      "text": "Chemonucleolysis Chemonucleolysis is a procedure that involves the dissolving of the gelatinous cushioning material in an intervertebral disk by the injection of chymopapain or other enzyme.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 238,
+      "text": "The AHCPR evidence-based guideline on the management of acute back pain and the medical literature supports the use of chemonucleolysis (CNL) with chymopapain as a safe and effective alternative to surgical disc excision in the majority of patients who are candidates for surgery for intractable sciatica due to herniated nucleus pulposus (HNP).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 239,
+      "text": "Chemonucleolysis involves the enzymatic degradation of the nucleus pulposus, and has been shown to be more effective than percutaneous discectomy since it can be successfully performed for protruded and extruded discs, just as long as the herniated disc material is still in continuity with the disc of its origin.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 241,
+      "text": "The overall success rate for CNL in long-term follow-up (7 to 20 years) in 3,130 patients from 13 contributors averaged 77% (range of 71 to 93%), the same as that reported for surgical discectomy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 244,
+      "text": "Facet Joint Blocks and Medial Branch Blocks Facet injections, also known as facet blocks, are injections of a local anesthetic, with or without a steroid medication, into the facet joints or around the nerve supply (the medial branch nerve) to the joints.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 245,
+      "text": "Facet injections may be given for diagnostic purposes to determine if the facet joint is the source of pain or it may be performed to treat facet pain that has previously been detected.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 246,
+      "text": "The injections are fluoroscopically guided.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 247,
+      "text": "If the pain is relieved, the physician will know that the facet joint appears to be the source of pain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 248,
+      "text": "Facet denervation may also follow a successful diagnostic facet block.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 249,
+      "text": "Degenerative changes in the posterior lumber facet joints have been established as a source of LBP that may radiate to the leg.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 250,
+      "text": "Pain impulses from the medial branches of lumbar dorsal rami can be interrupted by blocking these nerves with anesthetic (facet block) or coagulating them with a radiofrequency wave (radiofrequency facet denervation).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 251,
+      "text": "Typically, facet joint blocks are performed as a part of a work-up for back or neck pain (Wagner, 2003).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 252,
+      "text": "Pain relief following a precise injection of local anesthetic confirms the facet joint as the source of pain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 253,
+      "text": "Based on the outcome of a facet joint nerve block, if the patient gets sufficient relief of pain but the pain recurs, denervation of the facet joint may be considered.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 256,
+      "text": "A well- designed trial (n = 101) of patients who responded to a local anesthetic injection into the facet joint published in the New England Journal of Medicine found no difference in the likelihood of pain relief following randomization to glucocorticoid or saline facet joint injection at either 1 or 3 months post injection (Carette et al, 1991).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 257,
+      "text": "A higher proportion of patients in the steroid injection group reported marked improvement after 6 months (46% versus 15%), but the benefit was attenuated after controlling for co-interventions used in the steroid group, and there is no biologic explanation for a delayed benefit from steroids.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 260,
+      "text": "Guidelines from the American Pain Society (Chou et al, 2009) stated: \"We found good or fair evidence that ... facet joint injection ... are not effective.\"",
+      "label": "PREMISE"
+    },
+    {
+      "id": 261,
+      "text": "Guidelines from the American Association of Neurological Surgeons (Resnick et al, 2005) state: \"Facet injections are not recommended as long-term treatment for chronic low-back pain.\"",
+      "label": "PREMISE"
+    },
+    {
+      "id": 262,
+      "text": "Guidelines from the American College of Occupational and Environmental Medicine (Hegmann, 2007) state that therapeutic facet joint injections for acute, subacute, chronic low back pain or radicular pain syndrome are \"not recommended\".",
+      "label": "PREMISE"
+    },
+    {
+      "id": 263,
+      "text": "An assessment by the Canadian Agency for Drugs and Technologies in Health (Zakaria et al, 2007) concluded: \"According to the RCTs [randomized controlled trials] completed to date, FJIs [facet joint injections] with local anesthetics or steroids have not been proven to be superior to placebo for the treatment of chronic LBP [low back pain].",
+      "label": "PREMISE"
+    },
+    {
+      "id": 264,
+      "text": "Steroid FJIs have not been proven to be superior to local anesthetic FJIs in the treatment of chronic neck pain secondary to a motor vehicle accident. The studies are limited. ...\"",
+      "label": "PREMISE"
+    },
+    {
+      "id": 265,
+      "text": "An assessment for BMJ Clinical Evidence (McIntosh and Hall, 2007) concluded that facet injections for chronic back pain are of \"unknown effectiveness\".",
+      "label": "PREMISE"
+    },
+    {
+      "id": 266,
+      "text": "A Cochrane systematic evidence review found no clear differences between facet joint glucocorticoid and placebo injections (Staal et al, 2008).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 267,
+      "text": "A review in UpToDate (Chou, 2009) stated: \"Evidence is unavailable, unreliable, or contradictory regarding the effectiveness of glucocorticoid injections for other sites, including ... facet joint injections .... We suggest not performing these procedures for chronic low back pain\".",
+      "label": "PREMISE"
+    },
+    {
+      "id": 268,
+      "text": "Sacroiliac Joint Injections Sacroiliac (SI) joint injections are performed by injecting a local anesthetic, with or without a steroid medication, into the SI joints.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 269,
+      "text": "These injections may be given for diagnostic purposes to determine if the SI joint is the source of the low back pain or it may be performed to treat SI joint pain that has previously been detected/diagnosed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 270,
+      "text": "If the pain is relieved, the physician will know that the SI joint appears to be the source of pain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 271,
+      "text": "This may be followed up with therapeutic injections of anti-inflammatory (steroid) and/or local anesthetic medications to relieve pain for longer periods.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 272,
+      "text": "In a prospective, single-blinded, randomized controlled trial, Jee and colleagues (2014) compared the safety and short-term effects of ultrasound (US)-guided SIJ injections with fluoroscopy (FL)-guided SIJ injections in patients with non-inflammatory SIJ dysfunction (n = 120).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 273,
+      "text": "All procedures were performed using an FL or US apparatus.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 275,
+      "text": "Immediately after the SIJ injections, fluoroscopy was applied to verify the correct placement of the injected medication and intravascular injections.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 276,
+      "text": "Treatment effects and functional improvement were compared at 2 and 12 weeks after the procedures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 277,
+      "text": "The verbal numeric pain scale and Oswestry Disability Index (ODI) improved at 2 and 12 weeks after the injections without statistical significances between groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 280,
+      "text": "Vascularization around the SIJ was seen in 34 of 55 patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 282,
+      "text": "The authors concluded that the US-guided approach may facilitate the identification and avoidance of the critical vessels around or within the SIJ.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 283,
+      "text": "Function and pain relief significantly improved in both groups without significant differences between groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 284,
+      "text": "The US-guided approach was shown to be as effective as the FL-guided approach in treatment effects.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 286,
+      "text": "Radiofrequency Facet Denervation Radiofrequency ablation (may also be referred to as RFA, percutaneous radiofrequency neuroablation, radiofrequency coagulation, radiofrequency denervation, radiofrequency lesioning, radiofrequency neuroablation, radiofrequency neurotomy or rhizotomy [articular rhizolysis]) involves the use of radiofrequency energy to denervate a nerve.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 287,
+      "text": "One of the most commonly performed neuroablative procedures is facet denervation, which is the destruction or interruption of a facet joint nerve to relieve chronic pain in the cervical, thoracic or lumbar region of the spine.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 288,
+      "text": "Facet joints of the spine have joint capsules that are supplied by a branch of the posterior ramus of the spinal nerve.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 289,
+      "text": "Percutaneous radiofrequency facet denervation, also known as radiofrequency facet joint rhizotomy or facet neurotomy, involves selective denervation using radiofrequency under fluoroscopic guidance.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 290,
+      "text": "As a method of neurolysis, radiofrequency facet denervation has been shown to be a very safe procedure and can offer relief for many patients with mechanical LBP in whom organic pathology, most commonly a herniated lumbar disc, has been eliminated.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 291,
+      "text": "According to the literature, it offers advantages over conventional neurolytic agents (e.g., phenol, alcohol, and hypertonic saline) because of its long lasting effects, the relative lack of discomfort, and its completely local action without any random diffusion of the neurolytic agent.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 292,
+      "text": "Because there are no reliable clinical signs that confirm the diagnosis, successful relief of pain by injections of an anesthetic agent into the joints are necessary before proceeding with radiofrequency facet denervation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 293,
+      "text": "Results from many studies have shown that radiofrequency facet denervation results in significant (excellent or good) pain relief, reduced use of pain medication, increased return-to-work, and is associated with few complications.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 297,
+      "text": "An additional objective is to reduce the likelihood of, or to delay, any recurrence by selectively destroying pain fibers without causing excessive sensory loss, motor dysfunction or other complications.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 300,
+      "text": "Facet Chemodenervation / Chemical Facet Neurolysis Chemical neurolysis (also referred to as chemical ablation, chemical denervation or chemodenervation) involves injection of neurolytic agents [eg, phenol, alcohol or hypertonic saline]) to denervate a nerve.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 303,
+      "text": "Spinal Fixation Pedicle screw fixation systems consist of steel or titanium plates that are longitudinally inter-connected and anchored to adjacent vertebrae using bolts, hooks, or screws.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 304,
+      "text": "Pedicle screw fixation in the spine is used to produce a rigid connection between 2 or more adjacent vertebrae in order to correct deformity and to stabilize the spine, thereby reducing pain and any neurological deficits.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 305,
+      "text": "It is most often used in the lumbosacral spine from L1 though S1, and may also be used in the thoracic spine.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 309,
+      "text": "However, severe instability may require surgical implantation of plates or rods anchored to vertebral pedicles using screws (pedicle screw fixation systems) in order to provide rigid 3-column fixation and minimize the risk of incomplete fusion (pseudoarthrosis or pseudarthrosis) or loss of alignment during fusion.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 310,
+      "text": "The current medical literature suggests that rigid fixation of the lumbar spine with pedicle screws improves the chances of successful fusion as compared with patients with lumbar spine fusion not supplemented with internal fixation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 311,
+      "text": "Internal fusion and fixation are major operative procedures with significant risks and according to the available literature should be reserved for patients with spinal instability associated with neurological deficits, major spinal deformities, spinal fracture, spinal dislocation or complications of tumor.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 312,
+      "text": "Spinal fusion and pedicle screw fixation has been shown not to be effective for the treatment of isolated chronic back pain, and surgery is not advocated to treat this diagnosis in the absence of instability or neurological deficits.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 313,
+      "text": "In July 1998, the FDA re-classified into Class II the pedicle screw spinal systems intended to provide immobilization and stabilization of spinal segments in skeletally mature patients as an adjunct to fusion in the treatment of the following acute or chronic instabilities or deformities of the thoracic, lumbar, and sacral spine: degenerative spondylolisthesis with objective evidence of neurological impairment, fracture, dislocation, scoliosis, kyphosis, spinal tumor, and failed previous fusion (pseudarthrosis).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 315,
+      "text": "Intervertebral Body Fusion Devices (Spine Cages) A spine cage, also known as an interbody cage, is a small hollow cylindrical device, usually made of titanium, with perforated walls.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 653,
+      "text": "The rigid posterior fixation system is used for comparison due to the extensive information available about these systems.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 657,
+      "text": "Three-dimensional 10 Nm moments and a 600 N follower load were applied; L4 to L5 disc pressures and implant loads were measured using a pressure sensor and strain gauges, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1228,
+      "text": "Safaee et al (2018) noted that PJK is a well-recognized, yet incompletely defined, complication of ASD surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1229,
+      "text": "There is no standardized definition for PJK; however, most studies described PJK as an increase in the proximal junctional angle (PJA) of greater than 10° to 20°.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1230,
+      "text": "Ligament augmentation is a novel strategy for PJK reduction that provides strength to the upper instrumented vertebra (UIV) and adjacent segments while also reducing junctional stress at those levels.",
+      "label": "PREMISE"
+    }
+  ]
+}
