@@ -8,12 +8,13 @@ from typing import Dict, List
 
 import pandas as pd
 import pdfplumber
-import streamlit as st
+from flask import Flask, jsonify, render_template, request
 
 # Prevent spaCy/thinc from importing torch, which may be broken in some local setups.
 os.environ.setdefault("THINC_IGNORE_TORCH", "1")
 import spacy
 
+app = Flask(__name__)
 
 ROOT_DIR = Path(__file__).resolve().parents[2]
 ARG_COMPONENT_OUT_DIR = ROOT_DIR / "Data" / "Annotations" / "Argument_Component"
@@ -26,32 +27,31 @@ LABEL_COLORS = {
     "": "#ffffff",
 }
 
+# --- Core Logic from original app.py ---
 
-@st.cache_resource
+_spacy_model = None
+
 def load_spacy_model():
-    # Keep required model, but disable heavy components and use rule-based sentence splitting.
-    nlp = spacy.load(
-        "en_core_web_sm",
-        disable=["tok2vec", "tagger", "parser", "attribute_ruler", "lemmatizer", "ner"],
-    )
-    if "sentencizer" not in nlp.pipe_names:
-        nlp.add_pipe("sentencizer")
-    return nlp
-
+    global _spacy_model
+    if _spacy_model is None:
+        _spacy_model = spacy.load(
+            "en_core_web_sm",
+            disable=["tok2vec", "tagger", "parser", "attribute_ruler", "lemmatizer", "ner"],
+        )
+        if "sentencizer" not in _spacy_model.pipe_names:
+            _spacy_model.add_pipe("sentencizer")
+    return _spacy_model
 
 def normalize_doc_id(pdf_name: str) -> str:
     stem = Path(pdf_name).stem
     return re.sub(r"\s+", "_", stem).strip("_")
-
 
 def list_pdf_files(pdf_dir: Path) -> List[Path]:
     if not pdf_dir.exists():
         return []
     return sorted(pdf_dir.glob("*.pdf"), key=lambda p: p.name.lower())
 
-
 def get_raw_pdf_dir() -> Path:
-    # Support both folder spellings that may exist in this project.
     candidates = [
         ROOT_DIR / "Data" / "Raw PDF" / "aetna",
         ROOT_DIR / "Data" / "Raw PDf" / "aetna",
@@ -61,57 +61,30 @@ def get_raw_pdf_dir() -> Path:
             return path
     return candidates[0]
 
-
-# ---------------------------------------------------------------------------
-# PDF-conversion noise patterns (compiled once)
-# ---------------------------------------------------------------------------
-
-# Substrings to strip from the extracted text (PDFCrowd watermarks, etc.).
 _NOISE_PATTERNS: List[re.Pattern] = [
-    re.compile(
-        r"Explore\s+our\s+developer[\-\s]*friendly\s+HTML\s+to\s+PDF\s+API",
-        re.IGNORECASE,
-    ),
+    re.compile(r"Explore\s+our\s+developer[\-\s]*friendly\s+HTML\s+to\s+PDF\s+API", re.IGNORECASE),
     re.compile(r"Printed\s+using\s+PDFCrowd\s+HTML\s+to\s+PDF", re.IGNORECASE),
     re.compile(r"PDFCrowd\s+HTML\s+to\s+PDF", re.IGNORECASE),
 ]
 
-# Whole-line junk (line is dropped when it matches *entirely*).
 _JUNK_LINE_RES: List[re.Pattern] = [
     re.compile(r"^\s*Table\s+Of\s+Contents\s*$", re.IGNORECASE),
     re.compile(r"^\s*Page\s+\d+\s+of\s+\d+\s*$", re.IGNORECASE),
-    re.compile(r"^\s*--+>\s*$"),           # HTML comment remnants like "  -->"
+    re.compile(r"^\s*--+>\s*$"),
     re.compile(r"^\s*Policy\s*$", re.IGNORECASE),
     re.compile(r"^\s*References\s*$", re.IGNORECASE),
     re.compile(r"^\s*Background\s*$", re.IGNORECASE),
 ]
 
-# HTML / XML tags  &  entities.
 _HTML_TAG_RE = re.compile(r"<[^>]+>")
 _HTML_ENTITY_RE = re.compile(r"&(?:#\d+|#x[0-9a-fA-F]+|[a-zA-Z]+);")
 
-
 def _clean_extracted_text(raw_text: str) -> str:
-    """Remove HTML artefacts, PDFCrowd noise, and normalise whitespace.
-
-    IMPORTANT: pdfplumber line-breaks inside these HTML-to-PDF documents are
-    *not* reliable sentence boundaries.  This function therefore collapses ALL
-    whitespace into single spaces so that downstream splitting can work from a
-    clean, uniform string.
-    """
     text = raw_text
-
-    # 1. Strip HTML / XML tags.
     text = _HTML_TAG_RE.sub(" ", text)
-
-    # 2. Remove HTML entities.
     text = _HTML_ENTITY_RE.sub(" ", text)
-
-    # 3. Remove known noise substrings.
     for pat in _NOISE_PATTERNS:
         text = pat.sub(" ", text)
-
-    # 4. Line-level filtering – drop whole-line junk.
     kept_lines: List[str] = []
     for line in text.splitlines():
         stripped = line.strip()
@@ -121,18 +94,12 @@ def _clean_extracted_text(raw_text: str) -> str:
             continue
         kept_lines.append(stripped)
     text = " ".join(kept_lines)
-
-    # 5. Collapse all remaining multi-spaces into one.
     text = re.sub(r"\s{2,}", " ", text).strip()
-
     return text
 
-
-@st.cache_data(show_spinner=False)
-def extract_text_from_pdf_cached(pdf_path_str: str, mtime_ns: int) -> str:
-    _ = mtime_ns  # invalidate cache when file changes
+def extract_text_from_pdf(pdf_path: Path) -> str:
     text_chunks: List[str] = []
-    with pdfplumber.open(pdf_path_str) as pdf:
+    with pdfplumber.open(str(pdf_path)) as pdf:
         for page in pdf.pages:
             page_text = page.extract_text() or ""
             if page_text.strip():
@@ -140,62 +107,17 @@ def extract_text_from_pdf_cached(pdf_path_str: str, mtime_ns: int) -> str:
     raw = "\n".join(text_chunks)
     return _clean_extracted_text(raw)
 
-
-def extract_text_from_pdf(pdf_path: Path) -> str:
-    return extract_text_from_pdf_cached(str(pdf_path), pdf_path.stat().st_mtime_ns)
-
-
-# ---------------------------------------------------------------------------
-# Sentence splitting
-# ---------------------------------------------------------------------------
-
-# Minimum chars / alpha-chars for a fragment to be kept as its own sentence.
 _MIN_SENT_LEN = 10
 _MIN_ALPHA = 3
-
-# Short fragments (under this many chars) produced by spaCy are merged back
-# into the previous sentence — handles trailing clauses spaCy clips off.
 _MERGE_THRESHOLD = 40
-
-# Split only at Roman-numeral major section headers  (I.  II.  III. …)
-# so no whole section becomes one giant blob for spaCy.
-# Pure lookahead — no characters are consumed by the split.
-_ROMAN_SECTION_RE = re.compile(
-    r"(?<=\s)(?=(?:X{0,3})(?:IX|IV|V?I{0,3})\.\s+[A-Z][a-z])",
-)
-
+_ROMAN_SECTION_RE = re.compile(r"(?<=\s)(?=(?:X{0,3})(?:IX|IV|V?I{0,3})\.\s+[A-Z][a-z])")
 
 def _is_meaningful(text: str) -> bool:
-    """Return True if *text* has enough content to be worth annotating."""
     return len(text) >= _MIN_SENT_LEN and sum(1 for c in text if c.isalpha()) >= _MIN_ALPHA
 
-
-@st.cache_data(show_spinner=False)
-def split_into_sentences_cached(text: str) -> List[Dict[str, object]]:
-    """Three-pass sentence splitter tuned for Aetna Clinical Policy Bulletins.
-
-    Pass 1 — Section pre-split
-        Split the flat cleaned string at Roman-numeral section headers
-        (I. Medical Necessity, II. Experimental …).  This prevents an entire
-        section from becoming one mega-chunk fed to spaCy.
-
-    Pass 2 — spaCy sentencizer
-        Run spaCy's rule-based sentencizer on each section chunk.
-        List items (A./B./C., separated by semicolons) intentionally stay
-        together — they form ONE argumentative unit (one PREMISE or CLAIM)
-        that an annotator can label as a whole.
-
-    Pass 3 — Short-fragment merge
-        Any spaCy fragment shorter than _MERGE_THRESHOLD chars is appended
-        to the previous sentence.  This catches short trailing clauses that
-        the sentencizer sometimes detaches from their parent sentence.
-    """
+def split_into_sentences(text: str) -> List[Dict[str, object]]:
     nlp = load_spacy_model()
-
-    # Pass 1: section-level pre-split.
     sections = [s.strip() for s in _ROMAN_SECTION_RE.split(text) if s.strip()]
-
-    # Pass 2: spaCy sentencizer within each section.
     raw_frags: List[str] = []
     for section in sections:
         doc = nlp(section)
@@ -203,16 +125,12 @@ def split_into_sentences_cached(text: str) -> List[Dict[str, object]]:
             frag = sent.text.strip()
             if frag:
                 raw_frags.append(frag)
-
-    # Pass 3: merge very short trailing fragments into the previous sentence.
     merged: List[str] = []
     for frag in raw_frags:
         if merged and len(frag) < _MERGE_THRESHOLD:
             merged[-1] = merged[-1].rstrip() + " " + frag
         else:
             merged.append(frag)
-
-    # Build the final numbered list, dropping non-meaningful entries.
     sentences: List[Dict[str, object]] = []
     idx = 1
     for frag in merged:
@@ -221,177 +139,70 @@ def split_into_sentences_cached(text: str) -> List[Dict[str, object]]:
             continue
         sentences.append({"id": idx, "text": frag})
         idx += 1
-
     return sentences
 
+# --- Flask Routes ---
 
-def split_into_sentences(text: str) -> List[Dict[str, object]]:
-    return split_into_sentences_cached(text)
+@app.route("/")
+def index():
+    return render_template("index.html")
 
-
-def initialize_state():
-    st.session_state.setdefault("loaded", False)
-    st.session_state.setdefault("current_pdf_name", None)
-    st.session_state.setdefault("document_id", None)
-    st.session_state.setdefault("sentences", [])
-    st.session_state.setdefault("labels", {})
-
-
-def load_document(pdf_path: Path):
-    text = extract_text_from_pdf(pdf_path)
-    sentences = split_into_sentences(text)
-    labels = {item["id"]: "" for item in sentences}
-
-    st.session_state.loaded = True
-    st.session_state.current_pdf_name = pdf_path.name
-    st.session_state.document_id = normalize_doc_id(pdf_path.name)
-    st.session_state.sentences = sentences
-    st.session_state.labels = labels
-
-    for item in sentences:
-        sid = item["id"]
-        st.session_state[f"label_selector_{sid}"] = ""
-
-
-def set_label(sentence_id: int, label: str):
-    st.session_state.labels[sentence_id] = label
-
-
-def save_annotations():
-    ARG_COMPONENT_OUT_DIR.mkdir(parents=True, exist_ok=True)
-
-    df = pd.DataFrame(st.session_state.sentences)
-    df["label"] = df["id"].map(lambda sid: st.session_state.labels.get(int(sid), ""))
-    df = df[df["label"].astype(str).str.strip() != ""]
-    sentences_payload = df.to_dict(orient="records")
-
-    payload = {
-        "document_id": st.session_state.document_id,
-        "source": "Aetna Clinical Policy Bulletin",
-        "sentences": sentences_payload,
-    }
-
-    output_file = ARG_COMPONENT_OUT_DIR / f"{st.session_state.document_id}.json"
-    with output_file.open("w", encoding="utf-8") as f:
-        json.dump(payload, f, indent=2, ensure_ascii=False)
-
-    return output_file
-
-
-def render_sentence_card(sentence: Dict[str, object]):
-    sid = int(sentence["id"])
-    text = str(sentence["text"])
-    label = st.session_state.labels.get(sid, "")
-    bg_color = LABEL_COLORS.get(label, "#ffffff")
-
-    with st.container(border=True):
-        st.markdown(f"**Sentence {sid}**")
-
-        st.markdown(
-            f"""
-            <div style="background-color:{bg_color}; color:#111111; padding:0.75rem; border-radius:0.4rem; border:1px solid #d0d7de;">
-              {text}
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
-
-        if f"label_selector_{sid}" not in st.session_state:
-            st.session_state[f"label_selector_{sid}"] = label
-
-        with st.form(key=f"form_{sid}", clear_on_submit=False):
-            select_col, action_col = st.columns([0.7, 0.3])
-            with select_col:
-                st.selectbox(
-                    "Label",
-                    options=LABEL_OPTIONS,
-                    key=f"label_selector_{sid}",
-                )
-            with action_col:
-                submitted = st.form_submit_button("Confirm Label", use_container_width=True)
-            if submitted:
-                chosen = st.session_state.get(f"label_selector_{sid}", "")
-                set_label(sid, chosen)
-                st.rerun()
-
-
-def main():
-    st.set_page_config(page_title="Argument Component Annotation Tool", layout="wide")
-    initialize_state()
-
-    st.title("Argument Component Annotation Tool")
-
+@app.route("/api/pdfs", methods=["GET"])
+def get_pdfs():
     raw_pdf_dir = get_raw_pdf_dir()
     pdf_files = list_pdf_files(raw_pdf_dir)
-    if not pdf_files:
-        st.error(f"No PDF files found in: {raw_pdf_dir}")
-        return
+    return jsonify({"pdfs": [p.name for p in pdf_files]})
 
-    pdf_options = {p.name: p for p in pdf_files}
-    selected_pdf_name = st.selectbox("Select a PDF", options=list(pdf_options.keys()))
+@app.route("/api/load", methods=["POST"])
+def load_pdf():
+    data = request.json
+    pdf_name = data.get("pdf_name")
+    if not pdf_name:
+        return jsonify({"error": "No pdf_name provided"}), 400
+    
+    raw_pdf_dir = get_raw_pdf_dir()
+    pdf_path = raw_pdf_dir / pdf_name
+    
+    if not pdf_path.exists():
+        return jsonify({"error": "PDF not found"}), 404
+        
+    text = extract_text_from_pdf(pdf_path)
+    sentences = split_into_sentences(text)
+    doc_id = normalize_doc_id(pdf_name)
+    
+    return jsonify({
+        "document_id": doc_id,
+        "sentences": sentences
+    })
 
-    if st.button("Load Document", type="primary"):
-        with st.spinner("Loading, extracting text, and splitting sentences..."):
-            load_document(pdf_options[selected_pdf_name])
-        st.success(f"Loaded: {selected_pdf_name}")
+@app.route("/api/save", methods=["POST"])
+def save():
+    data = request.json
+    doc_id = data.get("document_id")
+    annotations = data.get("sentences", [])
+    
+    if not doc_id:
+        return jsonify({"error": "Missing document_id"}), 400
+        
+    ARG_COMPONENT_OUT_DIR.mkdir(parents=True, exist_ok=True)
+    
+    filtered_sentences = [
+        {"id": s.get("id"), "text": s.get("text"), "label": s.get("label")} 
+        for s in annotations
+        if s.get("label", "").strip() != ""
+    ]
+    
+    payload = {
+        "document_id": doc_id,
+        "source": "Aetna Clinical Policy Bulletin",
+        "sentences": filtered_sentences,
+    }
 
-    if not st.session_state.loaded:
-        st.info("Load a document to begin annotation.")
-        return
-
-    stats_df = pd.DataFrame(st.session_state.sentences)
-    if not stats_df.empty:
-        stats_df["label"] = stats_df["id"].map(lambda sid: st.session_state.labels.get(int(sid), ""))
-    total_sentences = int(stats_df.shape[0])
-    labeled_sentences = int((stats_df["label"] != "").sum()) if total_sentences else 0
-    remaining_sentences = total_sentences - labeled_sentences
-    progress = (labeled_sentences / total_sentences) if total_sentences else 0.0
-
-    st.subheader(f"Document: {st.session_state.current_pdf_name}")
-
-    stat_col1, stat_col2, stat_col3 = st.columns(3)
-    stat_col1.metric("Total sentences", total_sentences)
-    stat_col2.metric("Labeled sentences", labeled_sentences)
-    stat_col3.metric("Remaining sentences", remaining_sentences)
-
-    st.progress(progress, text=f"Progress: {int(progress * 100)}% labeled")
-
-    st.caption("Select a label and click Confirm Label to commit the annotation.")
-
-    filter_option = st.radio(
-        "Filter",
-        options=["Show All", "Show Unlabeled", "Show CLAIM", "Show PREMISE", "Show NON_ARGUMENTATIVE"],
-        horizontal=True,
-    )
-
-    if filter_option == "Show All":
-        visible_sentences = st.session_state.sentences
-    elif filter_option == "Show Unlabeled":
-        visible_sentences = [
-            s for s in st.session_state.sentences if not st.session_state.labels.get(int(s["id"]), "")
-        ]
-    else:
-        target = filter_option.replace("Show ", "")
-        visible_sentences = [
-            s for s in st.session_state.sentences if st.session_state.labels.get(int(s["id"]), "") == target
-        ]
-
-    st.markdown("### Sentences")
-    try:
-        sentence_holder = st.container(height=520)
-    except TypeError:
-        sentence_holder = st.container()
-
-    with sentence_holder:
-        if not visible_sentences:
-            st.info("No sentences match the current filter.")
-        for sent in visible_sentences:
-            render_sentence_card(sent)
-
-    if st.button("Save Annotations", type="primary"):
-        output_file = save_annotations()
-        st.success(f"Annotations saved successfully. File: {output_file.name}")
-
+    output_file = ARG_COMPONENT_OUT_DIR / f"{doc_id}.json"
+    with output_file.open("w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2, ensure_ascii=False)
+        
+    return jsonify({"message": f"Annotations saved to {output_file.name}"})
 
 if __name__ == "__main__":
-    main()
+    app.run(debug=True, port=8501)
