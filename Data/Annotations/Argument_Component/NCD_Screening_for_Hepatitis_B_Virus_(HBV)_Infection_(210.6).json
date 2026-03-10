@@ -1,0 +1,102 @@
+{
+  "document_id": "NCD_-_Screening_for_Hepatitis_B_Virus_(HBV)_Infection_(210.6)",
+  "source": "Cms Ncd",
+  "dataset": "cms_ncd",
+  "sentences": [
+    {
+      "id": 4,
+      "text": "Item/Service Description A. General Hepatitis B Virus (HBV) is transmitted by exposure to blood or blood-containing body fluids such as serum, semen or saliva.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 5,
+      "text": "HBV infection attacks the liver and leads to inflammation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 7,
+      "text": "An acute HBV infection may become a chronic infection and progress to serious and potentially life- threatening complications including cirrhosis, liver failure, hepatocellular carcinoma and death.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 9,
+      "text": "Indications and Limitations of Coverage B. Nationally Covered Indications Effective for services performed on or after September 28, 2016, CMS has determined that the evidence is sufficient to cover screening for HBV infection with the appropriate U.S. Food and Drug Administration (FDA) approved/cleared laboratory tests, used consistent with FDA approved labeling and in compliance with the Clinical Laboratory Improvement Act (CLIA) regulations, when ordered by the beneficiary's primary care physician or practitioner within the context of a primary care setting, and performed by an eligible Medicare provider for these services, for beneficiaries who meet either of the following conditions. 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "A screening test is covered for asymptomatic, nonpregnant adolescents and adults at high risk for HBV infection. \"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "In addition, CMS has determined that repeated screening would be appropriate annually only for beneficiaries with continued high risk (i.e., men who have sex with men, injection drug users, household contacts or sexual partners of persons with HBV infection) who do not receive hepatitis B vaccination. 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "A screening test at the first prenatal visit is covered for pregnant women and then rescreening at time of delivery for those with new or continuing risk factors.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "In addition, CMS has determined that screening during the first prenatal visit would be appropriate for each pregnancy, regardless of previous hepatitis B vaccination or previous negative HBsAg test results.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "The determination of \"high risk for HBV\" is identified by the primary care physician or practitioner who assesses the patient's history, which is part of any complete medical history, typically part of an annual wellness visit and considered in the development of a comprehensive prevention plan.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 18,
+      "text": "Emergency departments, inpatient hospital settings, ambulatory surgical centers, skilled nursing facilities, inpatient rehabilitation facilities, clinics providing a limited focus of health care services, and hospice are examples of settings not considered primary care settings under this definition.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 22,
+      "text": "C. Nationally Non-Covered Indications Effective for claims with dates of service on and after September 28, 2016: - Medicare beneficiaries who are symptomatic, or who have already been diagnosed with HBV infection, or who are nonpregnant and have already received a hepatitis B vaccination are non-covered.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "D. Other Medicare coinsurance and the Part B deductible are waived for this \"additional preventive service.\" (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 32,
+      "text": "Edits to ICD-10 and other coding updates specific to NCDs will be included in subsequent quarterly releases and individual CRs as appropriate.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 33,
+      "text": "No policy-related changes are included with the ICD-10 quarterly updates.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 38,
+      "text": "Edits to ICD-10 and other coding updates specific to NCDs will be included in subsequent quarterly releases and individual CRs as appropriate.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 44,
+      "text": "These NCD coding changes are the result of newly available codes, coding revisions to NCDs released separately, or coding feedback received.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 46,
+      "text": "Edits to ICD-10 and other coding updates specific to NCDs will be included in subsequent quarterly releases and individual CRs as appropriate.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 48,
+      "text": "Any policy-related changes to NCDs continue to be implemented via the current, long-standing NCD process. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 62,
+      "text": "TN 197 ) (CR9859) 04/2017 - CMS has determined that effective September 28, 2016, screening for HBV infection will be covered with the appropriate U.S. Food and Drug Administration (FDA) approved/cleared laboratory tests, used consistent with FDA-approved labeling and in compliance with the Clinical Laboratory Improvement Act (CLIA) regulations. Effective date 09/28/2016. Implementation date 01/01/2018. (",
+      "label": "CLAIM"
+    }
+  ]
+}

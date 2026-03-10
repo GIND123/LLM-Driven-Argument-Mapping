@@ -1,0 +1,172 @@
+{
+  "document_id": "NCD_-_Bariatric_Surgery_for_Treatment_of_Co-Morbid_Conditions_Related_to_Morbid_Obesity_(100.1)",
+  "source": "Cms Ncd",
+  "dataset": "cms_ncd",
+  "sentences": [
+    {
+      "id": 4,
+      "text": "Item/Service Description Please note, sections 40.5, 100.8, 100.11, and 100.14 have been removed from the 1 of 9 3/10/26, 06:43 NCD - Bariatric Surgery for Treatment of Co-Morbid ... https://www.cms.gov/medicare-coverage-database/vie... National Coverage Determination (NCD) Manual and incorporated into NCD 100.1 A. General Obesity may be caused by medical conditions such as hypothyroidism, Cushing's disease, and hypothalamic lesions, or can aggravate a number of cardiac and respiratory diseases as well as diabetes and hypertension.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 6,
+      "text": "In addition, supplemented fasting is a type of very low calorie weight reduction regimen used to achieve rapid weight loss.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "The reduced calorie intake is supplemented by a mixture of protein, carbohydrates, vitamins, and minerals.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 8,
+      "text": "Serious questions exist about the safety of prolonged adherence for 2 months or more to a very low calorie weight reduction regimen as a general treatment for obesity, because of instances of cardiopathology and sudden death, as well as possible loss of body protein.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 9,
+      "text": "Bariatric surgery procedures are performed to treat comorbid conditions associated with morbid obesity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 10,
+      "text": "Two types of surgical procedures are employed.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 11,
+      "text": "Malabsorptive procedures divert food from the stomach to a lower part of the digestive tract where the normal mixing of digestive fluids and absorption of nutrients cannot occur.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 12,
+      "text": "Restrictive procedures restrict the size of the stomach and decrease intake.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 15,
+      "text": "Roux-en-Y Gastric Bypass (RYGBP) The RYGBP achieves weight loss by gastric restriction and malabsorption.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 16,
+      "text": "Reduction of the stomach to a small gastric pouch (30 cc) results in feelings of satiety following even small meals.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 17,
+      "text": "This small pouch is connected to a segment of the jejunum, bypassing the duodenum and very proximal small intestine, thereby reducing absorption.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 18,
+      "text": "RYGBP procedures can be open or laparoscopic. 2.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 32,
+      "text": "Vertical Gastric Banding (VGB) The VGB achieves weight loss by gastric restriction only.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 33,
+      "text": "The upper part of the stomach is stapled, creating a narrow gastric inlet or pouch that remains connected with the remainder of the stomach.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 38,
+      "text": "Indications and Limitations of Coverage B. Nationally Covered Indications Effective for services performed on and after February 21, 2006, Open and laparoscopic Roux-en-Y gastric bypass (RYGBP), open and laparoscopic Biliopancreatic Diversion with Duodenal Switch (BPD/DS) or Gastric Reduction Duodenal Switch (BPD/GRDS), and laparoscopic adjustable gastric banding (LAGB) are covered for Medicare beneficiaries who have a body-mass index ≥ 35, have at least one co-morbidity related to obesity, and have been previously unsuccessful with medical treatment for obesity.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 40,
+      "text": "Effective for dates of service on and after September 24, 2013, facilities are no longer required to be certified.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 41,
+      "text": "Effective for services performed on and after February 12, 2009, the Centers for Medicare & Medicaid Services (CMS) determines that Type 2 diabetes mellitus is a co- morbidity for purposes of this NCD.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 43,
+      "text": "C. Nationally Non-Covered Indications Treatments for obesity alone remain non-covered.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 44,
+      "text": "Supplemented fasting is not covered under the Medicare program as a general treatment for obesity (see section D. below for discretionary local coverage).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 45,
+      "text": "The following bariatric surgery procedures are non-covered for all Medicare beneficiaries: Open adjustable gastric banding; Open sleeve gastrectomy; Laparoscopic sleeve gastrectomy (prior to June 27, 2012); Open and laparoscopic vertical banded gastroplasty; Intestinal bypass surgery; and, Gastric balloon for treatment of obesity.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 48,
+      "text": "The determination of coverage for any bariatric surgery procedures that are not specifically identified in an NCD as covered or non-covered, for Medicare beneficiaries who have a body-mass index ≥ 35, have at least one co-morbidity related to obesity, and have been previously unsuccessful with medical treatment for obesity, is left to the local MACs.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 49,
+      "text": "Where weight loss is necessary before surgery in order to ameliorate the complications posed by obesity when it coexists with pathological conditions such as cardiac and respiratory diseases, diabetes, or hypertension (and other more conservative techniques to achieve this end are not regarded as appropriate), supplemented fasting with adequate monitoring of the patient is eligible for coverage on a case-by-case basis or pursuant to a local coverage determination.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 50,
+      "text": "The risks associated with the achievement of rapid weight loss must be carefully balanced against the risk posed by the condition requiring surgical treatment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 52,
+      "text": "No policy is being changed as a result of these updates. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 53,
+      "text": "TN 13097 ) (CR13939) 05/2024 - The purpose of this Change Request (CR) is to provide a quarterly maintenance update of ICD-10 coding conversions and other coding updates specific to National Coverage Determinations (NCDs).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 56,
+      "text": "These NCD coding changes are the result of newly available codes, coding revisions to NCDs released separately, or coding feedback received.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 60,
+      "text": "Any policy-related changes to NCDs continue to be implemented via the current, long-standing NCD process. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 62,
+      "text": "These NCD coding changes are the result of newly available codes, coding revisions to NCDs released separately, or coding feedback received.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 73,
+      "text": "Some are the result of revisions required to other NCD-related CRs released separately that included ICD-10 coding.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 77,
+      "text": "These updates do not expand, restrict, or alter existing coverage policy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 87,
+      "text": "a. The beneficiary has a body-mass index (BMI) ≥ 35 kg/m2, b. The beneficiary has at least one co-morbidity related to obesity, and, c. The beneficiary has been previously unsuccessful with medical treatment for obesity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 89,
+      "text": "04/2009 - Effective for services performed on and after February 12, 2009, CMS determines that open and laparoscopic Roux-en-Y gastric bypass (RYGBP), laparoscopic adjustable gastric banding (LAGB), and open and laparoscopic biliopancreatic diversion with duodenal switch (BPD/DS) in Medicare beneficiaries who have type 2 diabetes mellitus (T2DM) and a BMI less than 35 are not reasonable and necessary under section 1862(a)(1)(A) of the Social Security Act, and therefore are not covered.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 91,
+      "text": "04/2006 - Medicare will cover open and laparoscopic Roux-en Y gastric bypass (RYGBP), laparoscopic adjustable gastric banding (LAGB) and open and laparoscopic biliopancreatic diversion with duodenal switch (BPD/DS) if certain criteria are met and the procedure is performed in an approved facility.",
+      "label": "CLAIM"
+    }
+  ]
+}

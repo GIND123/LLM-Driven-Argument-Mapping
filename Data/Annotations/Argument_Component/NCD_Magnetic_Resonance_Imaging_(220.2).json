@@ -1,0 +1,322 @@
+{
+  "document_id": "NCD_-_Magnetic_Resonance_Imaging_(220.2)",
+  "source": "Cms Ncd",
+  "dataset": "cms_ncd",
+  "sentences": [
+    {
+      "id": 5,
+      "text": "In contrast to conventional radiographs or computed tomography (CT) scans, in which the image is produced by x-ray beam attenuation by an object, MRI is capable of producing images by several techniques.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 6,
+      "text": "In fact, various combinations of MRI image production methods may be employed to emphasize particular characteristics of the tissue or body part being examined.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 7,
+      "text": "The basic elements by which MRI produces an image are the density of hydrogen nuclei in the object being examined, their motion, and the relaxation times, and the period of time required for the nuclei to return to their original states in the main, static magnetic field after being subjected to a brief additional magnetic field.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "These relaxation times reflect the physical-chemical properties of tissue and the molecular environment of its hydrogen nuclei.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 9,
+      "text": "Only hydrogen atoms are present in human tissues in sufficient concentration for current use in clinical MRI.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 10,
+      "text": "Magnetic Resonance Angiography (MRA) is a non-invasive diagnostic test that is an application of MRI.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 11,
+      "text": "By analyzing the amount of energy released from tissues exposed to a strong magnetic field, MRA provides images of normal and diseased blood vessels, as well as visualization and quantification of blood flow through these vessels. 2.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 12,
+      "text": "General Clinical Utility Overall, MRI is a useful diagnostic imaging modality that is capable of demonstrating a wide variety of soft-tissue lesions with contrast resolution equal or superior to CT scanning in various parts of the body.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 13,
+      "text": "Among the advantages of MRI are the absence of ionizing radiation and the ability to achieve high levels of tissue contrast resolution without injected iodinated radiological contrast agents.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 14,
+      "text": "Recent advances in technology have resulted in development and Food and Drug Administration (FDA) approval of new paramagnetic contrast agents for MRI which allow even better visualization in some instances.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 15,
+      "text": "Multi-slice imaging and the ability to image in multiple planes, especially sagittal and coronal, have provided flexibility not easily available with other modalities.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 16,
+      "text": "Because cortical (outer layer) bone and metallic prostheses do not cause distortion of MR images, it has been possible to visualize certain lesions and body regions with greater certainty than has been possible with CT.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 17,
+      "text": "The use of MRI on certain soft tissue structures for the purpose of detecting disruptive, neoplastic, degenerative, or inflammatory lesions has now become established in medical practice.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 18,
+      "text": "Phase contrast (PC) and time-of-flight (TOF) are some of the available MRA techniques at the time these instructions are being issued.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "PC measures the difference between the phases of proton spins in tissue and blood and measures both the venous and arterial blood flow at any point in the cardiac cycle.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 20,
+      "text": "TOF measures the difference between the amount of magnetization of tissue and blood and provides information on the structure of blood vessels, thus indirectly indicating blood flow.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 21,
+      "text": "Two-dimensional (2D) and three-dimensional (3D) images can be obtained using each method.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 25,
+      "text": "Unlike ionic (i.e., iodine-based) contrast agents used in conventional contrast angiography (CA), allergic reactions to gadolinium are extremely rare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 26,
+      "text": "Additionally, gadolinium does not cause the kidney failure occasionally seen with ionic contrast agents.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 29,
+      "text": "Physicians elect to use a specific MRA or CA technique based upon clinical information from each patient.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 31,
+      "text": "MRI Although several uses of MRI are still considered investigational and some uses are clearly contraindicated (see subsection C), MRI is considered medically efficacious for a number of uses.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 33,
+      "text": "Coverage is limited to MRI units that have received FDA premarket approval, and such units must be operated within the parameters specified by the approval.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 34,
+      "text": "In addition, the services must be reasonable and necessary for the diagnosis or treatment of the specific patient involved.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 35,
+      "text": "a. MRI is useful in examining the head, central nervous system, and spine.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 37,
+      "text": "The inherent tissue contrast resolution of MRI makes it an appropriate standard diagnostic modality for general neuroradiology.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 39,
+      "text": "When a clinical need exists to visualize the parenchyma of solid organs to detect anatomic disruption or neoplasia, this can be accomplished in the liver, urogenital system, adrenals, and pelvic organs without the use of radiological contrast materials.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 40,
+      "text": "When MRI is considered reasonable and necessary, the use of paramagnetic contrast materials may be covered as part of the study.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 41,
+      "text": "MRI may also be used to detect and stage pelvic and retroperitoneal neoplasms and to evaluate disorders of cancellous bone and soft tissues.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 42,
+      "text": "It may also be used in the detection of pericardial thickening.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 43,
+      "text": "Primary and secondary bone neoplasm and aseptic necrosis can be detected at an early stage and monitored with MRI.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 45,
+      "text": "c. MRI may also be covered to diagnose disc disease without regard to whether radiological imaging has been tried first to diagnose the problem.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 46,
+      "text": "d. MRI with gating devices and surface coils, and gating devices that eliminate distorted images caused by cardiac and respiratory movement cycles are now considered state of the art techniques and may be covered.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 49,
+      "text": "MRA (MRI for Blood Flow) Currently covered indications include using MRA for specific conditions to evaluate flow in internal carotid vessels of the head and neck, peripheral arteries of lower extremities, abdomen and pelvis, and the chest.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 50,
+      "text": "Coverage is limited to MRA units that have received FDA premarket approval, and such units must be operated within the parameters specified by the approval.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 54,
+      "text": "All of the following criteria must apply in order for Medicare to provide coverage for MRA of the head and neck: • MRA is used to evaluate the carotid arteries, the circle of Willis, the anterior, middle or posterior cerebral arteries, the vertebral or basilar arteries or the venous sinuses; • MRA is performed on patients with conditions of the head and neck for which surgery is anticipated and may be found to be appropriate based on the MRA.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 58,
+      "text": "Only one of these tests will be covered routinely unless the physician can demonstrate the medical need to perform both tests.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 61,
+      "text": "Medicare will cover either MRA or CA to evaluate peripheral arteries of the lower extremities.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 64,
+      "text": "c. Abdomen and Pelvis i. Pre-operative Evaluation of Patients Undergoing Elective Abdominal Aortic Aneurysm (AAA) Repair MRA is covered for pre-operative evaluation of patients undergoing elective AAA repair if the scientific evidence reveals MRA is considered comparable to CA in determining the extent of AAA, as well as in evaluating aortoiliac occlusion disease and renal artery pathology that may be necessary in the surgical planning of AAA repair.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 65,
+      "text": "These studies also reveal that MRA could provide a net benefit to the patient.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 66,
+      "text": "If preoperative CA is avoided, then patients are not exposed to the risks associated with invasive procedures, contrast media, end-organ damage, or arterial injury. ii.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 67,
+      "text": "Imaging the Renal Arteries and the Aortoiliac Arteries in the Absence of AAA or Aortic Dissection MRA coverage is expanded to include imaging the renal arteries and the aortoiliac arteries in the absence of AAA or aortic dissection.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 70,
+      "text": "d. Chest i. Diagnosis of Pulmonary Embolism Current scientific data has shown that diagnostic pulmonary MRAs are improving due to recent developments such as faster imaging capabilities and gadolinium-enhancement.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 72,
+      "text": "Patients who are allergic to iodinated contrast material face a high risk of developing complications if they undergo pulmonary angiography or computed tomography angiography.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 73,
+      "text": "Therefore, Medicare will cover MRA of the chest for diagnosing a suspected pulmonary embolism when it is contraindicated for the patient to receive intravascular iodinated contrast material. ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 74,
+      "text": "Evaluation of Thoracic Aortic Dissection and Aneurysm Studies have shown that MRA of the chest has a high level of diagnostic accuracy for pre-operative and post-operative evaluation of aortic dissection of aneurysm.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "Depending on the clinical presentation, MRA may be used as an alternative to other non-invasive imaging technologies, such as transesophageal echocardiography and CT.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 76,
+      "text": "Generally, Medicare will provide coverage only for MRA or for CA when used as a diagnostic test.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 77,
+      "text": "However, if both MRA and CA of the chest are used, the physician must demonstrate the medical need for performing these tests.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 78,
+      "text": "While the intent of this policy is to provide reimbursement for either MRA or CA, the Centers for Medicare & Medicaid Services (CMS) is also allowing flexibility for physicians to make appropriate decisions concerning the use of these tests based on the needs of individual patients.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 79,
+      "text": "CMS anticipates, however, low utilization of the combined use of MRA and CA.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 80,
+      "text": "As a result, CMS encourages the Medicare Administrative Contractors (MACs) to monitor the use of these tests and, where indicated, require evidence of the need to perform both MRA and CA. 3.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 81,
+      "text": "MRI for Patients with an Implanted Pacemaker, Implantable Cardioverter Defibrillator (ICD), Cardiac Resynchronization Therapy Pacemaker (CRT-PP, or Cardiac Resynchronization Therapy Defibrillators(CRT-D) i. An MRI is covered when used according to the FDA labeling in an MRI environment for patients with an implanted pacemaker, implantable cardioverter defibrillator (ICD) cardiac resynchronization therapy pacemaker (CRT-P), or cardiac resynchronization therapy defibrillator (CRT-D). ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 85,
+      "text": "The danger inherent in bringing ferromagnetic materials within range of MRI units generally constrains the use of MRI on acutely ill patients requiring life support systems and monitoring devices that employ ferromagnetic materials. •",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 86,
+      "text": "The long imaging time and the enclosed position of the patient may result in claustrophobia, making patients who have a history of claustrophobia unsuitable candidates for MRI procedures. 2.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 87,
+      "text": "Nationally Non-Covered Indications CMS has determined that MRI of cortical bone and calcifications, and procedures involving spatial resolution of bone and calcifications, are not considered reasonable and necessary indications within the meaning of section 1862(a)(1)(A) of the Act, and are therefore non-covered.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 88,
+      "text": "7 of 11 3/10/26, 06:37 NCD - Magnetic Resonance Imaging (220.2) https://www.cms.gov/medicare-coverage-database/vie... MRI is not covered for patients with metallic clips on vascular aneurysms.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 89,
+      "text": "D. Other All other uses of MRI or MRA for which CMS has not specifically indicated coverage or non-coverage continue to be eligible for coverage through individual local MAC discretion. ( This NCD last reviewed April 2018.)",
+      "label": "CLAIM"
+    },
+    {
+      "id": 95,
+      "text": "TN 135 ) (CR 7441) 08/2011 - Effective for claims with dates of service on or after July 7, 2011, CMS believes that the evidence is adequate to conclude that magnetic resonance imaging (MRI) improves health outcomes for Medicare beneficiaries with implanted permanent pacemakers (PMs) when the PMs are used according to the FDA-approved labeling for use in an MRI environment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 96,
+      "text": "Other contraindications that may be present in any given beneficiary would continue to apply in patients with PMs.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 107,
+      "text": "TN 123 ) (CR 7040) 10/2009 - Effective September 28, 2009, CMS finds that the blanket non-coverage of MRI for blood flow determination at section 220.2 of the NCD Manual is no longer supported by the available evidence.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 108,
+      "text": "Therefore, CMS is removing the phrase blood flow measurement, from the NCD, giving local Medicare contractors discretion to cover (or not cover) this use.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 111,
+      "text": "TN 21 ) (CR 3425) 03/1994 - Provided coverage for diagnosis of disc disease without regard to whether radiological imaging has been tried first to diagnose problem. Effective date 03/22/1994. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 112,
+      "text": "TN 69) 02/1991 - Provided coverage of surface coils used to enhance image, and gating devices used to compensate for motion of body parts when used in conjunction with MRI. Effective date 03/04/1991. (",
+      "label": "CLAIM"
+    }
+  ]
+}

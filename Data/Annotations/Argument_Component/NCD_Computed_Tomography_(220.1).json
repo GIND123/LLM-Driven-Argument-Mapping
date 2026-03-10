@@ -1,0 +1,102 @@
+{
+  "document_id": "NCD_-_Computed_Tomography_(220.1)",
+  "source": "Cms Ncd",
+  "dataset": "cms_ncd",
+  "sentences": [
+    {
+      "id": 4,
+      "text": "Item/Service Description A. General Diagnostic examinations of the head (head scans) and of other parts of the body (body scans) performed by computerized tomography (CT) scanners are covered if medical and scientific literature and opinion support the effective use of a scan for the 1 of 5 3/10/26, 06:38 NCD - Computed Tomography (220.1) https://www.cms.gov/medicare-coverage-database/vie... condition, and the scan is: (1) reasonable and necessary for the individual patient; and (2) performed on a model of CT equipment that meets the criteria in C below.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "CT scans have become the primary diagnostic tool for many conditions and symptoms.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 6,
+      "text": "CT scanning used as the primary diagnostic tool can be cost effective because it can eliminate the need for a series of other tests, is non-invasive and thus virtually eliminates complications, and does not require hospitalization.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 7,
+      "text": "Indications and Limitations of Coverage B. Determining Whether a CT Scan Is Reasonable and Necessary Sufficient information must be provided with claims to differentiate CT scans from other radiology services and to make coverage determinations.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 8,
+      "text": "Carefully review claims to ensure that a scan is reasonable and necessary for the individual patient; i.e., the use must be found to be medically appropriate considering the patient’s symptoms and preliminary diagnosis.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 9,
+      "text": "There is no general rule that requires other diagnostic tests to be tried before CT scanning is used.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 11,
+      "text": "Claims for CT scans are reviewed for evidence of abuse, which might include the absence of reasonable indications for the scans, an excessive number of scans, or unnecessarily expensive types of scans considering the facts in the particular cases. C. Approved Models of CT Equipment 1.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 12,
+      "text": "Criteria for Approval In the absence of evidence to the contrary, the MAC may assume that a CT scan for which payment is requested has been performed on equipment that meets the following criteria: a. The model must be known to the Food and Drug Administration (FDA), and b. Must be in the full market release phase of development.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 18,
+      "text": "States that the company or corporation is satisfied with the results of the developmental stages that preceded the full market release phase of the equipment, that the equipment is in the full market release phase, and the date on which it was decided to put the product into the full market release phase.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 20,
+      "text": "As with scans performed on stationary units, the scans must be determined medically necessary for the individual patient.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 21,
+      "text": "The scans must be performed on types of CT scanning equipment that have been approved for use as stationary units (see C above), and must be in compliance with applicable State laws and regulations for control of radiation. 1.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 22,
+      "text": "Hospital Setting The hospital must assume responsibility for the quality of the scan furnished to inpatients and outpatients and must ensure that a radiologist or other qualified physician is in charge of the procedure.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 23,
+      "text": "The radiologist or other physician (i.e., one who is with the mobile unit) who is responsible for the procedure must be approved by the hospital for similar privileges. 2.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 24,
+      "text": "Ambulatory Setting If mobile CT scan services are furnished at an ambulatory health care facility other than a hospital-based facility, e.g., a freestanding physician-directed clinic, the diagnostic procedure must be performed by, or under the direct personal supervision of, a radiologist or other qualified physician.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 27,
+      "text": "Claims Review Evidence of compliance with applicable State laws and regulations for control of radiation should be requested from owners of mobile CT scan units upon receipt of the first claims.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 32,
+      "text": "MPDI, also known as planar image reconstruction or reformatted imaging, is covered under Medicare when provided as a service to an entity performing a covered CT scan.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 34,
+      "text": "After examining the medical evidence, the Centers for Medicare and Medicaid Services has determined that no national coverage determination is appropriate at this time (March 12, 2008).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 35,
+      "text": "Section 1862(a)(1)(A) of the Social Security Act decisions should be made by local MACs through a local coverage determination process or case-by-case adjudication.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 37,
+      "text": "Transmittal Information Transmittal Number 85 Coverage Transmittal Link https://www.cms.gov/Regulations-and-Guidance/Guidance/Transmittals/Downloads/ R85NCD.pdf Revision History 4 of 5 3/10/26, 06:38 NCD - Computed Tomography (220.1) https://www.cms.gov/medicare-coverage-database/vie... 06/2008 - The Centers for Medicare and Medicaid Services has determined that the use of cardiac CTA to diagnosis coronary artery disease (CAD), shall remain at local contractor discretion, and no national coverage determination (NCD) is appropriate at this time.",
+      "label": "CLAIM"
+    }
+  ]
+}

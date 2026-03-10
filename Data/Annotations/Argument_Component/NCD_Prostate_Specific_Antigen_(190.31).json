@@ -1,0 +1,67 @@
+{
+  "document_id": "NCD_-_Prostate_Specific_Antigen_(190.31)",
+  "source": "Cms Ncd",
+  "dataset": "cms_ncd",
+  "sentences": [
+    {
+      "id": 4,
+      "text": "Item/Service Description Prostate Specific Antigen (PSA), a tumor marker for adenocarcinoma of the prostate, can predict residual tumor in the post-operative phase of prostate cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 5,
+      "text": "Three to six months after radical prostatectomy, PSA is reported to provide a sensitive indicator of persistent disease.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 6,
+      "text": "Six months following introduction of antiandrogen therapy, PSA is reported as capable of distinguishing patients with favorable response from those in whom limited response is anticipated.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 7,
+      "text": "1 of 5 3/10/26, 06:43 NCD - Prostate Specific Antigen (190.31) https://www.cms.gov/medicare-coverage-database/vie... PSA when used in conjunction with other prostate cancer tests, such as digital rectal examination, may assist in the decision making process for diagnosing prostate cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 8,
+      "text": "PSA also, serves as a marker in following the progress of most prostate tumors once a diagnosis has been established.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 9,
+      "text": "This test is also an aid in the management of prostate cancer patients and in detecting metastatic or persistent disease in patients following treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 10,
+      "text": "Indications and Limitations of Coverage Indications PSA is of proven value in differentiating benign from malignant disease in men with lower urinary tract signs and symptoms (e.g., hematuria, slow urine stream, hesitancy, urgency, frequency, nocturia and incontinence) as well as with patients with palpably abnormal prostate glands on physician exam, and in patients with other laboratory or imaging studies that suggest the possibility of a malignant prostate disorder.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 11,
+      "text": "PSA is also a marker used to follow the progress of prostate cancer once a diagnosis has been established, such as in detecting metastatic or persistent disease in patients who may require additional treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 12,
+      "text": "PSA testing may also be useful in the differential diagnosis of men presenting with as yet undiagnosed disseminated metastatic disease.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 13,
+      "text": "Limitations Generally, for patients with lower urinary tract signs or symptoms, the test is performed only once per year unless there is a change in the patient's medical condition.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "Testing with a diagnosis of in situ carcinoma is not reasonably done more frequently than once, unless the result is abnormal, in which case the test may be repeated once.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 18,
+      "text": "Coding guidance now published in Medicare Lab NCD Manual.",
+      "label": "NON_ARGUMENTATIVE"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "document_id": "NCD_-_Colorectal_Cancer_Screening_Tests_(210.3)",
+  "source": "Cms Ncd",
+  "dataset": "cms_ncd",
+  "sentences": [
+    {
+      "id": 5,
+      "text": "Indications and Limitations of Coverage B. Nationally Covered Indications 1.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 6,
+      "text": "Fecal Occult Blood Tests (FOBT) (effective January 1, 2004) Fecal occult blood tests (FOBTs) are generally divided into two types: immunoassay and guaiac types.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 7,
+      "text": "Immunoassay (or immunochemical) fecal occult blood tests (iFOBT) use “antibodies directed against human globin epitopes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 8,
+      "text": "While most iFOBTs use spatulas to collect stool samples, some use a brush to collect toilet water surrounding the stool.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 9,
+      "text": "Most iFOBTs require laboratory processing.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 10,
+      "text": "Guaiac fecal occult blood tests (gFOBT) use a peroxidase reaction to indicate presence of the heme portion of hemoglobin.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 15,
+      "text": "Effective for dates of service on and after January 1, 2004, Medicare covers one screening FOBT per annum for the early detection of colorectal cancer.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 20,
+      "text": "Effective January 1, 2023, the minimum age for FOBT is reduced to 45 years and older. 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 24,
+      "text": "Effective for dates of service on or after October 9, 2014, The Cologuard™ test is covered once every three years for Medicare beneficiaries that meet all of the following criteria: • Age 50 to 85 years, and, • Asymptomatic (no signs or symptoms of colorectal disease including but not limited to lower gastrointestinal pain, blood in stool, positive guaiac fecal occult blood test (gFOBT) or fecal immunochemical test (iFOBT)), and, • At average risk of developing colorectal cancer (no personal history of adenomatous polyps, colorectal cancer, or inflammatory bowel disease, including Crohn’s Disease and ulcerative colitis; no family history of colorectal cancers or adenomatous polyps, familial adenomatous polyposis, or hereditary nonpolyposis colorectal cancer).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 27,
+      "text": "Effective for dates of service on or after January 19, 2021, a blood-based biomarker test is covered as an appropriate colorectal cancer screening test once every 3 years for Medicare beneficiaries when performed in a Clinical Laboratory Improvement Act (CLIA)-certified laboratory, when ordered by a treating physician and when all of the following requirements are met: The patient is: • age 50-85 years, and, • asymptomatic (no signs or symptoms of colorectal disease including but not limited to lower gastrointestinal pain, blood in stool, positive guaiac fecal occult blood test or fecal immunochemical test), and, • at average risk of developing colorectal cancer (no personal history of adenomatous polyps, colorectal cancer, or inflammatory bowel disease, including 3 of 11 3/10/26, 06:45 NCD - Colorectal Cancer Screening Tests (210.3) https://www.cms.gov/medicare-coverage-database/vie... Crohn’s Disease and ulcerative colitis; no family history of colorectal cancers or adenomatous polyps, familial adenomatous polyposis, or hereditary nonpolyposis colorectal cancer).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 29,
+      "text": "Effective January 1, 2023, the minimum age for blood-based biomarker test is reduced to 45 years and older.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 30,
+      "text": "C. Nationally Non-Covered Indications All other indications for colorectal cancer screening not otherwise specified in the Act and regulations, or otherwise specified above remain nationally non-covered.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 32,
+      "text": "Effective for dates of service on or after October 9, 2014, all other screening sDNA tests not otherwise specified above remain nationally non-covered. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 46,
+      "text": "No policy is being changed as a result of these updates. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 48,
+      "text": "This correction does not make any revisions to the companion Pubs.100-02 or 100-03; all revisions are associated with Pub. 100-04.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 54,
+      "text": "The Federal government creates NCDs that are binding on the MACs who review and/or adjudicate claims, make coverage determinations, and/or payment decisions, and also binds quality improvement organizations, qualified independent contractors, the Medicare appeals council, and Administrative Law Judges (ALJs) (see 42 Code of Federal Regulations (CFR) section 405.1060(a)(4) (2005)).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 68,
+      "text": "Previous NCD coding changes appear in ICD-10 quarterly updates that can be found at: https://www.cms.gov/Medicare/Coverage/CoverageGenInfo/ICD10.html , along with other CRs implementing new policy NCDs.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 71,
+      "text": "Any policy-related changes to NCDs continue to be implemented via the current, long-standing NCD process. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 97,
+      "text": "TN 1537 ) (CR 9252) 08/2015 - The purpose of this Change Request (CR) is effective for claims with dates of service on or after October 9, 2014, contractors shall recognize new HCPCS code G0464 (colorectal cancer screening; stool-based DNA and fecal occult hemoglobin) as a covered service.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 106,
+      "text": "TN 1165 ) (CR 8109) 08/2009 - CMS determines that the current evidence is inadequate to conclude that CTC is an appropriate colorectal cancer screening test under section 1861(pp)(1) of the Social Security Act.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 107,
+      "text": "Therefore, effective May 12, 2009, CTC for colorectal cancer screening remains nationally non-covered. Effective date 05/12/2009. Implementation date 09/08/2009. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 111,
+      "text": "TN 92 ) (CR6145) 12/2003 - Expanded Medicare coverage for screening for early detection of colorectal cancer by adding additional fecal occult blood test (iFOBT, immunoassay-based) that can be used as alternative to existing gFOBT, guaiac-based test.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 112,
+      "text": "Medicare coverage continues to allow one FOBT per year for beneficiaries aged 50 and over. Effective date 1/01/04.",
+      "label": "CLAIM"
+    }
+  ]
+}

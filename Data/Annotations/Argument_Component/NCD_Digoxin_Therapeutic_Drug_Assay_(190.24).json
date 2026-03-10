@@ -1,0 +1,57 @@
+{
+  "document_id": "NCD_-_Digoxin_Therapeutic_Drug_Assay_(190.24)",
+  "source": "Cms Ncd",
+  "dataset": "cms_ncd",
+  "sentences": [
+    {
+      "id": 4,
+      "text": "Item/Service Description A digoxin therapeutic drug assay is useful for diagnosis and prevention of digoxin toxicity, and/or prevention for under dosage of digoxin.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 5,
+      "text": "Indications and Limitations of Coverage Indications 1 of 5 3/10/26, 06:44 NCD - Digoxin Therapeutic Drug Assay (190.24) https://www.cms.gov/medicare-coverage-database/vie... Digoxin levels may be performed to monitor drug levels of individuals receiving digoxin therapy because the margin of safety between side effects and toxicity is narrow or because the blood level may not be high enough to achieve the desired clinical effect.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 6,
+      "text": "Clinical indications may include individuals on digoxin: • With symptoms, signs or electrocardiogram (ECG) suggestive of digoxin toxicity. •",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 7,
+      "text": "Taking medications that influence absorption, bioavailability, distribution, and/or elimination of digoxin. •",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 14,
+      "text": "The value of obtaining regular serum digoxin levels is uncertain, but it may be reasonable to check levels once yearly after a steady state is achieved.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "Based on the clinical situation, in cases of digoxin toxicity, testing may need to be done more than once a week.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 20,
+      "text": "Digoxin is indicated for the treatment of patients with heart failure due to systolic dysfunction and for reduction of the ventricular response in patients with atrial fibrillation or flutter.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 21,
+      "text": "Digoxin may also be indicated for the treatment of other supraventricular arrhythmias, particularly in the presence of heart failure.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 22,
+      "text": "Limitations This test is not appropriate for patients on digitoxin or treated with digoxin FAB (fragment antigen binding) antibody.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 26,
+      "text": "Coding guidance now published in Medicare Lab NCD Manual.",
+      "label": "NON_ARGUMENTATIVE"
+    }
+  ]
+}

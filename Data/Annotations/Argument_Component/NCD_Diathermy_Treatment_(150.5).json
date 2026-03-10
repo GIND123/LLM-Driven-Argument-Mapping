@@ -1,0 +1,17 @@
+{
+  "document_id": "NCD_-_Diathermy_Treatment_(150.5)",
+  "source": "Cms Ncd",
+  "dataset": "cms_ncd",
+  "sentences": [
+    {
+      "id": 4,
+      "text": "Indications and Limitations of Coverage High energy pulsed wave diathermy machines have been found to produce some degree of therapeutic benefit for essentially the same conditions and to the same extent as standard diathermy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 5,
+      "text": "Accordingly, where the Medicare Administrative Contractor’s medical staff has determined that the pulsed wave diathermy apparatus used is one which is considered therapeutically effective, the treatments are considered 1 of 2 3/10/26, 06:43 NCD - Diathermy Treatment (150.5) https://www.cms.gov/medicare-coverage-database/vie... a covered service, but only for those conditions for which standard diathermy is medically indicated and only when rendered by a physician or incident to a physician’s professional services. ( This NCD last reviewed June 2006.)",
+      "label": "CLAIM"
+    }
+  ]
+}

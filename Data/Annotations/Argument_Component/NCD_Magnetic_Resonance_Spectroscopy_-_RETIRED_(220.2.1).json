@@ -1,0 +1,17 @@
+{
+  "document_id": "NCD_-_Magnetic_Resonance_Spectroscopy_-_RETIRED_(220.2.1)",
+  "source": "Cms Ncd",
+  "dataset": "cms_ncd",
+  "sentences": [
+    {
+      "id": 5,
+      "text": "In the absence of an NCD, coverage determinations will be made by the Medicare Administrative Contractors under section 1862(a)(1)(A) of the Social Security Act.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Transmittal Information Transmittal Number 11892 Coverage Transmittal Link https://www.cms.gov/files/document/r11892NCD.pdf National Coverage Analyses (NCAs) This NCD has been or is currently being reviewed under the National Coverage Determination process.",
+      "label": "CLAIM"
+    }
+  ]
+}
