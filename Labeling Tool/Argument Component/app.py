@@ -27,6 +27,30 @@ LABEL_COLORS = {
     "": "#ffffff",
 }
 
+def _get_raw_pdf_root() -> Path:
+    """Return whichever spelling of the raw-PDF parent folder exists."""
+    for name in ("Raw PDF", "Raw PDf"):
+        p = ROOT_DIR / "Data" / name
+        if p.exists():
+            return p
+    return ROOT_DIR / "Data" / "Raw PDF"
+
+def discover_datasets() -> List[str]:
+    """Auto-discover dataset folders under the raw PDF directory."""
+    root = _get_raw_pdf_root()
+    if not root.exists():
+        return []
+    return sorted(
+        d.name for d in root.iterdir()
+        if d.is_dir() and any(d.glob("*.pdf"))
+    )
+
+def dataset_to_source_label(dataset: str) -> str:
+    """Generate a human-readable source label from a folder name.
+    e.g. 'cms_ncd' -> 'Cms Ncd', 'aetna' -> 'Aetna'
+    """
+    return dataset.replace("_", " ").title()
+
 # --- Core Logic from original app.py ---
 
 _spacy_model = None
@@ -51,15 +75,8 @@ def list_pdf_files(pdf_dir: Path) -> List[Path]:
         return []
     return sorted(pdf_dir.glob("*.pdf"), key=lambda p: p.name.lower())
 
-def get_raw_pdf_dir() -> Path:
-    candidates = [
-        ROOT_DIR / "Data" / "Raw PDF" / "aetna",
-        ROOT_DIR / "Data" / "Raw PDf" / "aetna",
-    ]
-    for path in candidates:
-        if path.exists():
-            return path
-    return candidates[0]
+def get_raw_pdf_dir(dataset: str = "aetna") -> Path:
+    return _get_raw_pdf_root() / dataset
 
 _NOISE_PATTERNS: List[re.Pattern] = [
     re.compile(r"Explore\s+our\s+developer[\-\s]*friendly\s+HTML\s+to\s+PDF\s+API", re.IGNORECASE),
@@ -147,9 +164,14 @@ def split_into_sentences(text: str) -> List[Dict[str, object]]:
 def index():
     return render_template("index.html")
 
+@app.route("/api/datasets", methods=["GET"])
+def get_datasets():
+    return jsonify({"datasets": discover_datasets()})
+
 @app.route("/api/pdfs", methods=["GET"])
 def get_pdfs():
-    raw_pdf_dir = get_raw_pdf_dir()
+    dataset = request.args.get("dataset", "aetna")
+    raw_pdf_dir = get_raw_pdf_dir(dataset)
     pdf_files = list_pdf_files(raw_pdf_dir)
     return jsonify({"pdfs": [p.name for p in pdf_files]})
 
@@ -157,10 +179,11 @@ def get_pdfs():
 def load_pdf():
     data = request.json
     pdf_name = data.get("pdf_name")
+    dataset = data.get("dataset", "aetna")
     if not pdf_name:
         return jsonify({"error": "No pdf_name provided"}), 400
     
-    raw_pdf_dir = get_raw_pdf_dir()
+    raw_pdf_dir = get_raw_pdf_dir(dataset)
     pdf_path = raw_pdf_dir / pdf_name
     
     if not pdf_path.exists():
@@ -172,6 +195,7 @@ def load_pdf():
     
     return jsonify({
         "document_id": doc_id,
+        "dataset": dataset,
         "sentences": sentences
     })
 
@@ -179,6 +203,7 @@ def load_pdf():
 def save():
     data = request.json
     doc_id = data.get("document_id")
+    dataset = data.get("dataset", "aetna")
     annotations = data.get("sentences", [])
     
     if not doc_id:
@@ -192,9 +217,12 @@ def save():
         if s.get("label", "").strip() != ""
     ]
     
+    source_label = dataset_to_source_label(dataset)
+    
     payload = {
         "document_id": doc_id,
-        "source": "Aetna Clinical Policy Bulletin",
+        "source": source_label,
+        "dataset": dataset,
         "sentences": filtered_sentences,
     }
 

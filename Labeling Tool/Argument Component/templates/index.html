@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,265 +8,366 @@
     <!-- Use Bootstrap 5 -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-        body { background-color: #f8f9fa; font-family: "Inter", -apple-system, sans-serif; }
-        .sentence-card { background: white; border: 1px solid #d0d7de; border-radius: 8px; padding: 15px; margin-bottom: 15px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
-        .sentence-text { padding: 12px; border-radius: 6px; border: 1px solid #e2e3e5; margin-bottom: 15px; font-size: 1.05rem; line-height: 1.5; }
-        .bg-claim { background-color: #f8d7da; color: #842029; }
-        .bg-premise { background-color: #d1f2d9; color: #0f5132; }
-        .bg-non { background-color: #e2e3e5; color: #41464b; }
-        .bg-none { background-color: #ffffff; color: #212529; }
-        
-        .panel { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 20px; }
+        body {
+            background-color: #f8f9fa;
+            font-family: "Inter", -apple-system, sans-serif;
+        }
+
+        .sentence-card {
+            background: white;
+            border: 1px solid #d0d7de;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 15px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+
+        .sentence-text {
+            padding: 12px;
+            border-radius: 6px;
+            border: 1px solid #e2e3e5;
+            margin-bottom: 15px;
+            font-size: 1.05rem;
+            line-height: 1.5;
+        }
+
+        .bg-claim {
+            background-color: #f8d7da;
+            color: #842029;
+        }
+
+        .bg-premise {
+            background-color: #d1f2d9;
+            color: #0f5132;
+        }
+
+        .bg-non {
+            background-color: #e2e3e5;
+            color: #41464b;
+        }
+
+        .bg-none {
+            background-color: #ffffff;
+            color: #212529;
+        }
+
+        .panel {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
     </style>
 </head>
-<body>
-<div class="container py-4">
-    <h1 class="mb-4">Argument Component Annotation Tool</h1>
-    
-    <div class="panel">
-        <div class="row align-items-end">
-            <div class="col-md-9">
-                <label for="pdfSelect" class="form-label">Select a PDF</label>
-                <select id="pdfSelect" class="form-select"></select>
-            </div>
-            <div class="col-md-3">
-                <button id="loadBtn" class="btn btn-primary w-100" onclick="loadPDF()">Load Document</button>
-            </div>
-        </div>
-    </div>
-    
-    <div id="workspace" style="display: none;">
-        <div class="panel">
-            <h4 id="docTitle" class="mb-4 text-primary"></h4>
-            
-            <div class="row text-center mb-4">
-                <div class="col-md-4">
-                    <h2 id="totalCount" class="mb-0">0</h2>
-                    <span class="text-muted small text-uppercase fw-bold">Total</span>
-                </div>
-                <div class="col-md-4">
-                    <h2 id="labeledCount" class="mb-0 text-success">0</h2>
-                    <span class="text-muted small text-uppercase fw-bold">Labeled</span>
-                </div>
-                <div class="col-md-4">
-                    <h2 id="remainingCount" class="mb-0 text-warning">0</h2>
-                    <span class="text-muted small text-uppercase fw-bold">Remaining</span>
-                </div>
-            </div>
-            
-            <div class="progress mb-4" style="height: 25px; border-radius: 12px;">
-                <div id="progressBar" class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" style="width: 0%;">0%</div>
-            </div>
-            
-            <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group" role="group" id="filterGroup">
-                    <input type="radio" class="btn-check filter-radio" name="filter" id="filterAll" value="ALL" checked>
-                    <label class="btn btn-outline-secondary" for="filterAll">Show All</label>
-                    <input type="radio" class="btn-check filter-radio" name="filter" id="filterUnlabeled" value="UNLABELED">
-                    <label class="btn btn-outline-secondary" for="filterUnlabeled">Show Unlabeled</label>
-                    <input type="radio" class="btn-check filter-radio" name="filter" id="filterClaim" value="CLAIM">
-                    <label class="btn btn-outline-danger" for="filterClaim">Show CLAIM</label>
-                    <input type="radio" class="btn-check filter-radio" name="filter" id="filterPremise" value="PREMISE">
-                    <label class="btn btn-outline-success" for="filterPremise">Show PREMISE</label>
-                    <input type="radio" class="btn-check filter-radio" name="filter" id="filterNon" value="NON_ARGUMENTATIVE">
-                    <label class="btn btn-outline-dark" for="filterNon">Show NON_ARG</label>
-                </div>
-                <button class="btn btn-primary px-4 shadow-sm" onclick="saveAnnotations()">💾 Save Annotations</button>
-            </div>
-        </div>
-        
-        <div id="sentencesContainer" style="max-height: 600px; overflow-y: auto; padding-right: 10px;"></div>
-    </div>
-</div>
 
-<script>
-    let currentDocumentId = null;
-    let sentencesData = [];
-    
-    document.addEventListener("DOMContentLoaded", fetchPDFs);
-    
-    document.querySelectorAll('.filter-radio').forEach(radio => {
-        radio.addEventListener('change', renderSentences);
-    });
-    
-    async function fetchPDFs() {
-        try {
-            const res = await fetch("/api/pdfs");
-            const data = await res.json();
-            const select = document.getElementById("pdfSelect");
-            data.pdfs.forEach(pdf => {
-                const opt = document.createElement("option");
-                opt.value = pdf;
-                opt.textContent = pdf;
-                select.appendChild(opt);
-            });
-        } catch (e) {
-            console.error("Error fetching PDFs:", e);
+<body>
+    <div class="container py-4">
+        <h1 class="mb-4">Argument Component Annotation Tool</h1>
+
+        <div class="panel">
+            <div class="row align-items-end">
+                <div class="col-md-3">
+                    <label for="datasetSelect" class="form-label">Select Dataset</label>
+                    <select id="datasetSelect" class="form-select" onchange="onDatasetChange()">
+                        <option value="">-- Loading datasets... --</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <label for="pdfSelect" class="form-label">Select a PDF</label>
+                    <select id="pdfSelect" class="form-select"></select>
+                </div>
+                <div class="col-md-3">
+                    <button id="loadBtn" class="btn btn-primary w-100" onclick="loadPDF()">Load Document</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="workspace" style="display: none;">
+            <div class="panel">
+                <h4 id="docTitle" class="mb-4 text-primary"></h4>
+
+                <div class="row text-center mb-4">
+                    <div class="col-md-4">
+                        <h2 id="totalCount" class="mb-0">0</h2>
+                        <span class="text-muted small text-uppercase fw-bold">Total</span>
+                    </div>
+                    <div class="col-md-4">
+                        <h2 id="labeledCount" class="mb-0 text-success">0</h2>
+                        <span class="text-muted small text-uppercase fw-bold">Labeled</span>
+                    </div>
+                    <div class="col-md-4">
+                        <h2 id="remainingCount" class="mb-0 text-warning">0</h2>
+                        <span class="text-muted small text-uppercase fw-bold">Remaining</span>
+                    </div>
+                </div>
+
+                <div class="progress mb-4" style="height: 25px; border-radius: 12px;">
+                    <div id="progressBar" class="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                        role="progressbar" style="width: 0%;">0%</div>
+                </div>
+
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group" role="group" id="filterGroup">
+                        <input type="radio" class="btn-check filter-radio" name="filter" id="filterAll" value="ALL"
+                            checked>
+                        <label class="btn btn-outline-secondary" for="filterAll">Show All</label>
+                        <input type="radio" class="btn-check filter-radio" name="filter" id="filterUnlabeled"
+                            value="UNLABELED">
+                        <label class="btn btn-outline-secondary" for="filterUnlabeled">Show Unlabeled</label>
+                        <input type="radio" class="btn-check filter-radio" name="filter" id="filterClaim" value="CLAIM">
+                        <label class="btn btn-outline-danger" for="filterClaim">Show CLAIM</label>
+                        <input type="radio" class="btn-check filter-radio" name="filter" id="filterPremise"
+                            value="PREMISE">
+                        <label class="btn btn-outline-success" for="filterPremise">Show PREMISE</label>
+                        <input type="radio" class="btn-check filter-radio" name="filter" id="filterNon"
+                            value="NON_ARGUMENTATIVE">
+                        <label class="btn btn-outline-dark" for="filterNon">Show NON_ARG</label>
+                    </div>
+                    <button class="btn btn-primary px-4 shadow-sm" onclick="saveAnnotations()">💾 Save
+                        Annotations</button>
+                </div>
+            </div>
+
+            <div id="sentencesContainer" style="max-height: 600px; overflow-y: auto; padding-right: 10px;"></div>
+        </div>
+    </div>
+
+    <script>
+        let currentDocumentId = null;
+        let currentDataset = "aetna";
+        let sentencesData = [];
+
+        document.addEventListener("DOMContentLoaded", async () => {
+            await fetchDatasets();
+        });
+
+        document.querySelectorAll('.filter-radio').forEach(radio => {
+            radio.addEventListener('change', renderSentences);
+        });
+
+        async function fetchDatasets() {
+            try {
+                const res = await fetch("/api/datasets");
+                const data = await res.json();
+                const select = document.getElementById("datasetSelect");
+                select.innerHTML = "";
+                if (data.datasets.length === 0) {
+                    const opt = document.createElement("option");
+                    opt.textContent = "-- No datasets found --";
+                    select.appendChild(opt);
+                    return;
+                }
+                data.datasets.forEach((ds, i) => {
+                    const opt = document.createElement("option");
+                    opt.value = ds;
+                    opt.textContent = ds.replace(/_/g, " ").toUpperCase();
+                    select.appendChild(opt);
+                });
+                // Auto-select first dataset and load its PDFs
+                currentDataset = data.datasets[0];
+                await fetchPDFs(currentDataset);
+            } catch (e) {
+                console.error("Error fetching datasets:", e);
+            }
         }
-    }
-    
-    async function loadPDF() {
-        const pdfName = document.getElementById("pdfSelect").value;
-        if (!pdfName) return;
-        
-        const loadBtn = document.getElementById("loadBtn");
-        loadBtn.disabled = true;
-        loadBtn.innerHTML = `<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Loading...`;
-        
-        try {
-            const res = await fetch("/api/load", {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ pdf_name: pdfName })
-            });
-            const data = await res.json();
-            
-            if (data.error) {
-                alert("Error: " + data.error);
+
+        function onDatasetChange() {
+            const dataset = document.getElementById("datasetSelect").value;
+            currentDataset = dataset;
+            fetchPDFs(dataset);
+            // Hide workspace when switching datasets
+            document.getElementById("workspace").style.display = "none";
+        }
+
+        async function fetchPDFs(dataset) {
+            try {
+                const res = await fetch(`/api/pdfs?dataset=${dataset}`);
+                const data = await res.json();
+                const select = document.getElementById("pdfSelect");
+                select.innerHTML = "";
+                if (data.pdfs.length === 0) {
+                    const opt = document.createElement("option");
+                    opt.textContent = "-- No PDFs found --";
+                    select.appendChild(opt);
+                    return;
+                }
+                data.pdfs.forEach(pdf => {
+                    const opt = document.createElement("option");
+                    opt.value = pdf;
+                    opt.textContent = pdf;
+                    select.appendChild(opt);
+                });
+            } catch (e) {
+                console.error("Error fetching PDFs:", e);
+            }
+        }
+
+        async function loadPDF() {
+            const pdfName = document.getElementById("pdfSelect").value;
+            if (!pdfName) return;
+
+            const loadBtn = document.getElementById("loadBtn");
+            loadBtn.disabled = true;
+            loadBtn.innerHTML = `<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Loading...`;
+
+            try {
+                const res = await fetch("/api/load", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ pdf_name: pdfName, dataset: currentDataset })
+                });
+                const data = await res.json();
+
+                if (data.error) {
+                    alert("Error: " + data.error);
+                    return;
+                }
+
+                currentDocumentId = data.document_id;
+                currentDataset = data.dataset || currentDataset;
+                sentencesData = data.sentences.map(s => ({ ...s, label: "" }));
+
+                document.getElementById("docTitle").textContent = pdfName;
+                document.getElementById("workspace").style.display = "block";
+
+                updateStats();
+                renderSentences();
+            } catch (e) {
+                console.error(e);
+                alert("Failed to load PDF.");
+            } finally {
+                loadBtn.disabled = false;
+                loadBtn.textContent = "Load Document";
+            }
+        }
+
+        function updateStats() {
+            const total = sentencesData.length;
+            const labeled = sentencesData.filter(s => s.label).length;
+            const remaining = total - labeled;
+            const pct = total === 0 ? 0 : Math.round((labeled / total) * 100);
+
+            document.getElementById("totalCount").textContent = total;
+            document.getElementById("labeledCount").textContent = labeled;
+            document.getElementById("remainingCount").textContent = remaining;
+
+            const bar = document.getElementById("progressBar");
+            bar.style.width = pct + "%";
+            bar.textContent = pct + "% labeled";
+        }
+
+        function getLabelClass(label) {
+            if (label === "CLAIM") return "bg-claim";
+            if (label === "PREMISE") return "bg-premise";
+            if (label === "NON_ARGUMENTATIVE") return "bg-non";
+            return "bg-none";
+        }
+
+        function changeLabel(id, value) {
+            const sentence = sentencesData.find(s => s.id === id);
+            if (sentence) {
+                sentence.label = value;
+                updateStats();
+                const textDiv = document.getElementById("text-" + id);
+                if (textDiv) {
+                    textDiv.className = "sentence-text " + getLabelClass(value);
+                }
+            }
+        }
+
+        function renderSentences() {
+            const container = document.getElementById("sentencesContainer");
+            container.innerHTML = "";
+
+            const filterVal = document.querySelector('input[name="filter"]:checked').value;
+
+            let filtered = sentencesData;
+            if (filterVal === "UNLABELED") {
+                filtered = sentencesData.filter(s => s.label === "");
+            } else if (filterVal !== "ALL") {
+                filtered = sentencesData.filter(s => s.label === filterVal);
+            }
+
+            if (filtered.length === 0) {
+                container.innerHTML = `<div class="alert alert-info">No sentences match the current filter.</div>`;
                 return;
             }
-            
-            currentDocumentId = data.document_id;
-            sentencesData = data.sentences.map(s => ({ ...s, label: "" }));
-            
-            document.getElementById("docTitle").textContent = pdfName;
-            document.getElementById("workspace").style.display = "block";
-            
-            updateStats();
-            renderSentences();
-        } catch (e) {
-            console.error(e);
-            alert("Failed to load PDF.");
-        } finally {
-            loadBtn.disabled = false;
-            loadBtn.textContent = "Load Document";
-        }
-    }
-    
-    function updateStats() {
-        const total = sentencesData.length;
-        const labeled = sentencesData.filter(s => s.label).length;
-        const remaining = total - labeled;
-        const pct = total === 0 ? 0 : Math.round((labeled / total) * 100);
-        
-        document.getElementById("totalCount").textContent = total;
-        document.getElementById("labeledCount").textContent = labeled;
-        document.getElementById("remainingCount").textContent = remaining;
-        
-        const bar = document.getElementById("progressBar");
-        bar.style.width = pct + "%";
-        bar.textContent = pct + "% labeled";
-    }
-    
-    function getLabelClass(label) {
-        if (label === "CLAIM") return "bg-claim";
-        if (label === "PREMISE") return "bg-premise";
-        if (label === "NON_ARGUMENTATIVE") return "bg-non";
-        return "bg-none";
-    }
-    
-    function changeLabel(id, value) {
-        const sentence = sentencesData.find(s => s.id === id);
-        if (sentence) {
-            sentence.label = value;
-            updateStats();
-            const textDiv = document.getElementById("text-" + id);
-            if (textDiv) {
-                textDiv.className = "sentence-text " + getLabelClass(value);
-            }
-        }
-    }
-    
-    function renderSentences() {
-        const container = document.getElementById("sentencesContainer");
-        container.innerHTML = "";
-        
-        const filterVal = document.querySelector('input[name="filter"]:checked').value;
-        
-        let filtered = sentencesData;
-        if (filterVal === "UNLABELED") {
-            filtered = sentencesData.filter(s => s.label === "");
-        } else if (filterVal !== "ALL") {
-            filtered = sentencesData.filter(s => s.label === filterVal);
-        }
-        
-        if (filtered.length === 0) {
-            container.innerHTML = `<div class="alert alert-info">No sentences match the current filter.</div>`;
-            return;
-        }
-        
-        filtered.forEach(s => {
-            const card = document.createElement("div");
-            card.className = "sentence-card";
-            
-            const title = document.createElement("div");
-            title.className = "fw-bold mb-2 text-secondary";
-            title.textContent = "Sentence " + s.id;
-            
-            const textDiv = document.createElement("div");
-            textDiv.id = "text-" + s.id;
-            textDiv.className = "sentence-text " + getLabelClass(s.label);
-            textDiv.textContent = s.text;
-            
-            const controlsRow = document.createElement("div");
-            controlsRow.className = "row";
-            
-            const selectCol = document.createElement("div");
-            selectCol.className = "col-md-5";
-            
-            const select = document.createElement("select");
-            select.className = "form-select fw-bold";
-            select.innerHTML = `
+
+            filtered.forEach(s => {
+                const card = document.createElement("div");
+                card.className = "sentence-card";
+
+                const title = document.createElement("div");
+                title.className = "fw-bold mb-2 text-secondary";
+                title.textContent = "Sentence " + s.id;
+
+                const textDiv = document.createElement("div");
+                textDiv.id = "text-" + s.id;
+                textDiv.className = "sentence-text " + getLabelClass(s.label);
+                textDiv.textContent = s.text;
+
+                const controlsRow = document.createElement("div");
+                controlsRow.className = "row";
+
+                const selectCol = document.createElement("div");
+                selectCol.className = "col-md-5";
+
+                const select = document.createElement("select");
+                select.className = "form-select fw-bold";
+                select.innerHTML = `
                 <option value="" ${s.label === "" ? "selected" : ""}>--- Select Label ---</option>
                 <option value="CLAIM" ${s.label === "CLAIM" ? "selected" : ""}>CLAIM</option>
                 <option value="PREMISE" ${s.label === "PREMISE" ? "selected" : ""}>PREMISE</option>
                 <option value="NON_ARGUMENTATIVE" ${s.label === "NON_ARGUMENTATIVE" ? "selected" : ""}>NON_ARGUMENTATIVE</option>
             `;
-            
-            select.addEventListener("change", (e) => {
-                changeLabel(s.id, e.target.value);
+
+                select.addEventListener("change", (e) => {
+                    changeLabel(s.id, e.target.value);
+                });
+
+                selectCol.appendChild(select);
+                controlsRow.appendChild(selectCol);
+
+                card.appendChild(title);
+                card.appendChild(textDiv);
+                card.appendChild(controlsRow);
+
+                container.appendChild(card);
             });
-            
-            selectCol.appendChild(select);
-            controlsRow.appendChild(selectCol);
-            
-            card.appendChild(title);
-            card.appendChild(textDiv);
-            card.appendChild(controlsRow);
-            
-            container.appendChild(card);
-        });
-    }
-    
-    async function saveAnnotations() {
-        const btn = document.querySelector('.btn-primary[onclick="saveAnnotations()"]');
-        const ogText = btn.innerHTML;
-        btn.disabled = true;
-        btn.innerHTML = "Saving...";
-        
-        try {
-            const res = await fetch("/api/save", {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({
-                    document_id: currentDocumentId,
-                    sentences: sentencesData
-                })
-            });
-            const data = await res.json();
-            if (data.error) {
-                alert("Error: " + data.error);
-            } else {
-                alert(data.message || "Saved successfully!");
-            }
-        } catch (e) {
-            console.error(e);
-            alert("Failed to save annotations.");
-        } finally {
-            btn.disabled = false;
-            btn.innerHTML = ogText;
         }
-    }
-</script>
+
+        async function saveAnnotations() {
+            const btn = document.querySelector('.btn-primary[onclick="saveAnnotations()"]');
+            const ogText = btn.innerHTML;
+            btn.disabled = true;
+            btn.innerHTML = "Saving...";
+
+            try {
+                const res = await fetch("/api/save", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({
+                        document_id: currentDocumentId,
+                        dataset: currentDataset,
+                        sentences: sentencesData
+                    })
+                });
+                const data = await res.json();
+                if (data.error) {
+                    alert("Error: " + data.error);
+                } else {
+                    alert(data.message || "Saved successfully!");
+                }
+            } catch (e) {
+                console.error(e);
+                alert("Failed to save annotations.");
+            } finally {
+                btn.disabled = false;
+                btn.innerHTML = ogText;
+            }
+        }
+    </script>
 </body>
+
 </html>
