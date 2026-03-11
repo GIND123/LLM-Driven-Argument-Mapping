@@ -1,0 +1,206 @@
+{
+  "document_id": "Deep_Brain_Stimulation_-_Medical_Clinical_Policy_Bulletins",
+  "source": "Aetna Clinical Policy Bulletin",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Deep Brain Stimulation Number: 0208 Applicable CPT / HCPCS / ICD-10 Codes Scope of Policy This Clinical Policy Bulletin addresses deep brain stimulation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 2,
+      "text": "I. Medical Necessity A. Aetna considers unilateral or bilateral deep brain stimulators (e.g., stimulation of the ventral intermediate thalamic nucleus, globus pallidus, and subthalamic nucleus) medically necessary durable medical equipment (DME) for the treatment of intractable tremors as a consequence of Parkinson's disease or essential tremor when all of the following criteria are met: Member does not have dementia, severe depression, cerebral atrophy, or Hoehn and Yahr stage V Parkinson's disease (see Note below) Footnotes*, and Member does not have other independent diagnoses that could explain the failure to respond to medical treatment, and Member suffers from disabling upper extremity essential tremor that is not responding satisfactorily to drug therapy or suffers from a disabling tremor of idiopathic Parkinson's disease that is refractory to pharmacotherapy, and There is no focal lesion of the basal ganglia (e.g., a space occupying lesion or lacunae) at the target site that would negate the result of thalamic stimulation, and There is sufficient residual motor function in the upper extremity so that it is reasonable to expect an improvement following the surgery.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "Footnotes*Note: Hoehn and Yahr Stage V individuals exhibit the following characteristics: Cachectic state Cannot stand or walk (need wheelchair assistance, or are unable to get out of bed Invalidism Requires constant nursing care.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 4,
+      "text": "B. Aetna considers unilateral or bilateral deep brain stimulators (e.g., stimulation of the globus pallidus and subthalamic nucleus) medically necessary DME for the treatment of severe, refractory motor complications of Parkinson's disease when all of the following criteria are met: A minimal score of 30 points on the motor portion of the United Parkinson's Disease Rating Scale (UPDRS) when the member has been off medication for about 12 hours (scores on this scale range from 0 to 108; higher values indicate greater severity of symptoms); and Member does not have dementia, severe depression, cerebral atrophy, or advanced (Hoehn and Yahr stage V) Parkinson's disease; and Member is levodopa responsive with clearly defined \"on\" periods; and Motor complications that can not be managed with medication; and Presence of at least 2 major symptoms of Parkinsonism (e.g., tremor, rigidity, and bradykinesia).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "C. Aetna considers unilateral or bilateral deep brain stimulators (e.g., stimulation of the globus pallidus and subthalamic nucleus) medically necessary DME for the treatment of persons 7 years of age or older with intractable primary dystonia, including generalized and/or segmental dystonia, hemidystonia and cervical dystonia.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "D. Aetna considers bilateral stimulation of the anterior nucleus of the thalamus (e.g., the Medtronic DBS System for Epilepsy) medically necessary for adults aged 18 years or older who have partial onset seizures with or without secondary generalization to tonic-clonic activity, and have not responded to 3 or more antiepileptic medications. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Note: This approach is for individuals who averaged 6 or more seizures per month during the previous 3 months, with no more than 30 days between seizures.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "It hasn’t been evaluated in persons whose seizures are less frequent).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "E. Aetna considers brain magnetic resonance imaging (MRI) with or without contrast medically necessary for pre-operative planning or intra-operative navigation for implantation of deep brain stimulator.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Note: The average battery life of a non-rechargeable stimulator is 3 to 5 years, depending upon how much stimulation the individual receives each day.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "Rechargeable neurostimulators last longer, about 9 years.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "The neurostimulator would then need to be replaced as an outpatient procedure, but the leads implanted to the brain do not need to be replaced.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "Note: Placement of fiducials (e.g., WayPoint anchor) for implantation of deep brain stimulator (DBS) is considered integral to DBS lead implantation and is not reimbursed separately. II.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "Experimental, Investigational, or Unproven The following procedures are considered experimental, investigational, or unproven because the effectiveness of these approaches has not been established: A. Deep brain stimulation (DBS) for tremor from other causes such as trauma, multiple sclerosis (MS), degenerative disorders, metabolic disorders, infectious diseases, and drug-induced movement disorders.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "B. DBS is considered experimental, investigational, or unproven for the following indications (not an all inclusive list), because there is insufficient evidence to support its effectiveness for these indications: Alzheimer's disease Anorexia nervosa Autism spectrum disorder Blepharospasm Cerebral palsy Chemical dependency disorder (e.g., alcohol, cocaine, nicotine, opioids and psychostimulants) Chorea-acanthocytosis Chronic cluster headache Chronic pain syndrome including complex regional pain syndrome/reflex sympathetic dystrophy Chronic vegetative state Depression Disorders of consciousness (e.g., minimally conscious state, unresponsive wakefulness syndrome, and vegetative state) Dystonia and spasticity secondary to anoxic brain injury Explosive aggressive behavior Head or voice tremor Huntington's disease Movement disorders after stroke Obesity Obsessive-compulsive disorder Orthostatic tremor Parkinson’s disease-related camptocormia, dysarthria/speech deficits, postural instability, restless legs syndrome, and gait disorders (e.g., gait instability and freezing of gait) Post-traumatic tremor Postural trunk deformities Self-injurious behavior Status dystonicus Substance use disorders Tinnitus Tourette syndrome Traumatic brain injury. III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 16,
+      "text": "Related Policies CPB 0153 - Thalamotomy CPB 0307 - Parkinson's Disease Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description CPT codes covered if selection criteria are met: 61850 Twist drill or burr hole(s) for implantation of neurostimulator electrodes, cortical Craniectomy or craniotomy for implantation of neurostimulator electrodes, cerebral, 61860 cortical Twist drill, burr hole, craniotomy, or craniectomy with stereotactic implantation of neurostimulator electrode array in subcortical site (e.g., thalamus, globus pallidus, 61863 subthalamic nucleus, periventricular, periaqueductal gray), without use of intraoperative microelectrode recording; first array + 61864 each additional array (List separately in addition to primary procedure) Twist drill, burr hole, craniotomy, or craniectomy with stereotactic implantation of neurostimulator electrode array in subcortical site (e.g., thalamus, globus pallidus, 61867 subthalamic nucleus, periventricular, periaqueductal gray), with use of intraoperative microelectrode recording; first array + 61868 each additional array (List separately in addition to primary procedure) 61880 Revision or removal of intracranial neurostimulator electrodes Code Code Description Insertion or replacement of cranial neurostimulator pulse generator or receiver, direct 61885 or inductive coupling; with connection to a single electrode array 61886 with connection to 2 or more electrode arrays 61888 Revision or removal of cranial neurostimulator pulse generator or receiver Magnetic resonance (eg, proton) imaging, brain (including brain stem); without 70551 contrast material Magnetic resonance (eg, proton) imaging, brain (including brain stem); with contrast 70552 material(s) Magnetic resonance (eg, proton) imaging, brain (including brain stem); without 70553 contrast material, followed by contrast material(s) and further sequences Electrocorticogram from an implanted brain neurostimulator pulse 95836 generator/transmitter, including recording, with interpretation and written report, up to 30 days Electronic analysis of implanted neurostimulator pulse generator system (eg, rate, pulse amplitude, pulse duration, configuration of wave form, battery status, electrode selectability, output modulation, cycling, impedance and patient compliance 95970 measurements); simple or complex brain, spinal cord, or peripheral (ie, cranial nerve, peripheral nerve, sacral nerve, neuromuscular) neurostimulator pulse generator/transmitter, without programming simple spinal cord, or peripheral (ie, peripheral nerve, sacral nerve, neuromuscular) 95971 neurostimulator pulse generator/transmitter, with intraoperative or subsequent programming Electronic analysis of implanted neurostimulator pulse generator/transmitter (eg, contact group[s], interleaving, amplitude, pulse width, frequency [Hz], on/off cycling, burst, magnet mode, dose lockout, patient selectable parameters, responsive 95976 neurostimulation, detection algorithms, closed loop parameters, and passive parameters) by physician or other qualified health care professional; with simple cranial nerve neurostimulator pulse generator/transmitter programming by physician or other qualified health care professional Electronic analysis of implanted neurostimulator pulse generator/transmitter (eg, contact group[s], interleaving, amplitude, pulse width, frequency [Hz], on/off cycling, burst, magnet mode, dose lockout, patient selectable parameters, responsive 95977 neurostimulation, detection algorithms, closed loop parameters, and passive parameters) by physician or other qualified health care professional; with complex cranial nerve neurostimulator pulse generator/transmitter programming by physician or other qualified health care professional Electronic analysis of implanted neurostimulator pulse generator/transmitter (eg, contact group[s], interleaving, amplitude, pulse width, frequency [Hz], on/off cycling, burst, magnet mode, dose lockout, patient selectable parameters, responsive 95983 neurostimulation, detection algorithms, closed loop parameters, and passive parameters) by physician or other qualified health care professional; with brain neurostimulator pulse generator/ transmitter programming, first 15 minutes face-to- face time with physician or other qualified health care professional Electronic analysis of implanted neurostimulator pulse generator/transmitter (eg, contact group[s], interleaving, amplitude, pulse width, frequency [Hz], on/off cycling, burst, magnet mode, dose lockout, patient selectable parameters, responsive neurostimulation, detection algorithms, closed loop parameters, and passive 95984 parameters) by physician or other qualified health care professional; with brain neurostimulator pulse generator/ transmitter programming, each additional 15 minutes face-to-face time with physician or other qualified health care professional (List separately in addition to code for primary procedure) Code Code Description CPT codes not covered for indications listed in the CPB: Placement of fiducials (e.g., WayPoint anchor) –no specific code HCPCS codes covered if selection criteria are met: C1767 Generator, neurostimulator (implantable), nonrechargeable C1778 Lead, neurostimulator (implantable) C1787 Patient programmer, neurostimulator C1816 Receiver and/or transmitter, neurostimulator (implantable) Generator, neurostimulator (implantable), with rechargeable battery and charging C1820 system C1883 Adaptor/ extension, pacing lead or neurostimulator lead (implantable) C1897 Lead, neurostimulator test kit (implantable) E0745 Neuromuscular stimulator, electronic shock unit L8680 Implantable neurostimulator electrode, each Patient programmer (external) for use with implantable programmable L8681 neurostimulator pulse generator, replacement only L8682 Implantable neurostimulator radiofrequency receiver Radiofrequency transmitter (external) for use with implantable neurostimulator L8683 radiofrequency receiver Implantable neurostimulator pulse generator, single array, rechargeable, includes L8685 extension Implantable neurostimulator pulse generator, single array, non-rechargeable, includes L8686 extension Implantable neurostimulator pulse generator, dual array, rechargeable, includes L8687 extension Implantable neurostimulator pulse generator, dual array, non-rechargeable, includes L8688 extension External recharging system for battery (internal) for use with implantable L8689 neurostimulator, replacement only External recharging system for battery (external) for use with implantable L8695 neurostimulator, replacement only ICD-10 codes covered if selection criteria are met: G20.A1 – G20.C Parkinson's disease G21.0 - G21.9 Secondary Parkinsonism G24.1 Genetic torsion dystonia Other acquired torsion dystonia [intractable primary including generalized and/or G24.2 - G24.4 segmental, hemidystonia, or cervical - not drug-induced][Not covered for status G24.8 - G24.9 dystonicus] [Not covered for dystonia due to Anoxic brain injury] Essential and other specified forms of tremor [disabling upper extremity essential] G25.0 - G25.2 [not covered for orthostatic tremor and post-traumatic tremor] Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with G40.001 - G40.219 seizures of localized onset Code Code Description ICD-10 codes not covered for indications listed in the CPB (not all-inclusive): A00.0 - B99.9 Infectious and parasitic diseases Malignant neoplasm of cerebrum, except lobes and ventricles [focal lesion of basal C71.0 ganglia, space occupying lesion or lacunae that would negate result] Secondary malignant neoplasm of brain [focal lesion of basal ganglia, space C79.31 occupying lesion or lacunae that would negate result] Benign neoplasm of brain [focal lesion of basal ganglia, space occupying lesion or D33.0 - D33.2 lacunae that would negate result] D43.0 - D43.2 Neoplasm of uncertain behavior of brain and spinal cord [focal lesion of basal D43.4 ganglia, space occupying lesion or lacunae that would negate result] E66.01 - E66.9 Overweight and obesity E70.0 - E88.9 Metabolic disorders Dementia in conditions classified elsewhere with or without behavioral disturbance or F02.80 - F02.C4 with behavioral disturbance F03.90 - F03.C4 Senile and presenile organic psychotic conditions F10.20 - F10.99 Alcohol related disorders [abuse, dependence, use] F11.10 - F19.99 Drug related disorders [abuse, dependence, use] F30.10 - F39 Mood [affective] disorders F32.81 - F32.89 Other depressive episodes F34.1 Dysthymic disorder F42.2 - F42.9 Obsessive-compulsive disorders Conversion disorder with motor symptom or deficit [Parkinson's disease-related F44.4 camptocormia] F50.00 - F50.029 Anorexia nervosa F63.81 Intermittent explosive disorder [explosive aggressive behavior] F84.0 - F84.9 Pervasive developmental disorders F95.2 Tourette's disorder F98.5 Adult onset fluency disorder [Parkinson's diseases-related] G10 Huntington's chorea G23.0 - G23.9 Other degenerative diseases of the basal ganglia G90.3 G24.01 Drug induced subacute dyskinesia G24.02 Drug induced acute dystonia G24.5 Blepharospasm G25.5 Other chorea [chorea-acanthocytosis] G25.81 Restless legs syndrome G25.9 Extrapyramidal and movement disorder, unspecified [drug-induced] G30.0 - G30.9 Alzheimer's disease G35 Multiple sclerosis G40.301 - G40.89 Epilepsy and recurrent seizures G44.021 - G44.029 Chronic cluster headaches G80.0 - G80.9 Cerebral palsy G81.10 – G81.14 Spastic hemiplegia [Not covered for dystonia due to Anoxic brain injury] Code Code Description G90.50 - G90.59 Complex regional pain syndrome G93.1 Anoxic brain damage, not elsewhere classified H93.11 - H93.19, Tinnitus H93.A1 - H93.A9 I69.393 Ataxia following cerebral infarction Q82.0 Meige Syndrome R22.0 - R22.1 Swelling, mass, or lump in head and neck R90.0 R25.0 - R25.9 Abnormal involuntary movements R26.0 - R26.9 Abnormalities of gait and mobility R29.3 Abnormal posture [postural trunk deformities] R40.0 - R40.4 Alteration of consciousness R47.81 - R47.89 Other speech disturbance [Parkinson's diseases-related] R64 Cachexia [invalidism - Hoehn and Yahr Stage V Parkinson's disease] S04.011S - S04.899S S06.0x0S - S06.9x9S S14.101S - S14.9xxS S24.101S - S24.9xxS S34.101S - S34.9xxS S44.00xS - Injuries to the nervous system, sequela S44.92xS S54.00xS - S54.92xS S64.00xS - S64.92xS S74.00xS - S74.92xS S84.00xS - S84.92xS S94.00xS - S94.92xS S06.0x0A - Intracranial injury S06.9x9S Other injury of unspecified muscle, fascia and tendon at wrist and hand level of S66.999S unspecified hand, sequela X71.0xxA - Intentional self-harm X83.8xxS Z74.01 Bed confinement status [invalidism - Hoehn and Yahr Stage V Parkinson's disease] Essential tremor is a common movement disorder afflicting 5 to 10 million Americans.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 17,
+      "text": "It is characterized primarily by an action and postural tremor most often affecting the arms, but it can also affect other body parts.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 18,
+      "text": "Essential tremor is a progressive neurological disorder and can result in severe disability in some individuals.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "Although there is no cure for essential tremor, pharmacotherapy and surgery can provide some relief.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 20,
+      "text": "Primidone and propranolol are first-line treatments.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 21,
+      "text": "Other medications include benzodiazepines, gabapentin, and topiramate.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 22,
+      "text": "Patients with medication-resistant tremor may benefit from thalamotomy or deep brain stimulation (DBS) of the thalamus.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "Medical and surgical interventions can provide benefit in up to 80% of patients with essential tremor.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 24,
+      "text": "Deep brain stimulation is also an effective treatment for patients with advanced Parkinson's disease (PD) and motor complications that can no longer be improved by adjustment of medical therapy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 25,
+      "text": "The most common targets for implantation of deep brain stimulators are the subthalamic nucleus and globus pallidus internus.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 26,
+      "text": "The American Academy of Neurology's practice parameter on the treatment of PD with motor fluctuations and dyskinesia (Pahwa et al, 2006) stated that pre-operative response to levodopa predicts better outcome after DBS of the subthalamic nucleus.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 31,
+      "text": "I. motor symptoms causing a relevant disability in activities of daily living, despite optimal pharmacotherapy; II. biological age of the patient; III.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 32,
+      "text": "neurosurgical contraindications; and IV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 36,
+      "text": "The treatment has been consistently reported to result in significant benefit in upper extremity, as well as head and voice tremor, all of which were improved more dramatically with bilateral procedures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 37,
+      "text": "These benefits have been demonstrated to be sustained for up to 7 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 38,
+      "text": "Deep brain stimualtion has also been shown to be beneficial for the tremor associated with multiple sclerosis and post-traumatic tremor; however, fewer cases have been reported and the benefit is less consistent, less dramatic, and more transient than that seen with essential tremor.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 39,
+      "text": "The ventral intermediate nucleus of the thalamus is the most common DBS target for tremor disorders, but more recent studies have demonstrated benefits in tremor from DBS of the subthalamic area, primarily the zona incerta.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 40,
+      "text": "Surgical complications are relatively uncommon and are generally less frequent than those seen with thalamotomy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 41,
+      "text": "Stimulation-related effects are usually mild and resolve with adjustment of stimulation parameters.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 42,
+      "text": "Deep brain stimulation is thus a relatively safe and effective treatment for tremor disorders, particularly for medication-resistant, disabling essential tremor, but may also have some role in medication-resistant, disabling tremor associated with multiple sclerosis and traumatic head injury.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 49,
+      "text": "Combined surgery resulted in greater improvements in psychiatric outcomes and QOL than DBS alone.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 60,
+      "text": "Furthermore, an UpToDate review on “Tourette syndrome: Management” (Jankovic, 2024) states that “Patients with TS who have disabling tics that are refractory to optimal medical management, including various dopamine depleters and dopamine receptor blockers, may be candidates for deep brain stimulation (DBS) of globus pallidus, thalamus, or other subcortical targets.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 64,
+      "text": "Myoclonus is often functionally impairing and refractory to medical therapies; DBS has been employed for the treatment of myoclonus-dystonia; however, few cases of PHM have been described.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 67,
+      "text": "The authors concluded that the findings of this case contributed to growing evidence regarding the use of DBS for the treatment of PHM.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 80,
+      "text": "The authors concluded that the findings of this study demonstrated that impairment in the basal ganglion circuitry might be involved in the pathogenesis of myoclonus in patients with LAS.",
+      "label": "PREMISE"
+    }
+  ]
+}
