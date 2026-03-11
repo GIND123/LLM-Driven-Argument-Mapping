@@ -1,0 +1,114 @@
+{
+  "document_id": "NCD_-_Prostate_Specific_Antigen_(190.31)",
+  "source": "Cms Ncd",
+  "relations": [
+    {
+      "source": 4,
+      "target": 14,
+      "type": "NONE",
+      "similarity": 0.1812
+    },
+    {
+      "source": 4,
+      "target": 13,
+      "type": "NONE",
+      "similarity": 0.1458
+    },
+    {
+      "source": 5,
+      "target": 13,
+      "type": "NONE",
+      "similarity": 0.3589
+    },
+    {
+      "source": 5,
+      "target": 14,
+      "type": "NONE",
+      "similarity": 0.268
+    },
+    {
+      "source": 6,
+      "target": 13,
+      "type": "NONE",
+      "similarity": 0.2585
+    },
+    {
+      "source": 6,
+      "target": 14,
+      "type": "NONE",
+      "similarity": 0.2015
+    },
+    {
+      "source": 7,
+      "target": 13,
+      "type": "NONE",
+      "similarity": 0.3068
+    },
+    {
+      "source": 7,
+      "target": 14,
+      "type": "NONE",
+      "similarity": 0.2655
+    },
+    {
+      "source": 8,
+      "target": 14,
+      "type": "NONE",
+      "similarity": 0.3087
+    },
+    {
+      "source": 8,
+      "target": 13,
+      "type": "NONE",
+      "similarity": 0.3014
+    },
+    {
+      "source": 9,
+      "target": 13,
+      "type": "NONE",
+      "similarity": 0.4547
+    },
+    {
+      "source": 9,
+      "target": 14,
+      "type": "NONE",
+      "similarity": 0.4122
+    },
+    {
+      "source": 10,
+      "target": 13,
+      "type": "SUPPORT",
+      "similarity": 0.4269
+    },
+    {
+      "source": 10,
+      "target": 14,
+      "type": "NONE",
+      "similarity": 0.2833
+    },
+    {
+      "source": 11,
+      "target": 13,
+      "type": "NONE",
+      "similarity": 0.3156
+    },
+    {
+      "source": 11,
+      "target": 14,
+      "type": "NONE",
+      "similarity": 0.3048
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "type": "NONE",
+      "similarity": 0.3401
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "type": "NONE",
+      "similarity": 0.309
+    }
+  ]
+}
