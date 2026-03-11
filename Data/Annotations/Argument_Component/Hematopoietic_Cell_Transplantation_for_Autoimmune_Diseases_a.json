@@ -1,0 +1,212 @@
+{
+  "document_id": "Hematopoietic_Cell_Transplantation_for_Autoimmune_Diseases_a",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 2,
+      "text": "I. Medical Necessity Aetna considers autologous hematopoietic cell transplantation medically necessary for the treatment of adults (18 to 69 years of age) with rapidly progressive scleroderma (systemic sclerosis) at risk of organ failure when either of the following is met: A. Active interstitial lung disease (as determined by broncho-alveolar cell composition or ground- glass opacities on computed tomography of the chest) plus either a forced vital capacity (FVC) or a diffusing capacity of the lung for carbon monoxide (DLCO) of less than 70 % of the predicted value; or B. Previous scleroderma-related renal disease; and C. The member meets the transplanting institutions' selection criteria, or in the absence of such criteria, the member does not have any of the following exclusion criteria: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Experimental, Investigational, or Unproven A. Aetna considers hematopoietic cell transplantation (autologous or allogeneic) experimental, investigational, or unproven for any of the following because the effectiveness of these approaches for these autoimmune diseases/conditions has not been established: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Autoimmune diseases (not an all-inclusive list): Anti-phospholipid syndrome Autoimmune cytopenia (e.g., autoimmune hemolytic anemia, Evans syndrome, and idiopathic thrombocytopenic purpura) Autoimmune diseases-induced cirrhosis Autoimmune retinopathy Behcet's disease with myelodysplastic syndrome Celiac disease Chronic inflammatory demyelinating polyradiculopathy Cogan syndrome Crohn's disease Dermatomyositis Diabetes mellitus type I Inflammatory bowel disease Juvenile idiopathic arthritis and associated lung disease Juvenile rheumatoid arthritis Lupus nephritis Multiple sclerosis Myasthenia gravis Neuromyelitis optica / neuromyelitis optica spectrum disorder Pemphigus Polymyositis Rheumatoid arthritis Sporadic late-onset nemaline myopathy Stiff-person syndrome / Stiff-person spectrum disorder Systemic lupus erythematosus Systemic vasculitis Ulcerative colitis. 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "B. Aetna considers the following interventions experimental, investigational, or unproven: The use of mesenchymal stem cell transplantation for the treatment of autoimmune diseases (including ankylosing spondylitis and Sjogren’s syndrome) and selected indications listed in policy statement II.B; Administration (intra-arterial, intra-thecal, and intravenous) of autologous mesenchymal stem cells for the treatment of multiple system atrophy; Autologous umbilical cord blood stem cells for the treatment of autism; HLA-haploidentical hematopoietic stem cell transplantation for chronic granulomatous disease Pluripotent stem cell-based retinal organoids for restoration of blindness Umbilical cord blood transplantation in children with neuronal ceroid lipofuscinosis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description CPT codes not covered for indications listed in the CPB: Administration (intra-arterial, intra-thecal, and intravenous) of autologous mesenchymal stem cells - no specific code Management of recipient hematopoietic progenitor cell donor search and cell 38204 acquisition Blood-derived hematopoietic progenitor cell harvesting for transplantation, per 38205 collection; allogeneic Blood-derived hematopoietic progenitor cell harvesting for transplantation, per 38206 collection; autologous 38207 - 38215 Bone marrow or stem cell services/procedures 38230 - 38232 Bone marrow harvesting for transplantation; allogeneic or autologous 38240 Hematopoietic progenitor cell (HPC); allogeneic transplantation per donor 38241 autologous transplantation Other CPT codes related to the CPB: 86813 HLA typing; A, B or C, multiple antigens 86817 DR/DQ, multiple antigens 86821 lymphocyte culture, mixed (MLC) 86920 - 86923 Compatibility test each unit HCPCS codes not covered for indications listed in the CPB: S2140 Cord blood harvesting for transplantation, allogeneic S2142 Cord blood-derived stem-cell transplantation, allogeneic Bone marrow or blood-derived stem cells (peripheral or umbilical), allogeneic or autologous, harvesting, transplantation, and related complications; including: pheresis and cell preparation/storage; marrow ablative therapy; drugs, supplies, hospitalization S2150 with outpatient follow-up; medical/surgical, diagnostic, emergency, and rehabilitative services; and the number of days of pre- and post-transplant care in the global definition ICD-10 codes covered for indications listed in the CPB: M34.0 - M34.9 Systemic sclerosis [scleroderma] ICD-10 codes not covered for indications listed in the CPB: D45 Polycythemia vera Code Code Description Myelodysplastic syndrome, unspecified [Behcet's disease with myelodysplastic D46.9 syndrome] D47.3 Essential (hemorrhagic) thrombocythemia D59.0 - D59.19 Autoimmune hemolytic anemia D68.61 Antiphospholipid syndrome D69.3 Immune thrombocytopenic purpura D69.41 Evan's syndrome Functional disorders of polymorphonuclear neutrophils [chronic granulomatous D71 disease] E08.00 - E13.9 Diabetes mellitus E75.4 Neuronal ceroid lipofuscinosis F84.0 - F84.9 Pervasive developmental disorders G12.21 Amyotrophic lateral sclerosis G25.82 Stiff-man syndrome G35 Multiple sclerosis G36.0 Neuromyelitis optica [Devic] G61.81 Chronic inflammatory demyelinating polyneuritis G70.00 – G70.01 Myasthenia gravis G72.49 Other inflammatory and immune myopathies, not elsewhere classified G90.3 Multi-system degeneration of the autonomic nervous system H16.321 – H16.329 Diffuse interstitial keratitis H35.30 Unspecified macular degeneration (age-related) H35.52 Pigmentary retinal dystrophy H35.89 Other specified retinal disorders [autoimmune retinopathy] H54.0X33 - H54.8 Blindness and low vision J98.4 Other disorders of lung [associated lung disease] K50.00 - K50.919 Crohn's disease [regional enteritis] K51.00 - K51.919 Ulcerative colitis K75.4 Autoimmune hepatitis [autoimmune disease induced cirrhosis] K90.0 Celiac disease L10.9 Pemphigus, unspecified M05.00 - M06.9 Rheumatoid arthritis M08.90 Juvenile arthritis, unspecified, unspecified site [juvenile idiopathic arthritis] M31.10 - M31.19 Thrombotic microangiopathy M32.10 - M32.9 Systemic lupus erythematosus (SLE) M33.00 - M33.99 Dermatomyositis M35.00 – M35.09 Sjogren syndrome M35.2 Behcet's disease [Behcet's disease with myelodysplastic syndrome] M36.0 Dermato(poly)myositis in neoplastic disease M45.0 - M45.9 Ankylosing spondylitis Q81.0 - Q81.9 Epidermolysis bullosa Autoimmune diseases (ADs) include a heterogeneous group of immune-mediated disorders that are responsive to suppression or modulation of the immune system.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 28,
+      "text": "Furst (2000) noted that stem cell transplantation for the treatment of systemic sclerosis is showing some apparent effectiveness, but its use is only in the pilot stages.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 36,
+      "text": "Cipriani et al (2015) stated that the presence of autoimmune diseases, including systemic sclerosis (SSc), suggest failure of the normal immune regulatory processes leading to activation and expansion of auto- reactive effector immune cells.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 38,
+      "text": "The therapeutic strategy involves the ablation of the aberrant self-reactive immune cells by chemotherapy and the regeneration of a new self-tolerant immune system formed by the transplanted stem cells.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 41,
+      "text": "The authors concluded that although the results are encouraging, nonetheless, the correct application of stem cell transplantation remains an area of active investigation; results of larger randomized, double- blind clinical trials, will certainly improve the knowledge of the appropriate clinical use of stem cell therapy in SSc patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 51,
+      "text": "The authors concluded that AHSCT is beneficial in some patients with SSc and that patient selection and conditioning regimens are critical determinants of prognosis and mortality post-ASCT.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 58,
+      "text": "The authors concluded that the findings of this study confirmed that the AHSCT was effective in prolonging survival, as well as in inducing a rapid reduction of skin involvement and disease activity, and preserving lung function in patients with rp-dcSSc.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 59,
+      "text": "The experts from the European League against Rheumatism (EULAR, 2017) recommended that hematopoietic stem cell transplantation (HSCT) should be considered for the treatment of selected patients with rapidly progressive SSc at risk of organ failure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 73,
+      "text": "The authors concluded that in the absence of an effective pharmacotherapy for SSc, autologous HSCT has a huge potential in management of cutaneous and internal organ manifestations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 82,
+      "text": "The authors concluded that myeloablative autologous hematopoietic stem-cell transplantation achieved long-term benefits in patients with scleroderma, including improved EFS and OS, at a cost of increased expected toxicity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 94,
+      "text": "For now, RPE cells and photoreceptors derived from patient-specific iPS cells can serve as a valuable tool in elucidating the mechanism of pathogenesis and drug discovery for AMD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 151,
+      "text": "The authors concluded that intra-spinal transplantation of human spinal cord-derived neural stem cells can be safely accomplished at high doses, including successive lumbar and cervical procedures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 153,
+      "text": "This study provided Class IV evidence that for patients with ALS, spinal cord transplantation of human stem cells can be safely accomplished and did not accelerate the progression of the disease.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 176,
+      "text": "The authors concluded that this meta-analysis and systematic review suggested that HSCT could be effective in the treatment of refractory CIDP.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 198,
+      "text": "The authors concluded that these preliminary results showed that HDC followed by ASCT seems feasible and safe and might result in long- term improvement of patients with RCD type II whose condition did not respond promptly to available drugs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 208,
+      "text": "The authors concluded that they identified loss of function mutations in IL-10 and IL-10R in patients with very early onset IBD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 251,
+      "text": "The authors concluded that AHSCT was relatively safe and appeared to be effective in controlling otherwise treatment-resistant CD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 257,
+      "text": "The authors concluded that AHSCT may be a promising therapeutic option for patients with refractory CD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 271,
+      "text": "The authors noted that high-dose immunosuppression and AHST were performed with acceptable toxicity in a small number of patients with newly diagnosed type 1 DM.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 313,
+      "text": "The authors concluded that the findings of this meta-analysis revealed MSCs therapy may be a safe and effective intervention in subjects with diabetes; however, due to the limited studies, a number of high-quality as well as large-scale RCTs should be performed to confirm these conclusions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 341,
+      "text": "The authors concluded that this systematic review highlighted the positive impacts observed from employing MSCs in patients with T1DM.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 360,
+      "text": "The authors concluded that non-myeloablative autologous hemopoietic stem cell transplantation in patients with relapsing-remitting MS reverses neurological deficits, but these results need to be confirmed in a randomized trial.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 392,
+      "text": "The author noted that a direct comparison of aHSCT with conventional treatments in multi-center randomized controlled trials and publication of 5 to 10 years long-term follow-up data from cohort studies and international registries are a necessary step in further defining the role of aHSCT in the management of MS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 450,
+      "text": "The authors concluded that intense immunosuppression followed by AHSCT is significantly superior to MTX in reducing MRI activity in severe cases of MS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 463,
+      "text": "The authors concluded that based on these data AHSCT appeared to be a reasonable option in selected patients with highly inflammatory MS; however a RCT is needed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 471,
+      "text": "The authors concluded that available evidence suggested that some clinical benefits of HCT when combined with immunotherapy on MS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 500,
+      "text": "The authors concluded that HDIT/HCT without maintenance therapy was effective for inducing long-term sustained remissions of active RRMS at 5 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 511,
+      "text": "The authors concluded that AHSCT using the BEAM-ATG scheme is safe and effectives to control the aggressive forms of RRMS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 522,
+      "text": "The authors concluded that the emerging evidence on this therapeutic approach in MS indicated that the largest benefit/risk profile form this therapeutic approach can be obtained in patients with aggressive MS with a relapsing-remitting course and who have not yet accumulated a high level of disability.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 554,
+      "text": "The authors concluded that AHSCT may be a therapeutic option for children with disease that does not respond to standard care.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 645,
+      "text": "The authors concluded that these findings suggested that suppression of Th17 cytokines was essential for the induction of long-term remission in MS patients following AHSCT.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 663,
+      "text": "The authors concluded that the use of AHSCT in individuals with active SPMS was associated with a slowing of disability progression and a higher likelihood of disability improvement compared with standard immunotherapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 762,
+      "text": "The authors concluded that their 7-year follow-up results suggested that auto-SCT seemed beneficial for SLE patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 763,
+      "text": "Moreover, they stated that recruitment of more patients into multi-center, randomized, comparative studies versus conventional treatment of SLE is needed to evaluate the safety and effectiveness of auto-SCT.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 771,
+      "text": "Therefore, fetal-type MSCs, such as umbilical cord- derived MSCs, represent an excellent alternative source of MSCs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 775,
+      "text": "The authors concluded that there are still many questions regarding the clinical application of MSCs to HSCT that need to be answered, and further studies are needed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 797,
+      "text": "The authors concluded that preliminary results of HSCT as a therapeutic option for SLE appeared promising.",
+      "label": "PREMISE"
+    }
+  ]
+}
