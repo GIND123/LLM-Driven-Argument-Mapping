@@ -1,0 +1,137 @@
+{
+  "document_id": "HIV_Drug_Susceptibility_and_Resistance_Tests_-_Medical_Clini",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 2,
+      "text": "I. Medical Necessity A. Aetna considers HIV drug susceptibility and resistance tests (phenotypic or genotypic) medically necessary for any of the following groups: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "During acute (new onset) HIV infection to determine if a drug-resistant viral strain was transmitted and plan regimen accordingly; or 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Members with suboptimal suppression of viral load after initiation of anti-retroviral therapy to determine the role of resistance and maximize the number of active drugs in the new regimen if indicated; or 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Members with virologic failure during highly activated anti-retroviral therapy (HAART) to determine the role of resistance in drug failure and maximize the number of active drugs in the new regimen if indicated.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "B. Aetna considers both HIV phenotypic and genotypic tests when performed at the same time not medically necessary because this approach is duplicative.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "C. Aetna considers phenotypic recombinant virus assays/HIV tropism testing (i.e., Trofile) or genotypic HIV V3-loop assays medically necessary for determining virus tropism of HIV- infected persons before commencement of a chemokine receptor 5 (CCR5) antagonist (e.g., maraviroc [Selzentry]). II.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "Experimental, Investigational, or Unproven The following procedures are considered experimental, investigational, or unproven because the effectiveness of these approaches has not been established: A. Drug resistance testing for members who have discontinued the use of anti-retroviral drugs because drug resistance mutations may become minor species in the absence of selective drug pressure.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Current tests may not detect minor drug resistant species B. Drug resistance testing for members who have HIV viral loads of less than 1,000 HIV RNA copies/ml because available tests cannot reliably detect this low level of viral load C. HIV drug resistance and susceptibility tests for all other indications not listed above D. HIV tropism testing for other indications not listed above (e.g., during or after failure of a CCR5 antagonist treatment, or for predicting disease progression) E. Repeat phenotypic recombinant virus assays/HIV tropism testing (i.e., Trofile) or genotypic HIV V3-loop assays during or after CCR5 antagonist therapy (eg, maraviroc) F. Sentosa SQ HIV-1 genotyping assay for use in drug susceptibility phenotype prediction Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description Information in the [brackets] below has been added for clarification purposes.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 16,
+      "text": "Several studies have suggested that resistance testing may be useful in assessing the success of salvage anti-retroviral therapy, and improving short-term virological response.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 22,
+      "text": "The Panel on Clinical Practices for Treatment of HIV Infection (2004) concluded that: \"There are currently no prospective data to support the use of one type of resistance assay over the other (i.e., genotyping vs. phenotyping) in different clinical situations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 24,
+      "text": "Current evidence for combined genotyping and phenotyping is limited to non-randomized studies; no randomized studies have compared the combination of genotyping and phenotyping directed therapy compared to either genotyping or phenotyping alone.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 25,
+      "text": "Commercially available HIV drug susceptibility and resistance tests include genotypic tests (e.g., ABI Gene Sequencing; TrueGene HIV Genotyping GeneKit; HIV-1 GeneSeek Test; Murex LiPA HIV-1 RT; ViroSeq Genotyping System, and Affymetrix GeneChip HIV PRT Assay) and phenotypic tests (e.g., PhenoSense HIV, and Virco Antivirogram).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 36,
+      "text": "The authors concluded that the ExaVir Load assay performed well and may be an alternative to amplification based techniques for HIV-1 RNA quantification.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 38,
+      "text": "Human immunodeficiency virus (HIV) phenotypic tropism testing (ie,Trofile) is a molecular assay that identifies the tropism of an individual’s HIV strain to determine if the virus has the ability to invade cells that have the CCR5 marker.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 41,
+      "text": "Maraviroc (Selzentry) is indicated for use in combination with other anti-retroviral agents, for treatment- experienced adult patients infected with only chemokine receptor 5 (CCR5)-tropic HIV-1 detectable, who have evidence of viral replication and HIV-1 strains resistant to multiple anti-retroviral agents.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 43,
+      "text": "According to the manufacturer of maraviroc (Pfizer, 2008), the following points should be considered when initiating therapy with Selzentry: The safety and efficacy of Selzentry have not been established in treatment-naive adult patients or pediatric patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 68,
+      "text": "Perez-Olmeda and Alcami (2013) stated that assessment of HIV co-receptor tropism assay is recommended before starting therapy with CCR5 co-receptor antagonists.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 73,
+      "text": "The Department of Health and Human Services’ Panel on Antiretroviral Guidelines for Adults and Adolescents’ guidelines on \"The use of antiretroviral agents in HIV-1-infected adults and adolescents\" (2013) provided the following recommendations: A co-receptor tropism assay should be performed whenever the use of a CCR5 co-receptor antagonist is being considered (AI).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 74,
+      "text": "Co-receptor tropism testing is also recommended for patients who exhibit virologic failure on a CCR5 antagonist (BIII).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "A phenotypic tropism assay is preferred to determine HIV-1 co-receptor usage (AI).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 76,
+      "text": "A genotypic tropism assay should be considered as an alternative test to predict HIV-1 co-receptor usage (BII).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 111,
+      "text": "The authors concluded that resistance testing probably improved virological outcomes in people who have had virological failure in trials conducted 12 or more years ago.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 138,
+      "text": "The authors concluded that this semi-automated NGS- based assay may aid in HIV-1 genotypic drug resistance testing, although numerous quality control issues were observed when this platform was used in a clinical laboratory setting.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 153,
+      "text": "The authors concluded that HIV-1 DNA genotypic resistance testing can be performed with the Sentosa platform; several technical optimizations still needed to include the extraction step and to improve the sequencing efficiency.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 160,
+      "text": "The authors concluded that automated DNA extraction and sequencing using the Sentosa SQ HIV genotyping assay accurately predicted HIV DNA drug resistance by comparison with Sanger.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 172,
+      "text": "The authors concluded that this was the 1st preliminary evaluation of HIV-1 drug resistance mutation (DRM) by using the Sentosa SQ HIV genotyping assay in Iran.",
+      "label": "PREMISE"
+    }
+  ]
+}
