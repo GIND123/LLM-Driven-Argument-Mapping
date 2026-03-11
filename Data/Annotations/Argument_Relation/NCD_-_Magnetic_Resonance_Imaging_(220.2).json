@@ -1,0 +1,228 @@
+{
+  "document_id": "NCD_-_Magnetic_Resonance_Imaging_(220.2)",
+  "source": "Cms Ncd",
+  "relations": [
+    {
+      "source": 8,
+      "target": 7,
+      "type": "SUPPORT",
+      "similarity": 0.4745
+    },
+    {
+      "source": 8,
+      "target": 40,
+      "type": "NONE",
+      "similarity": 0.2784
+    },
+    {
+      "source": 8,
+      "target": 18,
+      "type": "NONE",
+      "similarity": 0.1974
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "type": "NONE",
+      "similarity": 0.6031
+    },
+    {
+      "source": 9,
+      "target": 40,
+      "type": "NONE",
+      "similarity": 0.5169
+    },
+    {
+      "source": 9,
+      "target": 89,
+      "type": "NONE",
+      "similarity": 0.3894
+    },
+    {
+      "source": 12,
+      "target": 40,
+      "type": "SUPPORT",
+      "similarity": 0.6308
+    },
+    {
+      "source": 12,
+      "target": 7,
+      "type": "NONE",
+      "similarity": 0.6194
+    },
+    {
+      "source": 12,
+      "target": 49,
+      "type": "SUPPORT",
+      "similarity": 0.5579
+    },
+    {
+      "source": 13,
+      "target": 40,
+      "type": "NONE",
+      "similarity": 0.6529
+    },
+    {
+      "source": 13,
+      "target": 7,
+      "type": "NONE",
+      "similarity": 0.5812
+    },
+    {
+      "source": 13,
+      "target": 89,
+      "type": "NONE",
+      "similarity": 0.5
+    },
+    {
+      "source": 14,
+      "target": 40,
+      "type": "SUPPORT",
+      "similarity": 0.7179
+    },
+    {
+      "source": 14,
+      "target": 7,
+      "type": "NONE",
+      "similarity": 0.5483
+    },
+    {
+      "source": 14,
+      "target": 112,
+      "type": "NONE",
+      "similarity": 0.4831
+    },
+    {
+      "source": 17,
+      "target": 43,
+      "type": "SUPPORT",
+      "similarity": 0.5752
+    },
+    {
+      "source": 17,
+      "target": 40,
+      "type": "NONE",
+      "similarity": 0.5296
+    },
+    {
+      "source": 17,
+      "target": 7,
+      "type": "SUPPORT",
+      "similarity": 0.5132
+    },
+    {
+      "source": 20,
+      "target": 18,
+      "type": "SUPPORT",
+      "similarity": 0.4607
+    },
+    {
+      "source": 20,
+      "target": 107,
+      "type": "SUPPORT",
+      "similarity": 0.4255
+    },
+    {
+      "source": 20,
+      "target": 49,
+      "type": "SUPPORT",
+      "similarity": 0.421
+    },
+    {
+      "source": 45,
+      "target": 89,
+      "type": "NONE",
+      "similarity": 0.6309
+    },
+    {
+      "source": 45,
+      "target": 87,
+      "type": "NONE",
+      "similarity": 0.6107
+    },
+    {
+      "source": 45,
+      "target": 111,
+      "type": "NONE",
+      "similarity": 0.6071
+    },
+    {
+      "source": 65,
+      "target": 49,
+      "type": "SUPPORT",
+      "similarity": 0.6047
+    },
+    {
+      "source": 65,
+      "target": 54,
+      "type": "SUPPORT",
+      "similarity": 0.5187
+    },
+    {
+      "source": 65,
+      "target": 89,
+      "type": "NONE",
+      "similarity": 0.5142
+    },
+    {
+      "source": 66,
+      "target": 61,
+      "type": "SUPPORT",
+      "similarity": 0.4714
+    },
+    {
+      "source": 66,
+      "target": 73,
+      "type": "SUPPORT",
+      "similarity": 0.4118
+    },
+    {
+      "source": 66,
+      "target": 58,
+      "type": "SUPPORT",
+      "similarity": 0.3888
+    },
+    {
+      "source": 70,
+      "target": 73,
+      "type": "SUPPORT",
+      "similarity": 0.641
+    },
+    {
+      "source": 70,
+      "target": 49,
+      "type": "SUPPORT",
+      "similarity": 0.5359
+    },
+    {
+      "source": 72,
+      "target": 40,
+      "type": "NONE",
+      "similarity": 0.4238
+    },
+    {
+      "source": 72,
+      "target": 89,
+      "type": "NONE",
+      "similarity": 0.3391
+    },
+    {
+      "source": 74,
+      "target": 64,
+      "type": "NONE",
+      "similarity": 0.6649
+    },
+    {
+      "source": 74,
+      "target": 67,
+      "type": "NONE",
+      "similarity": 0.5706
+    },
+    {
+      "source": 74,
+      "target": 73,
+      "type": "NONE",
+      "similarity": 0.5106
+    }
+  ]
+}
