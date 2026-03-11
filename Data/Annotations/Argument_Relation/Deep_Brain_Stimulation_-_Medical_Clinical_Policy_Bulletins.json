@@ -1,0 +1,234 @@
+{
+  "document_id": "Deep_Brain_Stimulation_-_Medical_Clinical_Policy_Bulletins",
+  "source": "Aetna Clinical Policy Bulletin",
+  "relations": [
+    {
+      "source": 31,
+      "target": 18,
+      "type": "SUPPORT",
+      "similarity": 0.4846
+    },
+    {
+      "source": 31,
+      "target": 4,
+      "type": "SUPPORT",
+      "similarity": 0.4559
+    },
+    {
+      "source": 31,
+      "target": 15,
+      "type": "SUPPORT",
+      "similarity": 0.4499
+    },
+    {
+      "source": 32,
+      "target": 12,
+      "type": "SUPPORT",
+      "similarity": 0.4643
+    },
+    {
+      "source": 32,
+      "target": 8,
+      "type": "SUPPORT",
+      "similarity": 0.4361
+    },
+    {
+      "source": 32,
+      "target": 2,
+      "type": "SUPPORT",
+      "similarity": 0.3933
+    },
+    {
+      "source": 36,
+      "target": 19,
+      "type": "SUPPORT",
+      "similarity": 0.6225
+    },
+    {
+      "source": 36,
+      "target": 23,
+      "type": "SUPPORT",
+      "similarity": 0.6115
+    },
+    {
+      "source": 36,
+      "target": 14,
+      "type": "SUPPORT",
+      "similarity": 0.5058
+    },
+    {
+      "source": 37,
+      "target": 11,
+      "type": "ATTACK",
+      "similarity": 0.39
+    },
+    {
+      "source": 37,
+      "target": 10,
+      "type": "ATTACK",
+      "similarity": 0.3386
+    },
+    {
+      "source": 37,
+      "target": 7,
+      "type": "SUPPORT",
+      "similarity": 0.2823
+    },
+    {
+      "source": 38,
+      "target": 23,
+      "type": "SUPPORT",
+      "similarity": 0.6573
+    },
+    {
+      "source": 38,
+      "target": 18,
+      "type": "SUPPORT",
+      "similarity": 0.6482
+    },
+    {
+      "source": 39,
+      "target": 22,
+      "type": "SUPPORT",
+      "similarity": 0.7295
+    },
+    {
+      "source": 39,
+      "target": 2,
+      "type": "SUPPORT",
+      "similarity": 0.603
+    },
+    {
+      "source": 39,
+      "target": 23,
+      "type": "SUPPORT",
+      "similarity": 0.5686
+    },
+    {
+      "source": 40,
+      "target": 6,
+      "type": "SUPPORT",
+      "similarity": 0.4301
+    },
+    {
+      "source": 40,
+      "target": 22,
+      "type": "SUPPORT",
+      "similarity": 0.4054
+    },
+    {
+      "source": 40,
+      "target": 12,
+      "type": "SUPPORT",
+      "similarity": 0.3702
+    },
+    {
+      "source": 41,
+      "target": 14,
+      "type": "SUPPORT",
+      "similarity": 0.447
+    },
+    {
+      "source": 41,
+      "target": 22,
+      "type": "SUPPORT",
+      "similarity": 0.422
+    },
+    {
+      "source": 41,
+      "target": 24,
+      "type": "SUPPORT",
+      "similarity": 0.4209
+    },
+    {
+      "source": 42,
+      "target": 24,
+      "type": "SUPPORT",
+      "similarity": 0.7845
+    },
+    {
+      "source": 42,
+      "target": 22,
+      "type": "SUPPORT",
+      "similarity": 0.7398
+    },
+    {
+      "source": 42,
+      "target": 14,
+      "type": "ATTACK",
+      "similarity": 0.7381
+    },
+    {
+      "source": 49,
+      "target": 15,
+      "type": "SUPPORT",
+      "similarity": 0.4041
+    },
+    {
+      "source": 60,
+      "target": 22,
+      "type": "SUPPORT",
+      "similarity": 0.5992
+    },
+    {
+      "source": 60,
+      "target": 14,
+      "type": "SUPPORT",
+      "similarity": 0.5281
+    },
+    {
+      "source": 60,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": 0.5228
+    },
+    {
+      "source": 64,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": 0.4977
+    },
+    {
+      "source": 64,
+      "target": 26,
+      "type": "SUPPORT",
+      "similarity": 0.419
+    },
+    {
+      "source": 67,
+      "target": 15,
+      "type": "SUPPORT",
+      "similarity": 0.4808
+    },
+    {
+      "source": 67,
+      "target": 14,
+      "type": "SUPPORT",
+      "similarity": 0.4616
+    },
+    {
+      "source": 67,
+      "target": 13,
+      "type": "SUPPORT",
+      "similarity": 0.3721
+    },
+    {
+      "source": 80,
+      "target": 2,
+      "type": "SUPPORT",
+      "similarity": 0.3783
+    },
+    {
+      "source": 80,
+      "target": 6,
+      "type": "SUPPORT",
+      "similarity": 0.3742
+    },
+    {
+      "source": 80,
+      "target": 12,
+      "type": "SUPPORT",
+      "similarity": 0.3391
+    }
+  ]
+}
