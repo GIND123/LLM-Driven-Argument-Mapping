@@ -1,0 +1,12 @@
+{
+  "document_id": "NCD_-_Diathermy_Treatment_(150.5)",
+  "source": "Cms Ncd",
+  "relations": [
+    {
+      "source": 4,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": 0.7467
+    }
+  ]
+}

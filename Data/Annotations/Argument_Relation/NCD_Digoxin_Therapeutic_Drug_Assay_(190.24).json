@@ -1,0 +1,30 @@
+{
+  "document_id": "NCD_-_Digoxin_Therapeutic_Drug_Assay_(190.24)",
+  "source": "Cms Ncd",
+  "relations": [
+    {
+      "source": 4,
+      "target": 14,
+      "type": "SUPPORT",
+      "similarity": 0.5562
+    },
+    {
+      "source": 4,
+      "target": 22,
+      "type": "NONE",
+      "similarity": 0.5553
+    },
+    {
+      "source": 5,
+      "target": 22,
+      "type": "NONE",
+      "similarity": 0.6476
+    },
+    {
+      "source": 5,
+      "target": 14,
+      "type": "SUPPORT",
+      "similarity": 0.6358
+    }
+  ]
+}

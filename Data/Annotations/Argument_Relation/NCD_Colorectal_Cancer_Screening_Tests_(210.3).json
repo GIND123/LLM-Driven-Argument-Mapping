@@ -1,0 +1,114 @@
+{
+  "document_id": "NCD_-_Colorectal_Cancer_Screening_Tests_(210.3)",
+  "source": "Cms Ncd",
+  "relations": [
+    {
+      "source": 5,
+      "target": 30,
+      "type": "NONE",
+      "similarity": 0.6073
+    },
+    {
+      "source": 5,
+      "target": 24,
+      "type": "NONE",
+      "similarity": 0.5485
+    },
+    {
+      "source": 5,
+      "target": 107,
+      "type": "NONE",
+      "similarity": 0.4978
+    },
+    {
+      "source": 7,
+      "target": 111,
+      "type": "SUPPORT",
+      "similarity": 0.576
+    },
+    {
+      "source": 7,
+      "target": 24,
+      "type": "NONE",
+      "similarity": 0.4813
+    },
+    {
+      "source": 7,
+      "target": 15,
+      "type": "NONE",
+      "similarity": 0.4447
+    },
+    {
+      "source": 9,
+      "target": 111,
+      "type": "NONE",
+      "similarity": 0.2709
+    },
+    {
+      "source": 9,
+      "target": 15,
+      "type": "NONE",
+      "similarity": 0.2564
+    },
+    {
+      "source": 9,
+      "target": 32,
+      "type": "NONE",
+      "similarity": 0.2247
+    },
+    {
+      "source": 10,
+      "target": 111,
+      "type": "NONE",
+      "similarity": 0.5086
+    },
+    {
+      "source": 10,
+      "target": 97,
+      "type": "NONE",
+      "similarity": 0.4182
+    },
+    {
+      "source": 10,
+      "target": 24,
+      "type": "NONE",
+      "similarity": 0.4101
+    },
+    {
+      "source": 71,
+      "target": 107,
+      "type": "NONE",
+      "similarity": 0.3261
+    },
+    {
+      "source": 71,
+      "target": 30,
+      "type": "NONE",
+      "similarity": 0.3203
+    },
+    {
+      "source": 71,
+      "target": 97,
+      "type": "NONE",
+      "similarity": 0.3099
+    },
+    {
+      "source": 106,
+      "target": 107,
+      "type": "SUPPORT",
+      "similarity": 0.713
+    },
+    {
+      "source": 106,
+      "target": 111,
+      "type": "NONE",
+      "similarity": 0.6407
+    },
+    {
+      "source": 106,
+      "target": 30,
+      "type": "NONE",
+      "similarity": 0.6072
+    }
+  ]
+}

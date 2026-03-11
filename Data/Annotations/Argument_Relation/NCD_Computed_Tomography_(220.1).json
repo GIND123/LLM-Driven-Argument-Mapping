@@ -1,0 +1,42 @@
+{
+  "document_id": "NCD_-_Computed_Tomography_(220.1)",
+  "source": "Cms Ncd",
+  "relations": [
+    {
+      "source": 5,
+      "target": 4,
+      "type": "SUPPORT",
+      "similarity": 0.6199
+    },
+    {
+      "source": 5,
+      "target": 37,
+      "type": "NONE",
+      "similarity": 0.4257
+    },
+    {
+      "source": 5,
+      "target": 32,
+      "type": "NONE",
+      "similarity": 0.344
+    },
+    {
+      "source": 6,
+      "target": 4,
+      "type": "SUPPORT",
+      "similarity": 0.6452
+    },
+    {
+      "source": 6,
+      "target": 37,
+      "type": "NONE",
+      "similarity": 0.4222
+    },
+    {
+      "source": 6,
+      "target": 32,
+      "type": "NONE",
+      "similarity": 0.3708
+    }
+  ]
+}

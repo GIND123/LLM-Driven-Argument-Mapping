@@ -1,0 +1,60 @@
+{
+  "document_id": "NCD_-_Continuous_Positive_Airway_Pressure_(CPAP)_Therapy_For_Obstructive_Sleep_Apnea_(OSA)_(240.4)",
+  "source": "Cms Ncd",
+  "relations": [
+    {
+      "source": 5,
+      "target": 56,
+      "type": "NONE",
+      "similarity": 0.432
+    },
+    {
+      "source": 5,
+      "target": 55,
+      "type": "NONE",
+      "similarity": 0.421
+    },
+    {
+      "source": 5,
+      "target": 57,
+      "type": "SUPPORT",
+      "similarity": 0.3726
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "type": "NONE",
+      "similarity": 0.6706
+    },
+    {
+      "source": 15,
+      "target": 14,
+      "type": "NONE",
+      "similarity": 0.5263
+    },
+    {
+      "source": 15,
+      "target": 24,
+      "type": "NONE",
+      "similarity": 0.502
+    },
+    {
+      "source": 21,
+      "target": 19,
+      "type": "SUPPORT",
+      "similarity": 0.5766
+    },
+    {
+      "source": 21,
+      "target": 56,
+      "type": "NONE",
+      "similarity": 0.4312
+    },
+    {
+      "source": 21,
+      "target": 55,
+      "type": "NONE",
+      "similarity": 0.3789
+    }
+  ]
+}
