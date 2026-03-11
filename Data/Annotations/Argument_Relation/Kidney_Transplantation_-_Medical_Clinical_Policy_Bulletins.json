@@ -1,0 +1,472 @@
+{
+  "document_id": "Kidney_Transplantation_-_Medical_Clinical_Policy_Bulletins",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 3,
+      "text": "In the absence of an institution’s selection criteria, Aetna considers kidney transplantation medically necessary when all of the following criteria below are met: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Member has completed an evaluation and been accepted by the kidney transplant committee at the kidney transplantation center.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Absence of malignancy (except for non-melanomatous skin cancers or low-grade prostate cancer) or the malignancy has had curative therapy (e.g., surgical resection of non- invasive squamous cell or basal cell skin cancer) or the estimated risk of recurrence of the malignancy is less than 10% within the next 2 years.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "Absence of symptomatic HIV infection, as defined by all of the following: a. CD4 count greater than 200 cells/mm 3 for more than 6 months; and b. HIV-1 RNA (viral load) undetectable; and c. On stable anti-viral therapy for more than 3 months; and d. No other complications from AIDS, such as opportunistic infection (e.g., aspergillus, coccidiomycosis, resistant fungal infections, tuberculosis), Kaposi's sarcoma or other neoplasms; and 6.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "Attending physician determines that there is no prohibitive cardiovascular risk; and 7.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "Severity of disease: a. Member is already on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD); or b. Member has chronic renal failure with anticipated deterioration to end stage renal disease, where member is seeking precertification for cadaveric kidney transplantationFootnote1* or c. Member has end stage renal disease, evidenced by a creatinine clearance below 20 ml/min or development of symptoms of uremia, and member is seeking precertification for a living donor kidney transplantation; and Footnote1* Note: Given waiting periods for cadaveric donors averaging 1 to 4 years, kidney transplantation is considered medically necessary for persons with severe chronic renal failure with anticipated progression to end stage renal disease.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 16,
+      "text": "Severe chronic renal failure is defined as a creatinine clearance of less than 30 ml/min; Kidney transplant is not considered medically necessary for persons who do not meet the transplanting institution's protocol selection criteria, or in the absence of a protocol, for persons who have any of the following (not an all-inclusive list): 1. Active vasculitis; or 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 21,
+      "text": "For persons undergoing kidney transplantation due to diabetic nephropathy, a combined kidney/pancreas transplantation may be considered medically necessary under some circumstances (see CPB 0587 - Pancreas Kidney Transplantation). 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "C. Renal Auto-Transplantation and Ex-Vivo Bench Surgery Aetna considers auto-transplantation and ex-vivo repair medically necessary where repair of the kidney, ureter, renal artery or its branches are not amenable to in-situ reconstruction.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 24,
+      "text": "D. Belatacept (Nulojix) Aetna considers the use of belatacept (Nulojix) medically necessary for the prevention of acute rejection in kidney transplant recipients who are sero-positive for the Epstein Barr virus (EBV).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 25,
+      "text": "Aetna considers belatacept experimental, investigational, or unproven for the prophylaxis of organ rejection in other transplanted organs because its effectiveness for the prevention of acute rejection in organ transplant other than kidney has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 26,
+      "text": "E. Equine Anti-Thymocyte Immune Globulin Aetna considers equine anti-thymocyte immune globulin (Atgam) medically necessary for the following indications: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 29,
+      "text": "Aetna considers equine anti-thymocyte immune globulin experimental, investigational, or unproven for all other indications.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 30,
+      "text": "F. Renal Auto-Transplantation Aetna considers renal auto-transplantation medically necessary for the treatment of individuals with loin pain hematuria syndrome who have failed non-surgical therapies including analgesics. II.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 31,
+      "text": "Experimental, Investigational, or Unproven Aetna considers the following experimental, investigational, or unproven: A. Gene Microarrays for Diagnosis of Rejection Aetna considers the use of gene microarrays (e.g., the Kidney Microscope Diagnostic System (MMDx-Kidney)) in diagnosis of rejection of kidney transplantation experimental, investigational, or unproven because of insufficient evidence of their effectiveness.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 32,
+      "text": "B. Experimental, Investigational, or Unproven Markers of Acute Rejection Aetna considers measurement of cytokines (e.g., cytokine-14, interleukin-1 beta (IL-1β), IL-2, IL-4, IL-6, granulocyte-macrophage colony-stimulating factor (GM-CSF), monocyte chemoattractant protein-1 (MCP-1), and tumor necrosis factor-alpha (TNF-α); not an all- inclusive list) for the diagnosis of acute renal allograft rejection experimental, investigational, or unproven because the effectiveness of this approach has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 33,
+      "text": "C. Experimental, Investigational, or Unproven Markers of Rejection Risk Aetna considers the following experimental, investigational, or unproven because the effectiveness of this approach has not been established: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 40,
+      "text": "D. Bisphosphonates Aetna considers bisphosphonates experimental, investigational, or unproven for the treatment of low bone mineral density after kidney transplantation because their effectiveness of this indication has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 41,
+      "text": "E. Pre-Conditioning Therapy Aetna considers pre-conditioning therapy (e.g., immune-adsorption or rituximab) in ABO- incompatible kidney transplantation experimental, investigational, or unproven because the effectiveness of this approach has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 42,
+      "text": "F. Biomarkers of Acute Kidney Injury Aetna considers urinary neutrophil gelatinase-associated lipocalin (NGAL) and liver-type fatty acid-binding protein (L-FABP) experimental, investigational, or unproven as biomarkers of acute kidney injury following kidney transplantation because the effectiveness of this approach has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 43,
+      "text": "G. FASL mRNA Aetna considers Fas ligand (FASL) mRNA detection experimental, investigational, or unproven as a diagnostic marker for acute renal rejection because the effectiveness of this approach has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 44,
+      "text": "H. Urinary Biomarkers (e.g., Chemokines, Extracellular Vesicles, and Monocyte Chemoattractant Protein-1) Aetna considers urinary biomarkers (e.g., chemokines including CXCL9 and CXCL10 (e.g., One Lambda CXCL10 urine test), alone or in combination; extracellular vesicles; monocyte chemoattractant protein-1 (MCP-1/CCL2) experimental, investigational, or unproven for detection and monitoring of renal graft rejection because the effectiveness of this approach has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 45,
+      "text": "I. Donor-Derived Cell-Free DNA Testing Aetna considers donor-derived cell-free DNA testing (e.g., Allosure, Prospera Kidney, VitaGraft Kidney Baseline + 1st Plasma Test, VitaGraft Kidney Subsequent, and VitaGraft Kidney 2.0) experimental, investigational, or unproven for consideration of tapering of immunosuppression therapy in kidney transplant recipients, and monitoring acute rejection following renal transplantation because the effectiveness of these approaches has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 46,
+      "text": "J. Measurement of Angiotensin II Type 1 (AT1) Receptors or AT1 Antibodies for Evaluation of Renal Transplantation Candidates / Recipients Aetna considers measurement of angiotensin II type 1 (AT1) receptors or AT1 antibodies experimental, investigational, or unproven for evaluation of renal transplantation candidates / recipients because the effectiveness of this approach has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 47,
+      "text": "K. Complement Inhibitors (e.g., Eculizumab) for the Treatment of Antibody-Mediated Rejection in Renal Transplantation Recipients Aetna considers complement inhibitors (e.g., eculizumab) experimental, investigational, or unproven for the treatment of antibody-mediated rejection in renal transplantation recipients because their effectiveness for this indication has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 48,
+      "text": "L. Belimumab for the Treatment of Antibody-Mediated Rejection in Renal Transplantation Recipients Aetna considers belimumab experimental, investigational, or unproven for the treatment of antibody-mediated rejection in renal transplantation recipients because its effectiveness for this indication has not been established. See CPB 0818 - Belimumab (Benlysta).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 49,
+      "text": "M. Genotyping Donors and Recipients Before Renal Transplantation Aetna considers genotyping donors and recipients before renal transplantation experimental, investigational, or unproven because its effectiveness for this indication has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 50,
+      "text": "N. Recombinant Human Erythropoietin Aetna considers recombinant human erythropoietin (e.g., Epogen, Procrit, and Retacrit) experimental, investigational, or unproven for nephron-protection in persons undergoing kidney transplantation because its effectiveness for this indication has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 52,
+      "text": "O. TruGraf Blood Gene Expression Test Aetna considers the TruGraf blood gene expression test (TruGraf Kidney (Eurofins Transplant Genomics, Inc.)) experimental, investigational, or unproven for the management of kidney transplant recipients because its effectiveness has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 53,
+      "text": "P. Plasminogen Activator Evaluation Aetna considers plasminogen activator evaluation experimental, investigational, or unproven as part of a hypercoagulable workup prior to kidney transplantation because the effectiveness of this approach has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 54,
+      "text": "Q. Evaluation of Urine Immunocytology Aetna considers evaluation of urine immunocytology for T cells experimental, investigational, or unproven for the diagnosis of acute kidney rejection because its role has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 56,
+      "text": "S. DNA Methylation Aetna considers the use of DNA methylation experimental, investigational, or unproven as a biomarker of post-transplant complications in kidney transplantation because its clinical value has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 57,
+      "text": "T. Artificial Intelligence/Machine Learning Method for Predicting Graft Survival Aetna considers artificial intelligence/machine learning method experimental, investigational, or unproven for predicting graft survival in kidney transplantation because the effectiveness of this approach has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 58,
+      "text": "U. Panniculectomy in Kidney Transplant Candidates Aetna considers panniculectomy experimental, investigational, or unproven if used to improve kidney transplant outcomes or improve kidney transplant candidacy because the effectiveness of this approach has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 59,
+      "text": "V. myOLARIS-KTdx Aetna considers myOLARIS-KTdx experimental, investigational, or unproven for diagnosis and prognosis of kidney allograft rejection because the effectiveness of this approach has not been established. III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 60,
+      "text": "Related Policies CPB 0195 - Erythropoiesis Stimulating Agents CPB 0587 - Pancreas Kidney Transplantation CPB 0818 - Belimumab (Benlysta) Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description CPT codes covered if selection criteria are met: Donor nephrectomy, (including cold preservation); from cadaver donor, unilateral or 50300 bilateral 50320 Donor nephrectomy, (including cold preservation); open from living donor Backbench standard preparation of cadaver donor renal allograft prior to transplantation, including dissection of allograft and removal or perinephric fat, 50323 diaphragmatic and retroperitoneal attachments, excision of adrenal gland, and preparation of ureter(s), renal vein(s), and renal artery(s), ligating branches, as necessary 50325 Backbench standard preparation of living donor renal allograft (open or laparoscopic) prior to transplantation, including dissection and removal of perinephric fat and Code Code Description preparation of ureter(s), renal vein(s), and renal artery(s), ligating branches, as necessary Backbench reconstruction of cadaver or living donor renal allograft prior to 50327 transplantation; venous anastamosis, each 50328 arterial anastamosis, each 50329 ureteral anastamosis, each 50340 Recipient nephrectomy (separate procedure) 50360 Renal allotransplantation, implantation of graft; without recipient nephrectomy 50365 Renal allotransplantation, implantation of graft; with recipient nephrectomy 50370 Removal of transplanted renal allograft 50380 Renal autotransplantation, reimplantation of kidney Laparoscopy, surgical; donor nephrectomy (including cold preservation); from living 50547 donor CPT codes not covered for indications listed in the CPB: DNA methylation as a biomarker of post transplantation complications in kidney transplantation, Urinary extracellular vesicles for detection and monitoring of renal graft rejection, Artificial intelligence/machine learning method - no specific code Transplantation medicine (allograft rejection, renal), measurement of donor and third- 0018M party- induced CD154+T-cytotoxic memory cells, utilizing whole peripheral blood, algorithm reported as a rejection risk score Nephrology (renal transplant), RNA expression by select transcriptome sequencing, 0319U using pretransplant peripheral blood, algorithm reported as a risk score for early acute rejection Nephrology (renal transplant), RNA expression by select transcriptome sequencing, 0320U using posttransplant peripheral blood, algorithm reported as a risk score for acute cellular rejection Other CPT codes related to the CPB: Breast Mammography[female candidates should have a negative result within the past 77051 - 77057 two years] Cytopathology [female candidates should have a negative result within the past three 88141 - 88175 years] 90918 - 90940 End stage renal disease services and hemodialysis Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance or 96365 drug); initial, up to 1 hour Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance or 96366 drug); each additional hour (List separately in addition to code for primary procedure) Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance or 96367 drug); additional sequential infusion of a new drug/substance, up to 1 hour (List separately in addition to code for primary procedure) Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance or 96368 drug); concurrent infusion (List separately in addition to code for primary procedure) 99512 Home visit for hemodialysis Other HCPCS codes related to the CPB: Code Code Description Cervical or vaginal cancer screening; pelvic and clinical breast examination[female G0101 candidates should have a negative result within the past three years] Screening cytopathology, cervical or vaginal (any reporting system), collected in preservative fluid, automated thin layer preparation; screening by cytotechnologist G0123 under physician supervision[female candidates should have a negative result within the past three years] requiring interpretation by physician [female candidates should have a negative G0124 result within the past three years] G0141 - G0148 Screening, cytopathology, other G0202 - G0206 Mammography G0308 - G0327 End stage renal disease services Home therapy, hemodialysis; administrative services, professional pharmacy services, S9335 care coordination, and all necessary supplies and equipment (drugs and nursing services coded separately), per diem Home therapy; peritoneal dialysis, administrative services, professional pharmacy S9339 services, care coordination and all necessary supplies and equipment (drugs and nursing visits coded separately ICD-10 codes covered if selection criteria are met: N18.5 Chronic kidney disease, Stage V N18.6 End stage renal disease N39.8 Other specified disorders of urinary system [loin pain hematuria syndrome] ICD-10 codes contraindicated for this CPB: D65 - D68.9 Coagulation defects [untreated] C00.0 - C96.9, Malignant neoplasms and carcinoma in situ [other than low grade prostate cancer and D00.00 - non-melatomatous skin cancers] D09.9 E75.00 - E75.19 E75.23 Disorders of sphingolipid metabolism and other lipid storage disorders [severe E75.25 - neurological or mental impairment] E75.29 E75.4 Mental and behavioral disorders due to psychoactive substance [ongoing alcohol or F10.10 - F19.99 drug abuse] F84.2 Rett's syndrome [severe neurological or mental impairment] Hereditary and degenerative diseases of the central nervous system [severe G11.0 - G12.9 neurological or mental impairment] G13.8 G20.A1 - G26 G30.0 - G32.89 G80.3 Code Code Description G90.01 - G91.9 G93.7 G93.89 - G93.9 G94 G95.0 - G95.9 G99.0, G99.2 I77.6 Arteritis, unspecified [active vasculitis] Q00.0 - Q56.4 Q65.00 - Congenital anomalies [extrarenal congenital abnormalities] Q99.9 Kidney Microscope Diagnostic System (MMDx-Kidney): CPT codes not covered for indications listed in the CPB: Transplantation medicine (kidney allograft rejection), microarray gene expression 0088U profiling of 1494 genes, utilizing transplant biopsy tissue, algorithm reported as a probability score for rejection Belatacept (Nulojix): HCPCS codes covered if selection criteria are met: J0485 Injection, belatacept, 1 mg ICD-10 codes covered if selection criteria are met: Complications of kidney transplant [for the prevention of acute rejection in kidney T86.10 - T86.19 transplant recipients who are sero-positive for the Epstein Barr virus (EBV)] [not covered for the prophylaxis of organ rejection in other transplanted organs] Z48.22 Encounter for aftercare following kidney transplant Kidney transplant status [for the prevention of acute rejection in kidney transplant Z94.0 recipients who are sero-positive for the Epstein Barr virus (EBV)] [not covered for the prophylaxis of organ rejection in other transplanted organs] ICD-10 codes not covered for indications listed in the CPB: T86.00 - T86.09, Complications of transplanted organs and tissue [excludes kidney] T86.20 - T86.99 Code Code Description Soluble CD30: Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative, not otherwise specified [not covered for measurement of pre- 83520 transplantation soluble CD30 level as a predictor of acute rejection in kidney transplantation] Panniculectomy: CPT code not covered for indications listed in the CPB: Excision, excessive skin and subcutaneous tissue (includes lipectomy); abdomen, 15830 infraumbilical panniculectomy Excision, excessive skin and subcutaneous tissue (includes lipectomy), abdomen (eg, 15847 abdominoplasty) (includes umbilical transposition and fascial plication) (List separately in addition to code for primary procedure ICD-10 codes not covered for indications listed in the CPB: N18.6 End stage renal disease Anti-thymocyte globulin: HCPCS code covered if selection criteria are met: J7504 Lymphocyte immune globulin, antithymocyte globulin, equine, parenteral, 250 mg J7511 Lymphocyte immune globulin, antithymocyte globulin, rabbit, parenteral, 25mg ICD-10 codes covered if selection criteria are met:: D61.01 - D61.9 Other aplastic anemias and other bone marrow failure syndromes [moderate to severe] T86.10 - T86.19 Complications of kidney transplant [prophylaxis of allograft rejection episodes] Z94.0 Kidney transplant status Measurement of cytokines: Immunoassay for analyte other than infectious agent antibody or infectious agent antigen; quantitative, not otherwise specified [(e.g., cytokine-14, interleukin-1 beta 83520 [IL-1β], IL-2, IL-4, IL-6, granulocyte-macrophage colony-stimulating factor [GM- CSF], monocyte chemoattractant protein-1 [MCP-1], and tumor necrosis factor-alpha [TNF-α]; not an all-inclusive list) for the diagnosis of acute renal allograft rejection] ICD-10 codes not covered for indications listed in the CPB: Complications of transplanted kidney [not covered for the diagnosis of acute renal T86.10 - T86.19 allograft rejection] Code Code Description Encounter for screening for other disorder [Not covered for evaluating the risk of Z13.89 developing kidney graft rejection] Kidney transplant status [not covered for the diagnosis of acute renal allograft Z94.0 rejection] Bisphosphonate: HCPCS code covered if selection criteria are met: J1436 Injection, Etidronate disodium, per 300 Mg J1740 Injection, Ibandronate sodium, 1 mg J2340 Injection, Pamidronate disodium, per 30 mg J3489 Injection, Zoledronic acid, 1 mg ICD-10 codes not covered for indications listed in the CPB: Z94.0 Kidney transplant status[low bone mineral density] Interleukin-2-330 T/G and interleukin-10-1082 (G/A) promoter polymorphisms testing: There is no specific code for interleukin-2-330 T/G and interleukin-10-1082 (G/A) promoter polymorphisms testing: There is no specific code for interleukin-2-330 T/G and interleukin-10-1082 (G/A) promoter polymorphisms testing: Pre-conditioning Therapy HCPCS code covered if selection criteria are met: J9312 Injection, rituximab, 10 mg ICD-10 codes not covered for indications listed in the CPB: T86.10 - T86.19 Complications of transplanted kidney [ABO-incompatible kidney transplantation] Perfusate biomarkers produced during hypothermic machine perfusion for prediction of graft outcomes in kidney transplantation: CPT codes not covered for indications listed in the CPB: Code Code Description Perfusate biomarkers produced during hypothermic machine perfusion for prediction of graft outcomes in kidney transplantation - no specific code: ICD-10 codes not covered for indications listed in the CPB: Kidney transplant status [not covered for prediction of graft outcomes in kidney Z94.0 transplantation] Urinary neutrophil gelatinase-associated lipocalin (NGAL) and liver-type fatty acid- binding protein (L-FABP): No specific code ICD-10 codes not covered for indications listed in the CPB: Other complication of kidney transplant [acute kidney injury following kidney T86.19 transplantation] Fas ligand (FASL) mRNA detection: CPT codes not covered for indications listed in the CPB: Immunoassay for analyte other than infectious agent antibody or infectious agent 83520 antigen; quantitative, not otherwise specified [fas-ligand (FASL) mRNA detection as a diagnostic marker for acute renal rejection] ICD-10 codes not covered for indications listed in the CPB: Complications of kidney transplant [not covered as a diagnostic marker for acute renal T86.10 - T86.19 rejection] Z94.0 Kidney transplant status[not covered as a diagnostic marker for acute renal rejection] Urinary monocyte chemoattractant protein-1 (MCP-1/CCL2): CPT codes not covered for indications listed in the CPB: Immunoassay for analyte other than infectious agent antibody or infectious agent 83520 antigen; quantitative, not otherwise specified [urinary monocyte chemoattractant protein-1 (MCP-1/CCL2) for the detection and monitoring of renal graft rejection] ICD-10 codes not covered for indications listed in the CPB: Complications of kidney transplant [not covered for the detection and monitoring of T86.10 - T86.19 renal graft rejection] Code Code Description Kidney transplant status [not covered for the detection and monitoring of renal graft Z94.0 rejection] Donor-Derived Cell-Free DNA Testing (e.g., Allosure, Prospera): CPT codes not covered for indications listed in the CPB: Donor-Derived Cell-Free DNA Testing (e.g., Allosure) - no specific code : Transplantation medicine, quantification of donor-derived cell-free DNA (cfDNA) 0493U using next-generation sequencing, plasma, reported as percentage of donor-derived cell-free DNA Transplantation medicine, quantification of donor-derived cell-free DNA using 40 0508U single- nucleotide polymorphisms (SNPs), plasma, and urine, initial evaluation reported as percentage of donor-derived cell- free DNA with risk for active rejection Transplantation medicine, quantification of donor-derived cell-free DNA using up to 0509U 12 single-nucleotide polymorphisms (SNPs) previously identified, plasma, reported as percentage of donor-derived cell-free DNA with risk for active rejection Transplantation medicine, quantification of donor-derived cell-free DNA using next- 0540U generation sequencing analysis of plasma, reported as percentage of donor-derived cell-free DNA to determine probability of rejection Nephrology (transplant monitoring), 48 variants by digital PCR, using cell-free DNA 0544U from plasma, donor-derived cell-free DNA, percentage reported as risk for rejection ICD-10 codes not covered for indications listed in the CPB: T86.10 - T86.19 Complications of kidney transplant Z79.620 Long term (current) use of immunosuppressive biologic [monoclonal antibodies] Z79.621 Long term (current) use of calcineurin inhibitor Z79.623 Long term (current) use of mammalian target of rapamycin (mTOR) inhibitor Z79.624 Long term (current) use of inhibitors of nucleotide synthesis Z94.0 Kidney transplant status Measurement of angiotensin II type 1 (AT1) receptors or AT1 antibodies: CPT codes not covered for indications listed in the CPB: Measurement of angiotensin II type 1 (AT1) receptors or AT1 antibodies - no specific code: ICD-10 codes not covered for indications listed in the CPB: Z94.0 Kidney transplant status Code Code Description Complement inhibitors: HCPCS codes not covered for indications listed in the CPB: Pexelizumab - no specific code : J0596 Injection, c1 esterase inhibitor (recombinant), ruconest, 10 units J0597 Injection, c-1 esterase inhibitor (human), berinert, 10 units J0598 Injection, c-1 esterase inhibitor (human), cinryze, 10 units J0599 Injection, c-1 esterase inhibitor (human), (haegarda), 10 units J1299 Injection, eculizumab, 2 mg Belimumab: HCPCS codes not covered for indications listed in the CPB: J0490 Injection, belimumab, 10 mg ICD-10 codes not covered for indications listed in the CPB: T86.10 - T86.19 Complications of kidney transplant Z94.0 Kidney transplant status Recombinant Human Erythropoietin for nephron-protection in persons undergoing kidney transplant: HCPCS codes not covered for indications listed in the CPB: J0885 Injection, epoetin alfa, (for non-ESRD use), 1000 units J0888 Injection, epoetin beta, 1 mcg, (for non-ESRD use) Q5106 Injection, epoetin alfa-epbx, biosimilar, (Retacrit) (for non-ESRD use), 1000 units Home therapy; hematopoietic hormone injection therapy (e.g., erythropoietin, G-CSF, GM-CSF); administrative services, professional pharmacy services, care coordination, S9537 and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem ICD-10 codes not covered for indications listed in the CPB: Kidney transplant status [not covered for nephron-protection in persons undergoing Z94.0 kidney transplant] TruGraf blood gene expression test: Code Code Description CPT codes not covered for indications listed in the CPB: Transplantation medicine (allograft rejection, kidney), mRNA, gene expression profiling by quantitative polymerase chain reaction (qPCR) of 139 genes, utilizing 81558 whole blood, algorithm reported as a binary categorization as transplant excellence, which indicates immune quiescence, or not transplant excellence, indicating subclinical rejection ICD-10 codes not covered for indications listed in the CPB: Z94.0 Kidney transplant status Plasminogen Activator Evaluation: CPT codes not covered for indications listed in the CPB: 85415 Fibrinolytic factors and inhibitors; plasminogen activator ICD-10 codes not covered for indications listed in the CPB: Z76.82 Awaiting organ transplant status [Kidney transplant] Urinary Biomarkers : CPT codes not covered for indications listed in the CPB: Nephrology (renal transplant), quantification of CXCL10 chemokines, flow 0526U cytometry, urine, reported as pg/mL creatinine baseline and monitoring over time ICD-10 codes not covered for indications listed in the CPB: Complications of transplanted kidney [not covered to the biomarkers for renal T86.10 - T86.19 allograft rejection] MyOLARIS-KTdx test: CPT codes not covered for indications listed in the CPB: Nephrology (renal transplant), urine, nuclear magnetic resonance (NMR) spectroscopy measurement of 84 urinary metabolites, combined with patient data, 0542U quantification of BK virus (human polyomavirus 1) using real-time PCR and serum creatinine, algorithm reported as a probability score for allograft injury status ICD-10 codes not covered for indications listed in the CPB: Code Code Description T86.10 – T86.19 Complications of kidney transplant Chronic renal failure (CRF) occurs in approximately 2 out of 10,000 people.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 119,
+      "text": "Ebeling (2007) noted that organ transplant candidates should be assessed and pre-transplantation bone disease should be treated.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 138,
+      "text": "The authors concluded that treatment with bisphosphonates, vitamin D sterol or calcitonin after kidney transplantation may protect against immunosuppression-induced reductions in BMD and prevent fracture.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 149,
+      "text": "The authors concluded that despite promising results in diagnosis of histopathological lesions using microarrays, the low dynamic range of microarrays and large measured expression changes within the probes for the same gene continue to cast doubts on their readiness for diagnosis of rejection.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 165,
+      "text": "The authors concluded that although tubulitis is a hallmark of acute T cell-mediated rejection, detection of T cells in urine sediment was insufficiently sensitive and insufficiently specific for diagnosing acute rejection in this cohort of kidney transplant recipients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 190,
+      "text": "The authors concluded that the results of the meta-analysis showed that the accuracy of pre-transplantation sCD30 for predicting post-transplantation AR was poor.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 192,
+      "text": "Lv and colleagues (2012) noted that results from published studies on the association of donor or recipient interleukin (IL)-6 -174G/C (rs1800795) polymorphism with AR of renal allograft are conflicting.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 201,
+      "text": "The authors concluded that donor high producer genotype (G/G and G/C) of IL-6 -174G/C polymorphism had a tendency of decreased risk for AR, although it was not statistically significant.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 214,
+      "text": "The authors concluded that longitudinal monitoring of dd-cfDNA may be useful as a dynamic biomarker to examine the health of the kidney allograft after rejection treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 233,
+      "text": "Bu et al (2021) noted that the use of routine monitoring of dd-cfDNA after kidney transplant may allow clinicians to identify subclinical allograft injury and intervene before development of clinically evident graft injury.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 250,
+      "text": "The authors stated that further investigation is needed to establish the optimal interval of monitoring as there is clear multi-factorial value considering dd-cfDNA as part of the clinical assessment of the patient.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 264,
+      "text": "dd-cfDNA showed better performance than creatinine in detecting T-cell mediated rejection (TCMR), especially at 15 days post-transplant.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 266,
+      "text": "The study found that, while dd-cfDNA shows promise, especially in early detection and in specific rejection types like TCMR, its overall diagnostic accuracy in this study was limited.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 268,
+      "text": "2025) explored the clinical utility of donor-derived cell-free DNA (dd-cfDNA) testing in pediatric kidney transplant recipients, focusing on its role in identifying biopsy-proven acute rejection (BPAR) and immune activation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 270,
+      "text": "Results showed that patients with dd- cfDNA levels >1% were significantly more likely to have BPAR (59%) and dnHLAab (88.1%), particularly class II antibodies (DQ and DR) and donor-specific antibodies (DSAs).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 274,
+      "text": "2025) investigated whether combining two dd-cfDNA metrics -- fraction (%) and absolute quantity (copies/mL) -- could improve the accuracy of diagnosing kidney transplant rejection.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 296,
+      "text": "Pinelli and colleagues (2017) noted that endothelial cell antigens have been reported as potential targets for antibodies in the context of organ transplantation, leading to increased risk for graft failure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 298,
+      "text": "Graft survival was monitored for 5 years post-transplant, and secondary outcomes, including biopsy-proven rejection, proteinuria, biopsy-proven vasculopathy, and renal function based on serum creatinine were also assessed for the first 2 to 3 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 302,
+      "text": "The authors concluded that while pre-existing and de-novo donor-specific HLA antibodies were associated with graft failure and many secondary outcomes, no statistical association was found for either anti-endothelial or anti- AT1R antibodies, indicating that these tests may not be the best predictors of graft outcome in living donor renal transplantation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 304,
+      "text": "Kang and colleagues (2022) noted that anti-AT1R antibodies (AT1R-Abs) have been recognized as non-HLA antibodies associated with allograft rejection and poor allograft outcomes following KTx.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 313,
+      "text": "The authors concluded that the findings of this study showed that the presence of anti-AT1R-Abs was associated with a significantly higher risk of AMR and graft loss in KTx.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 315,
+      "text": "Complement Inhibitors (e.g., Eculizumab) for the Treatment of Antibody-Mediated Rejection Wan and colleagues (2018) stated that current treatments for AMR in kidney transplantation are based on low-quality data from a small number of controlled trials.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 325,
+      "text": "The authors concluded that newer studies evaluating rituximab showed little or no difference to early graft survival, and the efficacy of bortezomib and complement inhibitors for the treatment of AMR remains unclear.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 327,
+      "text": "Belimumab for the Treatment of Antibody-Mediated Rejection Banham and colleagues (2018) stated that B cells produce allo-antibodies and activate allo-reactive T cells, negatively affecting kidney transplant survival.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 342,
+      "text": "The authors concluded that belimumab might be a useful adjunct to standard-of-care immunosuppression in renal transplantation, with no major increased risk of infection and potential beneficial effects on humoral allo-immunity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 352,
+      "text": "The authors concluded that several polymorphisms in either the donor or the recipient or both have been associated with DGF in KTRs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 370,
+      "text": "The authors concluded that in the present era of extravesical uretero-vesical anastomosis, routine stenting has a limited role in decreasing MUC and may be associated with higher incidence of UTIs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 381,
+      "text": "The authors concluded that real time central molecular assessment was feasible and offered a useful new dimension in biopsy interpretation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 402,
+      "text": "The authors concluded that existing studies were limited in quality and have not yielded biomarkers for kidneys undergoing HMP that are able to predict post-transplant outcomes with sufficient accuracy to support routine clinical use.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 413,
+      "text": "The authors concluded that peri-operative, high-dose rHuEPO administration did not prevent DGF in deceased donor KTx.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 424,
+      "text": "The authors concluded that these findings suggested that rHuEPO had a limited nephron-protective effect in patients undergoing KTx and did not increase the susceptibility to AEs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 434,
+      "text": "The authors concluded that laparoscopic approach to RAT using a single extended iliac incision in the management of LPHS can be considered as a less invasive treatment compared to open RAT in selected patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 462,
+      "text": "The authors concluded that a MDT approach utilizing a RHB should be considered as a tool to select appropriate LPHS patients for RAT to achieve long-term success in reducing chronic pain and depression while increasing QOL.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 473,
+      "text": "The authors concluded that TruGraf v1 could potentially support a clinical decision enabling unnecessary surveillance biopsies with high confidence, making it an invaluable addition to the transplant physician's tool kit for managing patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 480,
+      "text": "The authors concluded that TruGraf is the 1st and only non- invasive test to be examined for clinical utility in determining rejection status of patients with stable renal function and showed promise of providing support for clinical decisions to avoid unnecessary surveillance biopsies with a high degree of confidence.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 493,
+      "text": "The authors concluded that the findings of this study indicated the value of serial TruGraf testing in those transplant centers that do not perform surveillance biopsies as part of their standard of care.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 507,
+      "text": "The authors concluded that these findings suggested that the immunocytochemical localization and evaluation of alpha sm-1, Thy-1, ATIII, and urokinase in kidney allografts may be useful adjuncts in the assessment of function in renal allografts.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 521,
+      "text": "The authors concluded that studies included in this review were heterogeneous in study design, biological samples, and outcome.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 534,
+      "text": "The authors concluded that miR-10b down-regulation mediates many aspects of disease pathogenicity of acute kidney allograft rejection.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 544,
+      "text": "The authors concluded that these findings suggested that the up-regulation of miR-650 contributed to the development of acute renal allograft rejection by suppression of BCL11B, which led to apoptosis and inflammatory responses.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 551,
+      "text": "The authors concluded that miRNAs are emerging as important regulatory molecules of gene expression.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 560,
+      "text": "The authors concluded that these findings suggested that miRNA expression patterns may serve as non-invasive diagnostic biomarkers to assess immune response and kidney allograft status.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 568,
+      "text": "The authors concluded that in addition to dn DSA screening, monitoring of CIITA and CTLA-4 in peripheral blood could offer useful information on the time course of the development of cAMR.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 610,
+      "text": "The authors concluded that the strong association between ACR and allo-specific CD154+TcM may be useful in minimizing protocol biopsies among recipients at reduced rejection risk.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 621,
+      "text": "The authors concluded that alloreactive T-cell subsets, which express the inflammatory co- stimulator, CD154, showed wide-ranging susceptibility to CD28-costimulation blockade with belatacept.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 634,
+      "text": "The authors concluded that allo-specific T-cytotoxic memory cells distinguished primary RTR with quiescent allografts from those with dysfunction.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 649,
+      "text": "The authors concluded that this mini review provided updates and insights into the latest development of promising novel biomarkers for diagnosis and novel therapeutic interventions to prevent and treat CKTR.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 704,
+      "text": "The authors concluded that abdominal panniculectomy was feasible in patients suffering ESRD with no major post-operative complications; thus, converting previously ineligible patients into KTx candidates.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 722,
+      "text": "The authors concluded that these preliminary findings demonstrated that panniculectomy in ESRD patients appeared to be safe, although with a nominal increased risk for complications.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 747,
+      "text": "The authors concluded that urinary CXCL10 was associated with alloimmune and virus compartment-specific inflammation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 759,
+      "text": "The authors concluded that CXCL10 and metabolome analyzes were useful for evaluation of graft functions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 776,
+      "text": "The authors concluded that the identification of specific and sensitive biomarkers could potentially reduce unnecessary biopsies, resulting in more individualized treatment plans and improved health outcomes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 788,
+      "text": "The authors concluded that the use of an integrated model of urinary chemokines and clinical markers for non- invasive monitoring of rejection could enable a reduction in the number of biopsies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 801,
+      "text": "The authors concluded that urinary CXCL10/Cr reliably identified kidney allograft inflammation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 826,
+      "text": "The authors concluded that this POC study reported the use of dd-cfDNA to directly inform IST management in a cohort of KTx recipients who were candidates for IST reduction.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 847,
+      "text": "The authors concluded that although several possible biomarkers have been proposed to predict AMR, ineffectiveness of current urinary biomarkers in early diagnosing of AMR patients and in distinguishing AMR subjects from patients with stable kidney function casts doubts on their applicability in the clinical setting.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 868,
+      "text": "The authors concluded that putative immune or structural protein candidate biomarkers have been identified by means of proteomic techniques in multiple sample types including urine, serum and fluid used to perfuse donor kidneys.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 890,
+      "text": "The authors concluded that evaluating the protein composition related to KT results could result in identification of biomarkers that provide insights into the graft functionality.",
+      "label": "PREMISE"
+    }
+  ]
+}
