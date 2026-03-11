@@ -1,0 +1,317 @@
+{
+  "document_id": "ablative-treatment-spinal-pain",
+  "source": "Uhc",
+  "dataset": "uhc",
+  "sentences": [
+    {
+      "id": 2,
+      "text": "UnitedHealthcare Individual Exchange This Medical Policy applies to Individual Exchange benefit plans.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 3,
+      "text": "Coverage Rationale Note: Conventional (Thermal) Radiofrequency Ablation requires site of service review.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 4,
+      "text": "Refer to the Medical Policy titled Office-Based Procedures – Site of Service.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 5,
+      "text": "The following facet joint nerve ablation techniques are unproven and not medically necessary due to insufficient evidence of efficacy: • Pulsed Radiofrequency Ablation of the facet nerves of the cervical, thoracic, or lumbar region, sacral nerve root, or dorsal root ganglion • Endoscopic radiofrequency ablation/endoscopic rhizotomy • Cryoablation (cryodenervation, cryoneurolysis, cryosurgery, or cryoanesthesia) • Cooled Radiofrequency Ablation • Chemical ablation (including but not limited to alcohol, phenol, or sodium morrhuate) • Laser ablation (including pulsed, continuous, or low level) Ablation for treating sacroiliac pain is unproven and not medically necessary due to insufficient evidence of efficacy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Intraosseous radiofrequency ablation of the basivertebral nerve (e.g., Intracept®) for the treatment of spinal pain is unproven and not medically necessary due to insufficient evidence of efficacy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Ablative Treatment for Spinal Pain Page 1 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 8,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Definitions Conventional (Thermal) Radiofrequency Ablation: The application of continuous high-frequency electrical current to ablate nerve tissue: • Temperature ≥ 60 °C; and • Duration of ablation ≥ 40 seconds; and • Confirmation of needle placement by fluoroscopic-guided imaging Cooled Radiofrequency Ablation: The application of continuous high-frequency electrical current to ablate nerve tissue using water-cooled electrodes/probes.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 10,
+      "text": "Applicable Codes The following list(s) of procedure and/or diagnosis codes is provided for reference purposes only and may not be all inclusive.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 11,
+      "text": "Listing of a code in this policy does not imply that the service described by the code is a covered or non-covered health service.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 12,
+      "text": "Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 13,
+      "text": "The inclusion of a code does not imply any right to reimbursement or guarantee claim payment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 17,
+      "text": "Endoscopic rhizotomy, a posterior endoscopic method, also known as dorsal endoscopic rhizotomy, has been developed as an alternative to percutaneous electrode radiofrequency ablation to target the medial, intermediate, and lateral branches of the dorsal ramus using a modification of the Yeung Endoscopic Spinal Surgery cannula and a specially designed Ellman radiofrequency bipolar electrode.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 19,
+      "text": "Cooled radiofrequency (e.g., COOLIEF) transmits thermal radiofrequency energy using water-cooled electrodes/probes.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 20,
+      "text": "Chemical ablation uses an injection of chemicals, such as phenol or alcohol, to destroy nerve tissue.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 21,
+      "text": "Laser ablation destroys nerve tissue using a laser beam.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 23,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Clinical Evidence Pulsed Radiofrequency Ablation There is insufficient evidence to establish the safety and efficacy of pulsed radiofrequency ablation (RFA) for treating spinal pain.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 24,
+      "text": "Well-designed randomized controlled trials (RCTs), with large sample sizes and long-term follow-up, are needed to establish the impact on health outcomes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 25,
+      "text": "An Agency for Healthcare Research and Quality comparative effectiveness review evaluated pulsed RFA for treating facet joint pain in the Medicare population.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 26,
+      "text": "The report concluded that the evidence is insufficient to assess pulsed RFA for presumed facet joint pain vs sham denervation or continuous radiofrequency (CRF) denervation (Chou et al., 2021).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 27,
+      "text": "In 2021, Hayes updated a 2019 Health Technology Assessment for the use of pulsed radiofrequency (PRF) application to the dorsal root ganglion (DRG) for the treatment of cervical radicular pain that has failed to respond to conservative treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 28,
+      "text": "The report concluded that a very low-quality, limited body of evidence suggests that PRF application to the DRG may reduce pain in individuals with cervical radicular pain that has failed to respond to conservative treatment; however, the body of evidence is insufficient to draw definitive conclusions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 29,
+      "text": "Considerable limitations to the body of evidence include a small evidence base, consisting of one fair- and three poor-quality RCTs; inconsistency of PRF treatment methods among studies; and lack of long-term follow-up.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 30,
+      "text": "Additional robust, comparative evidence is needed to determine whether PRF application to the DRG is an effective and safe alternative treatment for cervical radicular pain that has failed conservative treatment. Kroll et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 32,
+      "text": "Target facet joints were identified with oblique radiographic views.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 33,
+      "text": "CRF thermocoagulation was delivered at 80 °C for 75 seconds, while PRF was delivered at 42 °C, with a pulse duration of 20 milliseconds and pulse rate of 2 Hz for 120 seconds.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 34,
+      "text": "No significant differences in the relative percentage improvement were noted between groups in either visual analog scale (VAS) or Oswestry Low Back Pain and Disability Questionnaire (OSW) scores.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 35,
+      "text": "In the PRF group, comparisons of the relative change over time in both VAS and OSW scores were not significant.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 36,
+      "text": "However, in the CRF group, VAS and OSW scores showed significant improvement.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 37,
+      "text": "The investigators concluded that although no significant difference between CRF and PRF therapy in long-term outcome in the treatment of lumbar facet syndrome was observed, a greater improvement over time was noted in the CRF group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 38,
+      "text": "Furthermore, the sample size may have been too small to detect clinically significant differences between the interventions. Chao et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 39,
+      "text": "2008) retrospectively reviewed a case series of 154 patients with lumbar or cervical radicular pain due to a herniated intervertebral disk or previous failed surgery to analyze the efficacy of percutaneous pulsed RFA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 40,
+      "text": "Patients had pulsed RFA in two to four spinal levels unilaterally, with follow-up from 1 week to 1 year post operation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 41,
+      "text": "Overall, 53% of 49 patients with cervical pain and 50% of patients with lumbar pain had an initial improvement of 50% or more in the first week of follow-up.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 42,
+      "text": "In total, 55% of patients with cervical pain and 44% of patients with lumbar pain had pain relief of 50% or more at the 3-month follow-up.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 44,
+      "text": "Limitations of this study include the lack of a comparison group, retrospective design, and inability to generalize results due to a wide range of follow-up.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 45,
+      "text": "Additional well-designed studies are needed to evaluate the long-term results of pulsed RFA. Abejón et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 48,
+      "text": "The efficacy of the technique was assessed using a 10-point numeric rating scale (NRS) at baseline and the global perceived effect at 30, 60, 90, and 180 days.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 49,
+      "text": "The reduction in medications and number of complications associated with the technique were assessed, although these were not reported.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 50,
+      "text": "Pain reduction was noted in all groups, except for those with failed back surgery syndrome. No complications were noted.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 51,
+      "text": "The authors concluded that PRF was effective in herniated disk and spinal stenosis but not failed back surgery syndrome.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 52,
+      "text": "The flaws of this study include the lack of a comparison group undergoing a different treatment, retrospective design, subjective outcome measures, and short-term follow-up.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 56,
+      "text": "At 3 months, the pulsed RFA group showed a significantly better outcome regarding the global perceived effect (> 50% improvement) and VAS (20-point pain reduction).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 57,
+      "text": "The quality-of-life scales also showed a positive trend in favor of the pulsed RFA group, but significance was only reached in the 36-Item Short Form Survey (SF-36) Ablative Treatment for Spinal Pain Page 3 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 58,
+      "text": "Copyright 2026 United HealthCare Services, Inc. domain vitality at 3 months.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 59,
+      "text": "The need for pain medication was significantly reduced in the pulsed RFA group after 6 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 60,
+      "text": "No complications were observed during the study period.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 61,
+      "text": "The authors concluded that these study results are in agreement with the findings of a previously completed clinical audit that suggested that pulsed RFA of the cervical DRG may provide pain relief for a limited number of carefully selected individuals with chronic cervical radicular pain, as assessed by clinical and neurological examination.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 62,
+      "text": "Although the study results are promising for certain individuals, the small sample size, use of subjective outcomes, and lack of long-term follow-up minimize the generalizations of the conclusions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 63,
+      "text": "Endoscopic Radiofrequency Ablation/Endoscopic Rhizotomy There is insufficient evidence to establish the safety and efficacy of endoscopic RFA for treating spinal pain.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 64,
+      "text": "Well- designed RCTs, with large sample sizes and long-term follow-up, are needed to establish the impact on health outcomes. Du et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 65,
+      "text": "2024) conducted a systematic review and meta-analysis of 11 RCTs that compared the efficiency of percutaneous RFA and conservative treatment (sham procedures, facet joint injection, physiotherapy, exercise, or oral medication) or compared the efficiency of percutaneous RFA and endoscopic neurotomy for lumbar facet joint syndrome.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 66,
+      "text": "Of these 11 articles, nine reported on the effects of percutaneous RFA, and two studies evaluated the efficiency of endoscopic neurotomy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 67,
+      "text": "Of the two reporting on endoscopic neurotomy, the results showed that at 1 month, no difference between that and percutaneous RFA or placebo was observed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 68,
+      "text": "Twelve-month results showed that when compared with RFA, endoscopic neurotomy can significantly reduce pain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 76,
+      "text": "The study included 40 of 50 screened participants divided into two equal groups: group A participants were previously treated with percutaneous RFA (n = 20), and group B participants were having their first interventional treatment (n = 20).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 77,
+      "text": "NRS and Oswestry Disability Index (ODI) scores were assessed before and after the procedure.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 86,
+      "text": "Cryoablation There is insufficient evidence to establish the safety and efficacy of cryoablation for treating spinal pain.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 97,
+      "text": "The majority of CRFA-related adverse events involved worsening pain in the lower back or around the SIJ and reported postprocedural pain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 98,
+      "text": "No serious related adverse events were reported, including nerve injury, in either group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 99,
+      "text": "The authors concluded that CRFA is Ablative Treatment for Spinal Pain Page 4 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 100,
+      "text": "Copyright 2026 United HealthCare Services, Inc. superior to medical management for treating chronic SIJ pain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 101,
+      "text": "This study is limited by a short follow-up period as well as the lack of specific requirements for the control group, which could undermine generalizability.",
+      "label": "PREMISE"
+    }
+  ]
+}
