@@ -1,0 +1,222 @@
+{
+  "document_id": "Nutritional_Support_-_Medical_Clinical_Policy_Bulletins___Ae",
+  "source": "Aetna",
+  "relations": [
+    {
+      "source": 80,
+      "target": 10,
+      "type": "SUPPORT",
+      "similarity": 0.7449
+    },
+    {
+      "source": 80,
+      "target": 12,
+      "type": "SUPPORT",
+      "similarity": 0.6808
+    },
+    {
+      "source": 80,
+      "target": 16,
+      "type": "NONE",
+      "similarity": 0.6679
+    },
+    {
+      "source": 81,
+      "target": 16,
+      "type": "ATTACK",
+      "similarity": 0.7808
+    },
+    {
+      "source": 81,
+      "target": 61,
+      "type": "NONE",
+      "similarity": 0.7644
+    },
+    {
+      "source": 81,
+      "target": 19,
+      "type": "SUPPORT",
+      "similarity": 0.7328
+    },
+    {
+      "source": 83,
+      "target": 8,
+      "type": "NONE",
+      "similarity": 0.5896
+    },
+    {
+      "source": 83,
+      "target": 55,
+      "type": "SUPPORT",
+      "similarity": 0.5685
+    },
+    {
+      "source": 83,
+      "target": 2,
+      "type": "NONE",
+      "similarity": 0.5491
+    },
+    {
+      "source": 99,
+      "target": 31,
+      "type": "SUPPORT",
+      "similarity": 0.6731
+    },
+    {
+      "source": 99,
+      "target": 55,
+      "type": "NONE",
+      "similarity": 0.5072
+    },
+    {
+      "source": 99,
+      "target": 62,
+      "type": "NONE",
+      "similarity": 0.4535
+    },
+    {
+      "source": 108,
+      "target": 62,
+      "type": "ATTACK",
+      "similarity": 0.4462
+    },
+    {
+      "source": 108,
+      "target": 31,
+      "type": "NONE",
+      "similarity": 0.4391
+    },
+    {
+      "source": 108,
+      "target": 45,
+      "type": "NONE",
+      "similarity": 0.3374
+    },
+    {
+      "source": 121,
+      "target": 9,
+      "type": "SUPPORT",
+      "similarity": 0.4301
+    },
+    {
+      "source": 121,
+      "target": 16,
+      "type": "ATTACK",
+      "similarity": 0.3904
+    },
+    {
+      "source": 121,
+      "target": 2,
+      "type": "SUPPORT",
+      "similarity": 0.3841
+    },
+    {
+      "source": 139,
+      "target": 26,
+      "type": "NONE",
+      "similarity": 0.2705
+    },
+    {
+      "source": 139,
+      "target": 34,
+      "type": "NONE",
+      "similarity": 0.2632
+    },
+    {
+      "source": 139,
+      "target": 20,
+      "type": "NONE",
+      "similarity": 0.2559
+    },
+    {
+      "source": 160,
+      "target": 59,
+      "type": "SUPPORT",
+      "similarity": 0.5081
+    },
+    {
+      "source": 160,
+      "target": 39,
+      "type": "NONE",
+      "similarity": 0.4647
+    },
+    {
+      "source": 160,
+      "target": 40,
+      "type": "NONE",
+      "similarity": 0.3766
+    },
+    {
+      "source": 168,
+      "target": 59,
+      "type": "SUPPORT",
+      "similarity": 0.4515
+    },
+    {
+      "source": 168,
+      "target": 48,
+      "type": "SUPPORT",
+      "similarity": 0.3574
+    },
+    {
+      "source": 168,
+      "target": 4,
+      "type": "NONE",
+      "similarity": 0.3034
+    },
+    {
+      "source": 180,
+      "target": 59,
+      "type": "SUPPORT",
+      "similarity": 0.533
+    },
+    {
+      "source": 180,
+      "target": 39,
+      "type": "NONE",
+      "similarity": 0.4542
+    },
+    {
+      "source": 180,
+      "target": 42,
+      "type": "NONE",
+      "similarity": 0.4019
+    },
+    {
+      "source": 198,
+      "target": 59,
+      "type": "ATTACK",
+      "similarity": 0.5693
+    },
+    {
+      "source": 198,
+      "target": 4,
+      "type": "NONE",
+      "similarity": 0.2453
+    },
+    {
+      "source": 198,
+      "target": 55,
+      "type": "SUPPORT",
+      "similarity": 0.2448
+    },
+    {
+      "source": 219,
+      "target": 18,
+      "type": "NONE",
+      "similarity": 0.2919
+    },
+    {
+      "source": 219,
+      "target": 23,
+      "type": "NONE",
+      "similarity": 0.2885
+    },
+    {
+      "source": 219,
+      "target": 9,
+      "type": "NONE",
+      "similarity": 0.2844
+    }
+  ]
+}
