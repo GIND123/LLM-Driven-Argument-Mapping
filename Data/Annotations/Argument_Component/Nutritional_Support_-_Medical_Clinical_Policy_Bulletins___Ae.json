@@ -1,0 +1,312 @@
+{
+  "document_id": "Nutritional_Support_-_Medical_Clinical_Policy_Bulletins___Ae",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 2,
+      "text": "I. Notes A. For members with such a plan benefit, specific nutritional support is considered to be a medical item only when it is administered enterally (i.e., by feeding tube) or parenterally (i.e., by intravenous administration) where the member has either (a) a permanentFootnote1* visited non-function or disease of the structures that normally permit food to reach the small bowel; or (b) disease of the small bowel that impairs digestion and absorption of an oral diet, either of which requires enteral or parenteral feedings to provide sufficient nutrients to maintain weight and strength commensurate with the member's overall health status.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "B. Aetna does not cover nutritional support that is taken orally (i.e., by mouth), unless mandated by state law.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "C. Regular food products are not considered medical items.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Regular food products include food thickeners, baby food, gluten-free food products, high protein powders and mixes, low carbohydrate diets, normal grocery items, nutritional supplement puddings, weight-loss foods and formula (products to aid weight loss), or other regular grocery products that can be mixed in blenders and used with an enteral system regardless of whether these regular food products are taken orally or parenterally. II.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "Medical Necessity Determinants of the route of administration of nutritional support include the functional status of the gastrointestinal tract and the anticipated duration of therapy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "A. Enteral Tube Feedings Enteral nutrition is the provision of nutritional requirements through a tube into the stomach or small intestine.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "The short-term methods of enteral tube feedings include nasogastric, nasoduodenal and, less frequently, naso-jejunal tubes.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "Long-term enteral feedings are best administered by a percutaneous gastrostomy or jejunostomy tube.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "Aetna considers enteral tube feedings medically necessary when the member has either (a) permanent Footnote1* non-function or disease of the structures that normally permit food to reach the small bowel; or (b) disease of the small bowel that impairs digestion and absorption of an oral diet, either of which requires tube feedings to provide sufficient nutrients to maintain weight and strength commensurate with the member's overall health status.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "The member's condition could be either an anatomic abnormality (e.g., obstruction due to head and neck cancer or reconstructive surgery, etc.)",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "or a motility disorder (e.g., severe dysphagia following a stroke, neuromuscular or disease of the central nervous system that interferes with the ability to chew or swallow, etc.).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 16,
+      "text": "Enteral nutrition is not considered medically necessary for members with a functioning gastrointestinal tract whose need for enteral nutrition is due to reasons such as anorexia or nausea associated with mood disorder, end-stage disease, etc.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 17,
+      "text": "The member must require tube feedings to maintain weight and strength commensurate with the member's overall health status.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 18,
+      "text": "Adequate nutrition must not be possible by dietary adjustment and/or oral supplements.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "Enteral nutrition may be considered medically necessary for members with partial impairments (e.g., a member with dysphagia who can swallow small amounts of food or a member with Crohn's disease who requires prolonged infusion of enteral nutrients to overcome a problem with absorption).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 20,
+      "text": "Note: Enteral nutrition products that are administered orally and related supplies are not covered.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "If the judgment of the doctor, substantiated in the medical record, is that the impairment can reasonably be expected to exceed 3 months (90 days), the test of permanence is considered met.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 25,
+      "text": "Formulas consisting of semi-synthetic intact proteins or protein isolates (e.g., Enrich, Ensure, Ensure HN, Ensure Powder, Isocal, Lonalac Powder, Meritene, Meritene Powder, Osmolite, Osmolite HN, Portagen Powder, Renu, Sustacal, Sustagen Powder, Travasorb) are considered medically necessary for enteral feeding of the majority of older members who meet criteria for enteral feeding.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 26,
+      "text": "Formulas consisting of natural intact proteins or protein isolates (e.g., Compleat B, Compleat B Modified, Vitaneed) are considered medically necessary for enteral feeding of members with an allergy or intolerance to semi-synthetic formulas.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 27,
+      "text": "Calorically dense formulas are also considered medically necessary for enteral feedings if they are indicated.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 28,
+      "text": "The medical necessity for special formulas for enteral feedings must be justified in each member.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 29,
+      "text": "Infant Formula Note: Infant formulas are only covered if administered via the tube-feeding route and the criteria for coverage of enteral feedings are met.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 30,
+      "text": "Infant formulas given orally are not covered.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 31,
+      "text": "In addition, breast milk additive to prevent necrotizing enterocolitis in premature infants is only covered if administered via the tube-feeding route and the criteria for coverage of enteral feedings are met.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 32,
+      "text": "Equipment Appropriate nutrients, administration supplies, and equipment are considered medically necessary for persons who meet criteria for enteral feedings.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 33,
+      "text": "Tube feedings are usually given by gravity feedings or syringe.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 34,
+      "text": "Pumps are considered medically necessary durable medical equipment (DME) only where gravity feedings or syringe feedings have caused complications or are otherwise not indicated (e.g., gravity feeding is not satisfactory due to reflux and/or aspiration, severe diarrhea, dumping syndrome, administration rate less than 100 ml/hr, blood glucose fluctuations, circulatory overload, gastrostomy/jejunostomy tube used for feeding).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 35,
+      "text": "More than 3 nasogastric tubes or 1 gastrostomy/jejunostomy tube every 3 months is rarely considered medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 37,
+      "text": "B. Relizorb Aetna considers in-line digestive enzyme cartridges (e.g. Relizorb, Alcresta Pharmaceuticals) which connect to enteral feeding tubes for hydrolysis (digestion) of fats in enteral formula, medically necessary for persons diagnosed with exocrine pancreatic insufficiency (such as due to complications of diabetes, cystic fibrosis, pancreatitis, pancreatectomy, celiac disease, Crohn’s disease, ulcerative colitis, or congenital malformations of the pancreas) who meet criteria for enteral nutrition.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 38,
+      "text": "More than two in-line digestive enzyme cartridges per day are considered not medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 39,
+      "text": "C. Parenteral Nutrition/Total Parenteral Nutrition (TPN) Parenteral nutrition involves the delivery of micronutrients and macronutrients through catheters in central or peripheral veins.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 40,
+      "text": "In most instances, the central venous route is utilized; for long- term total parenteral nutrition (TPN), a central catheter (e.g., Hickman, Broviac, PIC) is burrowed through a subcutaneous tunnel on the anterior chest.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 41,
+      "text": "Generally, the parenteral approach is considered medically necessary only if adequate nutritional intake is not possible via the oral or tube-feeding route. 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 42,
+      "text": "Aetna considers parenteral nutrition medically necessary for members who meet any of the following criteria: a. Documentation of a failure of enteral (i.e., oral or tube feeding) nutrition, as defined by either of the following: i. A non-edematous or post-dialysis documented loss of greater than 10 % of body weight over a 3-month period; or ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 43,
+      "text": "Total protein less than 6 g/dL or serum albumin less than 3.4 g/dL; b. A condition in which it is necessary for the gastrointestinal tract to be totally non- functioning for a period of time; c. Evidence of structural or functional bowel disease that makes oral and tube feedings inappropriate; d. Hyperemesis gravidarum (only in cases of failed medical management or when used in a step-therapy program); e. Member is peri-operative (regardless of disease state) and unable to tolerate oral or tube feedings. 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 44,
+      "text": "Parenteral nutrition may be either “self-mixed” (i.e., the member or family caregiver is taught to prepare the nutrient solution aseptically) or “pre-mixed”.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 45,
+      "text": "The doctor must justify the need for pre-mixed parenteral nutritional solutions. 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 46,
+      "text": "Parenteral nutrition is not considered medically necessary for members with a functioning gastrointestinal tract whose need for parenteral nutrition is only due to: a. A physical disorder impairing food intake such as the dyspnea of severe pulmonary or cardiac disease; b. A psychological disorder impairing food intake such as depression; c. A side effect of a medication; d. A swallowing disorder; e. A temporary defect in gastric emptying such as a metabolic or electrolyte disorder; f. Disorders inducing anorexia such as cancer; g. Renal failure and/or dialysis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 48,
+      "text": "Aetna considers intra-peritoneal nutrition experimental, investigational, or unproven; however, intra-peritoneal amino acid (IPAA) supplementation is considered medically necessary for members on peritoneal dialysis when all of the following criteria are met: a. Inability to administer or tolerate adequate oral protein nutrition, including food supplements, or enteral tube feeding; and b. The combination of some oral or enteral intake that, when combined with IPAA, will meet the individual's nutritional goals; and c. There is evidence of inadequate dietary protein intake and protein malnutrition. 5.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 54,
+      "text": "Aetna does not cover banked breast milk, food supplements, specialized infant formulas, vitamins and/or minerals taken orally (i.e., by mouth).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 55,
+      "text": "Food supplements, specialized infant formulas (e.g., Alimentum, Elecare, Neocate, and Nutramigen), lactose-free foods, vitamins and/or minerals may be used to replace intolerable foods, for lactose intolerance, to supplement a deficient diet, or to provide alternative nutrition in the presence of such conditions as allergies, gastrointestinal disorders, hypoglycemia, and obesity.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 57,
+      "text": "Most Aetna plans do not specifically include coverage of infant formulas when taken orally.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 59,
+      "text": "Experimental, Investigational, or Unproven Aetna considers the following nutritional support (not an all-inclusive list) experimental, investigational, or unproven because of insufficient evidence in the peer-reviewed literature: A. Levocarnitine supplementation to total parenteral nutrition; B. Use of infusion of levocarnitine as a part of total parenteral nutrition therapy in persons without primary or secondary carnitine deficiency or end-stage renal disease on hemodialysis because the clinical value of this approach has not been established; C. Enteral nutrition / enteral feeding 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 60,
+      "text": "Enteral nutrition for induction and maintenance of remission in adults with Crohn's disease 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 61,
+      "text": "Enteral nutrition for the treatment of eating disorders (except in life-saving cases of severe cases of anorexia nervosa) 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 62,
+      "text": "Enteral lactoferrin supplementation for prevention of sepsis and necrotizing enterocolitis in preterm infants; D. Percutaneous ultrasound gastrostomy for gastrostomy tube insertion; E. Relizorb (digestive enzyme cartridge) for the treatment of malabsorption related to graft-versus- host disease. IV.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 64,
+      "text": "A prosthetist, orthotist, orthotic fitter, pedorthotist, physical therapist, or occupational therapist is not considered a treating practitioner.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 78,
+      "text": "Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description CPT codes covered if selection criteria are met: Home visit for care and maintenance of catheter(s) (e.g., urinary, drainage, and 99507 enteral) 99601 Home infusion/specialty drug administration, per visit (up to 2 hours) + 99602 each additional hour (List separately in addition to code for primary procedure) Other CPT codes related to the CPB: 36555 - 36571 Insertion of central venous catheter Upper gastrointestinal endoscopy including esophagus, stomach, and either the 43246 duodenum and/or jejunum as appropriate; with directed placement of percutaneous gastrostomy tube Gastrotomy; with esophageal dilation and insertion of permanent intraluminal tube 43510 (e.g., Celestin or Mousseaux-Barbin) Laparoscopy, surgical; gastrostomy, without construction of gastric tube (e.g., Stamm 43653 procedure) (separate procedure) Naso- or oro-gastric tube placement, requiring physician's skill and fluoroscopic 43752 guidance (includes fluoroscopy, image documentation and report) Replacement of gastrostomy tube, percutaneous, includes removal, when performed, 43762 - 43763 without imaging or endoscopic guidance 43761 Repositioning of the gastric feeding tube, through the duodenum for enteric nutrition Code Code Description Gastroduodenostomy, gastrojejunostomy; without vagotomy, with vagotomy, any type, gastrostomy, open; without construction of gastric tube (e.g., Stamm procedure) 43810 - 43832 (separate procedure), neonatal, for feeding, or with construction of gastric tube (e.g., Janeway procedure) Tube or needle catheter jejunostomy for enteral alimentation, intraoperative, any + 44015 method (List separately in addition to primary procedure) Small intestinal endoscopy, enteroscopy beyond second portion of duodenum, not 44372 including ileum; with placement of percutaneous jejunostomy tube with conversion of percutaneous gastrostomy tube to percutaneous jejunostomy 44373 tube 44500 Introduction of long gastrointestinal tube (e.g., Miller-Abbott) (separate procedure) Pancreatectomy, distal subtotal, with or without splenectomy; without 48140 pancreatojejunostomy Insertion of gastrostomy tube, percutaneous, under fluoroscopic guidance including 49440 contrast injection(s), image documentation and report Insertion of duodenostomy or jejunostomy tube, percutaneous, under fluoroscopic 49441 guidance including contrast injection(s), image documentation and report Conversion of gastrostomy tube to gastro-jejunostomy tube, percutaneous, under 49446 fluoroscopic guidance including contrast injection(s), image documentation and report Replacement of gastrostomy or cecostomy (or other colonic) tube, percutaneous, 49450 under fluoroscopic guidance including contrast injection(s), image documentation and report Replacement of duodenostomy or jejunostomy tube, percutaneous, under fluoroscopic 49451 guidance including contrast injection(s), image documentation and report Replacement of gastro-jejunostomy tube, percutaneous, under fluoroscopic guidance 49452 including contrast injection(s), image documentation and report Introduction of long gastrointestinal tube (eg, Miller-Abbott), including multiple 74340 fluoroscopies and images, radiological supervision and interpretation HCPCS codes covered if selection criteria are met: Enteral lactoferrin supplementation – no specific code: B4034 - B4083, B4102 Enteral and Parenteral Therapy (except food thickener) - B9999 B4087 Gastrostomy/jejunostomy tube, standard, any material, any type, each B4088 Gastrostomy/jejunostomy tube, low-profile, any material, any type, each Enteral formula, for adults, used to replace fluids and electrolytes (e.g., clear liquids), B4102 500 ml= 1 unit Enteral formula, for pediatrics, used to replace fluids and electrolytes (e.g., clear B4103 liquids), 500 ml = 1 unit B4104 Additive for enteral formula (e.g., fiber) B4105 In-line cartridge containing digestive enzyme(s) for enteral feeding, each Enteral formula, manufactured blenderized natural foods with intact nutrients, B4149 includes proteins, fats, carbohydrates, vitamins and minerals, may include fiber, administered through an enteral feeding tube, 100 calories = 1 unit Code Code Description Home infusion therapy, catheter care/ maintenance, not otherwise classified; includes administrative services, professional pharmacy services, care coordination, and all S5497 necessary supplies and equipment (drugs and nursing visits coded separately), per diem Home infusion therapy, catheter care/ maintenance, simple (single lumen), includes administrative services, professional pharmacy services, care coordination, and all S5498 necessary supplies and equipment (drugs and nursing visits coded separately), per diem Home infusion therapy, catheter care/ maintenance, complex (more than one lumen), includes administrative services, professional pharmacy services, care coordination, S5501 and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem Home infusion therapy, catheter care/ maintenance, implanted access device, includes administrative services, professional pharmacy services, care coordination, and all S5502 necessary supplies and equipment (drugs and nursing visits coded separately), per diem (use this code for interim maintenance of vascular access not currently in use) Home infusion therapy, all supplies necessary for restoration of catheter patency or S5517 declotting S5518 Home infusion therapy, all supplies necessary for catheter repair Home infusion therapy, all supplies (including catheter) necessary for a peripherally S5520 inserted central venous catheter (PICC) line insertion Home infusion therapy, all supplies (including catheter) necessary for a midline S5521 catheter insertion Home infusion therapy, insertion of peripherally inserted central venous catheter S5522 (PICC), nursing services only (no supplies or catheter included) Home infusion therapy, insertion of midline central catheter, nursing services only (no S5523 supplies or catheter included) Home therapy; enteral nutrition via pump; administrative services, professional S9342 pharmacy services, care coordination, and all necessary supplies and equipment (enteral formula and nursing visits coded separately), per diem Home therapy; enteral nutrition via bolus; administrative services, professional S9343 pharmacy services, care coordination, and all necessary supplies and equipment (enteral formula and nursing visits coded separately), per diem Home infusion therapy, total parenteral nutrition (TPN); administrative services, professional pharmacy services, care coordination, and all necessary supplies and S9364 equipment including standard TPN formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem Home infusion therapy, total parenteral nutrition (TPN); 1 liter per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies S9365 and equipment including standard TPN formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem Home infusion therapy, total parenteral nutrition (TPN); more than 1 liter but no more than 2 liters per day, administrative services, professional pharmacy services, care S9366 coordination, and all necessary supplies and equipment including standard TPN formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem Home infusion therapy, total parenteral nutrition (TPN); more than 2 liters but no more than 3 liters per day, administrative services, professional pharmacy services, S9367 care coordination, and all necessary supplies and equipment including standard TPN formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem Code Code Description Home infusion therapy, total parenteral nutrition (TPN); more than 3 liters per day, administrative services, professional pharmacy services, care coordination, and all S9368 necessary supplies and equipment including standard TPN formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem HCPCS codes not covered for indications listed in the CPB: A9152 Single vitamin/mineral/trace element, oral, per dose, not otherwise specified Multiple vitamins, with or without minerals and trace elements, oral, per dose, not A9153 otherwise specified B4100 Food thickener, administered orally, per oz Other HCPCS codes related to the CPB: Nursing care, in the home; by registered nurse, per hour (use for general nursing care S9123 only, not to be used when CPT codes 99500-99600 can be used) S9124 Nursing care, in the home; by licensed practical nurse, per hour S9432 Medical foods for non-inborn errors of metabolism Medical food nutritionally complete, administered orally, providing 100% of S9433 nutritional intake S9434 Modified solid food supplements for inborn errors of metabolism S9435 Medical foods for inborn errors of metabolism Home therapy; professional pharmacy services for provision of infusion, specialty S9810 drug administration, and / or disease state management, not otherwise classified, per hour (do not use this code with any per diem code) ICD-10 codes covered if selection criteria are met (not all inclusive): Malignant neoplasm of lip, oral cavity, pharynx, esophagus, stomach, small intestine, C00.0 - C21.8 colon, rectosigmoid junction, rectum, anus and anal canal C76.0 Malignant neoplasm of head, face and neck E08.00 – E13.9 Diabetes mellitus E40, E41, E42, Kwashiorkor, nutritional marasmus, marasmic kwashiokor and unspecified severe E43 protein-calorie malnutrition E44.0 - E44.1 Protein-calorie malnutrition of moderate and mild degree E45 Retarded development following protein-calorie malnutrition E46 Unspecified protein-calorie malnutrition E84.0 - E84.9 Cystic fibrosis I69.091 I69.191 I69.291 Sequelae of cerebrovascular disease [dysphagia] I69.391 I69.891 I69.991 K22.4 Dyskinesia of esophagus Code Code Description K50.00 – K50.919 Crohn’s disease K51.00 – K51.319 Ulcerative colitis K85.00 – K85.92 Acute pancreatitis K86.81 Exocrine pancreatic insufficiency K90.0 – K90.9 Celiac disease O21.0 Mild hyperemesis gravidarum O21.1 Hyperemesis gravidarum with metabolic disturbance O21.2 Late vomiting of pregnancy O21.8 Other vomiting complicating pregnancy O21.9 Vomiting of pregnancy, unspecified Q45.3 Other congenital malformations of pancreas and pancreatic duct R13.0 - R13.19 Aphagia and dysphagia Z93.1 Gastrostomy status Z93.4 Other artificial openings of gastrointestinal tract status ICD-10 codes not covered for indications listed in the CPB: A40.0 - A40.9 Streptococcal sepsis [prevention of sepsis] A41.9 Sepsis, unspecified organism [prevention of sepsis] F01.50 - F80.2 F80.4 - F84.0 Mental and behavioral disorders F84.3 - F99 K50.00 - K50.919 Crohn's disease K55.30 Necrotizing enterocolitis, unspecified [prevention of necrotizing enterocolitis] K55.31 Stage 1 necrotizing enterocolitis [prevention of necrotizing enterocolitis] K55.32 Stage 2 necrotizing enterocolitis [prevention of necrotizing enterocolitis] K55.33 Stage 3 necrotizing enterocolitis [prevention of necrotizing enterocolitis] N17.0 - N19 Acute kidney failure and chronic kidney disease Z99.2 Dependence on renal dialysis Carnitine/Levocarnitine: CPT codes covered if selection criteria are met: Home visit for care and maintenance of catheter(s) (e.g., urinary, drainage, and 99507 enteral) 99601 Home infusion/specialty drug administration, per visit (up to 2 hours) 99602 each additional hour (List separately in addition to code for primary procedure) HCPCS codes covered if selection criteria are met: J1955 Injection, levocarnitine, per 1 gm Other HCPCS codes related to the CPB: Code Code Description Home infusion therapy, total parenteral nutrition (TPN); administrative services, professional pharmacy services, care coordination, and all necessary supplies and S9364 equipment including standard TPN formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem 1 liter per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment including standard TPN S9365 formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem more than 1 liter but no more than 2 liters per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and S9366 equipment including standard TPN formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem more than 2 liters but no more than 3 liters per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and S9367 equipment including standard TPN formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem more than 3 liters per day, administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment including standard TPN S9368 formula (lipids, specialty amino acid formulas, drugs other than in standard formula and nursing visits coded separately), per diem ICD-10 codes covered if selection criteria are met (not all inclusive): E71.40 Disorder of carnitine metabolism, unspecified E71.41 Primary carnitine deficiency E71.42 Carnitine deficiency due to inborn errors of metabolism E71.43 Iatrogenic carnitine deficiency E71.440 Ruvalcaba-Myhre-Smith syndrome E71.448 Other secondary carnitine deficiency N18.6 End stage renal disease Z99.2 Dependence on renal dialysis ICD-10 codes not covered for indications listed in the CPB: D89.810 - D89.813 Graft-versus-host disease [Malabsorption] Enteral lactoferrin supplementation: HCPCS codes covered if selection criteria are met: Enteral lactoferrin supplementation - no specific code: ICD-10 codes not covered for indications listed in the CPB: A40.0 - A40.9 Streptococcal sepsis [prevention of sepsis] A41.9 Sepsis, unspecified organism [prevention of sepsis] Code Code Description K55.30 Necrotizing enterocolitis, unspecified [prevention of necrotizing enterocolitis] K55.31 Stage 1 necrotizing enterocolitis [prevention of necrotizing enterocolitis] K55.32 Stage 2 necrotizing enterocolitis [prevention of necrotizing enterocolitis] K55.33 Stage 3 necrotizing enterocolitis [prevention of necrotizing enterocolitis] Parenteral nutrition involves the delivery of micronutrients and macronutrients through catheters in central or peripheral veins.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 80,
+      "text": "Enteral nutrition can be administered via a small catheter placed through the nose into the stomach or by a surgically placed catheter into the stomach or intestines.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 81,
+      "text": "Enteral nutrition therapy may supplement protein and calories in a variety of situations where oral nutrition is not adequate, with the intention of providing part or all of the daily requirements.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 83,
+      "text": "These specialized diets may involve restricting a particular element of the diet (e.g., fat, lactose), adding a particular nutrient that may be required in larger amounts than are available from a regular diet (e.g., calcium, potassium), or altering the consistency of the diet (e.g., high-fiber, full- liquid).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 89,
+      "text": "Aetna's policy on parenteral and enteral nutrition is similar to Medicare policy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 99,
+      "text": "The authors concluded that for extremely premature infants, an exclusively human milk-based diet is associated with significantly lower rates of NEC and surgical NEC when compared with a mother's milk-based diet that also includes bovine milk-based products.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 108,
+      "text": "The authors concluded that the combination of synbiotics and lactoferrin did not reduce NEC severity, sepsis, or mortality.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 121,
+      "text": "The authors concluded that HEN improved nutrition status, physical and role function, and reduced nausea/vomiting, fatigue, appetite loss, diarrhea, and sleep disturbance compared with an oral diet in esophageal cancer patients post-surgery; and HEN did not increase adverse reactions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 139,
+      "text": "The authors concluded that the PUG appeared effective with a safety profile similar to PRG.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 160,
+      "text": "The authors concluded that carnitine-supplemented TPN did not improve fat oxidation or promote nitrogen utilization in the post-operative phase.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 168,
+      "text": "Th authors concluded that acute infusion of carnitine resulted in an increased rate of protein oxidation and a reduced rate of fat oxidation on both TPN-regimens; and these unfavorable effects on protein metabolism may be due to an impairment of fat oxidation by excess amounts of carnitine.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 180,
+      "text": "The authors concluded that this study did not demonstrate any beneficial effects of parenterally administered L-carnitine on lipid, energy or nitrogen metabolism except for maintaining normal muscle glycogen levels in critically ill patients receiving TPN during the early phase after trauma.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 198,
+      "text": "The authors concluded that levocarnitine supplementation was associated with repletion of plasma carnitine and improvement in myocardial strain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 219,
+      "text": "The authors concluded that this review analyzed the findings of non-pharmacological interventions to improve physical performance in patients with cognitive frailty.",
+      "label": "PREMISE"
+    }
+  ]
+}
