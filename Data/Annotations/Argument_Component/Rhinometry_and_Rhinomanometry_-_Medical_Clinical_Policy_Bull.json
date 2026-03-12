@@ -1,0 +1,357 @@
+{
+  "document_id": "Rhinometry_and_Rhinomanometry_-_Medical_Clinical_Policy_Bull",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 2,
+      "text": "I. Experimental, Investigational, or Unproven Aetna considers rhinomanometry, acoustic rhinometry, and optical rhinometry experimental, investigational, or unproven because of a lack of clinical studies demonstrating that these tests improve clinical outcomes and the effectiveness of these approaches has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Codes requiring a 7th character are represented by \"+\": CPT codes not covered for indications listed in the CPB: 92512 Nasal function studies (e.g., rhinomanometry) Other CPT codes related to the CPB: Code Code Description 31231 - 31235 Nasal and nasal/sinus, diagnostic, endoscopy 70450 - 70470 Computed tomography, head or brain ICD-10 codes not covered for indications listed in the CPB: J01.00 - J01.91 Acute sinusitis J30.1 - J30.9 Vasomotor and allergic rhinitis J32.0 - J32.9 Chronic sinusitis J34.2 Deviated nasal septum J34.3 Hypertrophy of nasal turbinates Acoustic Rhinometry and Rhinomanometry There are many potential causes for nasal obstruction.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Some of the most common causes are allergic rhinitis, deviation of the nasal septum, or sinus or nasal infection.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Nasal obstruction is typically diagnosed by a patient’s subjective complaint of nasal stuffiness coupled with a physical examination demonstrating anatomic restriction of the nasal passages.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Rhinomanometry and acoustic rhinometry are objective tests that have been attempted to assess nasal airway patency.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Rhinomanometry measures air pressure and the rate of airflow during breathing.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "These measurements are then used to calculate nasal airway resistance.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Acoustic rhinometry uses a reflected sound signal to measure the cross-sectional area and volume of the nasal passage.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "Acoustic rhinometry gives an anatomic description of a nasal passage, whereas rhinomanometry gives a functional measure of the pressure/flow relationships during the respiratory cycle.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "Both techniques have been used in comparing decongestive action of antihistamines and corticosteroids and for assessment of an individual prior to or following nasal surgery.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "Papon et al (1985) stated that nasal compliance is a measure related to the blood volume in the nasal mucosa.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 16,
+      "text": "At atmospheric pressure, nasal CSA were similar in the vasomotor rhinitis group and the healthy subject group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 18,
+      "text": "The authors concluded that these findings supported the hypothesis, already proposed, of an autonomic dysfunction based on a paradoxical response of the nasal mucosa in vasomotor rhinitis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 19,
+      "text": "Moreover, the clearly different behavior between healthy subjects and vasomotor rhinitis subjects suggested that nasal compliance measurement may thus represent a potential line of research to develop a diagnostic tool for vasomotor rhinitis, which remains a diagnosis of exclusion.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 20,
+      "text": "Elbrond et al (1991) noted that AR is a new method that described the geometry of the nasal cavity and the epi-pharynx.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 24,
+      "text": "The authors concluded that AR is an accurate and objective method for measuring the geometry of the nasal cavity before and after treatment for processes that block the nasal cavity. This was a small study (n = 8).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 56,
+      "text": "The authors concluded that the pathologies that narrow the anterior nasal passage result in the most significant AR error by causing area under-estimation beyond the constriction.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 68,
+      "text": "The authors concluded that patients with severe obstructive sleep apnea tended to have smaller MCA when compared with patients with RDI less than 30/hour.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "The authors concluded that RMM and PNIF provide valuable information to support clinical decision making.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 86,
+      "text": "The authors concluded that this study presented the most extensive current reference material for AR in non-decongested pre-pubescent healthy children.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 94,
+      "text": "The authors concluded that AR seems to be a promising method in the assessment of nasopharyngeal volume.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 103,
+      "text": "The authors concluded that these findings did not support the hypothesis that unilateral COM is correlated with the side of nasal obstruction.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 114,
+      "text": "The authors concluded that these findings showed that although the objective tests confirm an improvement in general nasal resistance and an increase in the nasal cross- sectional area after surgery, no unambiguous relationship between the patient's symptoms and the clinical examinations was observed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 121,
+      "text": "The authors concluded that the acoustic impedance rhinometry technique has the potential to be developed for use in a clinical setting, where the need exists for a simple and inexpensive objective nasal resistance measurement technique.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 122,
+      "text": "Lange et al (2014) stated that chronic rhino-sinusitis (CRS) is a disease related to the nose and the para-nasal sinus as defined by the European Position Paper on Rhinosinusitis and Nasal Polyps (EPOS) criteria.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 123,
+      "text": "The criteria include subjective symptoms, such as nasal obstruction, and objective findings by endoscopy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 124,
+      "text": "Acoustic rhinometry is an objective method to determine nasal cavity geometry.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 131,
+      "text": "The authors concluded that AR, as a single instrument, was not capable of discriminating persons with CRS from persons without CRS in the general population.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 143,
+      "text": "The authors concluded that there is limited evidence concerning diagnostic alternatives to PSG for identifying OSA in children.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 152,
+      "text": "The authors concluded that diagnostic modalities such as acoustic rhinometry, rhinomanometry and nasal spectral sound analysis may be useful in identifying NSD in anterior region of the nasal cavity, but these tests in isolation are of limited utility.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 162,
+      "text": "The authors concluded that these findings showed that nasal resistance has no significant effect on AHI and minimum oxygen saturation in OSAS patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 169,
+      "text": "The authors concluded that no ideal tool exists for dentists to screen adenoid hypertrophy, owing to access constraints, radiation concerns and suboptimal diagnostic accuracy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 178,
+      "text": "The authors concluded that according to the articles, AR has been used for almost 20 years, but controlled studies attesting to the effectiveness of measuring the geometry of nasal cavities for complementary diagnosis of respiratory mode are warranted.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 189,
+      "text": "The authors concluded that nearly 50 % of the children with AR reported a mild-to-moderate hyposmia during pollen season and there was a decrease in odor identification, which could be easily shown using a CCCRC test.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 197,
+      "text": "The authors concluded that AR was an effective tool for evaluating nasal obstruction in children; and nasal obstruction was correlated to OAHI in achondroplasia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 198,
+      "text": "These researchers stated that AR could become a routine tool in the management of nasal obstruction of children with cranio-facial malformations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 203,
+      "text": "Araujo-Martins and co-workers (2020) stated that although the pathophysiology of nasal polyposis is incompletely understood, rhinologists have seldom studied it with rhinomanometry or PNIF due to technical limitations and the perception that polyp size might impair reproducibility and the usefulness of recordings.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 210,
+      "text": "The authors concluded that he findings of this study suggested that evaluating polyp patients using rhinomanometry and PNIF may provide useful and reproducible data.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 224,
+      "text": "The authors concluded that nFeNO measurement was non-invasive, easy to perform, economic and a valuable test in case of AR alone or in association with asthma.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 229,
+      "text": "Calvo-Henriquez and associates (2021) stated that the main causes for objectively confirmed chronic impaired nasal breathing in children are adenoid and turbinate hypertrophy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 242,
+      "text": "The authors concluded that a preliminary cut-off value for the decongestant test used with rhinomanometry in children has been established.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 244,
+      "text": "Ta and colleagues (2021) noted that common sino-nasal disorders include CRS, AR, and a deviated nasal septum (DNS), which often co-exist with shared common symptoms including nasal obstruction, olfactory dysfunction, and rhinorrhea.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 251,
+      "text": "The authors concluded that objective outcome measures and PROMs evaluating sino-nasal symptoms were poorly correlated, and they recommended that objective outcome measures be used with validated PROMs depending on the setting.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 255,
+      "text": "Hassegawa and associates (2021) compared the nasal cavity geometry of children and teenagers with cleft lip and palate and maxillary atresia by 2 methods: cone-beam CT, considered the gold standard, and acoustic rhinometry.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 263,
+      "text": "The authors concluded that nasal volumes measured by the 2 methods were different, presenting discrepancies in the measurements.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 274,
+      "text": "The authors concluded that fully utilized CBCT scans provided more comprehensive and accurate information.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 283,
+      "text": "The authors concluded that in these patients, a cut-off inspiratory loop area in 4-phase rhinomanometry data reproduced clinical diagnoses of internal valve collapse with high sensitivity and specificity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 286,
+      "text": "The authors stated that the drawbacks of this study included its small size (n = 66 subjects) and the fact that the 4‐phase rhinomanometry measurements were carried out on each nostril separately, even if the contralateral nostril was occluded with medical tape rather than a nasal plug to avoid altering the structure and biomechanical properties of the studied nostril.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 300,
+      "text": "The authors concluded that this study has demonstrated a good ability to rate nasal patency by healthy children and their parents, but a poor ability for children suffering from impaired nasal breathing.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 310,
+      "text": "The authors concluded that an ideal measurement modality for evaluation of the INV has not been established.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 311,
+      "text": "Acoustic rhinometry has the highest accuracy, followed by rhinomanometry, then CT scan then endoscopy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 317,
+      "text": "The authors stated that this was the 1st comprehensive review comparing multiple tools and modalities to establish valuable insights into the accurate assessment of choice in INV measurements.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 331,
+      "text": "The authors concluded that AAR NAR values were related to height but not to sex or side, findings that must be taken into consideration when AAR is used in clinical practice.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 339,
+      "text": "Fujito et al (2023) stated that nasal breathing disorders are associated with OSA syndrome and influence the availability of continuous positive airway pressure (CPAP) therapy; however, information is scarce regarding the impact of nasal resistance assessed by rhinomanometry on CPAP therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 350,
+      "text": "The authors concluded that the findings of this study suggested that nasal resistance examined by rhinomanometry was a useful predictor of CPAP adherence, and that improved rhinomanometry values may contribute to extending the duration of CPAP use.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 365,
+      "text": "The authors concluded that until further prospective data are available, this CCS should provide a useful reference for PedTH management.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 372,
+      "text": "Hellgren and colleagues (2007) validated the Rhinolux (Rhios GmbH, Germany), an optical rhinometer, against AR in detecting nasal mucosal swelling when changing body position from sitting to supine.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 390,
+      "text": "The authors concluded that this is the first study to show a correlation between ORM and AR during NPT with Df.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 403,
+      "text": "The authors concluded that optical rhinometry with intra-nasal capsaicin challenge could prove a viable option in the diagnosis of NAIR.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 413,
+      "text": "In addition, the authors examined future directions, highlighting the potential for device miniaturization, telemedicine integration, personalized protocols and collaborative research efforts.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 443,
+      "text": "No significant impact of CSA values on the development of severe OSA was observed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 444,
+      "text": "The authors concluded that nasal CSA measured using AR appeared to be a better method for verifying its association with OSA than CT.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 445,
+      "text": "These investigators stated that nasal CSAs at the anterior region of the inferior turbinates play a crucial role in the development of OSA, independent of other known risk factors.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 461,
+      "text": "The authors concluded that the findings of this trial unequivocally showed that the preservation of scroll ligaments during rhinoplasty significantly benefited nasal airway function, as evidenced by improved post-operative rhinomanometry and AR measurements.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 464,
+      "text": "Castellanos et al (2025) noted that mouth breathing generates imbalances in the musculature, in cranio-facial morpho-functionality, and in the stomatognathic system; thus, it is important to diagnose mouth breathing via the quantitative assessment of nasal permeability, which can be carried out using rhinomanometry.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 472,
+      "text": "The authors concluded that the included studies in this systematic review employed rhinomanometry in their population of mouth breathers; however, there was a lack of standardization of this instrument to examine the efficiency of nasal resistance in the upper airways, as well as a methodological variability that decreased the reliability of the results found.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 474,
+      "text": "Maniam et al (2025) stated that the relationship between clinical examination findings and objective nasal patency measures in structural nasal obstruction remains uncertain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 484,
+      "text": "The authors concluded that AR, rhinomanometry and rhino- spirometry assessment correlated positively in severe anterior septal deviation; however, their role in assessing middle/posterior and mild/moderate septal deviation in isolation remains uncertain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 485,
+      "text": "They stated that the evidence from this review highlighted that objective nasal patency measuring tools have a limited role in supporting clinical examination findings.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 487,
+      "text": "Objective nasal patency measures can be used in conjunction with clinical examination findings to aid patient selection for septoplasty and predict post-operative satisfaction.",
+      "label": "PREMISE"
+    }
+  ]
+}
