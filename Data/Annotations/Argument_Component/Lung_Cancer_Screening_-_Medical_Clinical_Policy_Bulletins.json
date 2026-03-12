@@ -1,0 +1,142 @@
+{
+  "document_id": "Lung_Cancer_Screening_-_Medical_Clinical_Policy_Bulletins",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 2,
+      "text": "I. Medical Necessity Aetna considers annual low-dose computed tomography (LDCT) scanning, also known as spiral CT or helical CT scanning, medically necessary for current or former smokers ages 50 to 80 years with a 20 pack-year or more smoking history and, if a former smoker, has quit within the past 15 years.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "Aetna considers annual LDCT medically necessary for surveillance (starting 2 years after definitive treatment) of individuals with non-small cell lung cancer who have undergone definitive treatment. II.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Experimental, Investigational, or Unproven The following lung cancer screening tests are considered experimental, investigational, or unproven because the effectiveness of these approaches has not been established: Artificial intelligence-based imaging for lung cancer screening; Computer-aided detection for chest radiographs for screening or diagnosis of lung cancer and for all other indications.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "There is presently inadequate evidence in the medical literature that population-based mass lung cancer screening with computer-aided detection for chest radiographs will contribute substantially to the detection of smaller cancers, or decreases mortality; LDCT as a screening test for all other indications not listed in Section I (e.g., asbestos-exposed individuals).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Related Policies CPB 0071 - Positron Emission Tomography (PET) Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description CPT codes covered when selection criteria are met: Computed tomography, thorax, low dose for lung cancer screening, without contrast 71271 material(s) CPT codes not covered for indications listed in the CPB: Artificial intelligence-based imaging-no specific code Computer aided detection (CAD) (computer algorithm analysis of digital image data for lesion detection) with further physician review for interpretation and report, with + 0174T or without digitization of film radiographic images, chest radiograph(s), performed concurrent with primary interpretation (Use 0174T in conjunction with 71010, 71020, 71021, 71022, 71030) Computer aided detection (CAD) (computer algorithm analysis of digital image data for lesion detection) with further physician review for interpretation and report, with 0175T or without digitization of film radiographic images, chest radiograph(s), performed remote from primary interpretation (Do not report 0175T in conjunction with 71010, 71020, 71021, 71022, 71030) 71250 Computed tomography, thorax; without contrast material 78811 - 78813 Positron emission tomography (PET) imaging Positron emission tomography (PET) imaging with concurrently acquired computed 78814 - 78816 tomography (CT) for attenuation correction and anatomical localization imaging Other CPT codes related to the CPB: 71045 - 71048 Radiologic examination, chest HCPCS codes covered if selection criteria are met: Counseling visit to discuss need for lung cancer screening using low dose CT scan G0296 (LDCT) (service is for eligibility determination and shared decision making) ICD-10 codes covered if selection criteria are met: F17.210 - F17.219 Nicotine dependence, cigarettes F17.290 - F17.299 Nicotine dependence, other tobacco product [pipes, cigars] Z12.2 Encounter for screening for malignant neoplasm of respiratory organs Z72.0 Tobacco use [former smokers ages 50-80 years] Z87.891 Personal history of nicotine dependence [former smokers ages 50-80 years] ICD-10 codes not covered for indications listed in the CPB (not all-inclusive): Code Code Description C34.10 – C34.92 Malignant neoplasm of bronchus and lung F17.200 - F17.209, Nicotine dependence, unspecified and chewing tobacco F17.220 - F17.229 Z77.090 Contact with and (suspected) exposure to asbestos [asbestos screening] Surveillance of individuals with non-small cell cancer: CPT codes covered when selection criteria are met: 71250 Computed tomography, thorax; without contrast material ICD-10 codes covered if selection criteria are met: C34.00 – C34.92 Malignant neoplasm of bronchus and lung [non-small cell lung cancer] Z85.118 Personal history of other malignant neoplasm of bronchus and lung Lung cancer is often diagnosed at a late stage; as a result, long term survival rates are poor.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 16,
+      "text": "The U.S. Preventive Services Task Force (USPSTF; Moyer, 2014) recommends annual screening for lung cancer with low-dose computed tomography (LDCT) in adults aged 55 to 80 years who have a 30 pack-year smoking history and currently smoke or have quit within the past 15 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 17,
+      "text": "The Task Force stated that screening should be discontinued once a person has not smoked for 15 years or develops a health problem that substantially limits life expectancy or the ability or willingness to have curative lung surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 18,
+      "text": "The U.S. Preventive Services Task Force found adequate evidence that annual screening for lung cancer with LDCT in current and former smokers ages 55 to 80 years who have significant cumulative tobacco smoke exposure can prevent a substantial number of lung cancer deaths.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 27,
+      "text": "The authors concluded that annual spiral CT screening can detect lung cancer that is curable.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 57,
+      "text": "The I-ELCAP investigators concluded from their findings that CT screening in populations at risk for lung cancer could prevent 80 % of lung cancer deaths.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 58,
+      "text": "Black and Baron (2007) noted that because of the presence of a simulated control group, the measurement of mortality, and the completeness of the outcome assessment, the study by Bach et al more directly addresses the population effect of CT screening than does the ELCAP study.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 59,
+      "text": "An assessment by the California Technology Assessment Forum (CTAF, 2007) concluded that spiral CT for lung cancer screening did not meet CTAF's assessment criteria.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 63,
+      "text": "Thus, use of LDCT screening cannot yet be recommended outside of the investigational setting.\"",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "The authors concluded that baseline lung cancer detection rate in the spiral CT arm was higher than in most published studies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 92,
+      "text": "The authors concluded that the mortality benefit from lung cancer screening by LDCT might be far smaller than anticipated.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 104,
+      "text": "Jett and Midthun (2011) noted that screening for lung cancer is not currently recommended, even in persons at high-risk for this condition.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 112,
+      "text": "Despite the encouraging reduction in deaths observed by using LDCT in the NLST study population, recommending adoption of lung cancer screening in general practice is premature.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 121,
+      "text": "The authors concluded that there remain unresolved issues with respect to CT screening for lung cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 159,
+      "text": "The authors concluded that radiologists must be active participants in the process of evaluating AI tools, as such tools could support their daily work and offer them more time for high added value tasks.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 165,
+      "text": "Individuals with presumed non-malignant lung nodules were hypothetically assigned annual versus biennial screening based on the re-calibrated LCP-CNN model, Lung Cancer Risk Assessment Tool (LCRAT + CT [a statistical model combining individual risk factors and LDCT image features]), and the American College of Radiology (ACR) recommendations for lung nodules, version 1.1 (Lung-RADS).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 171,
+      "text": "The authors concluded that in this diagnostic study evaluating models of lung cancer risk, a re-calibrated DL algorithm was most predictive of 1-year lung cancer risk and had least risk of 1-year delay in cancer diagnosis among individuals assigned biennial screening.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 200,
+      "text": "The authors concluded that the findings of this study suggested that longitudinal modeling may improve radiomic prediction of lung cancer over current models; further studies are needed to validate these early findings.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 226,
+      "text": "The authors concluded that AI-based imaging could effectively detect lung cancer and be incorporated into lung cancer screening programs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 232,
+      "text": "The American Association for Thoracic Surgery (AATS) created a multi-specialty task force to create screening guidelines for groups at high-risk of developing lung cancer and survivors of previous lung cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 233,
+      "text": "The AATS guidelines called for annual lung cancer screening with low-dose CT screening for North Americans from age of 55 to 79 years with a 30 pack-year history of smoking.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 238,
+      "text": "The authors concluded that the AATS provided specific guidelines for lung cancer screening in North America.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 244,
+      "text": "The NCCN Guidelines recommend a chest CT scan with (or without) contrast and an history and physical (H&P) for the initial surveillance schedules (2 to 5 years after definitive treatment) followed by annual low-dose non-contrast-enhanced CT and an H&P”.",
+      "label": "PREMISE"
+    }
+  ]
+}
