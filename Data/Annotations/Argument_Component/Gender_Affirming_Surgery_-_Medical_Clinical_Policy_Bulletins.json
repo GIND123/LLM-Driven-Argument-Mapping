@@ -1,0 +1,517 @@
+{
+  "document_id": "Gender_Affirming_Surgery_-_Medical_Clinical_Policy_Bulletins",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Gender Affirming Surgery Number: 0615 Applicable CPT / HCPCS / ICD-10 Codes Scope of Policy This Clinical Policy Bulletin addresses gender affirming surgery.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 5,
+      "text": "I. Medical Necessity Aetna considers gender affirming surgery medically necessary when criteria for each of the following procedures are met: A. Requirements for Breast Removal 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Signed letter from a qualified mental health professional (see Appendix) assessing the transgender/gender diverse individual’s readiness for physical treatment; and 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "Mental and physical health conditions that could negatively impact the outcome of gender- affirming medical treatments are assessed, with risks and benefits discussed; and 5.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Capacity to consent for the specific physical treatment; and 6.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "For members less than 18 years of age, completion of one year of testosterone treatment, unless hormone therapy is not desired or medically contraindicated; and 7.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "Risk factors associated with breast cancer have been assessed.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "B. Requirements for Breast Augmentation (Implants/Lipofilling) 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "Signed letter from a qualified mental health professional (see Appendix) assessing the transgender/gender diverse individual’s readiness for physical treatments; and 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "Documentation of marked and sustained gender dysphoria (see Appendix); and 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 17,
+      "text": "Mental and physical health conditions that could negatively impact the outcome of gender- affirming medical treatments are assessed, with risks and benefits discussed; and 5.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 18,
+      "text": "Capacity to consent for the specific physical treatment; and 6.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "Completion of six months of feminizing hormone therapy (12 months for adolescents less than 18 years of age) prior to breast augmentation surgery, unless hormone therapy is not desired or medically contraindicated); and 7.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 25,
+      "text": "Mental and physical health conditions that could negatively impact the outcome of gender- affirming medical treatments are assessed, with risks and benefits discussed; and 5.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 27,
+      "text": "Six months of continuous hormone therapy as appropriate to the member's gender goals (12 months for adolescents less than 18 years of age), unless hormone therapy is not desired or medically contraindicated.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 28,
+      "text": "D. Requirements for Genital Reconstructive Surgery (i.e., vaginectomy, urethroplasty, metoidioplasty, phalloplasty, scrotoplasty, placement of a testicular prosthesis and erectile prosthesis, penectomy, vaginoplasty, labiaplasty, clitoroplasty and electrolysis or laser hair removal sessions for skin graft preparation for genital surgery) 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 36,
+      "text": "Breast cancer screening may be medically necessary for transmasculine persons who have not undergone chest masculinization surgery; 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 37,
+      "text": "Prostate cancer screening may be medically necessary for transfeminine persons who have retained their prostate.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 38,
+      "text": "Aetna considers reversal of gender affirming surgery (performing surgical procedures to return anatomy to that of the sex assigned at birth) medically necessary for persons who regret their gender- related surgical intervention, where applicable requirements for gender affirming surgery listed above are met.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 39,
+      "text": "Aetna considers gonadotropin-releasing hormone medically necessary to suppress puberty in trans identified adolescents if they meet World Professional Association for Transgender Health (WPATH) criteria (see CPB 0501 - Gonadotropin-Releasing Hormone Analogs and Antagonists).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 40,
+      "text": "Aetna considers gender affirming breast removal revision surgery medically necessary for persons who meet the criteria for gender affirming breast removal surgery and have documentation, including high- quality color photographs, that support the medical necessity for the intended revision surgery. II.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 43,
+      "text": "Aetna considers nerve grafting for gender affirming breast surgery not medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 44,
+      "text": "Aetna considers the following procedures that may be performed as a component of a gender transition as not medically necessary and cosmetic (not an all-inclusive list) (see also CPB 0031 - Cosmetic Surgery): Hair removal (e.g., electrolysis, laser hair removal) (Exception: A limited number of electrolysis or laser hair removal sessions are considered medically necessary for skin graft preparation for genital surgery) Tracheal shave (reduction thyroid chondroplasty) Facial Gender Affirming Procedures, including: Brow (reduction, augmentation, lift) Hair line advancement and/or hair transplant Facelift/mid-face lift (following alteration of the underlying skeletal structures) (platysmaplasty) Blepharoplasty (lipofilling) Rhinoplasty (+/- fillers) Cheek (implant, lipofilling) Lip (upper lip shortening, lip augmentation) Lower jaw (reduction of mandibular angle, augmentation) Chin reshaping (osteoplastic, alloplastic (implant-based)) Chondrolaryngoplasty (also known as Adam's apple reduction, thyroid cartilage reduction, or tracheal shave) Vocal cord surgery Body contouring gender affirming surgery, including (not an all-inclusive list): Liposuction/lipofilling/implants (pectoral, hip, gluteal, calf). III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 45,
+      "text": "Experimental, Investigational, or Unproven Aetna considers the following experimental, investigational, or unproven because the effectiveness of these approaches has not been established: Use of facial recognition neural networks for facial feminization surgery; Frontal contouring with corrugator resection for facial feminization surgery. IV.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 46,
+      "text": "Related Policies CPB 0031 - Cosmetic Surgery CPB 0097 - External Breast Prosthesis CPB 0501 - Gonadotropin-Releasing Hormone Analogs and Antagonists CPB 0646 - Voice Therapy Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description CPT codes covered if selection criteria are met: Repair, complex, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands and/or 13131 feet; 1.1 cm to 2.5 cm Repair, complex, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands and/or 13132 feet; 2.6 cm to 7.5 cm Repair, complex, forehead, cheeks, chin, mouth, neck, axillae, genitalia, hands and/or 13133 feet; each additional 5 cm or less 13160 Secondary closure of surgical wound or dehiscence, extensive or complicated Adjacent tissue transfer or rearrangement, scalp, arms and/or legs; defect 10.1 sq cm 14021 to 30.0 sq cm Adjacent tissue transfer or rearrangement, forehead, cheeks, chin, mouth, neck, 14040 axillae, genitalia, hands and/or feet; defect 10 sq cm or less Adjacent tissue transfer or rearrangement, forehead, cheeks, chin, mouth, neck, 14041 axillae, genitalia, hands and/or feet; defect 10.1 sq cm to 30.0 sq cm 14301 Adjacent tissue transfer or rearrangement, any area; defect 30.1 sq cm to 60.0 sq cm Adjacent tissue transfer or rearrangement, any area; each additional 30.0 sq cm, or 14302 part thereof Surgical preparation or creation of recipient site by excision of open wounds, burn eschar, or scar (including subcutaneous tissues), or incisional release of scar 15002 -15003 contracture, trunk, arms, legs; first 100 sq cm or 1% of body area of infants and children.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 47,
+      "text": "+ each additional Surgical preparation or creation of recipient site by excision of open wounds, burn eschar, or scar (including subcutaneous tissues), or incisional release of scar 15004 contracture, face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, feet and/or multiple digits; first 100 sq cm or 1% of body area of infants and children Split-thickness autograft, trunk, arms, legs; first 100 sq cm or less, or 1% of body area 15100 - 15101 of infants and children + each additional 1% Epidermal autograft, face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, 15115 feet, and/or multiple digits; first 100 sq cm or less, or 1% of body area of infants and children Split-thickness autograft, face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, 15120 hands, feet, and/or multiple digits; first 100 sq cm or less, or 1% of body area of infants and children Full thickness graft, free, including direct closure of donor site, forehead, cheeks, 15240 - 15241 chin, mouth, neck, axillae, genitalia, hands, and/or feet; 20 sq cm or less.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 48,
+      "text": "+ each additional Application of skin substitute graft to trunk, arms, legs, total wound surface area 15273 -15274 greater than or equal to 100 sq cm; first 100 sq cm wound surface area, or 1% of body area of infants and children + each additional 1% Application of skin substitute graft to face, scalp, eyelids, mouth, neck, ears, orbits, 15275 genitalia, hands, feet, and/or multiple digits, total wound surface area up to 100 sq cm; first 25 sq cm or less wound surface area Code Code Description Application of skin substitute graft to face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, feet, and/or multiple digits, total wound surface area greater than or 15277 - 15278 equal to 100 sq cm; first 100 sq cm wound surface area, or 1% of body area of infants and children.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 49,
+      "text": "+ each additional 1% Formation of direct or tubed pedicle, with or without transfer; forehead, cheeks, chin, 15574 mouth, neck, axillae, genitalia, hands or feet 15734 Muscle, myocutaneous, or fasciocutaneous flap; trunk 15738 Muscle, myocutaneous, or fasciocutaneous flap; lower extremity Flap; island pedicle requiring identification and dissection of an anatomically named 15740 axial vessel 15750 Flap; neurovascular pedicle 15757 Free skin flap with microvascular anastomosis Grafting of autologous fat harvested by liposuction technique to trunk, breasts, scalp, 15771 arms, and/or legs; 50 cc or less injectate [covered for breast augmentation only] Grafting of autologous fat harvested by liposuction technique to trunk, breasts, scalp, 15772 arms, and/or legs; each additional 50 cc injectate, or part thereof (List separately in addition to code for primary procedure) [covered for breast augmentation only] Grafting of autologous fat harvested by liposuction technique to face, eyelids, mouth, 15773 neck, ears, orbits, genitalia, hands, and/or feet; 25 cc or less injectate 15860 Intravenous injection of agent (eg, fluorescein) to test vascular flow in flap or graft 17380 Electrolysis epilation, each 30 minutes [Check benefits] Unlisted procedure, skin, mucous membrane and subcutaneous tissue [laser hair 17999 removal] [Check benefits] 19318 Reduction mammaplasty 19325 Breast augmentation with implant Nipple/areola reconstruction [only covered when not performed at time of original 19350 breast surgery] Tissue expander placement in breast reconstruction, including sub sequent 19357 expansion(s) can be authorized for gender affirmation coverage Revision of reconstructed breast (eg, significant removal of tissue, re-advancement 19380 and/or re-inset of flaps in autologous reconstruction or significant capsular revision combined with soft tissue excision in implant-based reconstruction) 40808 Biopsy, vestibule of mouth 40818 Excision of mucosa of vestibule of mouth as donor graft Unlisted laparoscopy procedure, abdomen, peritoneum and omentum [graft from 49329 colon for vaginoplasty] 51040 Cystostomy, cystotomy with drainage 51102 Aspiration of bladder; with insertion of suprapubic catheter Cystourethroscopy, with ureteral catheterization, with or without irrigation, 52005 instillation, or ureteropyelography, exclusive of radiologic service 53400 Urethroplasty; first stage, for fistula, diverticulum, or stricture (eg, Johannsen type) 53405 Urethroplasty; second stage (formation of urethra), including urinary diversion 53410 Urethroplasty, 1-stage reconstruction of male anterior urethra 53430 Urethroplasty, reconstruction of female urethra 53520 Closure of urethrostomy or urethrocutaneous fistula, male (separate procedure) 54120 Amputation of penis; partial 54125 Amputation of penis; complete Injection of corpora cavernosa with pharmacologic agent(s) (eg, papaverine, 54235 phentolamine) Code Code Description Plastic operation of penis for straightening of chordee (eg, hypospadias), with or 54300 without mobilization of urethra Plastic operation on penis for correction of chordee or for first stage hypospadias 54304 repair with or without transplantation of prepuce and/or skin flaps 1-stage perineal hypospadias repair requiring extensive dissection to correct chordee 54336 and urethroplasty by use of skin graft tube and/or island flap 54400 - 54417 Penile prosthesis Orchiectomy, simple (including subcapsular), with or without testicular prosthesis, 54520 scrotal or inguinal approach 54660 Insertion of testicular prosthesis (separate procedure) 55150 Resection of scrotum 55175 Scrotoplasty; simple 55180 complicated Intersex surgery; male to female [a series of staged procedures that includes male 55970 genitalia removal, penile dissection, urethral transposition, creation of vagina and labia with stent placement] female to male [a series of staged procedures that include penis and scrotum 55980 formation by graft, and prostheses placement] 56625 Vulvectomy simple; complete 56800 Plastic repair of introitus 56805 Clitoroplasty for intersex state 56810 Perineoplasty, repair of perineum, nonobstetrical (separate procedure) 57106, 57110 Vaginectomy, partial removal of vaginal wall, or complete removal of vaginal wall 57282 Colpopexy, vaginal; extra-peritoneal approach (sacrospinous, iliococcygeus) 57291 - 57292 Construction of artificial vagina 57335 Vaginoplasty for intersex state 57425 Laparoscopy, surgical, colpopexy (suspension of vaginal apex) 58150, 58180, 58260 - 58262, 58275 - 58291, Hysterectomy 58541 - 58544, 58550 - 58554 58570 - 58573 Laparoscopy, surgical, with total hysterectomy Laparoscopy, surgical; with removal of adnexal structures (partial or total 58661 oophorectomy and/or salpingectomy) 58720 Salpingo-oophorectomy, complete or partial, unilateral or bilateral 58999 Unlisted procedure, female genital system (nonobstetrical) [metoidioplasty] 64708 Neuroplasty, major peripheral nerve, arm or leg, open; other than specified 64856 Suture of major peripheral nerve, arm or leg, except sciatic; including transposition 64859 Suture of each additional major peripheral nerve 64874 Suture of nerve; requiring extensive mobilization, or transposition of nerve 64910 Nerve repair; with synthetic conduit or vein allograft (eg, nerve tube), each nerve CPT codes not covered for indications listed in the CPB [considered not medically necessary and cosmetic]: Code Code Description Facial recognition neural networks -no specific code 11950 - 11954 Subcutaneous injection of filling material (e.g., collagen) Full thickness graft, free, including direct closure of donor site, trunk; 20 sq cm or less 15200 [nipple reconstruction] 15775 Punch graft for hair transplant; 1 to 15 punch grafts 15776 Punch graft for hair transplant; more than 15 punch grafts 15780 - 15787 Dermabrasion 15788 - 15793 Chemical peel 15820 - 15823 Blepharoplasty 15824 - 15828 Rhytidectomy [face-lifting] Excision, excessive skin and subcutaneous tissue (includes lipectomy); abdomen, 15830 - 15839 infraumbilical panniculectomy 15876 - 15879 Suction assisted lipectomy 17380 Electrolysis epilation, each 30 minutes 19301 Mastectomy, partial (eg, lumpectomy, tylectomy, quadrantectomy, segmentectomy) 19303 Mastectomy, simple, complete 19316 Mastopexy Immediate insertion of breast prosthesis following mastopexy, mastectomy or in 19340 reconstruction Delayed insertion of breast prosthesis following mastopexy, mastectomy or in 19342 reconstruction Unlisted procedure, musculoskeletal system, general [unlisted augmentation] [check 20999 benefits] 21087 Nasal prosthesis 21120 - 21123 Genioplasty Augmentation, mandibular body or angle; prosthetic material or with bone graft, 21125 - 21127 onlay or interpositional (includes obtaining autograft) 21137 Reduction forehead; contouring only Reduction forehead; contouring and application of prosthetic material or bone graft 21138 (includes obtaining autograft) 21139 Reduction forehead; contouring and setback of anterior frontal sinus wall Reconstruction of mandibular rami, horizontal, vertical, C, or L osteotomy; without 21193 bone graft 21194 with bone graft (includes obtaining graft) Reconstruction of mandibular rami and/or body, sagittal split; without internal rigid 21195 fixation 21196 with internal rigid fixation 21208 Osteoplasty, facial bones; augmentation (autograft, allograft, or prosthetic implant) 21210 Graft, bone; nasal, maxillary or malar areas (includes obtaining graft) 21270 Malar augmentation, prosthetic material 30400 - 30420 Rhinoplasty; primary 30430 - 30450 Rhinoplasty; secondary Unlisted procedure, larynx [thyroid chondroplasty and tracheal shave] [voice 31599 modification surgery] [check benefits] Unlisted procedure, trachea, bronchi [thyroid chondroplasty and tracheal shave] 31899 [augmentation thyroid chondroplasty (thyroid cartilage augmentation)] [check benefits][Chondrolaryngoplasty, Adam's apple reduction, thyroid cartilage reduction] 40799 Unlisted procedure, lips [lip shortening] [check benefits] Code Code Description 64911 Nerve repair; with autogenous vein graft (includes harvest of vein graft), each nerve 64912 with nerve allograft, each nerve, first strand (cable) with nerve allograft, each additional strand (List separately in addition to code for 64913 primary procedure) 67900 Repair of brow ptosis (supraciliary, mid-forehead or coronal approach) Treatment of speech, language, voice, communication, and/or auditory processing 92507 disorder; individual Treatment of speech, language, voice, communication, and/or auditory processing 92508 disorder; group, two or more individuals Other CPT codes related to the CPB: Subcutaneous hormone pellet implantation (implantation of estradiol and/or 11980 testosterone pellets beneath the skin) +90785 Interactive complexity (List separately in addition to the code for primary procedure) 90832 - 90838 Psychotherapy Therapeutic, prophylactic, or diagnostic injection (specify substance of drug); 96372 subcutaneous or intramuscular HCPCS codes covered if selection criteria are met: A4280 Adhesive skin support attachment for use with external breast prosthesis, each C1789 Prosthesis, breast (implantable) C1813 Prosthesis, penile, inflatable C2622 Prosthesis, penile, non-inflatable J0172 Injection, testosterone cypionate (azmiro), 1 mg J0173 Testosterone pellet, implant, 75 mg J1000 Injection, depo-estradiol cypionate, up to 5 mg J1050 Injection, medroxyprogesterone acetate, 1 mg J1071 Injection, testosterone cypionate, 1 mg J0172 Injection, testosterone cypionate (azmiro), 1 mg J1380 Injection, estradiol valerate, up to 10 mg J1726 Injection, hydroxyprogesterone caproate, (makena), 10 mg J1729 Injection, hydroxyprogesterone caproate, not otherwise specified, 10 mg J1950 Injection, leuprolide acetate (for depot suspension), per 3.75 mg J1951 Injection, leuprolide acetate for depot suspension (fensolvi), 0.25 mg J1952 Leuprolide injectable, camcevi, 1 mg J1954 Injection, leuprolide acetate for depot suspension (cipla), 7.5 mg J2675 Injection, progesterone, per 50 mg J3121 Injection, testosterone enanthate, 1 mg J3145 Injection, testosterone undecanoate, 1 mg J3315 Injection, triptorelin pamoate, 3.75 mg J7179 Injection, von willebrand factor (recombinant), (vonvendi), 1 i.u.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 50,
+      "text": "vwf:rco Segesterone acetate and ethinyl estradiol 0.15mg, 0.013mg per 24 hours; yearly J7294 vaginal system, each Ethinyl estradiol and etonogestrel 0.015mg, 0.12mg per 24 hours; monthly vaginal J7295 ring, each J9202 Goserelin acetate implant, per 3.6 mg Code Code Description J9217 Leuprolide acetate (for depot suspension), 7.5 mg J9218 Leuprolide acetate, per 1 mg J9219 Leuprolide acetate implant, 65 mg J9226 Histrelin implant (supprelin la), 50 mg Breast prosthesis, mastectomy bra, without integrated breast prosthesis form, any size, L8000 any type Breast prosthesis, mastectomy bra, with integrated breast prosthesis form, unilateral, L8001 any size, any type Breast prosthesis, mastectomy bra, with integrated breast prosthesis form, bilateral, L8002 any size, any type L8010 Breast prosthesis, mastectomy sleeve L8015 External breast prosthesis garment, with mastectomy form, post mastectomy L8020 Breast prosthesis, mastectomy form L8030 Breast prosthesis, silicone or equal, without integral adhesive L8031 Breast prosthesis, silicone or equal, with integral adhesive L8035 Custom breast prosthesis, post mastectomy, molded to patient model L8039 Breast prosthesis, not otherwise specified L8600 Implantable breast prosthesis, silicone or equal S0138 Finasteride, 5 mg Breast reconstruction with gluteal artery perforator (gap) flap, including harvesting of S2066 the flap, microvascular transfer, closure of donor site and shaping the flap into a breast, unilateral Breast reconstruction of a single breast with \"stacked\" deep inferior epigastric perforator (diep) flap(s) and/or gluteal artery perforator (gap) flap(s), including S2067 harvesting of the flap(s), microvascular transfer, closure of donor site(s) and shaping the flap into a breast, unilateral Breast reconstruction with deep inferior epigastric perforator (diep) flap or superficial S2068 inferior epigastric artery (siea) flap, including harvesting of the flap, microvascular transfer, closure of donor site and shaping the flap into a breast, unilateral S4988 Penile contracture device, manual, greater than 3 lbs traction force Scintimammography (radioimmunoscintigraphy of the breast), unilateral, including S8080 supply of radiopharmaceutical Home injectable therapy; hormonal therapy (e.g.; leuprolide, goserelin), including administrative services, professional pharmacy services, care coordination, and all S9560 necessary supplies and equipment (drugs and nursing visits coded separately), per diem T4545 Incontinence product, disposable, penile wrap, each HCPCS codes not covered for indications listed in the CPB: Services performed by a qualified speech-language pathologist in the home health or G0153 hospice setting, each 15 minutes Unlisted procedure for miscellaneous prosthetic services [prosthetic implant] [check L8499 benefits] L8699 Prosthetic implant, not otherwise specified [check benefits] S9128 Speech therapy, in the home, per diem ICD-10 codes covered if selection criteria are met: Code Code Description F64.0 - F64.9 Gender identity disorders Z87.890 Personal history of sex reassignment The International Classification of Diseases and Related Health Problems, Tenth Revision (ICD-10) and the Diagnostic and Statistical Manual of Mental Disorders, (DSM-5-TR) are the diagnostic classifications and criteria manuals used in the United States.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 51,
+      "text": "Notwithstanding, the World Professional Association of Transgender Health Standard of Care 8th edition (WPATH SOC8) states: “While Gender Dysphoria (GD) is still considered a mental health condition in the Diagnostic and Statistical Manual of Mental Disorders, (DSM-5-TR) of the American Psychiatric Association.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 52,
+      "text": "Gender incongruence is no longer seen as pathological or a mental disorder in the world health community.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 53,
+      "text": "Gender Incongruence is recognized as a condition in the International Classification of Diseases and Related Health Problems, 11th Version of the World Health Organization (ICD-11).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 54,
+      "text": "Because of historical and current stigma, TGD people can experience distress or dysphoria that may be addressed with various gender-affirming treatment options.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 56,
+      "text": "Gender dysphoria refers to discomfort or distress that is caused by a discrepancy between an individual’s gender identity and the gender assigned at birth (and the associated gender role and/or primary and secondary sex characteristics).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 60,
+      "text": "For transfeminine (assigned male at birth) gender transition, surgical procedures may include genital reconstruction (vaginoplasty, penectomy, orchidectomy, clitoroplasty), breast augmentation (implants, lipofilling), and cosmetic surgery (facial reshaping, rhinoplasty, abdominoplasty, thyroid chondroplasty (laryngeal shaving), voice modification surgery (vocal cord shortening), hair transplants) (Day, 2002).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 61,
+      "text": "For transmasculine (assigned female at birth) gender transition, surgical procedures may include mastectomy, genital reconstruction (phalloplasty, genitoplasty, hysterectomy, bilateral oophorectomy), mastectomy, and cosmetic procedures to enhance male features such as pectoral implants and chest wall recontouring (Day, 2002).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 62,
+      "text": "The criterion noted above for some types of genital surgeries is based on expert clinical consensus that this experience provides ample opportunity for patients to experience and socially adjust in their desired gender role, before undergoing irreversible surgery (Coleman, et al., 2022).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 63,
+      "text": "It is recommended that transfeminine persons undergo feminizing hormone therapy (minimum 6 months) prior to breast augmentation surgery.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 64,
+      "text": "The purpose is to maximize breast growth in order to obtain better surgical (aesthetic) results.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 65,
+      "text": "In addition to hormone therapy and gender affirming surgery, psychological adjustments are necessary in affirming sex.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 66,
+      "text": "Treatment should focus on psychological adjustment, with hormone therapy and gender affirming surgery being viewed as confirmatory procedures dependent on adequate psychological adjustment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 67,
+      "text": "Mental health care may need to be continued after gender affirming surgery.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 68,
+      "text": "The overall success of treatment depends partly on the technical success of the surgery, but more crucially on the psychological adjustment of the trans identified person and the support from family, friends, employers and the medical profession.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 69,
+      "text": "Nakatsuka (2012) noted that the third versions of the guideline for treatment of people with gender dysphoria (GD) of the Japanese Society of Psychiatry and Neurology recommends that feminizing/masculinizing hormone therapy and genital surgery should not be carried out until 18 years old and 20 years old, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 70,
+      "text": "On the other hand, the sixth (2001) and the seventh (2011) versions of the standards of care for the health of transsexual, transgender, and gender non-conforming people of World Professional Association for Transgender Health (WPATH) recommend that transgender adolescents (Tanner stage 2, [mainly 12 to 13 years of age]) are treated by the endocrinologists to suppress puberty with gonadotropin-releasing hormone (GnRH) agonists until age 16 years old, after which gender-affirming hormones may be given.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 71,
+      "text": "A questionnaire on 181 people with GID diagnosed in the Okayama University Hospital (Japan) showed that female to male (FTM) trans identified individuals hoped to begin masculinizing hormone therapy at age of 15.6 +/- 4.0 (mean +/- S.D.) whereas male to female (MTF) trans identified individuals hoped to begin feminizing hormone therapy as early as age 12.5 +/- 4.0, before presenting secondary sex characters.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 72,
+      "text": "After confirmation of strong and persistent trans gender identification, adolescents with GD should be treated with gender-affirming hormone or puberty-delaying hormone to prevent developing undesired sex characters.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 73,
+      "text": "These treatments may prevent transgender adolescents from attempting suicide, suffering from depression, and refusing to attend school.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "Awareness of the condition appears to be increasing, probably because of greater societal acceptance and available hormonal treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 76,
+      "text": "Therapeutic options include hormone and surgical treatments but may be limited by insurance coverage because costs are high.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 77,
+      "text": "For patients seeking MTF affirmation, hormone treatment includes estrogens, finasteride, spironolactone, and GnRH analogs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 79,
+      "text": "For patients seeking a FTM gender affirmation, medical therapy includes testosterone and GnRH analogs and surgical therapy includes mammoplasty and phalloplasty.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 80,
+      "text": "Medical therapy for both FTM and MTF can be started in early puberty, although long-term effects are not known.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 82,
+      "text": "Leinung and colleagues (2013) noted that the Endocrine Society's recently published clinical practice guidelines for the treatment of transgender persons acknowledged the need for further information on transgender health.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 83,
+      "text": "These investigators reported the experience of one provider with the endocrine treatment of transgender persons over the past 2 decades.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 90,
+      "text": "Gender-affirming hormone therapy achieves very good results in FTM persons and is most successful in MTF persons when initiated at younger ages.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 91,
+      "text": "The authors concluded that transgender persons seeking hormonal therapy are being seen with increasing frequency.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 93,
+      "text": "They stated that starting therapy at an earlier age may lessen the negative impact on mental health and lead to improved social outcomes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 94,
+      "text": "Meyer-Bahlburg (2013) summarized for the practicing endocrinologist the current literature on the psychobiology of the development of gender identity and its variants in individuals with disorders of sex development or with transgenderism.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 95,
+      "text": "Gender reassignment remains the treatment of choice for strong and persistent gender dysphoria in both categories, but more research is needed on the short-term and long-term effects of puberty-suppressing medications and cross-sex hormones on brain and behavior.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 96,
+      "text": "Note on Breast Reduction/Mastectomy and Nipple Reconstruction The CPT codes for mastectomy (CPT codes 19303) are for breast cancer, and are not appropriate to bill for reduction mammaplasty for female to male (transmasculine) gender affirmation surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 102,
+      "text": "In mastectomy for gender reassignment, the nipple areola complex typically can be preserved.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 105,
+      "text": "The typical patient vignette for CPT code 19350, according to the AMA, is as follows: “The patient is measured in the standing position to ensure even balanced position for a location of the nipple and areola graft on the right breast.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 109,
+      "text": "The AMA vignette for CPT code 19318 (reduction mammaplasty) clarifies that this CPT code includes the work that is necessary to reposition and reshape the nipple to create an aesthetically pleasing result, as is necessary in female to male breast reduction. \"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 118,
+      "text": "CPT code 19350 does not describe the work that that is being done, because that code describes the actual construction of a new nipple.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 122,
+      "text": "These investigators described the factors influencing patient choice or surgeon recommendation of vulvoplasty (creation of the external appearance of female genitalia without creation of a neovaginal canal) and evaluated the patient's satisfaction with this choice.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 130,
+      "text": "The authors concluded that this was the first study of factors impacting a patient's choice of or a surgeon's recommendation for vulvoplasty over vaginoplasty as gender-affirming genital surgery; it also was the first reported series of patients undergoing vulvoplasty only.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 133,
+      "text": "Autologous Fibroblast-Seeded Amnion for Reconstruction of Neo-vagina in Transfeminine Reassignment Surgery Seyed-Forootan and colleagues (2018) stated that plastic surgeons have used several methods for the construction of neo-vaginas, including the utilization of penile skin, free skin grafts, small bowel or recto- sigmoid grafts, an amnion graft, and cultured cells.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 142,
+      "text": "The authors concluded that the creation of a neo-vaginal canal and its lining with allograft amnion and seeded autologous fibroblasts is an effective method for imitating a normal vagina.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 165,
+      "text": "The authors concluded that more research into the different factors and practices affecting trans-masculine people's voice function that took account of a range of parameters of voice function and considered participants' self-evaluations is needed to establish how functional voice production can be best supported in this population.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 167,
+      "text": "The treatment plan for gender dysphoria varies and can include psychotherapy, hormone treatment, and gender affirmation surgery, which is, in part, an irreversible change of sexual identity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 168,
+      "text": "Procedures for transformation to the female sex include facial feminization surgery, vaginoplasty, clitoroplasty, and breast augmentation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 173,
+      "text": "Most facial feminization surgery procedures could be safely completed in 6 months, barring complications.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 176,
+      "text": "The authors concluded that patient satisfaction following facial feminization surgery was high; they stated that the reduction of gender dysphoria had psychological and social benefits and significantly affected patient outcome. The level of evidence of this study was IV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 178,
+      "text": "The surgical principles of facial feminization surgery could be applied to male-to-female transsexuals and anyone desiring feminization of the face.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 187,
+      "text": "The authors concluded that facial feminization surgery appeared to be safe and satisfactory for patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 194,
+      "text": "Medicaid policy reviews found that 18 states offer some level of gender-affirming coverage for their patients, but only 3 include FGAS (17 %); 13 states prohibit Medicaid coverage of all transgender surgery, and 19 states have no published gender-affirming medical care coverage policy; 92 % of commercial medical insurance providers had a published policy on GAS coverage.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 195,
+      "text": "Genital reconstruction was described as a medically necessary aspect of transgender care in 100 % of the commercial policies reviewed; 93 % discussed coverage of FGAS, but 51 % considered these procedures cosmetic.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 196,
+      "text": "Thyroid chondroplasty (20 %) was the most commonly covered FGAS procedure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 197,
+      "text": "Mandibular and frontal bone contouring, rhinoplasty, blepharoplasty, and facial rhytidectomy were each covered by 13 % of the medical policies reviewed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 198,
+      "text": "The authors concluded that while certain surgical aspects of gender-affirming medical care are nearly ubiquitously covered by commercial insurance providers, FGAS is considered cosmetic by most Medicaid and commercial insurance providers. Level of Evidence =",
+      "label": "PREMISE"
+    },
+    {
+      "id": 204,
+      "text": "While the advancement of a scalp flap, hair transplant, and pretrichial brow-lifting are commonly employed cosmetic surgery interventions, frontal cranioplasty bears special consideration.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 206,
+      "text": "Type 1 cranioplasty reduces the supra-orbital ridge's protrusion, usually using a drill, including decreasing the thickness of the anterior table of the frontal sinus.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 207,
+      "text": "This technique is the simplest, but it is only effective in patients with either a very thick anterior frontal sinus table or an absent pneumatized frontal sinus.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 208,
+      "text": "Type 2 cranioplasty involves augmentation of the forehead's convexity using bone cement or methyl methacrylate in addition to a reduction of the supra-orbital ridge with a drill.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 209,
+      "text": "Type 3 cranioplasty is advocated by many prominent facial feminization surgeons and consists of removal of the anterior table of the frontal sinus, thinning of the bone flap, and replacement of that bone onto the frontal sinus but in a more recessed position, in addition to a reduction of the remainder of the supra-orbital ridge.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 222,
+      "text": "The authors concluded that complications following FFC were rare and infrequently required reoperation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 224,
+      "text": "Hand Feminization and Masculinization Lee and colleagues (2021) noted that anatomical characteristics that are incongruent with an individual's gender identity can cause significant gender dysphoria.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 225,
+      "text": "Hands exhibit prominent dimorphic sexual features, but despite their visibility, there are limited studies examining gender affirming procedures for the hands.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 226,
+      "text": "These researchers examined the anatomical features that define feminine and masculine hands, the surgical and non-surgical approaches for feminization and masculinization of the hand; and adapted established aesthetic hand techniques for gender affirming care.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 231,
+      "text": "The authors concluded that there is very little evidence addressing the options for transgender individuals seeking gender affirming procedures of the hand.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 243,
+      "text": "The authors concluded that the use of peritoneal pull-through vaginoplasty in gender- affirming surgery is promising and novel; however, there is a paucity of data.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 244,
+      "text": "These investigators stated that further research and longer-term data are needed to examine the safety and effectiveness of this technique including stabilization of vaginal depth, later morbidity and complications.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 253,
+      "text": "For all phalloplasty patients, the pooled rate of urethral fistula or stenosis was 48.9 %, the rate of the ability to void while standing was 91.5 %, occurrence rate of tactile or erogenous sensation was 88 %, the prosthesis complication rate was 27.9 %, and patient- reported satisfactory outcome rate was 90.5 %.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 254,
+      "text": "The authors concluded that urethral reconstruction with a pre-laminated flap was associated with a significantly higher urethral stricture rate and increased need of revision surgery compared with that observed using a skin flap.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 271,
+      "text": "Facial feminization surgery can play a prominent role in alleviating gender dysphoria.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 283,
+      "text": "The authors concluded that facial feminization surgery appeared to be safe, whether it was conducted in a single stage or as a staged procedure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 287,
+      "text": "Facial gender surgery aims to modify patients' facial features to be more congruent with their physical expression of gender, reducing gender dysphoria and improving QOL.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 292,
+      "text": "The authors concluded that facial gender surgery represents a complex array of cranio-facial and soft-tissue procedures that require application of advanced skills and decision- making.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 293,
+      "text": "Facial gender operations are not cosmetic, are medically necessary, and require development of new CPT codes specific to facial gender surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 306,
+      "text": "The authors concluded that to the best of their knowledge, this literature review was the first to critically summarize and evaluate all published studies on the longer-term QOL outcomes following chest, genital, facial, voice and Adam's apple removal surgeries for transgender women and men.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 322,
+      "text": "The authors concluded that restoration of mechanical (light touch and pressure), temperature and pain detection, as well as erogenous sensation were significantly improved with TNR, which was associated with significantly less phantom sensation and chest pain.",
+      "label": "PREMISE"
+    }
+  ]
+}
