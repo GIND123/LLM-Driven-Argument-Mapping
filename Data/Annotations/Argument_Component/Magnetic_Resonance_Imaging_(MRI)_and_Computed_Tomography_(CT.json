@@ -1,0 +1,222 @@
+{
+  "document_id": "Magnetic_Resonance_Imaging_(MRI)_and_Computed_Tomography_(CT",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 4,
+      "text": "I. Medical Necessity Aetna considers magnetic resonance imaging (MRI) and computed tomography (CT) of the spine medically necessary when any of the following criteria is met: Clinical evidence of spinal stenosis; or Clinical suspicion of a spinal cord or cauda equina compression syndrome; or Congenital anomalies or deformities of the spine; or Diagnosis and evaluation of lumbar epidural lipomatosis; or Evaluation of recurrent symptoms after spinal surgery; or Evaluation prior to epidural injection to rule out tumor or infection and to delineate the optimal anatomical location for performing the injection; or Follow-up of evaluation for spinal malignancy or spinal infection; or Known or suspected myelopathy (e.g., multiple sclerosis) for initial diagnosis when MRI of the brain is negative or symptoms mimic those of other spinal or brainstem lesions; or Known or suspected primary spinal cord tumors (malignant or non-malignant); or Persistent back or neck pain with radiculopathy as evidenced by pain plus objective findings of motor or reflex changes in the specific nerve root distribution, and no improvement after 6 weeks of conservative therapyFootnote1*; or Primary spinal bone tumors or suspected vertebral, paraspinal, or intraspinal metastases; or Progressively severe symptoms despite conservative management; or Rapidly progressing neurological deficit, or major motor weakness; or Severe back pain (e.g., requiring hospitalization); or Spondylolisthesis and degenerative disease of the spine that has not responded to 4 weeks of conservative therapyFootnote1*; or Suspected infectious process (e.g., osteomyelitis epidural abscess of the spine or soft tissue); or Suspected spinal cord injury secondary to trauma; or Suspected spinal fracture and/or dislocation secondary to trauma (if plain films are not conclusive); or Suspected transverse myelitis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Experimental, Investigational, or Unproven Aetna considers BoneMRI (MRI-based synthetic CT) experimental, investigational, or unproven for pre-operative assessments and surgical planning of the spine and the pelvis; and for diagnosing or monitoring of tumors (primary or metastatic).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Aetna considers MRI and CT of the spine experimental, investigational, or unproven for all other indications because their clinical value for indications other than the ones listed above has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Clinical guidelines, including those from the Agency for Healthcare Policy and Research, have consistently recommended against routine imaging studies for acute low back pain.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "Aetna considers the use of MRI for further evaluation of unstable injury in neurologically intact individuals with blunt trauma after a negative cervical spine CT result not medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Aetna considers dynamic-kinetic MRI experimental, investigational, or unproven for evaluation of the cervical spine because its effectiveness has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "Aetna considers the use of routine MRI after a normal CT of the cervical spine in obtunded or comatose individuals experimental, investigational, or unproven because the clinical value of this approach has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "Aetna considers dual-energy CT experimental, investigational, or unrpoven for the evaluation of bone marrow edema and fracture lines in acute vertebral fractures because the clinical value of this approach has not been established. III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "Related Policies CPB 0093 - Open Air, Low Field Strength, and Positional Magnetic Resonance Imaging (MRI) CPB 0202 - Magnetic Resonance Spectroscopy (MRS) Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description CPT codes covered if selection criteria are met: 72125 Computed tomography, cervical spine; without contrast material 72126 with contrast material 72127 without contrast material, followed by contrast material(s) and further sections 72128 Computed tomography, thoracic spine; without contrast material Code Code Description 72129 with contrast material 72130 without contrast material, followed by contrast material(s) and further sections 72131 Computed tomography, lumbar spine; without contrast material 72132 with contrast material 72133 without contrast material, followed by contrast material(s) and further sections Magnetic resonance (e.g., proton) imaging, spinal canal and contents, cervical; 72141 without contrast material 72142 with contrast material(s) Magnetic resonance (e.g., proton) imaging, spinal canal and contents, thoracic; 72146 without contrast material 72147 with contrast material(s) Magnetic resonance (e.g., proton) imaging, spinal canal and contents, lumbar; without 72148 contrast material 72149 with contrast material(s) Magnetic resonance (e.g., proton) imaging, spinal canal and contents, without contrast 72156 material, followed by contrast material(s) and further sequences; cervical 72157 thoracic 72158 lumbar Other CPT codes related to the CPB: 76390 Magnetic resonance spectroscopy HCPCS codes covered if selection criteria are met: A9575 Injection, gadoterate meglumine, 0.1 ml A9576 Injection, gadoteridol, (ProHance multipack), per ml A9577 Injection, gadobenate dimeglumine (MultiHance), per ml A9578 Injection, gadobenate dimeglumine (MultiHance multipack), per ml Injection, gadolinium based magnetic resonance contrast agent, not otherwise A9579 specified, per ml Q9953 Injection, iron-based magnetic resonance contrast agent, per ml Q9954 Oral magnetic resonance contrast agent, per 100 ml ICD-10 codes covered if selection criteria are met: A18.01, Tuberculosis of spine and other bones A18.03 C41.2 Malignant neoplasm of vertebral column C41.4 Malignant neoplasm of pelvic bones, sacrum, and coccyx C70.1 Malignant neoplasm of spinal meninges C72.0 - C72.1 Malignant neoplasm of spinal cord C79.51 - C79.52 Secondary malignant neoplasm of bone and bone marrow D16.6 Benign neoplasm of vertebral column, excluding sacrum and coccyx D16.8 Benign neoplasm of pelvic bones, sacrum and coccyx Code Code Description Benign lipomatous neoplasm of other sites [for the diagnosis and evaluation of lumbar D17.79 epidural lipomatosis] D32.1 Benign neoplasm of spinal meninges D33.4 Benign neoplasm of spinal cord D42.0 - D42.9 Neoplasm of uncertain behavior of meninges D43.0 - D43.2, Neoplasm of uncertain behavior of brain and spinal cord D43.4 D48.0 Neoplasm of uncertain behavior of bone and articular cartilage D48.110 - D48.2 Neoplasm of uncertain behavior of connective and other soft tissue Lipomatosis, not elsewhere classified [for the diagnosis and evaluation of lumbar E88.2 epidural lipomatosis] G00.0 - G03.9 Meningitis G04.00 - G04.91 Encephalitis, myelitis, and encephalomyelitis G06.1 Intraspinal abscess and granuloma G11.0 - G12.9 Spinocerebellar disease, anterior horn cell disease, and other diseases of spinal cord G35 Multiple sclerosis G56.00 - G56.93 Mononeuritis of upper limb and mononeuritis multiplex G58.0 - G58.9 G57.00 - G57.90 Mononeuritis of lower limb and unspecified site G83.4 Cauda equina syndrome M40.00 - M41.9 Kyphosis and lordosis M46.20 - M46.39, M86.08, M86.18 M86.28, M86.38, M86.48, Osteomyelitis, periostitis, and other infections involving bone, other specified sites M86.58 M86.68, M86.8x8, M86.9, M89.68 M90.88 M48.00 - M48.08 Spinal stenosis M50.00 - M50.03 Intervertebral disc disorder with myelopathy M51.04 - M51.06 M50.10 - M50.13 Cervical disc disorder with radiculopathy Displacement of intervertebral disc M50.20 - M50.23, Code Code Description M50.90 - M50.93 M51.24 - M51.27 M51.14 - M54.17, Thoracic or lumbosacral neuritis or radiculopathy, unspecified M54.14 - M54.17 M54.10 - M54.18, Neuralgia, neuritis, and radiculitis, unspecified M79.2 M54.30 - M54.32 Sciatica M54.9 Dorsalgia, unspecified Q04.9, Q06.9, Congenital malformations of brain, spinal cord, and nervous system, unspecified Q07.9 Q05.0 - Q05.9 Spina bifida Q06.0 - Q06.9 Other congenital malformations of spinal cord Q07.00 - Q07.9 Other congenital malformations of nervous system Q27.9 Congenital malformation of peripheral vascular system, unspecified Q76.0 - Q76.49 Congenital malformations of spine S12.000A - S12.9xxS S22.000A - Fracture of vertebral column S22.089S S32.000A - S32.2xxS S13.100A - S13.29xA S23.100A - Dislocation of vertebra S23.171S S33.100A - S33.39xS S14.101A - S14.159S S24.101A - Spinal cord injury S24.159S S34.101A - S34.139S Injury to nerve roots and spinal plexus S14.2xxA - S14.3xxS, Code Code Description S24.2xxA - S24.2xxA S34.21xA - S34.22xS, S34.4xxA - S34.4xxS ICD-10 codes not covered for indications listed in the CPB: R40.20 - R40.2444 Coma [not covered for use of routine MRI after a normal CT of the cervical spine] BoneMRI (MRI-based synthetic CT): CPT codes not covered for indications listed in the CPB: 3D radiodensity-value bone imaging, algorithm derived, from previous magnetic G0566 resonance examination of the same anatomy ICD-10 codes not covered for indications listed in the CPB: C00.0-C14.8 Malignant neoplasm of lip, oral cavity, and pharynx C15.0-C26.9 Malignant neoplasm of digestive organs C30.0-C39.9 Malignant neoplasm of respiratory and intrathoracic organs C40.00-C41.9 Malignant neoplasm of bone and articular cartilage C43.10-C4A.122 Melanoma and other malignant neoplasms of skin C45.0-C49.A9 Malignant neoplasm of mesothelial and soft tissue C50.011-C50.919 Malignant neoplasm of breast C51.0-C58 Malignant neoplasm of female genital organs C60.0 -C63.12 Malignant neoplasm of male genital organs C64.1 -C68.9 Malignant neoplasm of urinary tract C69.00 -C72.59 Malignant neoplasms of eye, brain and other parts of central nervous system C73-C75.9 Malignant neoplasm of thyroid and other endocrine glands C76.0-C80.2 Malignant neoplasms of ill-defined, other secondary and unspecified sites C7A.00 -C7A.098 Malignant neuroendocrine tumors C7B.00 -C7B.09 Secondary neuroendocrine tumors C81.00-C96.29 Malignant neoplasms of lymphoid, hematopoietic and related tissue Z01.818 Encounter for other preprocedural examination Z01.89 Encounter for other specified special examinations Encounter for follow-up examination after completed treatment for malignant Z08 neoplasm Z12.0-Z12.9 Encounter for screening for malignant neoplasms Z15.01-Z15.09 Genetic susceptibility to malignant neoplasm Z80.0-Z80.9 Family history of primary malignant neoplasm Z85.00-Z85.9 Personal history of malignant neoplasm Code Code Description Dual-energy CT for the evaluation of bone marrow edema and fracture lines in acute vertebral fractures: CPT codes not covered for indications listed in the CPB: Dual-energy CT for the evaluation of bone marrow edema and fracture lines in acute vertebral fractures – no specific code ICD-10 codes not covered for indications listed in the CPB: R60.0 Localized edema S12.000A - Fracture of cervical vertebra and other parts of the neck S12.9XXS S22.000A - Fracture of thoracic vertebra S22.089S S32.000A - Fracture of lumbar vertebra S32.059S S32.10XA - Fracture of sacrum S32.19XS S32.2XXA - Fracture of coccyx S32.2XXS Because of its complexity, the spine is probably the most difficult part of the skeletal system to evaluate radiologically.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 54,
+      "text": "The authors concluded that lumbar imaging forLBP without indications of serious underlying conditions does not improve clinical outcomes and that clinicians should refrain from routine, immediate lumbar imaging in patients with acute or subacute LBP and without features suggesting a serious underlying condition.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 65,
+      "text": "The authors concluded that reliance on CT imaging alone to \"clear the cervical spine\" after blunt trauma can lead to missed injuries.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 66,
+      "text": "The findings of this study supported the addition of MRI in evaluating patients who are obtunded, or unexaminable, despite a negative CT scan.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 78,
+      "text": "MRI / CT for Evaluation of Cervical Spinal Injury / Discontinuation of Cervical Collar Use Veiga and Mitchell (2019) noted that a missed cervical spinal injury could have devastating consequences.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 82,
+      "text": "These researchers determined if MRI offered a definitive benefit over CT with respect to patient management.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 99,
+      "text": "The authors concluded that the diagnostic culture yield for CT-guided biopsies in cases of suspected spinal infection was low, approximately 33 %.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 103,
+      "text": "Advances in technology and hospital policy regarding specimen acquisition and tissue transfer and handling are needed to ensure the benefits of CT-guided biopsies out-weigh the risks.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 104,
+      "text": "Collaboration between interventional radiologists and pathologists is essential to optimize these techniques to ensure optimal results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 121,
+      "text": "The authors concluded that there appeared to be a substantial subset of patients who developed morphological micro-instability after sole decompression procedures but did not experience any clinically significant effect of the instability.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 142,
+      "text": "The authors concluded that the prevalence of RNRs was body position-dependent; and increases in DCSA play a determinant role in resolving RNRs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 151,
+      "text": "The authors concluded that changes in multifidus/erector spinae muscle CSA likely represented muscles stretching between upright and seated/flexed postures .",
+      "label": "PREMISE"
+    },
+    {
+      "id": 164,
+      "text": "The authors concluded that this research quantified the differences in spine structure measures that occurred in various experimental postures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 172,
+      "text": "The authors concluded that the number of involved vertebral levels and obesity were strongly correlated, whereas severity of dural compression was not always significantly associated with neurological complications.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 174,
+      "text": "In addition, weight-reduction therapy appeared to decrease the number of vertebral levels involved; and MRI- based grading is helpful for the diagnosis and evaluation of idiopathic lumbar SEL.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 176,
+      "text": "Gerardy and colleagues (2021) noted that SEL is a rare condition characterized by excessive accumulation of normal fat in the epidural space.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 215,
+      "text": "The authors concluded that DE-CT appeared to be a promising diagnostic tool for the detection of BME and disc edema, which can potentially replace the current gold standard, the MRI. Level of Evidence = II.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 231,
+      "text": "The authors concluded that the findings of this study demonstrated that both DE-CT and MRI provided high diagnostic confidence and image quality for the evaluation of acute vertebral fractures in general.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 255,
+      "text": "The authors concluded that CT-HU exhibited stronger correlations with DXA than MRI measurements.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 269,
+      "text": "The authors concluded that both vBMD detected by QCT and aBMD detected by DXA could discriminate fracture status in the spine, and vBMD performed a stronger correlation with fracture risk.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 276,
+      "text": "The authors concluded that all 4 methods, namely HU values, VBQ scores, QCT- measured BMD, and DXA-measured BMD can effectively distinguish between patients with and without vertebral fragile fractures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 292,
+      "text": "The authors concluded that sCT could significantly enhance the diagnostic accuracy for patients suspected of having sacroiliitis, making it a valuable tool in clinical practice.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 295,
+      "text": "The authors concluded that these findings supported the use of sCT as a viable option for surgical planning, offering the advantage of reduced radiation exposure while maintaining diagnostic accuracy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 299,
+      "text": "The authors concluded that sCT could be a valuable tool for surgical planning and intra- operative navigation in lumbar spine procedures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 302,
+      "text": "The authors concluded that these findings suggested that sCT could effectively examine hip morphology, providing a radiation-free alternative for clinical evaluations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 306,
+      "text": "The authors concluded that these findings showed that sCT could visualize bony structures in the cervical spine, suggesting its potential as a radiation-free alternative to conventional CT.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 311,
+      "text": "The results revealed strong agreement between sCT and CT measurements, indicating that sCT could serve as a reliable alternative for assessing hip morphology without the associated radiation exposure of CT.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 312,
+      "text": "The authors concluded that these findings suggested that sCT may be beneficial for pre-operative assessments and surgical planning.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 315,
+      "text": "The authors concluded that these results suggested that sCT could be a valuable tool for monitoring musculoskeletal abnormalities in pediatric patients, especially in cases where traditional CT is limited due to radiation exposure concerns.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 318,
+      "text": "The authors concluded that these findings underscored the importance of sCT in enhancing diagnostic accuracy and identifying clinically significant incidental findings.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 338,
+      "text": "The authors concluded that the results indicated high precision and reliability in measurements, suggesting that this innovative protocol could enhance the study of scoliosis and improve surgical navigation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 342,
+      "text": "The authors concluded that these findings suggested that sCT is a reliable alternative to cCT for evaluating hip morphology in children, offering the advantage of reduced radiation exposure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 354,
+      "text": "The authors concluded that these findings suggested that sCT could be a valuable tool for monitoring structural spine damage in axSpA patients, especially in clinical trials.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 357,
+      "text": "The authors concluded that both 1-mm semi-coronal T1w-gradient echo (GRE) and 1-mm semi-coronal sCT increased sensitivity and reader confidence for the detection of erosion, sclerosis and ankylosis, compared with standard 4 mm T1w-turbo spin-echo (TSE).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 378,
+      "text": "The authors concluded that this case highlighted the potential of MRI-generated sCT in pediatric spondylolysis management, providing a comprehensive assessment of bony and soft tissue pathology without the ionizing radiation associated with traditional CT.",
+      "label": "PREMISE"
+    }
+  ]
+}
