@@ -1,0 +1,282 @@
+{
+  "document_id": "Liver_Transplantation_-_Medical_Clinical_Policy_Bulletins___-1",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 2,
+      "text": "I. Medical Necessity A. Aetna considers liver transplantation medically necessary for the indications listed below in Section I.B. for the following: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "B. Medically Necessary Indications (not an all-inclusive list) Aetna considers orthotopic (normal anatomical position) liver transplantation (with cadaveric organ, reduced-size organ, living related organ, and split liver) medically necessary for members with end-stage liver disease (ESLD) due to any of the following conditions who meet medical necessity criteria in Section I.A.: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "There is no identifiable extra-hepatic spread of tumor to surrounding lymph nodes, abdominal organs, bone or other sites; and v. There is no macrovascular involvement; Note: These criteria are intended to be consistent with UNOS guidelines for selection of liver transplant candidates for hepato-cellular carcinoma (HCC).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "There is no identifiable extra-hepatic spread of tumor to surrounding lungs, abdominal organs, bone or other sites; Note: Spread of hepatoblastoma to veins and lymph nodes does not disqualify a member for coverage of a liver transplant; c. Epithelioid hemangioendotheliomas; d. Intra-hepatic cholangiocarcinomas (i.e., cholangiocarcinomas confined to the liver); e. Large, unresectable fibrolamellar HCCs; f. Metastatic neuroendocrine tumors (carcinoid tumors, apudomas, gastrinomas, glucagonomas) in persons with severe symptoms and with metastases restricted to the liver, who are unresponsive to adjuvant therapy after aggressive surgical resection including excision of the primary lesion and reduction of hepatic metastases; 4.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 17,
+      "text": "Metabolic disorders and metabolic liver diseases with cirrhosis (not an all-inclusive list) a. Alpha 1-antitrypsin deficiency; b. Hemochromatosis; c. Inborn errors of metabolism; d. Protoporphyria; e. Wilson's disease; 6.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 18,
+      "text": "Miscellaneous a. Familial amyloid polyneuropathy; b. Polycystic disease of the liver; c. Porto-pulmonary hypertension (pulmonary hypertension associated with liver disease or portal hypertension) in persons with a mean pulmonary artery pressure by catheterization of less than 35 mm Hg; d. Toxic reactions (fulminant hepatic failure due to mushroom poisoning, acetaminophen (Tylenol) overdose, etc.);",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "e. Trauma; f. Hepato-pulmonary syndrome when the following selection criteria are met: i. Arterial hypoxemia (PaO2 less than 60 mm Hg or AaO2 gradient greater than 20 mm Hg in supine or standing position); and ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 21,
+      "text": "Intrapulmonary vascular dilatation (as indicated by contrast-enhanced echocardiography, technetium-99 macroaggregated albumin perfusion scan, or pulmonary angiography).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 22,
+      "text": "C. Retransplantation Aetna considers retransplantation following a failed liver transplant medically necessary if the initial transplant was performed for a covered indication.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "D. Compatibility Testing Aetna considers compatibility testing of prospective liver donors medically necessary for living donor liver transplantation.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 24,
+      "text": "Note: Compatibility testing and related services of the prospective live donor, as well as inpatient care of a compatible live donor for the donation procedure, may be covered under the member's medical benefit.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 25,
+      "text": "E. Contraindications Aetna considers liver transplantation not medically necessary for members with any of the following absolute contraindications to liver transplantation: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 27,
+      "text": "Inability to adhere to the regimen necessary to preserve the transplant including homelessness, active substance abuseFootnote1* (e.g., alcohol, cocaine, crystal meth, heroin, methadone, and/or narcotics, etc.),",
+      "label": "CLAIM"
+    },
+    {
+      "id": 32,
+      "text": "I. Experimental, Investigational, or Unproven The following interventions are considered experimental, investigational, or unproven because their safety and effectiveness has not been established: Basiliximab for induction immunosuppression in individuals undergoing liver transplantation (LT); Bioartificial liver transplantation; Biomarkers (acid labile nitroso-compounds (NOx), serum amyloid A protein, procalcitonin, peripheral blood T-cell activation, interleukin 2 (IL-2) receptor, guanylate-binding protein-2 mRNA, graft-derived cell-free DNA, pi-glutathione S-transferase, alpha-glutathione S- transferase and serum HLA class I soluble antigens) for diagnosis of acute allograft rejection following liver transplantation; Ectopic or auxiliary liver transplantation; Everolimus to prevent organ rejection after liver transplantation; Factor V Leiden and F2 testing for member scheduled to receive partial liver transplant for primary sclerosing cholangitis; Hepatocellular (hepatocyte) transplantation; Hypothermic machine perfusion for reduction of the incidences of early allograft dysfunction and biliary complications after LT; Liver elastography and Doppler examination of the portal veins and hepatic arteries for routine yearly surveillance following liver transplantation; Liver transplantation for malignancies other than those listed as covered above; Liver transplantation for the treatment of extra-hepatic hilar cholangiocarcinoma; Measurements of plasma and urinary neutrophil gelatinase-associated lipocalin (NGAL) for predicting acute kidney injury following orthotopic liver transplantation; Molecular Adsorbent Recirculating System (MARS) for the treatment of progressive familial intrahepatic cholestasis; Normothermic machine perfusion of donor liver; OrganOx metra System for transportation and preservation of the liver prior to transplantation; Peri-operative use of vasopressin in liver transplantation; Peri-operative use of sorafenib in liver transplantation; Scaffold-based transplantation (combination of xeno-organ and cell transplantations) as an alternative for orthotopic LT; Testing of high mobility group box protein 1 (HMGB1) gene polymorphisms for prediction of morbidity and mortality after liver transplantation; Transient elastography for diagnosis of acute cellular rejection following liver transplantation; Ursodeoxycholic acid (UDCA), adjuvant use to prevent acute cellular rejection after liver transplantation; Xenotransplantation.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 34,
+      "text": "Related Policies CPB 0544 - Immune Globulins for Post-Exposure Prophylaxis Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description CPT codes covered if selection criteria are met: 47133 Donor hepatectomy (including cold preservation), from cadaver donor Liver allotransplantation; orthotopic; partial or whole, from cadaver or living donor, 47135 any age Donor hepatectomy (including cold preservation), from living donor; left lateral 47140 segment only (segments II and III) 47141 total left lobectomy (segments II, III and IV) 47142 total right lobectomy (segments V, VI, VII and VIII) Backbench standard preparation of cadaver donor whole liver graft prior to allotransplantation, including cholecystectomy, if necessary, and dissection and 47143 removal of surrounding soft tissues to prepare the vena cava, portal vein, hepatic artery, and common bile duct for implantation; without trisegment or lobe split with trisegment split of whole liver graft into two partial liver grafts (ie, left lateral 47144 segment (segments II and III) and right trisegment (segments I and IV through VIII)) with lobe split of whole liver graft into two partial liver grafts (ie, left lobe 47145 (segments II, III, and IV) and right lobe (segments I and V through VIII)) Backbench reconstruction of cadaver or living donor liver graft prior to 47146 allotransplantation; venous anastomosis, each 47147 arterial anastomosis, each CPT codes not covered for indications listed in the CPB (not an all-inclusive list): Molecular Adsorbent Recirculating System (MARS), Normothermic machine perfusion of donor liver, measurements of plasma and urinary neutrophil gelatinase-associated lipocalin (NGAL), acid labile nitroso-compounds (NOx), peripheral blood T-cell activation, guanylate-binding protein-2 mRNA, graft- derived cell-free DNA and serum HLA class I soluble antigens, Pi-glutathione S-transferase and Alpha- glutathione S-transferase, Serum amyloid A protein, scaffold-based transplantation, OrganOx metra System, testing of high mobility group box protein 1 (HMGB1) gene polymorphisms - no specific code Cannulation of the liver allograft in preparation for connection to the normothermic 0894T perfusion device and decannulation of the liver allograft following normothermic perfusion Connection of liver allograft to normothermic machine perfusion device, hemostasis control; initial 4 hours of monitoring time, including hourly physiological and 0895T laboratory assessments (eg, perfusate temperature, perfusate pH, hemodynamic parameters, bile production, bile pH, bile glucose, biliary bicarbonate, lactate levels, macroscopic assessment) Connection of liver allograft to normothermic machine perfusion device, hemostasis control; each additional hour, including physiological and laboratory assessments (eg, 0896T perfusate temperature, perfusate pH, hemodynamic parameters, bile production, bile pH, bile glucose, biliary bicarbonate, lactate levels, macroscopic assessment) (List separately in addition to code for primary procedure) 76391 Magnetic resonance (eg, vibration) elastography 76981 Ultrasound, elastography; parenchyma (eg, organ) Code Code Description F2 (prothrombin, coagulation factor II) (eg, hereditary hypercoagulability) gene 81240 analysis, 20210G>A variant F5 (coagulation Factor V) (eg, hereditary hypercoagulability) gene analysis, Leiden 81241 variant 81405 Molecular pathology procedure, Level 6 [interleukin 2 (IL-2) receptor] 84145 Procalcitonin Liver elastography, mechanically induced shear wave (eg, vibration), without 91200 imaging, with interpretation and report Duplex scan of arterial inflow and venous outflow of abdominal, pelvic, scrotal 93975 contents and/or retroperitoneal organs; complete study Other CPT codes related to the CPB: Hepatectomy, resection of liver; partial lobectomy; trisegmentectomy; total left 47120 - 47130 lobectomy; or total right lobectomy 81370 – 81383 HLA Class I and II typing, low resolution (eg, antigen equivalents) Human leukocyte antigen (HLA) crossmatch, non-cytotoxic (eg, using flow 86826 – 86828 cytometry) Blood typing, serologic; antigen testing of donor blood using reagent serum, each 86902 antigen test HCPCS codes not covered for indications listed in the CPB: Enteral formula, nutritionally incomplete/modular nutrients, includes specific nutrients, carbohydrates (e.g., glucose polymers), proteins/amino acids (e.g., B4155 glutamine, arginine), fat (e.g., medium chain triglycerides) or combination, administered through an enteral feeding tube, 100 calories = 1 unit J0480 Injection, basiliximab, 20 mg J2596 Injection, vasopressin (long grove), not therapeutically equivalent to j2598, 1 unit J2598 Injection, vasopressin, 1 unit J2599 Injection, vasopressin (american regent) not therapeutically equivalent to j2598, 1 unit J2601 Injection, vasopressin (baxter), 1 unit ICD-10 codes covered if selection criteria are met: B16.0, B16.2, B18.0 - B18.1, Acute hepatitis B with hepatic coma B19.11 B16.1, B16.9, Acute hepatitis B without mention of hepatic coma B19.10 B17.10 Acute hepatitis C without hepatic coma B17.11 Acute hepatitis C with hepatic coma B18.2 Chronic viral hepatitis C B19.20 - B19.21 Unspecified viral hepatitis C C22.0 Liver cell carcinoma C22.1 Intrahepatic bile duct carcinoma Code Code Description C22.2 Hepatoblastoma [in children] Neoplasm of uncertain behavior of liver, gallbladder and bile ducts [Epithelioid D37.6 hemangioendotheliomas] Disorders of aromatic amino-acid metabolism, disorders of branched-chain amino- E70.0 - E72.9 acid metabolism and fatty-acid metabolism and other disorders of amino-acid metabolism E80.0 Hereditary erythropoietic porphyria [Erythropoietic protoporphyria] E83.01 Wilson's disease E83.10, Other and unspecified disorders of iron metabolism E83.19 E83.110 - E83.119 Hereditary hemochromatosis E85.1 Neuropathic heredofamilial amyloidosis E88.01 Alpha-1-antitrypsin deficiency I82.0 Budd-Chiari syndrome K70.2 Alcoholic fibrosis and sclerosis of liver K70.30 - K70.31 Alcoholic cirrhosis of liver K73.1 - K73.8 Chronic hepatitis, not elsewhere classified K74.3 Primary biliary cirrhosis K74.4 Secondary biliary cirrhosis Other cirrhosis of liver [cryptogenic cirrhosis (of liver)] [post-necrotic cirrhosis (of K74.69 liver)] K75.4 Autoimmune hepatitis K75.81 - K75.9 Other and unspecified inflammatory liver diseases K76.5 Hepatic veno-occlusive disease K76.81 Hepatopulmonary syndrome Cholangitis [primary sclerosing cholangitis with development of secondary biliary K83.01 - K83.09 cirrhosis] K83.1 Obstruction of bile duct [MARS] Q44.2 Atresia of bile ducts Q44.3 Congenital stenosis and stricture of bile ducts Q44.6 Cystic disease of liver T86.40 - T86.49 Complications of liver transplant Z52.6 Liver donor ICD-10 codes not covered for indications listed in the CPB: A41.9 Sepsis, unspecified organism C24.0 Malignant neoplasm of extrahepatic bile duct T86.41 Liver transplant rejection Z76.82 Awaiting organ transplant status [liver] Liver transplantation status [not covered for the use of everolimus to prevent organ Z94.4 rejection] ICD-10 codes contraindicated for this CPB: Code Code Description Mental, Behavioral and Neurodevelopmental disorders [active substance abuse, F01 – F99 unstable psychiatric disease, psychosocial problem] Z59.00-Z59.02 Homelessness Z59.811 Housing instability, housed, with risk of homelessness Z59.812 Housing instability, housed, homelessness in past 12 months Progressive liver diseases that result in death either in short-term or long-term is known as end-stage liver disease (ESLD), which is evidenced by irreversible, progressive liver dysfunction, variceal bleeding, encephalopathy, synthetic dysfunction, poor growth, or poor nutritional status.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 89,
+      "text": "The authors concluded that liver transplantation appears to be futile in the presence of specific neurological signs or symptoms in patients affected with DGUOK deficiency.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 98,
+      "text": "More recently, Demetriou et al (2004) reported on the first prospective, randomized controlled trial of bioartificial liver, the HepatAssist Liver Support System in 171 patients with severe acute liver failure, including both fulminant/sub-fulminant hepatic failure and primary non-function following liver transplantation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 127,
+      "text": "The authors concluded that UDCA, as an adjuvant treatment, was not able to prevent ACR and steroid-resistant rejection after LT.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 156,
+      "text": "The authors concluded that peri-operative nutrition support adding immuno-nutrients like arginine, glutamine, ribonucleic acids, and ω-3 polyunsaturated fatty acids may improve outcomes in patients undergoing liver transplantation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 186,
+      "text": "The authors concluded that MARS treatment had no significant survival benefit on patients with liver failure when compared with standard medical therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 209,
+      "text": "The authors concluded that this randomized trial of MARS in patients with ALF was unable to provide definitive safety or effectiveness conclusions because many patients had transplantation before administration of the intervention; ALF not caused by paracetamol was associated with greater 6-month patient survival.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 220,
+      "text": "The authors concluded that the present meta-analysis indicated that MARS therapy can improve survival in patients with ALF.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 229,
+      "text": "The authors concluded that the use of albumin dialysis as supportive treatment for liver failure is successful at removing albumin-bound molecules, such as bilirubin and at improving hepatic encephalopathy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 231,
+      "text": "In a prospective, randomized, cross-over study, Sponholz et al (2016) compared 2 devices (MARS and single-pass albumin dialysis (SPAD)) with particular focus on reduction of bilirubin levels (primary end- point) and influence on para-clinical and clinical parameters (secondary end-points) associated with liver failure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 248,
+      "text": "The authors concluded that the OPAL may offer a better solution than the MARS in the treatment of refractory pruritus in liver failure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 258,
+      "text": "The authors concluded that based on very low-certainty evidence, there is no evidence of benefit or harm of any of the interventions for hepatorenal syndrome with regards to the following outcomes: all- cause mortality, serious adverse events (proportion), number of serious adverse events per participant, any adverse events (proportion), liver transplantation, or other decompensation events.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 272,
+      "text": "The authors concluded that MARS is a hemodynamically safe method for supporting the function of the liver and the kidneys.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 284,
+      "text": "The authors concluded that early MARS treatment was safe and feasible in patients with PHLF.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 346,
+      "text": "The authors concluded that there appeared a correlation between ES-NMP use and IC reduced risk, especially with longer follow-up periods and DCDs, although further high-quality studies are needed to confirm benefits and refine clinical use.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 355,
+      "text": "The authors concluded that the results of this meta-analysis showed that elevated pre-transplant NLR may be used as a new prognostic predictor after liver transplantation for HCC.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 367,
+      "text": "The authors concluded that pre- transplant high PLR values were connected with an increased risk of post-operative recurrence of HCC.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 382,
+      "text": "The authors concluded that TE performed best to diagnose recurrent fibrosis in liver transplantation recipients; APRI and FIB-4 can be used as an estimate of significant fibrosis at centers where TE is not available.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 420,
+      "text": "The authors concluded that IL-2 receptor expression demonstrated the highest diagnostic accuracy, while the peripheral eosinophil count was the only marker tested in more than 1 study.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 433,
+      "text": "The authors concluded that the findings of this study suggested that the FVL mutation may be a risk factor for HAT in liver transplantation; the risk was augmented in the presence of an arterial graft.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 442,
+      "text": "The authors concluded that the incidence of PE in solid-organ transplant recipients was 1.2 %.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 463,
+      "text": "The authors concluded that NGAL is a good predictor of early AKI following OLT although there was considerable variation in the published results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 485,
+      "text": "The authors concluded that based on low-certainty evidence, basiliximab induction may decrease mortality and graft failure compared to glucocorticoids induction in individuals undergoing LT.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 500,
+      "text": "The authors concluded that MP improved DGF and 1-year graft survival in kidney transplantation; it appeared to mitigate EAD in livers; however, more clinical studies are needed for verification with homogeneous parameters to measure the outcomes of interest, and to prove the potential superiority of these novel technologies in relation to PNF in livers.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 510,
+      "text": "The authors concluded that HMP was associated with a reduced incidence of EAD and biliary complications, as well as an increased 1-year graft survival; however, it was not associated with the incidence of PNF, vascular complications, and the LOS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 525,
+      "text": "The authors concluded that the association of A-NRP + D-HOPE in DCD LT with prolonged WIT allowed achieving comparable outcomes to DBD LT.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 548,
+      "text": "The authors concluded that although good quality evidence showed that injury markers and perfusion parameters during hypothermic kidney perfusion predicted graft outcome, these markers lack the predictive accuracy needed in clinical practice.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 562,
+      "text": "The authors concluded that LT is a rescue therapeutic option that should be carefully discussed in selected patients with neurologic WD resistant to anti-copper therapies (chelators or zinc salts) as it might allow patients to gain physical independency with a reasonable risk.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 576,
+      "text": "The authors concluded that in non-disseminated unresectable tumors, LT appeared to have a non-inferior survival.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 599,
+      "text": "The authors concluded that taking into account organ shortage, combined with the lack of level I evidence, more prospective, randomized trials are needed to establish certain indications, rigorous criteria and standardized protocols for LT in hCCA and provide the maximal potential benefits for these patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 612,
+      "text": "Scaffold-based transplantation is a comprehensive treatment combining organ and cell transplantations; future research on the clinical application of scaffold-based transplantation is expected.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 658,
+      "text": "The authors concluded that MP improved DGF and 1-year graft survival in kidney transplantation; it appeared to mitigate early allograft dysfunction in livers; however, more studies are needed to prove the potential superiority of these novel technologies in relation to PNF in livers.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 675,
+      "text": "The authors concluded that additional clinical studies on human patients including marginal donors and longer ischemia times are needed to confirm any superiority of preservation methods with respect to mitochondrial function.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 686,
+      "text": "The authors concluded that hypothermic oxygenated machine perfusion resulted in a lower risk of non-anastomotic biliary strictures following the transplantation of livers obtained from donors after circulatory death than conventional SCS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 701,
+      "text": "The authors concluded that despite the risk of transplant-related complications, LT was a viable therapeutic option in PA patients, with satisfactory survival rates and clinical outcomes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 713,
+      "text": "The authors concluded that this 1st quantitative systematic review confirmed favorable survival outcomes and partially improved disease-related complications in transplanted MMA patients, although some results should be interpreted with caution.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 742,
+      "text": "Gaurav et al (2022) noted that livers donated after circulatory death were associated with increased risk of primary non-function, poor function, and non-anastomotic strictures (NAS), leading to under-utilization.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 750,
+      "text": "The authors concluded that NRP and NMP were associated with better early liver function compared to SCS, whereas NRP was associated with superior preservation of the biliary system.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 768,
+      "text": "The authors concluded that monitoring EBV VL may reduce PTLD incidence after LT in adults; however, larger studies are needed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 786,
+      "text": "The authors concluded that the routine use of endobiliary stent in LT provided no additional benefits; moreover, stented patients were at higher risk of needing multiple endoscopic retrograde cholangiopancreatographies (ERCPs).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 803,
+      "text": "The authors concluded that the SNPs of the HMGB1 gene in either recipients or donors were not associated with mortality but influenced the incidence of EAD and sepsis, likely being a predictive biomarker for the risk of serious complications following LT.",
+      "label": "PREMISE"
+    }
+  ]
+}
