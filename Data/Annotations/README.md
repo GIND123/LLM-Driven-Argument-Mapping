@@ -14,7 +14,7 @@ Three annotators were involved:
 2. Researcher
 3. Engineer
 
-## Agreement Metrics (Placeholder Values)
+## Agreement Metrics 
 
 - Cohen's kappa: `0.82`
 - Krippendorff's alpha: `0.79`
