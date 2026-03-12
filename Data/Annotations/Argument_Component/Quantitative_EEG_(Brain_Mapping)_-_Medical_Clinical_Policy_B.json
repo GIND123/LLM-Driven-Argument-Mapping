@@ -1,0 +1,327 @@
+{
+  "document_id": "Quantitative_EEG_(Brain_Mapping)_-_Medical_Clinical_Policy_B",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 2,
+      "text": "I. Medical Necessity Aetna considers the use of quantitative EEG (brain mapping), also known as BEAM (Brain Electrical Activity Mapping), medically necessary only as an adjunct to traditional EEG for any of the following: A. For ambulatory recording of EEG to facilitate subsequent expert visual EEG interpretation; or B. For continuous EEG monitoring by frequency-trending to detect early, acute intracranial complications in the operating room or intensive care unit (ICU); or C. For evaluation of certain members with symptoms of cerebrovascular disease whose neuroimaging and routine EEG studies are not conclusive; or D. For evaluation of dementia and encephalopathy when the diagnosis remains unresolved after initial clinical evaluation; or E. For screening for possible epileptic seizures in high-risk ICU members; or F. For screening for possible epileptic spikes or seizures in long-term EEG monitoring; or G. For topographic voltage and dipole analysis in pre-surgical evaluations for intractable epilepsy. II.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "Experimental, Investigational, or Unproven A. Aetna considers the use of quantitative EEG experimental, investigational, or unproven for all other indications, including any of the following diagnoses because there is inadequate scientific evidence to prove its clinical usefulness for these indications: Alcoholism Anxiety As a marker of central neuropathic pain intensity in spinal cord injury As a prognostic biomarker for long-term outcomes in preterm infants with neurological and medical complications Asperger syndrome and other autism spectrum disorders Attention disorders (including attention deficit hyperactivity disorder) Bipolar disorder Chronic pain (diagnosis and guide to strategies for pain control) Depressed mood after stroke (screening) Depression (including monitoring and predicting the response of treatment) Drug abuse Eating disorder Fibromyalgia Hypoxic ischemic encephalopathy Insomnia Learning disability Management of individuals after chimeric antigen receptor (CAR)-T cell therapy Management of individuals in coma Mild or moderate head injury Minimally conscious state/persistent vegetative state Monitoring therapy responses and prognosticating neurological recovery of individuals with COVID-19 Obsessive compulsive disorder Panic disorder Parkinson's disease (including use as a biomarker in non-invasive brain stimulation therapy in Parkinson’s disease) Post-concussion syndrome Post-traumatic stress disorder (PTSD) Prediction of clinical impairment in stroke Prediction of outcomes in children following cardiac arrest Predicting response to psychotropic medication Prion diseases Schizophrenia Sepsis-associated encephalopathy prognosis Sports concussion (diagnosis and assessment of recovery) Tinnitus.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "B. BrainScope One system (Ahead 300) is considered experimental, investigational, or unproven for evaluation of concussion / traumatic brain injury because of insufficient evidence. III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Related Policies CPB 0480 - Tourette's Syndrome Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description CPT codes covered if selection criteria are met: Functional cortical and subcortical mapping by stimulation and/or recording of electrodes on brain surface, or of depth electrodes, to provoke seizures or identify 95961 vital brain structures; initial hour of attendance by a physician or other qualified health care professional.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Code Code Description each additional hour of attendance by a physician or other qualified health care + 95962 professional (List separately in addition to code for primary procedure) Other CPT codes related to the CPB: Chimeric antigen receptor T-cell (CAR-T) therapy; harvesting of blood-derived T 38225 lymphocytes for development of genetically modified autologous CAR-T cells, per day preparation of blood-derived T lymphocytes for transportation (eg, 38226 cryopreservation, storage) 38227 receipt and preparation of CAR-T cells for administration 38228 CAR-T cell administration, autologous 95812 - 95830 Electroencephalography HCPCS code covered if selection criteria are met: S8040 Topographic brain mapping HCPCS codes not covered for indications listed in the CPB: BrainScope One system (Ahead 300) - no specific code: Other HCPCS codes related to the CPB: Axicabtagene ciloleucel, up to 200 million autologous anti-cd19 car positive viable t Q2041 cells, including leukapheresis and dose preparation procedures, per therapeutic dose Tisagenlecleucel, up to 600 million car-positive viable t cells, including leukapheresis Q2042 and dose preparation procedures, per therapeutic dose ICD-10 codes covered if selection criteria are met (not all-inclusive): F02.80 Dementia in other diseases classified elsewhere, without behavioral disturbance F02.A0, F02.B0, Dementia in other diseases classified elsewhere, with behavioral disturbance F02.C0, F02.C4 F03.90 - F03.C4 Unspecified dementia Psychotic disorders with hallucinations and other specified mental disorders due to F06.1, F06.8 known physiological conditions G40.001 - G40.919 Epilepsy and recurrent seizures G92.00 - G92.9 Toxic encephalopathy G93.1 Anoxic brain damage, not elsewhere classified Encephalopathy, not elsewhere classified [not covered for assessing prognosis of G93.40 - G93.49 sepsis-associated encephalopathy] Code Code Description Intraoperative hemorrhage and hematoma of a nervous system organ or structure G97.31 - G97.32 complicating a procedure Occlusion and stenosis of precerebral arteries, occlusion of cerebral arteries, transient I65.01 - I69.998 cerebral ischemia, acute, but ill-defined cerebrovascular disease, other and ill-defined cerebrovascular disease, and late effects of cerebrovascular disease I97.810 - I97.821 Other intraoperative and postprocedural cerebrovascular infarction during surgery R56.1 Post traumatic seizures R56.9 Unspecified convulsions T56.0x1A - Toxic effect of lead and its compounds, accidental (unintentional) T56.0x1S ICD-10 codes not covered for indications listed in the CPB: A81.00 - A81.9 Atypical virus infections of central nervous system [Prion diseases] F07.81 Postconcussional syndrome F10.121 Alcohol abuse with intoxication delirium F10.14 Alcohol abuse with alcohol-induced mood disorder F10.150 - F10.159 Alcohol abuse with alcohol-induced psychotic disorder F10.180 - F10.19 Alcohol abuse with other alcohol-induced disorders F10.221 Alcohol dependence with intoxication delirium F10.230 - F10.24 Alcohol dependence with withdrawal and alcohol-induced mood disorder Alcohol dependence with alcohol-induced psychotic, persisting amnestic, persisting F10.250 - F10.29 dementia and other alcohol-induced disorders Alcohol use, unspecified, with intoxication, alcohol-induced mood, psychotic, F10.920 - F10.99 persisting amnestic, persisting dementia and other and unspecified alcohol-induced disorders F11.10 - F19.99 Drug induced mental disorders F20.0 - F20.9 Schizophrenia F25.0 - F25.9 Schizoaffective disorders F30.10 - F39 Mood [affective] disorders F34.1 Dysthymic disorder F41.0-F41.9 Generalized/mixed/other specified/unspecified anxiety disorders F42.2 - F42.9 Obsessive-compulsive disorder F43.10 - F43.12 Post-traumatic stress disorder F50.00 - F50.9 Eating disorders F51.01 Primary insomnia F51.02 Adjustment insomnia F51.03 Paradoxical insomnia F51.09 Other insomnia not due to a substance or known physiological condition F80.0 - F89 Pervasive and specific developmental disorders F90.0 - F90.9 Attention-deficit hyperactivity disorders G20.A1 - G20.C Parkinson's disease G47.00 Insomnia, unspecified G89.21 - G89.29 Chronic pain not elsewhere classified H93.11 - H93.93 Tinnitus H93.A1 - H93.A9 Pulsatile tinnitus I46.2 – I46.9 Cardiac arrest I97.120 – I97.121 Postprocedural cardiac arrest Code Code Description J12.82 Pneumonia due to coronavirus disease 2019 M79.7 Fibromyalgia P07.30 - P07.39 Preterm [premature] newborn P11.5 Birth injury to spine and spinal cord P29.81 Cardiac arrest of newborn P91.60 Hypoxic-ischemic encephalopathy (HIE), unspecified P91.819 Neonatal encephalopathy, unspecified Q00.0-Q07.9 Congenital malformations of the nervous system R40.20 - R40.2444 Coma R40.2A Nontraumatic coma due to underlying condition R40.3 Persistent vegetative state S06.0x0A - Intracranial injury [excluding those with skull fracture] S06.9x9S S09.10xA - S09.11xS S09.19xA - Head injury, unspecified S09.19xS, S09.8xxA - S09.90xS S14.101A- S14.159S, S24.101A- Spinal cord injury S24.159S, S34.101A- S34.139S R48.0 Dyslexia and alexia U07.1 COVID-19 W21.00xA - Striking against or struck by sports equipment W21.9xxS Z13.31 Encounter for screening for depression Z73.810 - Z73.819 Behavioral insomnia of childhood Personal history of transient ischemic attack (TIA), and cerebral infarction without Z86.73 residual deficits [depressed mood after stroke] Z86.74 Personal history of sudden cardiac arrest Quantitative EEG (qEEG) is a method of analyzing the electrical activity of the brain to derive quantitative patterns that may correspond to diagnostic information and/or cognitive deficits.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Quantitative EEG, a technique for topographic display and analysis of brain electrophysiological data, has been proposed for use in the diagnosis of various psychiatric disorders.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Clinical studies have demonstrated distinctive forms of brain electrical activity in psychiatric conditions including attention deficit disorder, schizophrenia, major depression, and obsessive-compulsive disorder.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "However, the clinical significance of these distinctive patterns of brain wave activity is unknown.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Thus the role of quantitative EEG in diagnosis, evaluation of disease progression, and treatment of these conditions has yet to be elucidated.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "A report from the American Academy of Neurology and the American Clinical Neurophysiology Society concluded that quantitative EEG remains investigational for clinical use in post-concussion syndrome, mild-to-moderate head injury, learning disability, attention disorders, schizophrenia, depression, alcoholism, and drug abuse.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "Clinical studies have demonstrated distinctive forms of brain electrical activity in neurologic and psychiatric conditions including learning disabilities, autism, traumatic brain injury, coma, schizophrenia, major depression, and obsessive-compulsive disorder.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "However, the clinical significance of these distinctive patterns of brain wave activity is unknown.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "Thus the role of quantitative EEG in diagnosis, evaluation of disease progression, and treatment of these conditions has yet to be elucidated.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "Quantitative EEG has been proposed for use in a broad array of potential applications.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 18,
+      "text": "There are no current guidelines from leading medical professional organizations recommending the use of quantitative EEG as a screening test for neurological and psychiatric conditions.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "In addition, there are no peer-reviewed published prospective studies of the use of quantitative EEG screening for these conditions showing that management is altered such that clinical outcomes are improved.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 20,
+      "text": "There are no published clinical studies demonstrating that use of quantitative EEG reduces the number of imaging studies or other follow-up tests.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 21,
+      "text": "In addition, there are no current guidelines from leading medical professional organizations recommending the use of quantitative EEG either as a prerequisite to, or as a replacement for, imaging studies.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 22,
+      "text": "While there is some evidence that electroencephalograph activity differs between normal control subjects and subjects suffering from tinnitus, additional evidence is needed to evaluate the value of including quantitative EEG in a battery of electrophysiological tests for the clinical identification of a predominantly central type of tinnitus.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "In addition, there is little evidence to support the use of quantitative EEG to determine the need for change of medications in the treatment of tinnitus.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 25,
+      "text": "However, there is a lack of reliable evidence from prospective studies demonstrating that clinical outcomes are improved by basing selection of psychotropic medications on quantitative EEG results compared to empiric selection.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 26,
+      "text": "The FDA approved prescribing information for psychotropic medications includes no recommendation for use of quantitative EEG in selection or dosing, and there are no current guidelines from leading medical professional organizations recommending such use of quantitative EEG.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 62,
+      "text": "The authors concluded that qEEG measures of background rhythm frequency and relative power in the band are potential predictive biomarkers for dementia incidence in PD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 84,
+      "text": "The authors concluded that qEEG analysis reveals significant differences between FM patients compared to age- and gender-matched healthy controls in a normative database, and has the potential to be a clinically useful tool for assessing brain function in FM patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 96,
+      "text": "The authors concluded that the CHI/b identified neonates with high Sarnat scores and abnormal EEG.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 109,
+      "text": "The authors concluded that these findings suggested a disrupted connection of the brain's entire functioning of maniac patients and represented a deregulation in cortical inhibitory mechanism.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 111,
+      "text": "The authors stated that these findings need to be confirmed in larger samples and in bipolar patients before start the pharmacological treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 123,
+      "text": "The authors concluded that emerging technologies and novel approaches that aid in sports concussion diagnosis and management are being introduced at a rapid rate.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 139,
+      "text": "The authors concluded that abnormalities in EEG and EPs are present in the majority of septic patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 146,
+      "text": "The authors concluded that the basic diagnostic evaluation for differentiating PVS from MCS consists of a standardized clinical examination.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 150,
+      "text": "Attention Deficit Hyperactivity Disorder (ADHD) The American Academy of Neurology (AAN)‘s practice advisory on “The utility of EEG theta/beta power ratio in ADHD diagnosis” (Gloss et al, 2016) evaluated the evidence for EEG theta/beta power ratio for diagnosing, or helping to diagnose ADHD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 151,
+      "text": "The authors identified relevant studies and classified them using AAN criteria.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 155,
+      "text": "The authors concluded that it is unknown whether a combination of standard clinical examination and EEG theta/beta power ratio increases diagnostic certainty of ADHD compared with clinical examination alone.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 159,
+      "text": "Level R (Level R recommendations are ones that “the guideline authors assert should be applied only in research settings).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 171,
+      "text": "The authors stated that these findings indicated that children with ADHD did not neurophysiologically constitute a homogenous group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 174,
+      "text": "The authors believed that these qEEG subtypes of ADHD are expected to provide valuable information for accurately diagnosing ADHD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 190,
+      "text": "The authors concluded that increased alpha and theta power at spontaneous EEG and low amplitudes of event- related potential (ERP) during various stimuli appeared to be clinical characteristics of individuals with chronic pain; qEEG can be a simple and objective tool for studying the mechanisms involved in chronic pain, identifying specific characteristics of chronic pain conditions and providing insights about appropriate therapeutic approaches.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 202,
+      "text": "The authors noted that since they did not aim to analyze or discuss the clinical significance of EEG as a tool to detect changes after interventions, their findings and conclusions came from observational studies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 215,
+      "text": "The authors found lower main background frequency, α power and α/θ power ratio and higher θ power in patients compared to control participants.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 219,
+      "text": "The authors concluded that these findings supported the use of qEEG to follow the progression of prion disease, with potential to help evaluate the treatment effects in future clinical-trials.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 229,
+      "text": "The authors stated that continued follow-up of aIPD patients and retrospective analysis of converting clinical cases may be helpful.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 238,
+      "text": "The authors concluded that the aberrant EEG oscillation in subjects with PSD differed between subjects with lesions of the left and right hemispheres, suggesting a complex association between depression and lesion location in stroke patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 248,
+      "text": "The authors concluded that depressed mood after stroke was associated with functional status; and qEEG parameters may be a useful tool in timely screening for depressed mood after stroke.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 256,
+      "text": "The authors concluded that these were the first available normative data for these tests when administered using the Ahead 300 system and will assist health care professionals in determining the degree to which scores on the cognitive tests reflect impaired performance.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 265,
+      "text": "The authors concluded that using an EEG-based biomarker high accuracy of predicting the likelihood of being CT+ was obtained, with high NPV and sensitivity to any traumatic bleeding and to hematomas; specificity was significantly higher than standard CT decision rules.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 274,
+      "text": "The authors concluded that rapid triage of TBI relies on strong initial predictors.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 292,
+      "text": "The authors concluded that despite substantial methodological and analytical differences across the 16 studies, the current review suggested that rs-EEG may provide a reliable technique to identify persistent functional changes in athletes after a concussion.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 299,
+      "text": "The authors found that for patients with or without symptoms of abnormal cognition or behavior, current evidence does not support the clinical use of qEEG either at the time of the injury or remote from the injury to diagnose mTBI (level U).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 331,
+      "text": "The authors concluded that the findings of this study suggested that high-trait-anxiety individuals failed to synchronize DMN during RS, reflecting a possible top-down cognitive control deficit.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 340,
+      "text": "The authors concluded that the findings of this study suggested that the increase in delta power in the central region and left P3 was negatively correlated with the decrease in executive function.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 371,
+      "text": "The authors concluded that qEEG features can standardize EEG interpretation and predict neurologic outcomes in children following cardiac arrest.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 392,
+      "text": "The authors found that spectral EEG frequencies were independent predictors of performance in attention tasks.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 416,
+      "text": "The authors concluded that neonatal quantitative EEG measures may be used as prognostic biomarkers to identify those infants who will develop long-term difficulties and who might benefit from early interventions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 446,
+      "text": "The authors concluded that qEEG features at baseline and reactivity could prognosticate neurological recovery in critically ill patients with COVID-19.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 447,
+      "text": "The ubiquity of cEEG monitoring allows rapid translation in the clinical practice to facilitate decision-making to mobilize or withhold limited resources, guide patient selection, and planning adaptive clinical trials.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 456,
+      "text": "The authors concluded that the results of this analysis indicated that the SARS-CoV-2 virus causes changes in the nervous system that can be manifested and detected in the EEG record.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 470,
+      "text": "The authors concluded that based on these findings, they recommended that additional studies are needed to validate EEG as a biomarker in non- invasive brain stimulation therapy in patients with PD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 499,
+      "text": "The authors concluded that they systematically evaluated major findings on qEEG and stroke, evidencing strengths, and potential pitfalls of this promising branch of research.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 506,
+      "text": "The authors concluded that EEG could be used to detect the intensity of NP to serve as a surrogate or pharmacodynamic marker.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 509,
+      "text": "In addition, the authors stated that future longitudinal studies with a larger number of subjects should be able to reveal additional smaller effect sizes relationships between pain and EEG, which could not be detected in the study.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 527,
+      "text": "The authors concluded that EEG was useful in seizure diagnosis; and qEEG has a possible role as a specific biomarker of encephalopathy/neurotoxicity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 536,
+      "text": "The authors concluded that alpha-coma demonstrated increased aperiodic activity and EEG complexity, despite similar alpha power and clustering coefficient.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 558,
+      "text": "The authors concluded that the use of qEEG spectral analysis to monitor MDD patients provided valuable insights into treatment effectiveness.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 559,
+      "text": "The distinct patterns of cortical activity observed across most brain regions before treatment, compared to HC, highlighted the potential of qEEG to predict treatment outcomes.",
+      "label": "PREMISE"
+    }
+  ]
+}
