@@ -1,0 +1,294 @@
+{
+  "document_id": "Infertility_-_Medical_Clinical_Policy_Bulletins___Aetna.html",
+  "source": "Aetna",
+  "relations": [
+    {
+      "source": 143,
+      "target": 135,
+      "type": "SUPPORT",
+      "similarity": 0.5941
+    },
+    {
+      "source": 143,
+      "target": 90,
+      "type": "NONE",
+      "similarity": 0.5914
+    },
+    {
+      "source": 143,
+      "target": 148,
+      "type": "SUPPORT",
+      "similarity": 0.588
+    },
+    {
+      "source": 147,
+      "target": 33,
+      "type": "SUPPORT",
+      "similarity": 0.7351
+    },
+    {
+      "source": 147,
+      "target": 32,
+      "type": "SUPPORT",
+      "similarity": 0.7152
+    },
+    {
+      "source": 147,
+      "target": 34,
+      "type": "SUPPORT",
+      "similarity": 0.6373
+    },
+    {
+      "source": 186,
+      "target": 34,
+      "type": "SUPPORT",
+      "similarity": 0.6742
+    },
+    {
+      "source": 186,
+      "target": 32,
+      "type": "SUPPORT",
+      "similarity": 0.6313
+    },
+    {
+      "source": 186,
+      "target": 163,
+      "type": "ATTACK",
+      "similarity": 0.6009
+    },
+    {
+      "source": 190,
+      "target": 22,
+      "type": "NONE",
+      "similarity": 0.4706
+    },
+    {
+      "source": 190,
+      "target": 16,
+      "type": "NONE",
+      "similarity": 0.4185
+    },
+    {
+      "source": 190,
+      "target": 21,
+      "type": "NONE",
+      "similarity": 0.4111
+    },
+    {
+      "source": 196,
+      "target": 162,
+      "type": "SUPPORT",
+      "similarity": 0.5929
+    },
+    {
+      "source": 196,
+      "target": 34,
+      "type": "NONE",
+      "similarity": 0.5423
+    },
+    {
+      "source": 196,
+      "target": 32,
+      "type": "NONE",
+      "similarity": 0.5216
+    },
+    {
+      "source": 208,
+      "target": 42,
+      "type": "ATTACK",
+      "similarity": 0.6783
+    },
+    {
+      "source": 208,
+      "target": 32,
+      "type": "SUPPORT",
+      "similarity": 0.6143
+    },
+    {
+      "source": 208,
+      "target": 163,
+      "type": "SUPPORT",
+      "similarity": 0.5815
+    },
+    {
+      "source": 215,
+      "target": 134,
+      "type": "NONE",
+      "similarity": 0.5535
+    },
+    {
+      "source": 215,
+      "target": 162,
+      "type": "SUPPORT",
+      "similarity": 0.5516
+    },
+    {
+      "source": 215,
+      "target": 163,
+      "type": "SUPPORT",
+      "similarity": 0.5504
+    },
+    {
+      "source": 218,
+      "target": 163,
+      "type": "SUPPORT",
+      "similarity": 0.5493
+    },
+    {
+      "source": 218,
+      "target": 162,
+      "type": "SUPPORT",
+      "similarity": 0.5166
+    },
+    {
+      "source": 218,
+      "target": 165,
+      "type": "SUPPORT",
+      "similarity": 0.4887
+    },
+    {
+      "source": 219,
+      "target": 32,
+      "type": "NONE",
+      "similarity": 0.4139
+    },
+    {
+      "source": 219,
+      "target": 34,
+      "type": "NONE",
+      "similarity": 0.3795
+    },
+    {
+      "source": 219,
+      "target": 42,
+      "type": "NONE",
+      "similarity": 0.3577
+    },
+    {
+      "source": 220,
+      "target": 162,
+      "type": "SUPPORT",
+      "similarity": 0.6349
+    },
+    {
+      "source": 220,
+      "target": 165,
+      "type": "SUPPORT",
+      "similarity": 0.5425
+    },
+    {
+      "source": 220,
+      "target": 4,
+      "type": "NONE",
+      "similarity": 0.5012
+    },
+    {
+      "source": 229,
+      "target": 162,
+      "type": "ATTACK",
+      "similarity": 0.533
+    },
+    {
+      "source": 229,
+      "target": 165,
+      "type": "ATTACK",
+      "similarity": 0.4341
+    },
+    {
+      "source": 229,
+      "target": 4,
+      "type": "SUPPORT",
+      "similarity": 0.405
+    },
+    {
+      "source": 245,
+      "target": 162,
+      "type": "SUPPORT",
+      "similarity": 0.466
+    },
+    {
+      "source": 245,
+      "target": 42,
+      "type": "NONE",
+      "similarity": 0.3997
+    },
+    {
+      "source": 245,
+      "target": 163,
+      "type": "SUPPORT",
+      "similarity": 0.3933
+    },
+    {
+      "source": 256,
+      "target": 4,
+      "type": "SUPPORT",
+      "similarity": 0.4893
+    },
+    {
+      "source": 256,
+      "target": 162,
+      "type": "SUPPORT",
+      "similarity": 0.4689
+    },
+    {
+      "source": 256,
+      "target": 19,
+      "type": "NONE",
+      "similarity": 0.4107
+    },
+    {
+      "source": 287,
+      "target": 166,
+      "type": "NONE",
+      "similarity": 0.2557
+    },
+    {
+      "source": 287,
+      "target": 165,
+      "type": "SUPPORT",
+      "similarity": 0.2468
+    },
+    {
+      "source": 287,
+      "target": 162,
+      "type": "SUPPORT",
+      "similarity": 0.2143
+    },
+    {
+      "source": 289,
+      "target": 162,
+      "type": "SUPPORT",
+      "similarity": 0.4341
+    },
+    {
+      "source": 289,
+      "target": 4,
+      "type": "SUPPORT",
+      "similarity": 0.3942
+    },
+    {
+      "source": 289,
+      "target": 165,
+      "type": "SUPPORT",
+      "similarity": 0.3673
+    },
+    {
+      "source": 312,
+      "target": 90,
+      "type": "SUPPORT",
+      "similarity": 0.317
+    },
+    {
+      "source": 312,
+      "target": 165,
+      "type": "SUPPORT",
+      "similarity": 0.2826
+    },
+    {
+      "source": 312,
+      "target": 162,
+      "type": "SUPPORT",
+      "similarity": 0.2194
+    }
+  ]
+}
