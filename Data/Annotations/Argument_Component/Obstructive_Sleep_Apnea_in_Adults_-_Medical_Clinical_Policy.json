@@ -1,0 +1,677 @@
+{
+  "document_id": "Obstructive_Sleep_Apnea_in_Adults_-_Medical_Clinical_Policy",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 2,
+      "text": "I. Medical Necessity A. Diagnosis Aetna considers the following tests medically necessary for diagnosing obstructive sleep apnea (OSA) in adults aged 18 years and older when criteria are met: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "Attended Full-Channel Nocturnal Polysomnography (NPSG) Attended full-channel nocturnal polysomnography (NPSG) (Type I device) performed in a healthcare facility is considered medically necessary for diagnosis in members with symptoms suggestive of obstructive sleep apnea (see Appendix), when attended NPSG is used as part of a comprehensive sleep evaluation with adequate follow-up, and member has one or more of the following indications for attended NPSG: a. Member has at least one of the following comorbid medical conditions that degrade the accuracy of portable monitoring: i. moderate to severe pulmonary disease (for example, COPD or asthma) (with nocturnal oxygen use or daytime hypercapnia with documented arterial blood gasses showing pO less than 60 or pCO greater than 45), 2 2 ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "neuromuscular disease (e.g., Parkinson’s disease, spina bifida, myotonic dystrophy, amyotrophic lateral sclerosis), iii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "super obesity (BMI greater than 45, or pulmonary function studies show obesity hypoventilation syndrome (BMI greater than 35 plus arterial blood gas with PCO greater than 45, or BMI greater than 35 plus inability to lie flat 2 in bed)); or b. Member has one or more of the following comorbid sleep disorders: i. periodic limb movement disorder (involuntary, jerking movements of the legs during sleep causing excessive daytime sleepiness (EDS) due to sleep fragmentation), ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "parasomnias that are unusual or atypical because of the individual’s age at onset, the time, duration or frequency of occurrence of the behavior including, but not limited to: nocturnal seizures, psychogenic dissociative states, REM sleep behavior disorder, sleep talking and/or confusional arousals, iii. severe insomnia, iv.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "Aetna considers attended full-channel nocturnal polysomnography (NPSG) (Type I device) performed in a healthcare facility medically necessary for members who meet criteria for implantation of the Inspire System.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "Note: Where attended NPSG is indicated, a split-night study NPSG is considered medically necessary, in which the final portion of the NPSG is used to titrate continuous positive airway pressure (CPAP), if the Apnea Hypopnea Index (AHI) is greater than 15 in first 2 hours of a diagnostic sleep study.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "An additional full-night CPAP titration NPSG is considered medically necessary only if the AHI is less than or equal to 15 during the first 2 hours of a diagnostic sleep study, or if the split-night study did not allow for the abolishment of the vast majority of obstructive respiratory events (see section I.B. below). 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "Unattended (Home) Sleep Studies Unattended (home) sleep studies using any of the following diagnostic techniques (see Appendix for definition of device types) are considered medically necessary for members with symptoms suggestive of OSA (see Appendix) when the home sleep study is used as part of a comprehensive sleep evaluation: a. Sleep monitoring using a Type II device; or b. Sleep monitoring using a Type III device, or c. Sleep monitoring using a Type IV(A) device, measuring airflow and at least 2 other channels and providing measurement of apnea-hypopnea index (AHI); or d. Sleep monitoring using a device that measures 3 or more channels that include pulse oximetry, actigraphy, and peripheral arterial tone (e.g., Watch-PAT device).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "Note: Sleep studies using devices that do not provide a measurement of apnea-hypopnea index (AHI) and oxygen saturation are considered not medically necessary because they do not provide sufficient information to prescribe treatment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 17,
+      "text": "Note that the ApneaLink does not meet criteria as a covered type IV device because it does not measure airflow; however, the ApneaLink Plus records 5 channels, including airflow, and meets criteria for a covered sleep study device.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "Attended full-channel nocturnal polysomnography (NPSG) (Type I device) performed in a healthcare facility is considered medically necessary for persons diagnosed with obstructive sleep apnea who have any of the following indications for attended NPSG: a. To titrate CPAP in persons diagnosed with clinically significant OSA for whom in- laboratory NPSG was medically necessary, but who were unable to undergo a split- night study because they had an insufficient AHI (less than 15) during the first two hours of an attended NPSG; or b. To titrate CPAP in persons with clinically significant OSA for whom in- laboratory NPSG was medically necessary, and who underwent a split-night study that did not abolish the vast majority of obstructive respiratory events; or c. To monitor results from CPAP in persons with OSA who have persistent significant symptoms (disturbed sleep with significant arousals) despite documented AHI less than 5 on CPAP and documented compliance with CPAP (CPAP used for 70 percent of nights for four or more hours per night, for two or more months); or d. To confirm diagnosis of obstructive sleep apnea prior to surgical modifications of the upper airway. 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 20,
+      "text": "Video-EEG-NPSG (NPSG with video monitoring of body positions and extended EEG channels) is considered medically necessary to assist with the diagnosis of paroxysmal arousals or other sleep disruptions that are thought to be seizure related when the initial clinical evaluation and results of a standard EEG are inconclusive. 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 21,
+      "text": "SNAP testing using 3 or more channels is considered a medically necessary method of home sleep testing; SNAP testing using less than 3 channels is considered experimental, investigational, or unproven.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "C. Repeat Sleep Study Indications It may be necessary to perform repeat sleep studies up to twice a year for any of the following indications.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 24,
+      "text": "Note: Where repeat testing is indicated, attended full-channel nocturnal polysomnography (NPSG) (Type I device) performed in a healthcare facility is considered medically necessary for persons who meet criteria for attended NPSG in section I.A. above; in all other cases, unattended (home) sleep studies are considered medically necessary: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 25,
+      "text": "To determine whether positive airway pressure treatment (i.e., CPAP, bilevel positive airway pressure (BiPAP), demand positive airway pressure (DPAP), variable positive airway pressure (VPAP), or auto-titrating positive airway pressure (AutoPAP)) continues to be effective in persons with new or persistent symptoms, after interrogation of current positive airway pressure device; or 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 26,
+      "text": "To determine whether positive airway pressure treatment settings need to be changed in persons with new or persistent symptoms, after interrogation of current positive airway pressure device. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 28,
+      "text": "For persons with substantial weight loss (loss of 10 percent or more body weight) or some other change in their medical condition that would affect the need for continued positive airway pressure treatment (e.g., heart attack, stroke, heart failure), to determine whether continued treatment with positive airway pressure treatment is necessary; or 4.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 30,
+      "text": "Note: A home sleep study is performed over multiple nights with a single interpretation is considered a single sleep study for purposes of reimbursement.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 31,
+      "text": "Note: Repeat sleep testing (home or attended sleep studies) for persons getting replacement CPAP equipment is considered not medically necessary unless the member also has one of the indications for repeat testing listed above.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 34,
+      "text": "a. Aetna considers CPAP, CPAP with pressure relief technology (eg, C-Flex, C-Flex +) autoPAP (APAP), and APAP with pressure relief technology (eg, A- Flex) medically necessary DME for members with a positive facility-based NPSGFootnote1*, or with a positive home sleep testFootnote1* including Type II, III, IV(A) or Watch-PAT devices, as defined by either of the following criteria: i. Member's apnea-hypopnea index (AHI) or respiratory disturbance index (RDI) is greater than or equal to 15 events/hour with a minimum of 30 events; or ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 35,
+      "text": "AHI or RDI greater than or equal to 5 and less than 15 events/hour with a minimum of 10 events and at least one of the following is met: a. Documented history of stroke; or b. Documented hypertension (systolic blood pressure greater than 140 mm Hg and/or diastolic blood pressure greater than 90 mm Hg); or c. Documented ischemic heart disease; or d. Documented symptoms of impaired cognition, mood disorders, or insomnia; or e. Excessive daytime sleepiness (documented by either Epworth greater than 10 (see Appendix)); or f. Greater than 20 episodes of oxygen desaturation (i.e., oxygen saturation of less than 85 %) during a full night sleep study, or any one episode of oxygen desaturation (i.e., oxygen saturation of less than 70 %).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 37,
+      "text": "If the AHI or RDI is calculated based on less than 2 hours of sleep or recording time, the total number of recorded events used to calculate the AHI or RDI (respectively) must be at least the number of events that would have been required in a 2-hour period (i.e., must reach more than 30 events without symptoms or more than 10 events with symptoms).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 50,
+      "text": "Requests for positive airway pressure devices will be considered not medically necessary if based upon an index that does not score apneas and hypopneas separately from other sleep disturbance events.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 57,
+      "text": "An oral pressure appliance (OPAP) is considered medically necessary DME only on an exception basis for members who are unable to tolerate a standard nasal/face mask due to facial discomfort, sinus pain, or claustrophobia from masks.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 58,
+      "text": "Replacement of positive airway pressure devices is considered medically necessary at the end of their 5-year reasonable useful lifetime (RUL).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 80,
+      "text": "Oral Appliances A. Mandibular advancement oral appliances to reduce upper airway collapsibility or tongue retaining devices are considered medically necessary for members who have sleep test results that meets one of the following criteria: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 81,
+      "text": "The AHI or RDI is greater than or equal to 15 events per hour with a minimum of 30 events; or 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 82,
+      "text": "The AHI or RDI is greater than or equal to 5 and less than 15 events per hour with a minimum of 10 events and documentation of: a. Documented history of stroke; or b. Documented hypertension (systolic blood pressure greater than 140 mm Hg and/or diastolic blood pressure greater than 90 mm Hg); or c. Documented ischemic heart disease; or d. Documented symptoms of impaired cognition, mood disorders, or insomnia; or e. Excessive daytime sleepiness (documented by either Epworth greater than 10 or MSLT less than 6); or f. Greater than 20 episodes of oxygen desaturation (i.e., oxygen saturation of less than 85 %) during a full night sleep study, or any 1 episode of oxygen desaturation (i.e., oxygen saturation of less than 70 %); or 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 83,
+      "text": "If the AHI is greater than 30 or the RDI is greater than 30 and meets either of the following: a. The member is not able to tolerate a positive airway pressure (PAP) device; or b. The use of a PAP device is contraindicated.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 84,
+      "text": "B. Replacement of oral appliances is considered medically necessary at the end of their 5-year RUL.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 85,
+      "text": "Replacement of these items is considered medically necessary prior to the end of the 5- year RUL due to a change in the member’s condition.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 87,
+      "text": "C. Oral appliances for snoring (e.g., Slow Wave DS8, and Snore Guard) are considered not medically necessary treatment of disease, as snoring is not considered a disease.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 92,
+      "text": "as treatment for OSA, even if medically necessary, are not available benefits under standard Aetna health insurance plans.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 95,
+      "text": "Medically Necessary Surgeries and Procedures Medically necessary procedures for the treatment of OSA in adults include: A. Adult Lingual or Pharyngeal Tonsillectomy and Adenoidectomy Aetna considers pharyngeal and lingual tonsillectomy medically necessary as an isolated procedure in adult OSA where hypertrophied tonsils compromise the airway space.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 98,
+      "text": "B. Drug-Induced Sleep Endoscopy (DISE) Aetna considers the use of DISE medically necessary to evaluate appropriateness of FDA- approved hypoglossal nerve stimulation if multiple levels of obstruction are suspected, and when all of the criteria for hypoglossal nerve stimulation are met.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 99,
+      "text": "Aetna considers DISE experimental, investigational, or unproven for all other indications because of insufficient evidence in the peer- reviewed published medical literature of its safety and effectiveness.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 100,
+      "text": "C. Hypoglossal Nerve Neuro-Stimulation Aetna considers Food and Drug Administration (FDA)-approved hypoglossal nerve neuro- stimulation (e.g., Inspire II System, Inspire 3028 system for Upper Airway Stimulation (UAS) Therapy) medically necessary for the treatment of moderate to severe obstructive sleep apnea when all of the following criteria are met: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 110,
+      "text": "Aetna considers hypoglossal nerve neuro-stimulation experimental, investigational, or unproven for all other indications.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 111,
+      "text": "Aetna considers non-FDA-approved hypoglossal nerve neuro-stimulation (e.g., the Apnex Hypoglossal Nerve Stimulation (HGNS™) System, the aura6000™ Neuro-stimulation System, ImThera’s Targeted Hypoglossal Neuro-stimulation Therapy, and WellStar upper airway neuro- stimulation implant) experimental, investigational, or unproven for the treatment of adult obstructive sleep apnea.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 112,
+      "text": "D. Jaw Realignment Surgery (i.e., hyoid myotomy and suspension, mandibular osteotomy, genioglossal advancement) Aetna considers jaw realignment surgery medically necessary for persons who fail other treatment approaches for OSA.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 113,
+      "text": "Although jaw realignment surgery may be considered medically necessary on an individual case basis, because of the extent of surgery, these cases may be subject to review by Aetna's Oral and Maxillofacial Surgery Unit to assess medical necessity.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 115,
+      "text": "Orthodontic therapy (i.e., the placement of orthodontic brackets and wires) is excluded from coverage under standard Aetna medical plans regardless of medical necessity.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 118,
+      "text": "E. Nasal Surgery Aetna considers nasal valve surgery, polypectomy, septoplasty, and turbinectomy medically necessary for adults with nasal obstruction and CPAP intolerance related to nasal issues and high pressure requirements.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 119,
+      "text": "Aetna considers a turbinectomy medically necessary for severe nasal obstruction due to hypertrophied inferior nasal turbinates.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 120,
+      "text": "Aetna considers a polypectomy medically necessary for severe nasal obstruction due to nasal polyps.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 122,
+      "text": "F. Palatopharyngoplasty Palatopharyngoplasty (uvulopalatopharyngoplasty (UPPP), uvulopharyngoplasty, uvulo-palatal flap, expansion pharyngoplasty, lateral pharyngoplasty, trans-palatal advancement pharyngoplasty, relocation pharyngoplasty) is used to treat OSA by enlarging the oropharynx; it is considered medically necessary for OSA members who meet the criteria for CPAP or AutoPAP (see above), but who have had an inadequate response or are intolerant to CPAP or AutoPAP, despite adjustments to pressure and mask, as appropriate. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 125,
+      "text": "Aetna considers palatopharyngoplasty experimental, investigational, or unproven for persons with non-obstructive sleep apnea, upper airway resistance syndrome (UARS), and for all other indications.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 126,
+      "text": "G. The Zzoma Positional Device Aetna considers the Zzoma positional device not medically necessary because it has not been proven to be superior to other interventions to keep a person in a non-supine position.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 127,
+      "text": "H. Tongue Base Reduction Surgery Aetna considers tongue reduction procedures (midline glossectomy and lingualplasty) medically necessary for OSA to relieve obstruction in the lower pharyngeal airway.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 128,
+      "text": "I. Tonsillectomy Aetna considers tonsillectomy medically necessary with UPPP in members who meet medical necessity criteria for UPPP (see above for criteria for CPAP or AutoPAP).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 129,
+      "text": "J. Tracheostomy Aetna considers tracheostomy medically necessary for those members with the most severe OSA not manageable by other interventions.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 139,
+      "text": "Additional x-rays are considered medically necessary when surgical intervention for OSA is being considered; or Daytime nap polysomnography; or Diagnostic audio recording, with or without pulse oximetry to diagnose sleep apnea; or Drug-induced sleep endoscopy (DISE procedure) for the treatment of tracheomalacia; or Dynamic sleep magnetic resonance imaging (MRI) for the diagnosis of OSA; or Elevoplasty (the Elevo Palatal Implant System) for the treatment of snoring; or Evaluation of gut microbiota for the management of OSA; or Genetic association studies (e.g., tumor necrosis factor-alpha (TNFA) 308 A/G polymorphism, angiotensin-converting enzyme (ACE) gene insertion/deletion, apolipoprotein E (ApoE) polymorphism) for the diagnosis of obstructive sleep apnea; or Laryngeal function studies; or Maintenance of wakefulness test; or Measurement of blood levels (serum and plasma) of C-reactive protein as a biomarker for the development of OSA; or Measurement of blood levels (serum and plasma) of interleukin-8 as a biomarker for the development of OSA syndrome (OSAS); or Measurement of blood levels (serum and plasma) of leptin as a biomarker for the development of OSAS; or Measurement of central corneal thickness, intra-ocular pressure, and retinal nerve fiber layer thickness for grading severities of obstructive sleep apnea syndrome (OSAS); or Measurement of circulating malondialdehyde concentrations as a biomarker for OSA; or Measurement of Fas-positive lymphocytes for evaluation of systemic inflammation in OSAS; or Measurement of plasma and serum interleukin-6 levels; or Measurement of plasma and serum tumor necrosis factor-alpha; or Measurement of serum/plasma brain-derived neurotrophic factor (BDNF) levels as a biomarker for OSA; or Measurement of serum/plasma insulin-like growth factor 1 (IGF-1) levels for diagnosis of OSA hypopnea syndrome; or Measurement of serum/plasma monocyte chemoattractant protein-1 (MCP-1) levels for diagnosis of OSA; or Multiple sleep latency test (see CPB 0330 - Multiple Sleep Latency Testing (MSLT) and Maintenance of Wakefulness Test (MWT)); or Natural sleep endoscopy for evaluation of OSA; or Quantitative susceptibility mapping brain iron levels for diagnosis and management of OSA; or Screening for asymptomatic OSA; or SleepStrip; or Sonography; or The static charge sensitive bed; or Tomographic X-ray; or Upper gastro-intestinal endoscopy for diagnosing OSAS; or Use of serum level of advanced glycation end-products as a biomarker of obstructive sleep apnea-hypopnea syndrome; or Voxel-based brain morphometry (VBM) studies for evaluation of OSA; or X-rays of the temporomandibular joint or sella turcica.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 140,
+      "text": "B. Treatment The following are considered experimental, investigational, or unproven for the treatment of obstructive sleep apnea (OSA) in adults because the effectiveness of these approaches has not been established: A BiPAP device with a backup rate feature (e.g., adaptive servoventilation, VPAP Adapt SV) (see CPB 0452 - Noninvasive Positive Pressure Ventilation) C.A.R.E. Appliances (DNA, mRNA, mmRNA) Daytime neuromuscular stimulation of the tongue (e.g., eXciteOSA) Expiratory muscle strength training for the treatment of OSA syndrome Oral appliances for treatment of upper airway resistance syndrome (UARS) Oral appliances to reduce upper airway collapsibility for indications other than OSA (see section III.A.); for policy on oral occlusal appliances used to treat temporomandibular joint (TMJ) disorders, see CPB 0028 - Temporomandibular Disorders Positive Airway pressure (PAP) for the treatment of persons with upper airway resistance syndrome (UARS) or for the improvement of seizure control in persons with epilepsy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 141,
+      "text": "C. Surgeries and Procedures The following surgeries and procedures are considered experimental, investigational, or unproven for the treatment of OSA because its effectiveness has not been established: Apnea-triggered muscle stimulation Cardiac (atrial) pacing Cautery-assisted palatal stiffening operation (CAPSO) Contraction of the sternothyroid muscle with ansa cervicalis stimulation Devices for positional therapy (e.g., the Lunoa System) Endoscopically-assisted surgical expansion (EASE) Epiglottidectomy / partial epiglottidectomy Genioplasty and genial tubercle advancement Injection snoreplasty, injection of a sclerosing agent into the soft palate Mandibular distraction osteogenesis Nasal dilators Nasal expiratory positive airway pressure (EPAP) (e.g., the Provent Sleep Apnea Therapy, and the ULTepap System) NighLase laser therapy for the treatment of snoring or OSA Pillar™ Palatal Implant System (Restore Medical, Inc.) Rapid maxillary expansion Remotely controlled mandibular positioner as a predictive screening tool for oral appliances that protrude the mandible Respiratory muscle therapy (i.e., breathing exercises, oropharyngeal exercises, and wind musical instruments) Somnoplasty and coblation (radiofrequency ablation of the tongue base, uvula or soft palate [Somnoplasty] or of the nasal passages and soft palate [Coblation] (see CPB 0592 - Radiofrequency Ablation of Hypertrophied Nasal Turbinates) Surgical palatal expansion The Advance System (an adjustable tongue-advancement device) The Repose (AIRvance Tongue Suspension) System and the Encore Tongue Base Suspension Aetna considers the AIRvance Tongue Suspension (formerly Repose) System, a minimally invasive technique involving tongue base suspension, and the Encore tongue base suspension, experimental, investigational, or unproven.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 154,
+      "text": "The authors concluded that there is a strong correlation between SleepStrip and AHI.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 173,
+      "text": "The authors reported that OPT was generally well tolerated with no serious adverse events.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 174,
+      "text": "The authors found that OPT significantly decreased AHI from 34.4 ± 28.9 events per hour (mean ± SD) at baseline to 20.7 ± 23.3 (p 0.8) at 12 and 24 months for overall ESS and FOSQ measures, and the effect size compared favorably to previously published effect size with other sleep apnea treatments.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 175,
+      "text": "The authors concluded that in a selected group of patients with moderate-to-severe OSA and BMI less than or equal to 32 kg/m2, hypoglossal cranial nerve stimulation therapy can provide significant improvement in important sleep related quality-of-life outcome measures and the effect is maintained across a 2-year follow-up period.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 176,
+      "text": "The authors stated that the drawbacks of this study included the lack of a control group and the highly selected patient population based on clinical, polysomnographic, and endoscopic/anatomical screening criteria, which may limit generalizability of these findings to other OSA populations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 189,
+      "text": "The authors concluded that selective UAS is a safe and effective therapy for patients with OSA and represents an option for its surgical treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 190,
+      "text": "The authors noted that additional adherence data are needed for longer follow-up duration.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 200,
+      "text": "The authors concluded that indication of each type of stimulation and long-term effects still need to be assessed but the implantable nerve stimulation is a promising treatment for patients without a therapy solution so far.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 208,
+      "text": "The authors concluded that UAS maintained a sustained benefit on patient-reported outcomes (ESS, FOSQ, snoring) at 48 months in select patients with moderate-to-severe OSA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 222,
+      "text": "The authors concluded that the findings of this study supported that upper airway stimulation is a safe and effective therapeutic option for patients with OSA in routine clinical practice. Level of Evidence = 4. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 225,
+      "text": "The authors state that selective upper-airway stimulation (UAS) is a novel therapy for patients with obstructive sleep apnea (OSA).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 243,
+      "text": "The authors concluded that improvements in sleepiness, QOL, and respiratory outcomes were observed with 5 years of UAS. Serious adverse events were uncommon.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 244,
+      "text": "The authors reported that \"UAS is a nonanatomic surgical treatment with long-term benefit for individuals with moderate to severe OSA who have failed nasal continuous positive airway pressure\".",
+      "label": "PREMISE"
+    },
+    {
+      "id": 253,
+      "text": "The authors concluded that patients who showed anterior- posterior velum collapse on volitional snore may be excellent candidates for confirmatory DISE at the time of HGNS implantation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 263,
+      "text": "The authors concluded that in select patients, the streamlined HGNS pathway may expedite time to surgery and reduce hospital costs with comparable clinical outcomes to a traditional 2-stage pathway.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 272,
+      "text": "The authors concluded that midline glossectomy with epiglottidectomy has variable results, yet is effective in selected patients with hypopharyngeal narrowing related to macroglossia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 281,
+      "text": "The authors concluded that the findings of this study showed that partial epiglottidectomy can increase the cure rate of patients with OSAS by 10 to 15 %.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 289,
+      "text": "The authors concluded that the findings of this study demonstrated that similar pathophysiological mechanisms may be involved in both laryngomalacia and in OSA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 301,
+      "text": "The authors concluded that trans-oral robotic surgery for tongue base reduction and partial epiglottidectomy for moderate to severe OSA in Asian patients for whom positive airway pressure treatment had failed is associated with good efficacy and low complication rates.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 309,
+      "text": "The authors identified a total of 31 population-based case-control studies reporting allele-frequency data on 48 polymorphism-OSA associations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 315,
+      "text": "The authors concluded that the developing field of OSA genetics is currently dominated by small and under-powered investigations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 329,
+      "text": "The authors concluded that the findings of this meta-analysis suggested that the TNFA-308G/A polymorphism contribute to the risk of OSAHS; further studies with larger sample should be performed to confirm these findings.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 339,
+      "text": "The authors concluded that these findings showed that the ApoE ε2 and ε4 alleles have no significant associations with OSA susceptibility based on available data.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 369,
+      "text": "The authors concluded that standard genioplasty, GTA and GTA-HS can improve OSA outcomes such as AHI and LSAT.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 382,
+      "text": "The authors concluded that lateral pharyngoplasty produced better clinical and polysomnographic outcomes in the treatment of OSAHS than did UPPP, without resultant differences in the cross-sectional measurements of the pharyngeal airway between these treatments.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 403,
+      "text": "The authors concluded that papers describing positive outcomes associated with newer pharyngeal techniques and multi-level procedures performed in small samples of patients appeared promising.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 415,
+      "text": "The authors concluded that the presence of severe lateral pharyngeal wall and/or supra-glottic collapse on pre-operative DISE was associated with OSAHS surgical failure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 425,
+      "text": "The authors concluded that in this small case series, lateral pharyngoplasty reduced the values obtained in the 24-hour ABPM due to a significant reduction of blood pressures during sleep in patients with OSA 6 months after surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 444,
+      "text": "The authors concluded that the findings of this study showed that only patients in the moderate category could benefit from adding lateral pharyngoplasty to UPPPP; however, patients in the mild or severe category did not benefit from adding this procedure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 466,
+      "text": "The authors concluded that AP, LP, and ESP did not appear to have any impact on nasalance scores of males.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 478,
+      "text": "The authors concluded that this systematic review showed that MDO was effective in resolving OSAS in adults with retrognathic mandible; and MDO also showed promising results in infants or children with OSAS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 489,
+      "text": "The authors concluded that existing evidence regarding the use of RCMP in patients with OSA indicated that it might be possible to protrude the mandible progressively during sleep under polysomnographic observation by RCMP until respiratory events are eliminated without disturbing sleep or arousing the patient.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 501,
+      "text": "The authors concluded that RME in children with OSAS appeared to be an effective treatment for this syndrome.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 514,
+      "text": "The authors concluded that improvement in AHI and lowest oxygen saturation had consistently been seen in children undergoing RME, especially in the short term (less than 3-year follow-up).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 526,
+      "text": "The authors concluded that the findings of this study added to psycho-radiology, which is a promising subspecialty of clinical radiology mainly for psychiatric disorders.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 551,
+      "text": "The authors concluded that the findings of this study demonstrated a strong association between complete lateral oropharyngeal wall collapse and increased OSA severity, particularly with objective oximetry measures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 573,
+      "text": "The authors concluded that \"application of DISE remains a subjective examination, even among those experienced operators, therefore more studies need to be performed for evaluation of improvement in inter-rater reliability after implantation of training videos\".",
+      "label": "PREMISE"
+    },
+    {
+      "id": 588,
+      "text": "The authors concluded that TORS for the treatment of OSAHS appeared to be a promising and safe procedure for patients seeking an alternative to traditional therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 599,
+      "text": "The authors concluded that both robotic surgery and endoscopic techniques for tongue base reduction improved objective measures of sleep apnea; greater success rates may be achieved with robotic surgery compared to traditional methods.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 609,
+      "text": "The authors concluded that OSAS was associated with a reduced RNFL in all quadrants compared to controls.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 620,
+      "text": "The authors concluded that the findings of this study suggested that peri-papillary RNFL thickness, IOP or CCT did not differ significantly between OSAS and control groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 632,
+      "text": "The authors concluded that lymphocytes with the expression of Fas receptor were associated with systemic inflammation in OSAS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 644,
+      "text": "The authors concluded that a conventional upper GI endoscopy might be useful as a diagnostic modality for OSAS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 652,
+      "text": "The authors concluded that the findings of this meta-analysis showed that the serum AGE level was elevated in patients with OSAHS; suggesting that AGEs may play an important role in insulin resistance in OSAHS and serve as a biomarker for patients with OSAHS with a high risk of type 2 diabetes mellitus.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 667,
+      "text": "The authors concluded that PT using the SPT effectively diminished the percentage of supine sleep and subjective sleepiness and improved sleep related QOL in patients with mild-to-moderate POSAS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 695,
+      "text": "The authors concluded that a reliable diagnosis of supine OSA should be considered, and further research is needed on patient-centered outcomes including comfort, barriers to adherence, cost-analysis, and long-term outcomes including the effect on cardiovascular disease, the metabolic syndrome, and insulin resistance.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 704,
+      "text": "The authors concluded that there is strong evidence that the new generation of devices for PT were effective in reducing the AHI during short- term follow-up.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 716,
+      "text": "The authors concluded that this was the first study on effects of PT with a new-generation smart device in patients with PCSA after 1 and 6 months of follow-up.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 747,
+      "text": "The authors concluded that this review found that CPAP had a greater effect on improving AHI compared with PT in positional OSA, while PT was better than inactive control for improving ESS and AHI.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 767,
+      "text": "The authors concluded that the findings of this systematic review highlighted respiratory muscle therapy as an adjunct management for OSA; however, further studies are needed, due to limitations including the nature and small number of studies, heterogeneity of the interventions and high risk of bias with low quality of evidence.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 779,
+      "text": "The authors concluded that the meta-analysis and meta-regression confirmed that, compared to healthy controls, individuals with OSAS (children and adults) had higher serum/plasma IL-6 levels.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 793,
+      "text": "The authors concluded that compared to healthy and age-matched controls, adult individuals with OSAS had significantly higher serum/plasma TNF-α levels.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 816,
+      "text": "The authors concluded that this study identified a significant association between OSA and elevated TNF-α level in adults; TNF-α levels were consistently correlated with severity of OSA, which indicated it might be a promising biomarker for the development of OSA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 828,
+      "text": "The authors concluded that EASE was an outpatient procedure that improved nasal breathing and OSA by widening the nasal floor in adolescents and adults.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 842,
+      "text": "The authors concluded that MARPE improved airflow and decreased resistance in UA; thus, it may be an effective treatment modality for adult patients with moderate OSAS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 854,
+      "text": "The authors concluded that TENS treatment of upper airway dilator muscles resulted in reduction of AHI in patients with OSA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 866,
+      "text": "The authors concluded that both invasive and transcutaneous ES reduced OSA severity by a clinically relevant margin; HNS resulted in a clinically relevant improvement of symptoms.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 882,
+      "text": "The authors concluded that in this meta-analysis the significantly higher MDA concentrations observed in OSA patients, when compared to non-OSA subjects, supported the presence of lipid peroxidation in OSA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 903,
+      "text": "The authors concluded that ACS independently increased VImax during propofol sedation and drove further increases in VImax when combined with HNS .",
+      "label": "PREMISE"
+    },
+    {
+      "id": 916,
+      "text": "The authors concluded that dynamic sleep MRI is an exciting adjunct for the evaluation of OSA patients and determining the specific locations and patterns of obstruction.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 933,
+      "text": "The authors concluded that higher CRP was prospectively associated with increased OSA risk, especially among younger individuals, under-weight/normal-weight individuals, or pre- menopausal women.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 953,
+      "text": "The authors concluded that the findings of this systematic review, meta-analysis and meta-regression demonstrated that higher plasma and serum levels of hs-CRP and serum levels of CRP in individuals with OSA appeared to be associated with the disease severity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 971,
+      "text": "The authors concluded that this meta-analysis verified that compared with controls, children and adults with OSAS have significantly elevated IL-8 concentrations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 997,
+      "text": "The authors concluded that a high plasma leptin level may be correlated with OSA, and the serum/plasma leptin level positively correlated with AHI.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1057,
+      "text": "The authors concluded that daytime NMES, using the eXciteOSA device, was demonstrated to be effective at reducing objective and subjective snoring, and was associated with improvement in sleep quality and daytime somnolence by the patient.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1080,
+      "text": "The authors concluded that this study demonstrates a notable improvement in both objective and subjective parameters of snoring and mild OSA in both simple snorers and patients with mild OSA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1131,
+      "text": "The authors concluded that intra-oral non-invasive ES devices could be considered a valid option to current therapies for snoring.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1172,
+      "text": "The authors concluded that daytime NMES was well- accepted, with a majority of participants using it for the recommended period; NMES of the tongue use was associated with improvements in OSA severity and daytime sleepiness.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1186,
+      "text": "The authors concluded that BDNF peripheral levels were not significantly altered in OSA or by its related treatment, preventing its use as a biomarker.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1201,
+      "text": "The authors concluded that serum/plasma IGF-1 concentrations in patients with OSAHS were greatly reduced compared with those of patients in the control group; and were negatively correlated with AHI and oxygen desaturation index scores and positively correlated with minimum oxygen saturation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1221,
+      "text": "The authors concluded that the findings of this meta-analysis showed that serum/plasma levels of MCP-1 in adults with OSA were significantly higher than those in controls, as well as in adults with severe OSA compared to mild/moderate OSA; thus, it appeared that MCP-1 could have a practical, clinical, and diagnostic importance in adults with OSA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1238,
+      "text": "The authors concluded that based on these findings, the NightLase LAUP treatment of OSA represented a safe and effective therapeutic method.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1253,
+      "text": "The authors concluded that NightLase was a safe, minimal invasive treatment that significantly reduced snoring compared to sham treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1276,
+      "text": "The authors concluded that HMS without palatal or tongue base sleep surgery improved OSA severity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1312,
+      "text": "The authors concluded that EMST significantly reduced systemic inflammation and oxidative stress while improving expiratory muscle strength in male patients with moderate OSAS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1325,
+      "text": "The authors concluded that the findings of this study implicated the potential bi-directional causal effects of the gut microbiota on OSA, potentially providing new insights into the prevention and treatment of OSA via specific gut microbiota.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1342,
+      "text": "The authors concluded that this study was the first to use QSM technology to show abnormal brain iron levels in OSA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 1343,
+      "text": "These researchers stated that correlations between brain iron content, PSG, and cognition in OSA may reveal neuropathological mechanisms, aiding OSA diagnosis.",
+      "label": "PREMISE"
+    }
+  ]
+}
