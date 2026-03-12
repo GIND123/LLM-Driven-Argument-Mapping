@@ -1,0 +1,262 @@
+{
+  "document_id": "Positive_Pressure_Ventilation_-_Medical_Clinical_Policy_Bull",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 3,
+      "text": "A. Noninvasive positive pressure ventilation (NPPV) with bilevel positive airway pressure (bilevel PAP, BIPAP) devices or a bilevel PAP device with a backup rate feature as durable medical equipment (DME) for members who have restrictive thoracic disorders (i.e., neuromuscular diseases or severe thoracic cage abnormalities), severe chronic obstructive pulmonary disease (COPD), central sleep apnea (CSA), complex sleep apnea (CompSA), hypoventilation syndrome, or obstructive sleep apnea (bilevel PAP without backup rate feature only), and who meet the medical necessity criteria for these conditions: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Restrictive Thoracic Disorders a. Chronic obstructive pulmonary disease (COPD) does not contribute significantly to the member's pulmonary limitation; and b. Member has a progressive neuromuscular disease (e.g., amyotrophic lateral sclerosis, etc.)",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "or a severe thoracic cage abnormality (e.g., post-thoracoplasty for tuberculosis, etc.),",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "and c. Member has symptoms of sleep-associated hypoventilation (nocturnal hypoxemia), such as daytime hypersomnolence, excessive fatigue, dyspnea, morning headache, cognitive dysfunction, etc.,",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "and d. Member has clinically significant hypoxemia, as indicated by any of the following: i. An arterial blood gas PaCO2, done while awake and breathing the member's usual FIO2 (fractional inspired oxygen concentration), is greater than or equal to 45 mm Hg; or ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Sleep oximetry demonstrates oxygen saturation less than or equal to 88 % for at least 5 minutes of nocturnal recording time (minimum recording time of 2 hours), done while breathing the member's usual FIO2; or iii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "For progressive neuromuscular disease only, maximal inspiratory pressures less than 60 cm H20 or forced vital capacity (FVC) less than 50 % predicted; 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Severe Chronic Obstructive Pulmonary Disease a. Member has symptoms of sleep-associated hypoventilation (nocturnal hypoxemia), such as daytime hypersomnolence, excessive fatigue, dyspnea, morning headache, cognitive dysfunction, etc.;",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "and b. Member has an arterial blood gas PaCO2 greater than or equal to 52 mm Hg; and c. Sleep oximetry demonstrates oxygen saturation less than or equal to 88 % for at least 5 cumulative minutes of nocturnal recording time (minimum recording time of two hours), done while breathing oxygen at 2 liters per minute (LPM) or the member's prescribed FIO2, whichever is higher; and d. Prior to initiating therapy, obstructive sleep apnea (OSA) (and treatment with continuous positive airway pressure (CPAP)) has been considered and ruled out.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "Note: Formal sleep testing is not required if there is sufficient information in the medical record to demonstrate that the member does not suffer from some form of sleep apnea (obstructive sleep apnea (OSA), CSA and/or CompSA) as the predominant cause of awake hypercapnia or nocturnal arterial oxygen desaturation.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "If all of the above criteria for members with COPD are met, a bilevel PAP device without a backup rate feature will be considered medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "A bilevel PAP device with a backup rate feature will only be considered medically necessary for COPD in either of the following situations below: i. A bilevel PAP device with a backup rate feature will be considered medically necessary for COPD starting any time after initial use of a bilevel Pap device without a backup rate feature when the following criteria are met: i. an arterial blood gas PaCO2, done while awake and breathing the member’s prescribed FIO2, shows that the member’s PaCO2 worsens greater than or equal to 7 mm Hg compared to the original result from criterion 2.b.(above); and ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "a facility-based PSG demonstrates oxygen saturation less than or equal to 88% for greater than or equal to a cumulative 5 minutes of nocturnal recording time (minimum recording time of 2 hours) while using a bilevel PAP device without a backup rate feature, that is not caused by obstructive upper airway events – i.e., AHI less than 5 (see CPB 0004 - Obstructive Sleep Apnea in Adults for criteria for a bilevel PAP device for obstructive sleep apnea); or ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 16,
+      "text": "A bilevel PAP device with a backup rate feature will be considered medically necessary for COPD when, after at least two months (60 days) of compliant use (an average of 4 hours use per 24 hour period) of a bilevel PAP device without a backup rate feature, and i. an arterial blood gas PaCO2 is done while awake and breathing the member’s prescribed FIO2, still remains greater than or equal to 52 mm Hg; and ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 17,
+      "text": "sleep oximetry while breathing with the bilevel PAP device without a backup rate feature, demonstrates oxygen saturation less than or equal to 88% for greater than or equal to a cumulative 5 minutes of nocturnal recording time (minimum recording time of 2 hours), done while breathing oxygen at 2 LPM or the member’s prescribed FIO2 (whichever is higher); 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 18,
+      "text": "Central Sleep Apnea (CSA) or Complex Sleep Apnea (CompSA) (see Glossary and Appendix for definitions) Prior to initiating therapy, a complete inpatient, attended polysomnogram must be performed documenting the following: a. The diagnosis of CSA or CompSA (see Appendix); and b. Significant improvement of the sleep-associated hypoventilation with the use of a bilevel PAP device with or without a backup rate feature on the settings that will be prescribed for initial use at home, while breathing the member's prescribed FIO2; 4.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "Hypoventilation Syndrome a. A bilevel device without a backup rate feature will be considered medically necessary for hypoventilation syndrome when criterion i and ii plus criterion iii or iv are met: i. An initial arterial blood gas PaCO2, done while awake and breathing the member’s prescribed FIO2, is greater than or equal to 45 mm Hg. ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 20,
+      "text": "Spirometry shows an FEV1/FVC greater than or equal to 70%. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 21,
+      "text": "Refer to Severe Chronic Obstructive Pulmonary Disease (above) for information about medical necessity for members with FEV1/FVC less than 70%.) iii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 22,
+      "text": "An arterial blood gas PaCO2, done during sleep or immediately upon awakening, and breathing the member’s prescribed FIO2, shows the member's PaCO2 worsened greater than or equal to 7 mm Hg compared to the original result. iv.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "A facility-based polysomnography (PSG) or home sleep test (HST) demonstrates oxygen saturation less than or equal to 88% for greater than or equal to 5 minutes of nocturnal recording time (minimum recording time of 2 hours) that is not caused by obstructive upper airway events – i.e., AHI less than 5. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 24,
+      "text": "See CPB 0004 - Obstructive Sleep Apnea in Adults for for information about bilevel PAP devices for obstructive sleep apnea); b. Bilevel device with a backup rate feature will be considered medically necessary for hypoventilation syndrome when criterion i and ii plus criterion iii or iv are met: i. A medically necessary bilevel PAP device without a backup rate feature is being used. ii.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 36,
+      "text": "C. Ventilator With Noninvasive Interfaces Aetna considers ventilators with noninvasive interfaces medically necessary for severe neuromuscular diseases, thoracic restrictive diseases, and chronic respiratory failure consequent to chronic obstructive pulmonary disease where interruption or failure of respiratory support would lead to death.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 48,
+      "text": "D. Multi-function Home Ventilator Aetna considers an FDA-approved multi-function home ventilator (e.g., VOCSN, VOCSN VC, VOCSN VC Pro [Ventec Life Systems, Inc.]) medically necessary for members who meet both of the following criteria: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 51,
+      "text": "E. Second Respiratory Assist Device Aetna considers a second invasive or non-invasive respiratory assist device medically necessary when it is required to serve a different purpose as determined by the member’s medical needs.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 56,
+      "text": "Experimental, Investigational, or Unproven The following interventions are considered experimental, investigational, or unproven because the effectiveness of these approaches has not been established: A. Noninvasive positive pressure ventilation (NPPV) for all other indications not listed in Section I, including the following (not an all-inclusive list): Acute lung injury As an alternative to endotracheal intubation following esophagectomy Asthma Bronchiolitis in infants and children Pneumonia Prevention of complications after pulmonary resection for lung cancer; B. Single-Breath Tests for Determining Airway Closure Volume Aetna considers single-breath nitrogen testing (also known as single-breath oxygen testing) experimental, investigational, or unproven because the value of this test in the management of persons with pulmonary disorders/diseases has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 61,
+      "text": "do not meet Aetna’s definition of DME because they are not primarily medical in nature, and they are of use in the absence of illness and injury. IV.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 109,
+      "text": "The authors concluded that at present, there is insufficient evidence to support the application of routine NPPV in patients with stable COPD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 119,
+      "text": "The authors concluded that LTHNIPPV significantly reduced mortality.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 144,
+      "text": "The authors concluded that randomized trials suggest that patients with acute hypoxemic respiratory failure are less likely to require endotracheal intubation when NPPV is added to standard therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 157,
+      "text": "The authors concluded that NPPV failure is an independent risk factor for ICU mortality, but NPPV patients who avoided intubation had the best outcomes compared with the other groups; early versus late intubation did not have a significant impact on outcomes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 178,
+      "text": "The authors concluded that this short-term study showed that non-invasive CPAP and BIPAP ventilation are associated with a significant and comparable decrease in respiratory effort in infants with upper airway obstruction.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 182,
+      "text": "Current practice following diagnosis of tracheomalacia include medical approaches aimed at reducing associated symptoms of tracheomalacia, ventilation modalities of CPAP and BiPAP and, surgical approaches aimed at improving the caliber of the airway (airway stenting, aortopexy, tracheopexy).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 192,
+      "text": "The authors concluded that there is currently an absence of evidence to support any of the therapies currently utilized for management of intrinsic tracheomalacia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 210,
+      "text": "The authors concluded that non-invasive ventilation with CPAP increased exercise tolerance in patients with stable CHF.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 228,
+      "text": "The authors concluded that early NIPPV did not decrease the need for mechanical ventilation compared with NCPAP, overall, in the first 72 hours of life.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 238,
+      "text": "The authors concluded that further RCTs that address these issues in children with ARF are recommended.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 259,
+      "text": "The authors concluded that the findings of this review indicated that CPAP or bi-level NPPV is a safe and effective intervention for the treatment of adults with acute respiratory failure after upper abdominal surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 275,
+      "text": "The authors concluded that NIV and CPAP were more effective than lifestyle modification in improving clinical symptoms and polysomnographic parameters, although NIV yielded better respiratory functional improvements than did CPAP.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 292,
+      "text": "The authors concluded that the findings from their ovine model suggested that an esophagectomy anastomosis can tolerate a considerably higher pressure than is transmitted to the esophagus during NPPV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 305,
+      "text": "The authors concluded that a trial of ASV for patients with idiopathic CSB is recommended if they do not have improvement in sleep respiration or daytime performance on CPAP and/or oxygen.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 314,
+      "text": "The authors concluded that in CHF patients with SDB, HCVR was reduced in the morning compared with the evening.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 322,
+      "text": "The authors concluded that in patients with central sleep apnea/Cheyne-Stokes respiration, mixed apneas, and complex sleep apnea, both NPPV and ASV are effective in normalizing breathing and sleep parameters, and that ASV does so more effectively than NPPV in these types of patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 368,
+      "text": "The authors concluded that the findings of the present study suggested that ASV therapy would improve the symptoms and hemodynamics of CHF patients, regardless of SDB severity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 376,
+      "text": "The authors concluded that in the present meta-analysis, use of NPPV plus SMT improved LVEF and reduced plasma BNP level; but did not improve overall mortality in patients with CHF.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 381,
+      "text": "Ferrier et al pointed out patients using CPAP (greater than 1 hour per night CPAP) had the greatest increase in LVEF; Joho et al found that the change in average use of ASV correlated with changes in LVEF.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 392,
+      "text": "The authors concluded that NIVS/BiPAP showed beneficial effects on exercise tolerance and dyspnea; it was safe and well-tolerated by HF patients and should be considered for inclusion in cardiac rehabilitation programs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 406,
+      "text": "The authors concluded that in this large, multi-center database study of infants with acute bronchiolitis that received initial respiratory support with high-flow nasal cannula or NPPV, use of the latter was associated with higher rates of invasive mechanical ventilation, even after adjusting for demographics, co-morbid condition, and severity of illness.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 447,
+      "text": "The authors concluded that the findings of this study showed that non-contrast imaging techniques could evaluate regional lung ventilation and re- distribution of lung volumes on NIPPV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 470,
+      "text": "The authors concluded that this review demonstrated that there was no additional benefit of using NIPPV in the post-operative period following pulmonary resection for all outcomes analyzed (pulmonary complications, rate of intubation, mortality, post-operative consumption of antibiotics, length of ICU stay, length of hospital stay and AEs related to NIPPV).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 525,
+      "text": "The authors concluded that children with RS exhibited similar characteristics and outcomes to other children using NIV.",
+      "label": "PREMISE"
+    }
+  ]
+}
