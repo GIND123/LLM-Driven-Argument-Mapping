@@ -1,0 +1,257 @@
+{
+  "document_id": "Smell_and_Taste_Disorders__Diagnosis_-_Medical_Clinical_Poli",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 2,
+      "text": "I. Medical Necessity Aetna considers certain procedures/services medically necessary for the evaluations of members with unexplained olfactory dysfunction (e.g., anosmia, hyposmia, dysosmia) and gustatory dysfunction (e.g., ageusia, hypogeusia, dysgeusia): A. Biopsy of the olfactory mucosa B. Drug assays and chemical analyses when certain medications or nutritional deficiencies are the suspected causes of the disorders C. Electroencephalography (EEG) for members with a history of seizures D. Hematological tests (e.g., hematocrit count, hemoglobin level, white blood cell count, urea nitrogen level, creatinine level, glucose level, erythrocyte sedimentation rate, eosinophil count, and immunoglobulin E level) E. Medical evaluation (complete medical history and physical examination) F. Nasal endoscopy G. Neuroimaging with computed tomography (CT) or magnetic resonance imaging (MRI) to rule out an intra-cranial or peripheral nerve abnormality H. Neurological consultation",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "I. Otolaryngological consultation J. Psychiatrical consultation K. Standard taste tests such as Taste-Threshold Test (also known as Whole-Mouth Taste-Threshold Test), Taste-Suprathreshold Test, Taste-Quadrant Test, and Flavor Discrimination Test (for evaluation of both taste and smell sensation) L. Standardized olfactory tests such as the University Of Pennsylvania Smell Identification Test (UPSIT) or \"Sniffin' Sticks\", the University of Connecticut Test Battery, the Pocket Smell Test, or the Brief Smell Identification Test.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Other tests include Smell-Threshold Test, Smell- Suprathreshold Test, and Smell Unilateral Test (For use of olfactory testing in Parkinson disease, see CPB 0307 - Parkinson's Disease.) M. Thyroid function studies.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Note: An initial and follow-up visit is considered medically necessary for smell and/or taste dysfunction testing.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Additional visits for testing are considered not medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Note: Members with taste loss may need smell testing in addition to taste testing. II.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Experimental, Investigational, or Unproven Aetna considers the following services as a means of diagnosing an unexplained olfactory dysfunction and gustatory dysfunction experimental, investigational, or unproven because the peer-reviewed medical literature does not support the use of these studies for this indication: Cerebrospinal fluid SARS-CoV-2 antibody testing Electrogustometry Genotyping of the TAS2R38 gene Magnetic resonance imaging for evaluation of COVID-19 olfactory dysfunction Measurement of nasal nitric oxide levels Olfactometry Olfactory and gustatory event potentials Positron emission tomography (PET) Rhinomanometry Rhinometry (also known as acoustic rhinometry) Single photon emission computed tomography (SPECT) Tests for Helicobacter pylori infection. III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "Related Policies CPB 0071 - Positron Emission Tomography (PET) CPB 0181 - Evoked Potential Studies CPB 0307 - Parkinson's Disease CPB 0376 - Single Photon Emission Computed Tomography (SPECT) CPB 0700 - Rhinometry and Rhinomanometry Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description CPT codes covered if selection criteria are met: 30100 Biopsy, intranasal 31231 Nasal endoscopy, diagnostic, unilateral or bilateral (separate procedure) 70450 Computed tomography head or brain; without contrast material 70460 with contrast material(s) 70470 without contrast material, followed by contrast material(s) and further sections Computed tomographic angiography, head, with contrast material(s), including 70496 noncontrast images, if performed, and image postprocessing Code Code Description Magnetic resonance (e.g., proton) imaging, brain (including brain stem); without 70551 contrast material 70552 with contrast material(s) 70553 without contrast material, followed by contrast material(s) and further sequences 82565 Creatinine; blood 82947 Glucose; quantitative, blood (except reagent strip) 84443 Thyroid stimulating hormone (TSH) 84520 Urea nitrogen; quantitative 85014 Blood count; hematocrit (Hct) 85018 hemoglobin (Hgb) 85032 manual cell count (erythrocyte, leukocyte, or platelet) each 85048 leukocyte (WBC), automated 85651 - 85652 Sedimentation rate, erythrocyte 86003 Allergen specific IgE; quantitative or semiquantitative, each allergen CPT codes not covered for indications listed in the CPB: Genotyping of the TAS2R38 gene, cerebrospinal fluid SARS-CoV-2 antibody testing - no specific code: Magnetic resonance (eg, proton) imaging, orbit, face, and/or neck; without contrast 70540 material(s) 70542 with contrast material(s) 70543 without contrast material(s), followed by contrast material(s) and further sequences 78267 Urea breath test, C-14 (isotopic); acquisition for analysis [Helicobacter pylori] 78268 analysis [Helicobacter pylori] 78608 Brain imaging, positron emission tomography (PET); metabolic evaluation Helicobacter pylori; breath test analysis for urease activity, non-radioactive isotope 83013 (eg, C-13) 83014 drug administration Infectious agent antigen detection by immunoassay technique, (eg, enzyme immunoassay [EIA], enzyme-linked immunosorbent assay [ELISA], 87338 immunochemiluminometric assay [IMCA]) qualitative or semiquantitative, multiple- step method; Helicobacter pylori, stool 92512 Nasal function studies (e.g., rhinomanometry) 95012 Nitric oxide expired gas determination Other CPT codes related to the CPB: Nasal/sinus endoscopy, diagnostic with maxillary sinusoscopy (via inferior meatus or 31233 canine fossa puncture) Nasal/sinus endoscopy, diagnostic with sphenoid sinusoscopy (via puncture of 31235 sphenoid face or cannulation of ostium) Nasal/sinus endoscopy, surgical; with biopsy, polypectomy, or debridement (separate 31237 procedure) 80150 - 80202 Therapeutic drug assays 84630 Zinc Code Code Description 92511 Nasopharyngoscopy with endoscope (separate procedure) Electroencephalogram (EEG) including recording awake and drowsy or including 95816 - 95819 awake and asleep ICD-10 codes covered if selection criteria are met: R43.0 - R43.9 Disturbances of smell and taste ICD-10 codes not covered if selection criteria are met: G52.0 Disorders of olfactory nerve [COVID-19 olfactory dysfunction] U09.9 Post COVID-19 condition, unspecified [COVID-19 olfactory dysfunction] Normal olfactory and gustatory functioning plays a key role in nutrition and food selection, and thus is important for the maintenance of a good quality of life.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "An impairment of the function of one sense often affects the function of the other sense.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 12,
+      "text": "In fact, complaints of gustatory loss usually reflect smell rather than taste dysfunction.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 13,
+      "text": "Deficits in these senses not only can reduce the pleasure and comfort from food, but can also lead to food poisoning or over-exposure to environmentally hazardous agents that are otherwise detectable by smell and taste.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "More than 2 millions Americans suffer from smell and taste disorders.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 16,
+      "text": "Common olfactory and gustatory disturbances could be the consequence of a variety of medications, upper respiratory infections, nasal and paranasal sinus diseases, depression, hypothyroidism, and damage to peripheral nerves supplying smell and taste.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 17,
+      "text": "In particular, inflammation (nasal and sinus disease), viral infection, and head trauma are the most frequent causes of smell disorders; while oral and perioral infections (e.g., gingivitis and candidiasis), oral appliances (e.g., dentures and filling materials), dental procedures and Bell's palsy are the most common causes of taste disorders.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 18,
+      "text": "Anosmia refers to an absence of the smell sensation; hyposmia is defined as reduced sensitivity to odorants (odor stimuli), and dysosmia refers to an altered perception of smell.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 21,
+      "text": "A careful medical history of systemic illnesses and medication use as well as a thorough physical examination are essential for the diagnosis of smell and taste disorders.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 22,
+      "text": "Work-up should not commence until a standardized test such as the University of Pennsylvania Smell Identification Test (UPSIT) or the University of Connecticut Test Battery has been given to establish impairment of the sense of smell.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "The University of Pennsylvania Smell Identification Test (UPSIT) is an objective, quantitative test of olfactory function.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 25,
+      "text": "The patient is provided with a list of 4 choices for each pad, and from which the correct answer must be chosen or a guess made.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 26,
+      "text": "It has been demonstrated that there is good correlation between UPSIT and other olfactory function tests such as the T&T olfactometer threshold test, Cain's odor identification test, and Le Nez du Vin-derived smell identification test.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 30,
+      "text": "Biopsy is necessary if intra-nasal or intra-oral neoplasm is suspected to be the cause of the dysfunction.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 31,
+      "text": "Furthermore, intra-nasal biopsy is also helpful in diagnosing post-upper respiratory infection-induced olfactory loss.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 33,
+      "text": "Neuroimaging such as CT or MRI may be necessary to rule out intra-cranial or peripheral nerve abnormalities.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 34,
+      "text": "Computed tomography is useful in imaging the nasal and sinus cavities, skull base, olfactory cleft, nasopharynx, parotid, oropharynx, neck, and mandible.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 36,
+      "text": "Magnetic resonance imaging is useful in evaluating the olfactory bulbs, ventricles, other soft tissues in the brain, soft tissues of the tongue, tongue base, blood vessels and nerves in the skull base and neck.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 41,
+      "text": "These investigators asked 114 subjects, some healthy but most with medical conditions possibly affecting taste, to rate their overall taste ability, on a scale of 0 to 10.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 42,
+      "text": "Those who had current symptoms related to taste, and who rated their taste as 5 or worse were defined as \"aberrant tasters\".",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 46,
+      "text": "The authors concluded that automated electrogustometry is not a useful clinical screening method for taste disturbance in this group of subjects.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 47,
+      "text": "There is insufficient scientific evidence to support the usefulness of olfactory evoked potentials, olfactometry, rhinometry, rhinomanometry, or electrogustometry in the diagnosis of smell and taste disorders.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 48,
+      "text": "Cecchini and colleagues (2013) stated that Helicobacter pylori (H. pylori) has been found in dental plaque, saliva and lingual sites.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 55,
+      "text": "On the basis of this report, the authors hypothesized that taste perception might be correlated with a documented H. pylori infection.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 56,
+      "text": "So, in a dyspeptic clinical picture in both pre- and post-diagnostic phase when H. pylori infection is suspected, taste evaluation might be important.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 65,
+      "text": "The authors concluded that olfactory function and nNO concentration correlated in chronic rhinosinusitis patients but not in healthy subjects.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 66,
+      "text": "This suggested that both parameters do rather not directly influence each other but it might be the inflammatory processes found in chronic rhinosinusitis that affects olfaction and nNO.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 67,
+      "text": "They stated that nNO produced by the paranasal sinuses appeared not to directly influence olfactory function.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 68,
+      "text": "Gupta and associates (2013) stated that nNO and olfactory function are decreased in patients with chronic inflammatory sinonasal disease, suggesting a link between these 2 parameters.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "The authors concluded that nNO levels did not allow for discrimination between olfactory loss due to various etiologies based on the present data.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 76,
+      "text": "Nasal NO production appeared to decrease with age and also seemed to be associated to overall olfactory function and in particular to central nervous system tasks such as olfactory discrimination and identification but not to olfactory thresholds.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 78,
+      "text": "Genotyping of the TAS2R38 Gene for Taste Disorders Melis and colleagues (2019) noted that taste sensitivity varies greatly among individuals influencing eating behavior and health, consequently the disorders of this sense can affect the quality of life (QOL).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 87,
+      "text": "The authors concluded that these findings, by showing that an only taster haplotype (PAV) was insufficient to evoke high responses of TAS2R38 receptor in patients with taste disorders, suggest that the genetic constitution may represent a risk factor for the development of taste disorders.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 88,
+      "text": "Furthermore, an UpToDate review on “Evaluation and treatment of taste and smell disorders” (Mann and Lafreniere, 2019) does not mention genetic testing as a management tool.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 103,
+      "text": "The authors concluded that the appropriate test agents and optimal concentrations for the retro-nasal olfaction tests remain unclear and emerge as limitations of the retro-nasal olfaction test technique.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 106,
+      "text": "The authors stated that their study of the literature consistently revealed 2 limitations of olfaction testing: a lack of use of known concentrations and doses of the test substances and conducting tests within the supra- threshold zone.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 114,
+      "text": "The authors concluded that the University of Pennsylvania Smell Identification Test was the most used test to examine the olfactory function of PD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 126,
+      "text": "The authors concluded that altered olfactory and/or gustatory function in patients with COVID-19 is common; however, the mechanism for these symptoms is uncertain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 143,
+      "text": "The authors concluded that olfactory cleft opacification is a key radiological marker of COVID‐19‐associated OD, while other findings like OB signal abnormalities, and olfactory mucosa abnormalities, appear less related.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 147,
+      "text": "The authors stated that future studies should examine radiological changes to the olfactory structures in a longitudinal fashion.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 161,
+      "text": "The authors concluded that MRI uncommonly detects intra-cranial pathology in patients with idiopathic OD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 162,
+      "text": "Among patients with mixed OD etiologies, reduced OB and gray matter volume were the most common abnormal findings on MRI.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 173,
+      "text": "The authors concluded that the findings of this review did not confirm alterations in structural imaging of the olfactory system, including OB volume and OS depth by Covid-19 which is consistent with the results of recent histopathological evaluations.",
+      "label": "PREMISE"
+    }
+  ]
+}
