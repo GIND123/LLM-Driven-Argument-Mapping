@@ -16,12 +16,6 @@ Three annotators were involved:
 
 ## Agreement Metrics (Placeholder Values)
 
-These are temporary placeholder values and will be replaced after formal inter-annotator agreement computation:
-
 - Cohen's kappa: `0.82`
 - Krippendorff's alpha: `0.79`
-
-## Notes
-
-- Placeholder agreement values are repeated in `annotation_metadata.csv` for traceability.
-- Replace these values once final IAA calculations are completed.
+ Replace these values once final IAA calculations are completed.
