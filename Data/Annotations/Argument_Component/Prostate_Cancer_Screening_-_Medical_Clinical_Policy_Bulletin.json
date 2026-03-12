@@ -1,0 +1,322 @@
+{
+  "document_id": "Prostate_Cancer_Screening_-_Medical_Clinical_Policy_Bulletin",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 3,
+      "text": "As a preventive service for men 45 years of age and older who are considered average-risk for prostate cancer, and for men 40 years of age and older who are considered at high-risk for prostate cancer.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Risk groups include African-American men and men with a family history of prostate cancer; Note: Routine prostate cancer screening for members 75 years of age or older is considered not medically necessary unless life expectancy is greater than or equal to 10 years. 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Annual PSA screening when used for routine screening in men with previously elevated PSAs or signs or symptoms of disease; B. PSA testing for men of all ages with signs or symptoms of prostate cancer, and for follow-up of men with prostate cancer; C. Annual digital rectal examination (DRE) as a service.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Medically necessary diagnostic PSA testing is covered regardless of whether the member has preventive service benefits. II.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "Experimental, Investigational, or Unproven The following interventions are considered experimental, investigational, or unproven because the effectiveness of these approaches has not been established: A. Measurement of selenium in the blood or in tissues (such as toenail clippings) to assess the risk of developing prostate cancer because it has no proven value for this indication; B. The following for prostate cancer screening because they have no proven value for this indication (not an all-inclusive list): +RNAinsight for ProstateNext Alpha-methylacyl coenzyme A racemase (AMACR) Analysis of prostatic fluid electrolyte composition (e.g., citrate, zinc; not an all inclusive list) Apifiny non-PSA blood test (Armune BioScience) BRAF mutations Early prostate cancer antigenE Endoglin EpiSwitch Prostate Screening Test E twenty-six (ETS) gene fusions Four-kallikrein panel (total PSA, free PSA, intact PSA, and human kallikrein-2) Genetic-based screening Human glandular kallikrein 2 (hK2) (also known as kallikrein-related peptidase 2 [KLK2]) Interleukin-6 MicroRNAs in prostatic fluid/tissue Neutrophil gelatinase-associated lipocalin (NGAL) Prostate cancer gene 3 (PCA3) ProstateNext Stockholm3 TMPRSS2:ERG gene fusion Transforming growth factor-beta 1. III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Related Policies CPB 0001 - Transrectal Ultrasound CPB 0352 - Tumor Markers Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description CPT codes covered if selection criteria are met: 84152 Prostate specific antigen (PSA); complexed (direct measurement) 84153 total 84154 free CPT codes not covered for indications listed in the CPB: Code Code Description Oncology (prostate), detection of 8 autoantibodies (ARF 6, NKX3-1, 5'-UTR-BMI1, 0021U CEP 164, 3'-UTR-Ropporin, Desmocollin, AURKAIP-1, CSNK2A2), multiplexed immunoassay and flow cytometry serum, algorithm reported as risk score Hereditary prostate cancer–related disorders, targeted mRNA sequence analysis panel 0133U (11 genes) (List separately in addition to code for primary procedure) Oncology (prostate), 5 DNA regulatory markers by quantitative PCR, whole blood, 0433U algorithm, including prostate-specific antigen, reported as likelihood of cancer Oncology (prostate), analysis of circulating plasma proteins (tPSA, fPSA, KLK2, PSP94, and GDF15), germline polygenic risk score (60 variants), clinical information 0495U (age, family history of prostate cancer, prior negative prostate biopsy), algorithm reported as risk of likelihood of detecting clinically significant prostate cancer [Stockholm3 test] BRAF (B-Raf proto-oncogene, serine/threonine kinase) (eg, colon cancer, melanoma), 81210 gene analysis, V600 variant(s) PCA3/KLK3 (prostate cancer antigen 3 [non-protein coding]/kallikrein-related 81313 peptidase 3 [prostate specific antigen]) ratio (eg, prostate cancer) Oncology (high-grade prostate cancer), biochemical assay of four proteins (Total 81539 PSA, Free PSA, Intact PSA, and human kallikrein-2 [hK2]), utilizing plasma or serum, prognostic algorithm reported as a probability score Immunoassay for analyte other than infectious agent antibody or infectious agent 83520 antigen; quantitative, not otherwise specified [neutrophil gelatinase-associated lipocalin (NGAL)] 84255 Chemistry, Selenium [PCA3] Other CPT codes related to the CPB: 88271 Molecular cytogenics; DNA probe, each (eg, FISH) chromosomal in situ hybridization, analyze 3-5 cells (eg, for derivatives and 88272 markers) 88273 chromosomal in situ hybridization, analyze 10-30 cells (eg, for microdeletions) 88274 Interphase in situ hybridization, analyze 25-99 cells 88275 Interphase in situ hybridization, analyze 100-300 cells 88291 Cytogenics and molecular cytogenics, interpretation and report Modifier 0Z Solid tumor gene, not otherwise specified HCPCS codes covered if selection criteria are met: G0102 Prostate cancer screening; digital rectal examination G0103 Prostate cancer screening; prostate specific antigen test (PSA) ICD-10 codes covered if selection criteria are met: C61 Malignant neoplasm of prostate D07.5 Carcinoma in situ of prostate D29.1 Benign neoplasm of prostate D40.0 Neoplasm of uncertain behavior of prostate N40.0 - N40.3 Enlarged prostate N42.30 - N42.39 Dysplasia of prostate R97.20 - R97.21 Elevated prostate specific antigen [PSA] Code Code Description Z12.5 Encounter for screening for malignant neoplasm of prostate Z15.03 Genetic susceptibility to malignant neoplasm of prostate Z80.42 Family history of malignant neoplasm of prostate Z85.46 Personal history of malignant neoplasm of prostate The decision to perform routine prostate cancer screening with digital rectal examination (DRE) or prostate- specific antigen (PSA) is left to the discretion of the clinician.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "Patients who request screening should be given objective information about the potential benefits and harms of early detection and treatment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "The ACS, however, acknowledges that currently there is no clinical trial evidence that screening for prostate cancer is associated with a reduction in mortality.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "The updated ACS guideline for the early detection of prostate cancer (Wolf et al, 2010) recommends both the PSA blood test and DRE should be offered annually, beginning at age 50, to men who have at least a 10-year life expectancy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 16,
+      "text": "Men at high-risk (African-American men and men with a strong family of 1 or more first- degree relatives (father, brothers) diagnosed at an early age) should begin testing at age 45.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 17,
+      "text": "Men at even higher risk, due to multiple first-degree relatives affected at an early age, could begin testing at age 40.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "The ACS states that information should be provided to all men about what is known and what is uncertain about the benefits and limitations of early detection and treatment of prostate cancer so that they can make an informed decision about testing.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 20,
+      "text": "Men who ask their doctor to make the decision on their behalf should be tested.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 21,
+      "text": "The ACS states that discouraging testing is inappropriate.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 22,
+      "text": "Furthermore, not offering testing is also inappropriate.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "In a review on prostate cancer screening, Ilic and colleagues (2011) concluded that prostate cancer screening did not significantly decrease all-cause or prostate cancer-specific mortality in a combined meta-analysis of 5 randomized controlled trials.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 24,
+      "text": "Any benefits from prostate cancer screening may take greater than 10 years to accrue; therefore, men who have a life expectancy of less than 10 to 15 years should be informed that screening for prostate cancer is not beneficial and has harms.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 25,
+      "text": "The American Urological Association (AUA, 2013) recommends against PSA screening in men under age 40 years (Grade C) and does not recommend routine screening in men between ages 40 to 54 years at average risk (Grade C).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 26,
+      "text": "AUA state that the greatest benefit of screening appears to be in men ages 55 to 69 years. \"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 27,
+      "text": "For men younger than age 55 years at higher risk, decisions regarding prostate cancer screening should be individualized.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 28,
+      "text": "Those at higher risk may include men of African American race; and those with a family history of metastatic or lethal adenocarcinomas (e.g., prostate, male and female breast cancer, ovarian, pancreatic) spanning multiple generations, affecting multiple first-degree relatives, and that developed at younger ages.\"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 29,
+      "text": "The National Comprehensive Cancer Network (NCCN, v.2.2018) recommends baseline screening beginning at age 45. \"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 30,
+      "text": "African-American men and men with a family history of prostate cancer represent high-risk groups.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 32,
+      "text": "Overall, the panel believes that it is reasonable for African-American men and those with a strong family history to begin discussing PSA screening with their providers earlier than those without such risk factors and to consider screening at annual rather than less frequent screening intervals.\"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 33,
+      "text": "Panelists uniformly agreed that PSA testing should only be offered to men with a 10 or more year life expectancy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 34,
+      "text": "The panel supports screening in men until age 75.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 35,
+      "text": "The panel recommends that PSA testing to be considered only in very healthy patients older than 75 years (category 2B); however, the panel uniformly discourage PSA testing in men unlikely to benefit from prostate cancer diagnosis based on age and/or comorbidity.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 36,
+      "text": "The panel recommends that frequency of testing be 2 to 4 years for men aged 45 to 75 years with serum PSA values below 1 ng/mL, and at 1 to 2 year intervals for men with PSA of 1 to 3 ng/mL. Most professional societies do not recommend routine screening for prostate cancer with DRE or serum tumor markers (e.g., PSA).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 37,
+      "text": "These include the American Academy of Family Physicians, the U.S. Preventive Services Task Force (USPSTF), the Institute for Clinical Systems Improvement, the Canadian Task Force on the Periodic Health Examination, the American College of Preventive Medicine, the U.S. Office of Technology Assessment, the American Society for Internal Medicine and American College of Physicians, the National Cancer Institute, the Centers for Disease Control and Prevention, and the technology assessment agencies of Canada, England, Sweden, and Australia.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 38,
+      "text": "The USPSTF (2018) recommends individualized decision-making about prostate cancer screening for men aged 55 to 69, thus providing a grade C recommendation for prostate cancer screening for men in that age group.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 39,
+      "text": "The USPSTF systematically reviewed evidence on prostate-specific antigen (PSA)-based prostate cancer screening, treatments for localized prostate cancer, and prebiopsy risk calculators, concluding that although screening offers a small potential benefit of reducing chance of death from prostate cancer in some men, many men will experience potential harms of screening (i.e., false-positives results that require additional testing and possible prostate biopsy, overdiagnosis, overtreatment, and treatment complications such as erectile dysfunction and urinary difficulties).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 48,
+      "text": "For men at \"average risk\", the authors recommend prostate screening discussions with their healthcare provider starting at the age of 50, and who also have a life expectancy greater than or equal to 10 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 49,
+      "text": "The authors recommend discontinuing the screening after age 69, or earlier when comorbidities limit life expectancy to less than 10 years, or patient decides against screening (Grade 2B).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 50,
+      "text": "The authors further note that stopping screening at age 65 may be appropriate if the PSA level is less than 1 ng/mL. If screening is to be performed, the generally accepted approach is to screen with DRE and PSA and to limit screening to men with a life expectancy of greater than 10 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 51,
+      "text": "There is currently insufficient evidence to determine the need and optimal interval for repeat screening or whether PSA thresholds must be adjusted for density, velocity, or age.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 52,
+      "text": "Schenk-Braat and Bangma (2006) noted that PSA is currently the most important biochemical marker for the diagnosis of prostate cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 54,
+      "text": "Furthermore, PSA is used as an indicator of progression or clinical response following prostate cancer therapy, but the prognostic value of this marker is limited.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 56,
+      "text": "Prostate-specific antigen velocity, the yearly rate of increase of PSA, has not been proven to improve the test characteristics of PSA, Schroder and colleagues (2006) stated that PSA-driven screening has been applied to a large part of the male population in many countries.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 57,
+      "text": "An elevated PSA in secondary screens may indicate benign enlargement of the prostate rather than prostate cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 69,
+      "text": "The authors concluded that PSAV did not improve the detection characteristics of a PSA cut-off of 4.0 ng/ml in secondary screening after 4 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 78,
+      "text": "The authors concluded that the use of PSAV as a biopsy indicator would miss a large number of clinically significant cases of prostate cancer with increasing PSAV cut-offs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 94,
+      "text": "The authors stated that further exploration and development of citrate, zinc and other electrolytes as prostatic fluid biomarkers are needed to address this critical prostate cancer issue.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 129,
+      "text": "The authors concluded that the findings of this meta-analysis suggested that TMPRSS2:ERG, or ERG over-expression, is associated with tumor stage but does not strongly predict recurrence or mortality among men treated with radical prostatectomy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 137,
+      "text": "The authors concluded that although several recently developed markers are promising, often showing increased specificity for prostate cancer detection compared to that of PSA, their clinical application is limited.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 152,
+      "text": "The authors concluded that the use of genetic markers has the potential to aid disease screening, improve prognostic discrimination, and prediction of response to treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 162,
+      "text": "The authors concluded that miRNA-based biomarkers are a promising tool for future personalized risk stratification and response prediction in urological cancers.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 170,
+      "text": "The authors concluded that the miRNAs are important regulators of biologic processes in PCa progression.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 191,
+      "text": "The authors concluded that NGAL gave promising results such as increased sensitivity and a better AUC values in order to distinguish PCa from BPH.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 206,
+      "text": "The authors concluded that autoantibodies against PCA can be developed as biomarkers for detecting PCA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 218,
+      "text": "The authors concluded that autoantibodies against peptides derived from prostate-cancer tissue could be used as the basis for a screening test for prostate cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 232,
+      "text": "The authors concluded that incorporating genetics into PCa screening is being investigated currently using both common SNP profiles and higher risk rare variants.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 247,
+      "text": "The authors concluded that advances in the field of uro-oncology such as the diagnostic performance of multi-parametric MRI and genomic interrogation have led to a position of potentially use these as screening tools in the right populations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 310,
+      "text": "The authors concluded that MRI with targeted and standard biopsy in men with MRI results suggestive of PCa was non-inferior to standard biopsy for detecting clinically significant PCa in a population-based screening-by-invitation trial and resulted in less detection of clinically insignificant cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 311,
+      "text": "The authors stated that the STHLM3-MRI trial was carried out in Stockholm, Sweden, with centralized radiologic and pathological assessment, which may limit generalizability to other health care settings.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 312,
+      "text": "In addition, only a single round of screening was conducted, so whether the reduction in over-diagnosis will be retained via multiple rounds of screening is unknown.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 336,
+      "text": "The authors concluded that the avoidance of systematic biopsy in favor of MRI-directed targeted biopsy for screening and early detection in persons with elevated PSA levels reduced the risk of over-diagnosis by 50 % at the cost of delaying detection of intermediate-risk tumors in a small proportion of patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 337,
+      "text": "The authors stated that drawbacks of this study included the relatively young participant age and the single- center design, which may have limited generalizability.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 359,
+      "text": "In addition, integrating PSA, as a continuous variable (rather than a dichotomized 3 ng/ml cut-off), with EpiSwitch in a new multi-variant stratification model, PSE test, yielded a remarkable combined PPV of 0.92 and NPV of 0.94 when tested on an independent, prospective cohort.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 360,
+      "text": "The authors concluded that the findings of this trial showed that combining the standard PSA read-out with circulating chromosome conformations (PSE Test) allowed for significantly enhanced PSA PPV and overall accuracy for PCa detection.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 361,
+      "text": "The PSE Test was accurate, rapid, minimally invasive, and inexpensive, suggesting significant screening diagnostic potential to minimize unnecessary referrals for expensive and invasive MRI and/or biopsy testing.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 363,
+      "text": "The authors stated that the drawbacks of this trial included small number of patients, unavailability of other clinical indices like Prostate Health Index (PHI) and 4K (which are not part of the standard of care (SOC) in the U.K.), retrospective set-up, no follow-up (due to double anonymity), and high cancer prevalence in the significant cancers cohort.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 371,
+      "text": "The authors concluded that this study showed that a 3D genomic approach could be used to develop a predictive clinical assay for response to PD-1/PD-L1 checkpoint inhibition in cancer patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 401,
+      "text": "The authors concluded that in this preliminary, descriptive report from an ongoing randomized clinical trial, 1 additional high-grade cancer per 196 men, and 1 low-grade cancer per 909 men were detected among those randomized to be invited to undergo a single PCa screening intervention compared with those not invited to undergo screening.",
+      "label": "PREMISE"
+    }
+  ]
+}
