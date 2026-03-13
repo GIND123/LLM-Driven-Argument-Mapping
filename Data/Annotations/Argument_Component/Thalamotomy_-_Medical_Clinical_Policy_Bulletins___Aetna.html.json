@@ -1,0 +1,1602 @@
+{
+  "document_id": "Thalamotomy_-_Medical_Clinical_Policy_Bulletins___Aetna.html",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Thalamotomy Number: 0153 Applicable CPT / HCPCS / ICD-10 Codes Scope of Policy This Clinical Policy Bulletin addresses thalamotomy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 2,
+      "text": "I. Medical Necessity A. Aetna considers unilateral thalamotomy medically necessary for abolishing tremor and rigidity in members with movement disorders, including dystonia, Parkinson's disease, spasmodic torticollis, tremor; and who meet all of the following selection criteria: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "Member has a history of positive response to drug therapy (i.e., member had a positive initial response to medication, but has subsequently become refractory); and 2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 4,
+      "text": "Member has been screened by a neurologist who has expertise in movement disorders to ensure all appropriate non-surgical therapies have been tried; and 3.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 5,
+      "text": "Member has severe and incapacitating tremors and medical therapy has failed as indicated by worsening of symptoms and/or disabling medication side effects.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 6,
+      "text": "B. Aetna considers focused ultrasound thalamotomy medically necessary for severe essential tremor (ET) inadequately responsive to medical therapy C. Aetna considers gamma knife thalamotomy medically necessary for the treatment of the following indications: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Severe essential tremor (ET) inadequately responsive to medical therapy; or 2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 8,
+      "text": "Refractory disabling tremor and rigidity from Parkinson's disease in persons who meet medical necessity criteria in section above. 3.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 9,
+      "text": "Last resort for the treatment of malignant pain when all of the following selection criteria are met: a. Advanced oncological disease with limited life expectancy; and b. Options for radiotherapy have been exhausted; and c. Best medical treatment has failed to cause pain relief or incurred the development of intolerable side effects; and d. Pain has failed to respond adequately to any targeted interventions (e.g., nerve blocks); and e. Absence of technical limitations or medical contraindications to thalamotomy. II.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 10,
+      "text": "Experimental, Investigational, or Unproven The following procedures are considered experimental, investigational, or unproven because the effectiveness of these approaches has not been established: Bilateral thalamotomy - according to guidelines from the American Academy of Neurology, bilateral (second side) thalamotomy is not recommended because of adverse side effects; Focused ultrasound thalamotomy - for the treatment of fragile X-associated tremor/ataxia syndrome, multiple sclerosis-associated tremor, non-ET tremor syndromes (e.g., dystonic tremor, dystonia gene-associated tremor, and Parkinson’s disease), and obsessive-compulsive disorder; Magnetic resonance-guided focused ultrasound thalamotomy for the treatment of refractory neuropathic pain; Sub-thalamic nucleus focused ultrasound thalamotomy - for the treatment of post-operative dystonia; Thalamotomy - for the treatment of non-malignant pain or other indications; Ventro-oral thalamotomy - for the treatment of focal hand dystonia; Ventro-oral focused ultrasound thalamotomy - for the treatment of segmental dystonia (including cervical dystonia). III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "Related Policies CPB 0208 - Deep Brain Stimulation - for deep brain stimulation for the treatment of essential tremor and Parkinson's disease CPB 0307 - Parkinson's Disease - for pallidotomy for the treatment of Parkinson's disease Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description Thalamotomy: CPT codes covered if selection criteria are met: Creation of lesion by stereotactic method, including burr hole(s) and localizing and 61720 recording techniques, single or multiple stages; globus pallidus or thalamus ICD-10 codes covered if selection criteria are met: G20.A1 - G20.C Parkinson's disease G21.0 - G21.9 Secondary Parkinsonism G24.01 - G24.9 Dystonia G24.3 Spasmodic torticollis Code Code Description G25.0 - G25.9 Other extrapyramidal and movement disorders G89.3 Neoplasm related pain (acute) (chronic) ICD-10 codes not covered for indications listed in the CPB (not all-inclusive): F42.2 - F42.9 Obsessive-compulsive disorder G89.0 - G89.29 Pain, not elsewhere classified G89.4 Chronic pain syndrome R52 Pain, unspecified Gamma knife thalamotomy: CPT codes covered if selection criteria are met: Stereotactic radiosurgery (particle beam, gamma ray or linear accelerator), 1 simple 61796 cranial lesion each additional cranial lesion, simple (List separately in addition to code for + 61797 primary procedure) 61798 1 complex cranial lesion each additional cranial lesion, complex (List separately in addition to code for + 61799 primary procedure) ICD-10 codes covered if selection criteria are met: G20.A1 - G21.9 Parkinson's disease G25.0 - G25.9 Other extrapyramidal and movement disorders Focused ultrasound thalamotomy: CPT codes covered if selection criteria are met: Magnetic resonance image guided high intensity focused ultrasound (MRgFUS), 61715 stereotactic ablation of target, intracranial, including stereotactic navigation and frame placement, when performed CPT codes not covered if selection criteria are met: Ventro-oral focused ultrasound thalamotomy and sub-thalamic nucleus focused ultrasound thalamotomy-no specific code HCPCS codes not covered if selection criteria are met: Focused ultrasound ablation/therapeutic intervention, other than uterine leiomyomata, C9734 with magnetic resonance (MR) guidance ICD-10 codes covered if selection criteria are met: Code Code Description G25.0 Essential tremor ICD-10 codes not covered if selection criteria are met: G20.A1 - G21.C Parkinson's disease G21.0 - G21.9 Secondary Parkinsonism G24.01 - G24.9 Dystonia G25.1 Drug-induced tremor [multiple sclerosis-associated tremor] G25.2 Other specified forms of tremor [multiple sclerosis-associated tremor] G56.00 - G56.93 Mononeuropathies of upper limb G57.00 - G57.93 Mononeuropathies of lower limb G58.0 - G58.9 Other mononeuropathies M54.10 - M54.18 Radiculopathy M54.40 - M54.42 Lumbago with sciatica M79.2 Neuralgia and neuritis, unspecified Q99.2 Fragile X syndrome Ventro-oral thalamotomy: CPT codes not covered for indications listed in the CPB: Ventro-oral thalamotomy - no specific code: ICD-10 codes not covered for indications listed in the CPB: G24.8 Other dystonia [focal hand dystonia] Thalamotomy, a surgical intervention for the treatment of various forms of movement disorders such as Parkinson's disease, tremor, and dystonia, is a procedure that severs nerve fibers from an area of the brain called the thalamus.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 12,
+      "text": "Movement disorders are often caused by lesions of the extrapyramidal motor system.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 13,
+      "text": "These disorders are characterized by involuntary movements including tremor, dystonia, chorea, athetosis, and hemiballism.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 14,
+      "text": "In the early 1960s, stereotactic thalamotomy with the ventrolateral nucleus as the target site was the treatment of choice for a wide variety of movement disorders, including the tremor and rigidity associated with Parkinson’s disease (PD).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 15,
+      "text": "The discovery of levodopa in the late 1960s, however, prompted the preferential use of pharmacotherapies over neuroablative procedures in the treatment of movement disorders in the last 35 years.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 16,
+      "text": "The limitations of drug therapy as well as the improvements in imaging (computerized tomography and magnetic resonance imaging) and electrophysiological recording techniques (microelectrode-guided mapping) led to renewed interests in the use of stereotactic thalamotomy for the management of patients with movement disorders.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 17,
+      "text": "Available evidence indicates that thalamotomy is an effective procedure in treating patients with movement disorders, especially for individuals with essential tremor or those with tremor secondary to PD.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 18,
+      "text": "Thalamotomy is effective in treating tremor, but has little or no effect on akinesia or bradykinesia.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "For PD patients with symptoms other than tremor, pallidotomy is preferred over thalamotomy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 20,
+      "text": "It is not surprising that both thalamotomy and pallidotomy have similar effects on tremor since the thalamic ventral nuclear group receives efferent projection from the globus pallidus.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 21,
+      "text": "Stereotactic thalamotomy is always carried out under local anesthesia.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 22,
+      "text": "The target site is delineated by means of a computed tomography (CT) or magnetic resonance imaging (MRI) scan performed with a stereotactic frame attached to the head.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 23,
+      "text": "In general, all types of tremor are best treated by lesions located in the ventralis intermedius nucleus (part of the ventralis lateralis nucleus) just anterior to the sensory relay nucleus.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 24,
+      "text": "Hypertonic disorders such as hemiballismus supposedly will respond to more anteriorly located lesions, in the anterior ventralis oralis posterior nucleus (part of the ventralis lateralis nucleus) or the ventralis oralis anterior nucleus.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 25,
+      "text": "The coordinates of the target site are determined in reference to a line drawn between the anterior commissure-posterior commissure (AC-PC line).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 26,
+      "text": "The typical coordinates for the ventralis intermedius nucleus (for the treatment of tremor) are usually 4 mm behind the midpoint of the AC-PC line, 13 mm lateral to midline, and 1 mm above the AC-PC line.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 27,
+      "text": "Proportional adjustments are made in relation to the length of the AC-PC line of the patient.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 28,
+      "text": "When the target coordinates have been defined, the patient is mildly sedated.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 29,
+      "text": "Under local anesthetic, the target site is reached through a frontal burr hole placed 1 cm anterior to the coronal suture and 3 cm lateral to the sagittal suture.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 30,
+      "text": "An insulated stimulating electrode is then inserted under impedance monitoring into the ventralis intermedius nucleus.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 31,
+      "text": "The target zone is stimulated with small electrical impulses, the goal of which is to ensure that the probe is in the correct location of the thalamus.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 32,
+      "text": "With electrical stimulation, tremor and rigidity can be reduced almost immediately and this confirms accurate placement of the probe.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 33,
+      "text": "Electrostimulation may cause untoward symptoms indicating that the electrode tip may need repositioning.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 34,
+      "text": "Young and colleagues (2000) investigated the long-term effects of gamma knife thalamotomy (GKT) for treatment of disabling tremor.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 35,
+      "text": "A total of 158 patients underwent MRI-guided radiosurgical nucleus ventralis intermedius (VIM) thalamotomy for the treatment of parkinsonian tremor (n = 102), essential tremor (n = 52), or tremor due to stroke, encephalitis, or cerebral trauma (n = 4).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 36,
+      "text": "Pre-operative and post-operative blinded assessments were performed by a team of independent examiners skilled in the evolution of movement disorders.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 37,
+      "text": "A single isocenter exposure with the 4-mm collimator helmet of the Leksell gamma knife unit was used to make the lesions.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 38,
+      "text": "In patients with Parkinson's disease 88.3 % became fully or nearly tremor-free, with a mean follow up of 52.5 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 39,
+      "text": "Statistically significant improvements were seen in Unified Parkinson's Disease Rating Scale tremor scores and rigidity scores, and these improvements were maintained in 74 patients followed 4 years or longer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 40,
+      "text": "In patients with essential tremor, 92.1 % were fully or nearly tremor-free post-operatively, but only 88.2 % remained tremor-free by 4 years or more post-GKT.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 41,
+      "text": "Statistically significant improvements were seen in the Clinical Rating Scale for tremor in essential tremor patients and these improvements were well maintained in the 17 patients, followed 4 years or longer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 42,
+      "text": "Only 50 % of patients with tremor of other origins improved significantly.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 43,
+      "text": "One patient sustained a transient complication and 2 patients sustained mild permanent side effects from the treatments.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 44,
+      "text": "The authors concluded that GKT (at the VIM) provided relief from tremor equivalent to that provided by radiofrequency thalamotomy or deep brain stimulation, but it is safer than either of these alternatives.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 45,
+      "text": "Additionally, long- term follow-up indicated that relief of tremor is well maintained.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 46,
+      "text": "No long-term radiation-induced complications have been observed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 47,
+      "text": "Niranjan and associates (2000) reported their findings of 12 patients (median age of 75 years) who underwent GKT for essential tremor (n = 9) or multiple sclerosis-related tremor (n = 3).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 48,
+      "text": "All 11 evaluable patients noted improvement in action tremor; 6 of 8 essential tremor patients had complete tremor arrest, and the violent action tremor in all 3 patients with multiple sclerosis was improved.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 49,
+      "text": "One patient developed transient arm weakness.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 50,
+      "text": "Stereotactic radiosurgery for essential tremor and multiple sclerosis-related tremor is safe and effective for patients who may be poor candidates for other procedures.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 51,
+      "text": "The findings by Young et al (2000) and Niranjan et al (2000) were in agreement with that of Ohye et al (2000) who reported that GKT appeared to be an alternative useful method in selected cases of parkinsonian and other tremors (n = 36).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 52,
+      "text": "Ohye and co-workers (2005) studied the effects of GKT on PD-related tremor and essential tremor before and after reloading of radioactive cobalt.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 53,
+      "text": "Based on experience in stereotactic thalamotomy aided by depth microrecording, the target was located at the lateral border of the thalamic VIM.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 54,
+      "text": "For more precise targeting, the percentage representation of the thalamic VIM in relation to the entire thalamic length is useful.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 56,
+      "text": "A maximum dose of 130 Gy was delivered to the target by using a single isocenter with the 4-mm collimator.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 57,
+      "text": "In more recent cases, a systematic follow-up examination was performed at 3, 6, 12, 18, and 24 months after GKT.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 58,
+      "text": "Since 1993, the authors have treated 70 patients with PD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 59,
+      "text": "Throughout the series the same dosimetric technique has been used.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 60,
+      "text": "The course after GKT was compared between the 25 cases with PD treated before reloading and the 35 cases treated after reloading.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 61,
+      "text": "In the majority (80 to 85 %) treated after reloading, tremor and rigidity were reduced around 6 months after GKT.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 62,
+      "text": "In the cases treated before reloading this effect took approximately 1 year.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 63,
+      "text": "Mathieu et al (2007) discussed their experience with GKT in the management of 6 consecutive patients suffering from disabling multiple sclerosis tremor.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 64,
+      "text": "The median age at the time of radiosurgery was 46 years (range of 31 to 57 years).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 65,
+      "text": "Intention tremor had been present for a median of 3 years (range of 8 months to 12 years).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 66,
+      "text": "One 4-mm isocenter was used to deliver a median maximum dose of 140 Gy (range of 130 to 150 Gy) to the VIM of the thalamus opposite the side of the most disabling tremor.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 67,
+      "text": "Clinical outcome was assessed using the Fahn-Tolosa-Marin scale.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 68,
+      "text": "The median follow-up was 27.5 months (range of 5 to 46 months).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 69,
+      "text": "All patients experienced improvement in tremor after a median latency period of 2.5 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 70,
+      "text": "More improvement was noted in tremor amplitude than in writing and drawing ability.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 71,
+      "text": "In 4 patients, the tremor reduction led to functional improvement.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 72,
+      "text": "One patient suffered from transient contralateral hemiparesis, which resolved after brief corticosteroid administration. No other complication was seen.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 73,
+      "text": "The authors concluded that GKT is effective as a minimally invasive alternative to stereotactic surgery for the palliative treatment of disabling multiple sclerosis tremor.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 74,
+      "text": "Kondziolka et al (2008) evaluated the results following GKT for medically refractory essential tremor in a series of patients in whom open surgical techniques were not desirable.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "A total of 31 patients underwent GKT for disabling essential tremor after medical therapy had failed. Their mean age was 77 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 76,
+      "text": "Most patients were elderly or had concomitant medical illnesses.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 77,
+      "text": "A single 4-mm isocenter was used to target a maximum dose of 130 or 140 Gy to the VIM.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 78,
+      "text": "Items from the Fahn-Tolosa-Marin clinical tremor rating scale were used to grade tremor and handwriting before and after radiosurgery. The median follow-up was 36 months.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 79,
+      "text": "In the group of 26 evaluable patients, the mean tremor score (+/- standard deviation) was 3.7 +/- 0.1 pre-operatively and 1.7 +/- 0.3 after radiosurgery (p < 0.000015).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 80,
+      "text": "The mean handwriting score was 2.8 +/- 0.2 before GKT and 1.7 +/- 0.2 afterward (p < 0.0002).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 81,
+      "text": "After radiosurgery, 18 patients (69 %) showed improvement in both action tremor and writing scores, 6 (23 %) only in action tremor scores, and 3 (12 %) in neither tremor nor writing.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 82,
+      "text": "Permanent mild right hemiparesis and speech impairment developed in 1 patient 6 months after radiosurgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 83,
+      "text": "Another patient had transient mild right hemiparesis and dysphagia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 84,
+      "text": "The authors concluded that GKT is a safe and effective therapy for medically refractory essential tremor.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 85,
+      "text": "Its use is especially valuable for patients ineligible for radiofrequency thalamotomy or deep brain stimulation.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 86,
+      "text": "Patients must be counseled on potential complications, including the low probability of a delayed neurological deficit.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 87,
+      "text": "Duma (2007) stated that GKT is an effective and useful alternative to invasive radiofrequency techniques for patients with movement disorder who are at high surgical risk.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 88,
+      "text": "The mechanical accuracy of the gamma unit combined with the anatomical accuracy of high-resolution MRI make radiosurgical lesioning safe and precise.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 89,
+      "text": "Furthermore, higher radiosurgical doses are more effective than lower ones at eliminating or reducing tremor, and are generally without complications.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 90,
+      "text": "Friehs et al (2007) noted that stereotactic radiosurgery (SRS) with the gamma knife and linear accelerator has revolutionized neurosurgery over the past 20 years.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 91,
+      "text": "The most common indications for radiosurgery today are tumors and arteriovenous malformations of the brain.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 92,
+      "text": "Functional indications such as treatment of movement disorders or intractable pain only contribute a small percentage of treated patients.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 93,
+      "text": "The authors stated that radiosurgical ventrolateral thalamotomy for the treatment of tremor in patients with PD or multiple sclerosis, as well as in the treatment of essential tremor, may be indicated for a select group of patients with advanced age, significant medical conditions that preclude treatment with open surgery, or patients who must receive anti-coagulation therapy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 94,
+      "text": "Critical outcome measures deemed important in assessing the effectiveness of thalamotomy in the treatment of patients with movements disorders are reduction or disappearance of tremor and rigidity, improvement in motor function, and/or reduction in the consumption of anti-parkinsonian or tremor medications.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 95,
+      "text": "There is sufficient scientific evidence that thalamotomy can alleviate or abolish tremor and rigidity in properly selected patients with movement disorders including PD, dystonia, tremor, and multiple sclerosis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 96,
+      "text": "Appropriate candidates for thalamotomy are patients with severe and incapacitating tremor who have tried and failed medical therapy as indicated by worsening of symptoms and/or disabling medication side effects.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 97,
+      "text": "Patients should have a history of positive response to drug therapy (i.e., positive initial response, then became refractory to medication).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 98,
+      "text": "Patients should be screened by a neurologist who has expertise in movement disorders to ensure all reasonable forms of pharmacotherapies have been tried and failed.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 99,
+      "text": "In a review on destructive procedures for the treatment of non-malignant pain, Cetas and colleagues (2008) reviewed the following ablative procedures: cingulotomy, cordotomy, dorsal root entry zone (DREZ) lesioning, ganglionectomy, mesencephalotomy, myelotomy, neurotomy, rhizotomy, sympathectomy, thalamotomy, and tractotomy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 100,
+      "text": "Articles related to pain resulting from malignancy and those not in peer- reviewed journals were excluded.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 101,
+      "text": "In reviewing pertinent articles, focus was placed on patient number, outcome, and follow-up.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 102,
+      "text": "A total of 146 articles was included in the review.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 103,
+      "text": "The majority of studies (n = 131) constituted Class III evidence.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 104,
+      "text": "Eleven Class I and 4 Class II studies were found, of which nearly all (13 of 15) evaluated radiofrequency rhizotomies for different pain origins, including lumbar facet syndrome, cervical facet pain, and Type I or typical trigeminal neuralgia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 105,
+      "text": "Overall, support for ablative procedures for non-malignant pain is derived almost entirely from Class III evidence; despite a long history of use in neurosurgery, the evidence supporting destructive procedures for benign pain conditions remains limited.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 106,
+      "text": "The authors concluded that newly designed prospective standardized studies are needed to define indications and outcomes for these procedures.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 107,
+      "text": "According to available literature, thalamotomy is contraindicated in any of the following circumstances where the safety and effectiveness of thalamotomy have not been established: Persons with dementia or cerebral atrophy; or Persons with Parkinson's plus or atypical Parkinson's disorders (e.g. multi-system atrophy involving the striatum, cerebellum, pons, and medulla such as striatonigral degeneration, olivoponto-cerebellar degeneration, progressive supranuclear palsy, or combined Alzheimer's and Parkinson's disease); or Persons with very advanced PD (Hoehn and Yahr stage V).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 108,
+      "text": "An UpToDate review on “Surgical treatment of essential tremor” (Tarsy, 2016) states that \"the long-term effectiveness and safety of this procedure [ultrasound thalamotomy] remain uncertain and warrant further study.”",
+      "label": "PREMISE"
+    },
+    {
+      "id": 109,
+      "text": "In a proof-of-concept study, Lipsman et al (2013) examined MRI-guided focused ultrasound thalamotomy to the management of essential tremor (ET).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 110,
+      "text": "This study was done in Toronto, Canada, between May, 2012, and January, 2013.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 111,
+      "text": "A total of 4 patients with chronic and medication-resistant ET were treated with MRI-guided focused ultrasound to ablate tremor-mediating areas of the thalamus.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 112,
+      "text": "Patients underwent tremor evaluation and neuroimaging at baseline and 1 month and 3 months after surgery.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 113,
+      "text": "Outcome measures included tremor severity in the treated arm, as measured by the clinical rating scale for tremor, and treatment-related adverse events.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 114,
+      "text": "Patients showed immediate and sustained improvements in tremor in the dominant hand.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 115,
+      "text": "Mean reduction in tremor score of the treated hand was 89.4 % at 1 month and 81.3 % at 3 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 116,
+      "text": "This reduction was accompanied by functional benefits and improvements in writing and motor tasks.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 117,
+      "text": "One patient had post- operative paraesthesias, which persisted at 3 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 118,
+      "text": "Another patient developed a deep vein thrombosis, potentially related to the length of the procedure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 119,
+      "text": "The authors concluded that MRI-guided focused ultrasound might be a safe and effective approach to generation of focal intracranial lesions for the management of disabling, medication-resistant ET.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 120,
+      "text": "They stated that if larger trials validate the safety and ascertain the effectiveness and durability of this new approach, it might change the way that patients with ET and potentially other disorders are treated.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 121,
+      "text": "In an open-label, pilot study, Elias et al (2013) examined the use of transcranial MRI-guided focused ultrasound thalamotomy for the treatment of ET.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 122,
+      "text": "From February 2011 through December 2011, these investigators used transcranial MRI-guided focused ultrasound to target the unilateral ventral intermediate nucleus of the thalamus in 15 patients with severe, medication-refractory ET.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 123,
+      "text": "They recorded all safety data and measured the effectiveness of tremor suppression using the Clinical Rating Scale for Tremor to calculate the total score (ranging from 0 to 160), hand sub-score (primary outcome, ranging from 0 to 32), and disability sub-score (ranging from 0 to 32), with higher scores indicating worse tremor.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 124,
+      "text": "These researchers assessed the patients' perceptions of treatment effectiveness with the Quality of Life in Essential Tremor Questionnaire (ranging from 0 to 100 %, with higher scores indicating greater perceived disability).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 125,
+      "text": "Thermal ablation of the thalamic target occurred in all patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 126,
+      "text": "Adverse effects of the procedure included transient sensory, cerebellar, motor, and speech abnormalities, with persistent paresthesias in 4 patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 127,
+      "text": "Scores for hand tremor improved from 20.4 at baseline to 5.2 at 12 months (p = 0.001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 128,
+      "text": "Total tremor scores improved from 54.9 to 24.3 (p = 0.001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 129,
+      "text": "Disability scores improved from 18.2 to 2.8 (p = 0.001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 130,
+      "text": "Quality-of-life scores improved from 37 % to 11 % (p = 0.001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 131,
+      "text": "The authors concluded that in this pilot study, ET improved in 15 patients treated with MRI-guided focused ultrasound thalamotomy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 132,
+      "text": "Moreover, they stated that large, randomized, controlled trials are needed to evaluate the procedure's safety and effectiveness.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 133,
+      "text": "The drawbacks of this study included: I. lack of a control group, II.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 134,
+      "text": "comprehensive cognitive assessments were not performed; and it is possible that focused ultrasound thalamotomy resulted in cognitive impairment, and III.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 135,
+      "text": "patients and researchers were all aware of treatments that were performed, which may have introduced bias in favor of reporting improvements in symptoms and quality of life. I. lack of a control group, II.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 136,
+      "text": "comprehensive cognitive assessments were not performed; and it is possible that focused ultrasound thalamotomy resulted in cognitive impairment, and III.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 137,
+      "text": "patients and researchers were all aware of treatments that were performed, which may have introduced bias in favor of reporting improvements in symptoms and quality of life.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 138,
+      "text": "Chang et al (2015) noted that recently magnetic resonance-guided focused ultrasound (MRgFUS) has been developed as a less-invasive surgical tool aimed to precisely generate focal thermal lesions in the brain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 139,
+      "text": "In this feasibility study, patients underwent tremor evaluation and neuroimaging study at baseline and up to 6 months after MRgFUS.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 140,
+      "text": "Tremor severity and functional impairment were assessed at baseline and then at 1 week, 1 month, 3 months, and 6 months after treatment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 141,
+      "text": "Adverse effects were also sought and ascertained by directed questions, neuroimaging results and neurological examination.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 142,
+      "text": "The current feasibility study attempted MRgFUS thalamotomy in 11 patients with medication-resistant ET.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 143,
+      "text": "Among them, 8 patients completed treatment with MRgFUS, whereas 3 patients could not complete the treatment because of insufficient temperature.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 144,
+      "text": "All patients who completed treatment with MRgFUS showed immediate and sustained improvements in tremors lasting for the 6-month follow-up period.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 145,
+      "text": "Skull volume and maximum temperature rise were linearly correlated (linear regression, p = 0.003).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 146,
+      "text": "Other than 1 patient who had mild and delayed post-operative balance, no patient developed significant post-surgical complications; about 50 % of the patients had bouts of dizziness during the MRgFUS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 147,
+      "text": "The authors concluded that these results demonstrated that MRgFUS thalamotomy is a safe, effective and less-invasive surgical method for treating medication-refractory ET.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 148,
+      "text": "However, they stated that several issues must be resolved before clinical application of MRgFUS, including optimal patient selection and management of patients during treatment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 149,
+      "text": "Jung et al (2015) reported different MRI patterns in patients with essential tremor (ET) or obsessive- compulsive disorder (OCD) after transcranial MRgFUS and discussed possible causes of occasional MRgFUS failure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 150,
+      "text": "Between March 2012 and August 2013, MRgFUS was used to perform unilateral thalamotomy in 11 ET patients and bilateral anterior limb capsulotomy in 6 OCD patients; in all patients symptoms were refractory to drug therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 151,
+      "text": "Sequential MR images were obtained in patients across a 6- month follow-up period.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 152,
+      "text": "For OCD patients, lesion size slowly increased and peaked 1 week after treatment, after which lesion size gradually decreased.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 153,
+      "text": "For ET patients, lesions were visible immediately after treatment and markedly reduced in size as time passed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 154,
+      "text": "In 3 ET patients and 1 OCD patient, there was no or little ° temperature rise (i.e., less than 52 C) during MRgFUS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 155,
+      "text": "Successful and failed patient groups showed differences in their ratio of cortical-to-bone marrow thickness (i.e., skull density).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 156,
+      "text": "The authors found different MRI pattern evolution after MRgFUS for white matter and gray matter.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 157,
+      "text": "These results suggested that skull characteristics, such as low skull density, should be evaluated prior to MRgFUS to successfully achieve thermal rise.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 158,
+      "text": "There is currently insufficient evidence to support the use of MRgFUS for the treatment of ET and OCD.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 159,
+      "text": "Schlesinger and co-workers (2015) investigated the effectiveness of MRgFUS for moderate-to-severe tremor in PD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 160,
+      "text": "A total of 7 patients (mean age of 59.4 ± 9.8 years, range of 46 to 74) with a mean disease duration of 5.4 ± 2.8 years (range of 2 to 10) suffering from severe refractory tremor, underwent VIM thalamotomy using MRgFUS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 161,
+      "text": "Tremor stopped in the contralateral upper extremity in all patients immediately following treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 162,
+      "text": "Total Unified Parkinson's Disease Rating Scale (UPDRS) decreased from 37.4 ± 12.2 to 18.8 ± 11.1 (p = 0.007) and PDQ-39 decreased from 42.3 ± 16.4 to 21.6 ± 10.8 (p = 0.008) following MRgFUS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 163,
+      "text": "These effects were sustained (mean follow-up of 7.3 months).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 164,
+      "text": "Adverse events (AEs) during MRgFUS included headache (n = 3), dizziness (n = 2), vertigo (n = 4), and lip paresthesia (n = 1) and following MRgFUS were hypogeusia (n = 1), unsteady feeling when walking (n = 1, resolved), and disturbance when walking tandem (n = 1, resolved).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 165,
+      "text": "The authors concluded that thalamotomy using MRgFUS is safe and effective in PD patients; however, large randomized studies are needed to evaluate prolonged safety and effectiveness.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 166,
+      "text": "Elias and colleagues (2016) noted that uncontrolled pilot studies have suggested the effectiveness of MRgFUS for the treatment of ET.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 167,
+      "text": "These investigators enrolled patients with moderate-to-severe ET that had not responded to at least 2 trials of medical therapy and randomly assigned them in a 3:1 ratio to undergo unilateral focused ultrasound thalamotomy or a sham procedure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 168,
+      "text": "The Clinical Rating Scale for Tremor (CRST) and the Quality of Life in Essential Tremor Questionnaire (QUEST) were administered at baseline and at 1, 3, 6, and 12 months.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 169,
+      "text": "Tremor assessments were videotaped and rated by an independent group of neurologists who were unaware of the treatment assignments.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 170,
+      "text": "The primary outcome was the between-group difference in the change from baseline to 3 months in hand tremor, rated on a 32-point scale (with higher scores indicating more severe tremor).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 171,
+      "text": "After 3 months, patients in the sham-procedure group could cross- over to active treatment (the open-label extension cohort).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 172,
+      "text": "A total of 76 patients were included in the analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 173,
+      "text": "Hand-tremor scores improved more after focused ultrasound thalamotomy (from 18.1 points at baseline to 9.6 at 3 months) than after the sham procedure (from 16.0 to 15.8 points); the between-group difference in the mean change was 8.3 points (95 % confidence interval [CI]: 5.9 to 10.7; p < 0.001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 174,
+      "text": "The improvement in the thalamotomy group was maintained at 12 months (change from baseline, 7.2 points; 95 % CI: 6.1 to 8.3).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 175,
+      "text": "Secondary outcome measures assessing disability and quality of life also improved with active treatment (the blinded thalamotomy cohort) as compared with the sham procedure (p < 0.001 for both comparisons); AEs in the thalamotomy group included gait disturbance in 36 % of patients and paresthesias or numbness in 38 %; these AEs persisted at 12 months in 9 % and 14 % of patients, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 176,
+      "text": "The authors concluded that MRgFUS reduced hand tremor in patients with ET; side effects included sensory and gait disturbances.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 177,
+      "text": "This study had several drawbacks: I. the procedures were all performed unilaterally.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 178,
+      "text": "Although unilateral focused ultrasound thalamotomy improved total tremor scores by 47 % in the study cohort, there was no reduction of ipsilateral tremor and only minimal improvement in axial tremors of the head, neck, and voice, II.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 179,
+      "text": "some patients may be reluctant or unwilling to undergo MRI studies or it may be unsafe for them to do so, III.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 180,
+      "text": "lesioning procedures require a balance between the size of the lesion and the risk of AEs, since larger lesions are expected to have more enduring efficacy but a greater incidence of side effects, and IV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 181,
+      "text": "transcranial delivery of focused ultrasound was difficult to achieve in 5 of the study patients, probably because of the frequency and other properties of the acoustic wave, as well as individual cranial characteristics; additional research is needed to address this issue.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 182,
+      "text": "I. the procedures were all performed unilaterally.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 183,
+      "text": "Although unilateral focused ultrasound thalamotomy improved total tremor scores by 47 % in the study cohort, there was no reduction of ipsilateral tremor and only minimal improvement in axial tremors of the head, neck, and voice, II.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 184,
+      "text": "some patients may be reluctant or unwilling to undergo MRI studies or it may be unsafe for them to do so, III.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 185,
+      "text": "lesioning procedures require a balance between the size of the lesion and the risk of AEs, since larger lesions are expected to have more enduring efficacy but a greater incidence of side effects, and IV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 186,
+      "text": "transcranial delivery of focused ultrasound was difficult to achieve in 5 of the study patients, probably because of the frequency and other properties of the acoustic wave, as well as individual cranial characteristics; additional research is needed to address this issue.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 187,
+      "text": "Moreover, the authors stated that the benefits and risks of focused ultrasound thalamotomy performed in a carefully controlled clinical trial may differ from the benefits and risks with routine practice in diverse clinical settings.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 188,
+      "text": "An accompanying editorial (Louis, 2016) noted additional study limitations.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 189,
+      "text": "The first is the limited follow-up period, which was 12 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 190,
+      "text": "The editorialist stated that sustained benefit at 2 years, 3 years, and 5 or more years is not known.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 191,
+      "text": "Studies with longer follow-up intervals are needed to address this issue.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 192,
+      "text": "This is particularly important because of tachyphylaxis, which is the second concern.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 193,
+      "text": "The primary outcome measure was the score for hand tremor (on a scale ranging from 0 to 32, with higher scores indicating more severe tremor) at 3 months.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 194,
+      "text": "The editorialist noted that the tremor score in the group that underwent focused ultrasound thalamotomy increased from 8.84 (at 1 month) to 9.55 (at 3 months) to 10.13 (at 6 months) to 10.89 (at 12 months).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 195,
+      "text": "The increase from months 1 to 12 was 23%.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 196,
+      "text": "The editorialist noted that secondary outcome measures showed similar or greater increases during the 12-month follow-up period (e.g., the Clinical Rating Scale for Tremor score increased from 23.38 at 1 month to 32.38 at 12 months, which is a 38% increase).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 197,
+      "text": "The editorialist stated that it was not clear whether this loss of efficacy, which is also seen to some extent with deep-brain stimulation, is due to disease progression or tolerance, although typical estimates of the rate of disease progression in essential tremor make the former possibility less likely.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 198,
+      "text": "In addition, adverse events at three months were more common in the thalamotomy group, including gait disturbance in 36 percent and numbness or paresthesia in 38 percent; these persisted at 12 months in 9 and 14 percent, respectively (Okun, 2016).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 199,
+      "text": "Ultrasound thalamotomy produces a nonreversible brain lesion and should not be performed bilaterally due to associated speech and swallowing effects.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 200,
+      "text": "In a double-blinded, randomized controlled trial (RCT), Bond and associates (2016) examined the effectiveness of MRgFUS thalamotomy in tremor-dominant PD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 201,
+      "text": "Patients with medication-refractory, tremor- dominant PD were enrolled in the 2-center study and randomly assigned 1:2 to receive either a sham procedure or treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 202,
+      "text": "After the 3-month blinded phase, the sham group was offered treatment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 203,
+      "text": "Outcome was measured with blinded CRST and UPDRS ratings.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 204,
+      "text": "The primary outcome compared improvement in hand tremor between the treatment and sham procedure at 3 months.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 205,
+      "text": "Secondary outcomes were measured with UPDRS and hand tremor at 12 months.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 206,
+      "text": "Safety was assessed with MRI, AEs, and comprehensive neurocognitive assessment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 207,
+      "text": "A total of 27 patients were enrolled and 6 were randomly assigned to a sham procedure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 208,
+      "text": "For the primary outcome assessment, there was a mean 50 % improvement in hand tremor from MRgFUS thalamotomy at 3 months compared with a 22 % improvement from the sham procedures (p = 0.088).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 209,
+      "text": "The 1-year tremor scores for all 19 patients treated with 1-year follow-up data (blinded and un- blinded) showed a reduction in tremor scores of 40.6 % (p = 0.0154) and a mean reduction in medicated UPDRS motor scores of 3.7 (32 %, p = 0.033).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 210,
+      "text": "Sham patients had a notable placebo effect with a mean 21.5 % improvement in tremor scores at 3 months; 27 patients completed the primary analysis, 19 patients completed the 12-month assessment, 3 patients opted for deep brain stimulation (DBS), 3 were lost to follow-up, 1 patient opted for no treatment, and 1 is pending a 12-month evaluation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 211,
+      "text": "The authors concluded that transcranial MRgFUS demonstrated a trend toward improvement in hand tremor, and a clinically significant reduction in mean UPDRS.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 212,
+      "text": "They stated that a significant placebo response was noted in the randomized trial.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 213,
+      "text": "MRI-Guided Focused Ultrasound Thalamotomy in Fragile X-Associated Tremor / Ataxia Syndrome Fasano and colleagues (2016) stated that MRgFUS is a promising, incision-free but nevertheless invasive technique to ablate deep brain targets.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 214,
+      "text": "Recent studies have examined the safety and effectiveness of MRgFUS targeting the VIM of patients with tremor.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 215,
+      "text": "In separate studies, 4, 15, and 8 patients with ET were included and followed-up for 3 to 12 months after unilateral MRgFUS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 216,
+      "text": "The majority of the cases had a clinically meaningful reduction of contralateral hand tremor up to 90 %.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 217,
+      "text": "Fragile X–associated tremor/ataxia syndrome (FXTAS) is a progressive, late-onset neurodegenerative disorder associated with the FMR1 gene premutation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 218,
+      "text": "The treatment of FXTAS is challenging, and 6 patients with FXTAS who had tremor as the prevalent symptom have been successfully treated with VIM DBS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 219,
+      "text": "However, the worsening of ataxia has emerged as a concern with bilateral DBS procedures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 220,
+      "text": "These researchers described the 6-month follow-up of left Vim MRgFUS in an 82-year old man with long-standing genetically confirmed FXTAS (106 repeats of the FMR1 gene) complicated by disabling intention tremor and mild mid-line ataxia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 221,
+      "text": "The procedure (15 sonifications, average time of 13 seconds, power range of 150.0 to 725.0 W) was uneventful and caused a marked and immediate improvement of the contralateral tremor without worsening of the underlying ataxia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 222,
+      "text": "Post-operatively, these researchers examined the diffusion tensor imaging-based connectivity of the lesion with structural (3-D fast spoiled gradient echo T1, 2-D gradient echo) and diffusion-weighted (60 directions of diffusion gradients, field of view = 24; number of slices = 44; 1.8 ×1.8 × 2 mm voxel size; repetition time = minimum; b = 1,000 s/mm2; matrix = 128 × 128) images acquired on a 3-Tesla MRI scanner using part of a methodology previously reported.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 223,
+      "text": "Briefly, raw diffusion images were corrected for distortion using BrainSuite software and then imported into StealthViz software for correction of motion artifacts and tensors calculation; the segmented region of interest from the lesion was then used as a seed for deterministic single- tensor tractography.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 224,
+      "text": "The authors concluded that the safety and effectiveness of MRgFUS in ET and other tremor disorders as well as the clinical value of diffusion tensor imaging for VIM targeting need to be further explored.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 225,
+      "text": "Moreover, they stated that although MRgFUS may be preferred over DBS in certain patient populations (particularly in older patients and those with brain atrophy similar to these patients), further research is also needed to compare its safety and effectiveness with that of DBS.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 226,
+      "text": "This study provided Class IV evidence (single observational study without controls) that Vim MRgFUS might be safe and effective in patients with FXTAS.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 227,
+      "text": "Campins-Romeu et al (2024) noted that FXTAS is an adult-onset neurodegenerative disease caused by a premutation in the Fragile X mental retardation (FMR1) gene.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 228,
+      "text": "For patients with limited daily-life activities due to medically intractable tremor, neurofunctional surgery approaches should be considered.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 229,
+      "text": "Recent studies have reported the safety and effectiveness of unilateral MRIgFUS thalamotomy for patients with ET and tremor dominant PD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 230,
+      "text": "Currently, little knowledge is available when it comes to FXTAS patients and MRIgFUS.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 231,
+      "text": "So far, only 2 FXTAS cases treated with unilateral MRIgFUS thalamotomy have been published; however, no long-term follow-up information is available.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 232,
+      "text": "These researchers described the case of a 3-year follow-up of right VIM (ventralis intermediate nucleus) MRIgFUS thalamotomy in a left-handed patient with a confirmed FMR1 mutation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 233,
+      "text": "Due to the severe limitation in daily-life activities, neurofunctional surgical treatments were offered.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 234,
+      "text": "The subject decided for MRIgFUS thalamotomy based on the limited experience previously published.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 235,
+      "text": "MRIgFUS thalamotomy was accepted as compassionate use treatment by health authorities; and informed consent was signed by the patient.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 236,
+      "text": "These investigators noted that it is well known that gait impairment is one of the most common complaint encountered during the first 3 months after surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 237,
+      "text": "Accordingly, in this case report, the decline noticed in the Berg Balance Score (BBS; a 14-item objective measure that assesses static balance and fall risk in adults) at the 1st month and its recovering at 1 year may probably be due to the perilesional edema; however, the mild worsening of balance at 3 years follow-up pointed to the intrinsic progression of the disease.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 238,
+      "text": "The authors concluded that, to their knowledge, this was the 1st long-term reported follow-up of a FXTAS patient treated with unilateral MRIgFUS thalamotomy; therefore, it suggested acceptable safety and effectiveness of this technique when applied to FXTAS patients.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 239,
+      "text": "Moreover, these researchers stated that the own progression of this neurodegenerative condition may negatively impact the future outcome of MRIgFUS, consequently patients should be evaluated and informed with caution.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 240,
+      "text": "Equally, accurate surgical targeting and technique optimization are 2 important aspects of this novel technique that should be addressed.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 241,
+      "text": "MRI-Guided Focused Ultrasound Thalamotomy for ET and Non-ET Tremor Syndromes In an open-label, uncontrolled, pilot study, Elias et al (2013) investigated the use of transcranial MRI-guided focused ultrasound thalamotomy for the treatment of essential tremor.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 242,
+      "text": "From February 2011 through December 2011, these researchers used transcranial MRI-guided focused ultrasound to target the unilateral ventral intermediate nucleus of the thalamus in 15 patients with severe, medication-refractory essential tremor.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 243,
+      "text": "They recorded all safety data and measured the effectiveness of tremor suppression using the Clinical Rating Scale for Tremor to calculate the total score (ranging from 0 to 160), hand subscore (primary outcome, ranging from 0 to 32), and disability subscore (ranging from 0 to 32), with higher scores indicating worse tremor.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 244,
+      "text": "These investigators assessed the patients' perceptions of treatment efficacy with the Quality of Life in Essential Tremor Questionnaire (ranging from 0 to 100 %, with higher scores indicating greater perceived disability).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 245,
+      "text": "Thermal ablation of the thalamic target occurred in all patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 246,
+      "text": "Adverse effects of the procedure included transient sensory, cerebellar, motor, and speech abnormalities, with persistent paresthesia in 4 patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 247,
+      "text": "Scores for hand tremor improved from 20.4 at baseline to 5.2 at 12 months (p = 0.001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 248,
+      "text": "Total tremor scores improved from 54.9 to 24.3 (p = 0.001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 249,
+      "text": "Disability scores improved from 18.2 to 2.8 (p = 0.001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 250,
+      "text": "Quality-of-life scores improved from 37 % to 11 % (p = 0.001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 251,
+      "text": "The authors concluded that in this pilot study, essential tremor improved in 15 patients treated with MRI-guided focused ultrasound thalamotomy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 252,
+      "text": "They stated that large, RCTs are needed to assess the procedure's safety and effectiveness.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 253,
+      "text": "In a randomized controlled clinical study, Elias et al (2016) enrolled patients with moderate-to-severe essential tremor that had not responded to at least two trials of medical therapy and randomly assigned them in a 3:1 ratio to undergo unilateral focused ultrasound thalamotomy or a sham procedure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 254,
+      "text": "The Clinical Rating Scale for Tremor and the Quality of Life in Essential Tremor Questionnaire were administered at baseline and at 1, 3, 6, and 12 months.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 255,
+      "text": "Tremor assessments were videotaped and rated by an independent group of neurologists who were unaware of the treatment assignments.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 256,
+      "text": "The primary outcome was the between-group difference in the change from baseline to 3 months in hand tremor, rated on a 32-point scale (with higher scores indicating more severe tremor).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 257,
+      "text": "After 3 months, patients in the sham-procedure group could cross over to active treatment (the open-label extension cohort).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 258,
+      "text": "The investigators included 67 patients in the analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 259,
+      "text": "Hand-tremor scores improved more after focused ultrasound thalamotomy (from 18.1 points at baseline to 9.6 at 3 months) than after the sham procedure (from 16.0 to 15.8 points); the between-group difference in the mean change was 8.3 points (95% confidence interval [CI], 5.9 to 10.7; P<0.001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 260,
+      "text": "The improvement in the thalamotomy group was maintained at 12 months (change from baseline, 7.2 points; 95% CI, 6.1 to 8.3).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 261,
+      "text": "Secondary outcome measures assessing disability and quality of life also improved with active treatment (the blinded thalamotomy cohort) as compared with the sham procedure (P<0.001 for both comparisons).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 262,
+      "text": "Adverse events in the thalamotomy group included gait disturbance in 36% of patients and paresthesias or numbness in 38%; these adverse events persisted at 12 months in 9% and 14% of patients, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 263,
+      "text": "An editorial accompanying the study by Elias et al stated that the results are promising, particularly since this procedure, unlike traditional thalamotomy, does not require entering the cranium with a probe (Louis, 2016).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 264,
+      "text": "The editorialist noted, however, that there are several important concerns about this study.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 265,
+      "text": "The first is the limited follow-up period, which was 12 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 266,
+      "text": "The sustained benefit at 2 years, 3 years, and 5 or more years is not known.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 267,
+      "text": "The editorialist stated that studies with longer follow-up intervals are needed to address this issue, noting that this is particularly important because of tachyphylaxis, which is the second concern.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 268,
+      "text": "The primary outcome measure was the score for hand tremor (on a scale ranging from 0 to 32, with higher scores indicating more severe tremor) at 3 months.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 269,
+      "text": "The tremor score in the group that underwent focused ultrasound thalamotomy increased from 8.84 (at 1 month) to 9.55 (at 3 months) to 10.13 (at 6 months) to 10.89 (at 12 months).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 270,
+      "text": "The increase from months 1 to 12 was 23%.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 271,
+      "text": "Secondary outcome measures showed similar or greater increases during the 12-month follow-up period (e.g., the Clinical Rating Scale for Tremor score increased from 23.38 at 1 month to 32.38 at 12 months, which is a 38% increase).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 272,
+      "text": "The editorialist stated that it is not clear whether this loss of efficacy, which is also seen to some extent with deep-brain stimulation, is due to disease progression or tolerance, although typical estimates of the rate of disease progression in essential tremor make the former possibility less likely.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 273,
+      "text": "Third, the procedure did not achieve large improvements in everyone; the percentage change in tremor was less than 20% in 9 of 56 patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 274,
+      "text": "The editorialist also noted several important caveats (Louis, 2016).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 275,
+      "text": "The first is that the procedure is a thalamotomy. Hence, it creates a fixed brain lesion.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 276,
+      "text": "With deep-brain stimulation, there is the potential to adjust stimulator settings in order to obtain further therapeutic gains, but there is no such potential with thalamotomy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 277,
+      "text": "Second, the procedure is not suitable for all patients; in particular, skull thickness presents a problem in some cases.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 278,
+      "text": "Third, the most common side effect involved altered sensation, and this deficit remained permanent in 14% of patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 279,
+      "text": "The editorialist suggested a head-to-head comparison with deep- brain stimulation to facilitate the direct comparison of the two approaches.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 280,
+      "text": "Bond and colleagues (2017) evaluated the safety and efficacy at 12-month follow-up, accounting for placebo response, of unilateral FUS thalamotomy for patients with tremor-dominant Parkinson disease (TDPD).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 281,
+      "text": "Of the 326 patients identified from an in-house database, 53 patients consented to be screened; 26 were ineligible, and 27 were randomized (2:1) to FUS thalamotomy or a sham procedure at 2 centers from October18, 2012, to January 8, 2015.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 282,
+      "text": "The most common reasons for disqualification were withdrawal (8 persons [31 %]), and not being medication refractory (8 persons [31 %]).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 283,
+      "text": "Data were analyzed using intention-to-treat analysis, and assessments were double-blinded through the primary outcome.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 284,
+      "text": "A total of 20 patients were randomized to unilateral FUS thalamotomy, and 7 to sham procedure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 285,
+      "text": "The sham group was offered open-label treatment after un-blinding.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 286,
+      "text": "The pre-defined primary outcomes were safety and difference in improvement between groups at 3 months in the on-medication treated hand tremor sub-score from the CRST; secondary outcomes included descriptive results of UPDRS scores and quality of life (QOL) measures.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 287,
+      "text": "Of the 27 patients, 26 (96 %) were men and the median age was 67.8 years (interquartile range [IQR], 62.1 to 73.8 years).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 288,
+      "text": "On-medication median tremor scores improved 62 % (IQR, 22 % to 79 %) from a baseline of 17 points (IQR, 10.5 to 27.5) following FUS thalamotomy and 22 % (IQR, -11 % to 29 %) from a baseline of 23 points (IQR, 14.0 to 27.0) after sham procedures; the between-group difference was significant (Wilcoxon p = 0.04).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 289,
+      "text": "On-medication median UPDRS motor scores improved 8 points (IQR, 0.5 to 11.0) from a baseline of 23 points (IQR, 15.5 to 34.0) following FUS thalamotomy and 1 point (IQR, -5.0 to 9.0) from a baseline of 25 points (IQR, 15.0 to 33.0) after sham procedures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 290,
+      "text": "Early in the study, heating of the internal capsule resulted in 2 cases (8 %) of mild hemiparesis, which improved and prompted monitoring of an additional axis during magnetic resonance thermometry.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 291,
+      "text": "Other persistent AEs were orofacial paresthesia (4 events [20 %]), finger paresthesia (1 event [5 %]), and ataxia (1 event [5 %]).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 292,
+      "text": "The authors concluded that preliminary results from this RCT on the efficacy of unilateral FUS thalamotomy for the treatment of patients with TDPD are encouraging.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 293,
+      "text": "A notable placebo response was observed with sham procedures, necessitating a larger study to prove efficacy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 294,
+      "text": "Adverse events were similar to those of other thalamotomy procedures and will likely further improve as the technology for monitoring the FUS thalamotomy procedure improves.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 295,
+      "text": "The trial had several drawbacks -- small sample size (n = 20 in the FUS thalamotomy group), and the planned study enrollment of 30 patients was not reached.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 296,
+      "text": "Medication dose was not fixed during the trial, potentially confounding the results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 297,
+      "text": "The trial was not designed to compare FUS thalamotomy with other treatments, such as DBS or gamma knife radiosurgery.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 298,
+      "text": "In a prospective, uncontrolled, single-center interventional study, Schreglmann and co-workers (2017) reported results of a prospective trial of unilateral transcranial MRgFUS ablation of the cerebello-thalamic tract (CTT) in ET.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 299,
+      "text": "Motor symptoms, manual dexterity, cognition, and quality of life were assessed before intervention and at 48 hours and 1, 3, and 6 months after intervention.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 300,
+      "text": "Rating of standardized video recordings was blinded for evaluation time points.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 301,
+      "text": "Primary outcome was the change in unilateral hand tremor score of the treated hand.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 302,
+      "text": "A total of 6 patients received MRgFUS ablation of the CTT contralateral to the treated hand.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 303,
+      "text": "Repeated-measures comparison determined a statistically significant 83 % reduction (before versus 6 months after intervention mean ± SD; absolute reduction; 95 % CI) in the unilateral treated hand sub-score (14.3 ± 4.9 versus 2.5 ± 2.6; 11.8; 8.4 to 15.2; p < 0.001), while quality of life improved by 52 % (50.5 ± 19.4 versus 24.8 ± 11.4; 25.7; 3.5 to 47.28; p = 0.046).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 304,
+      "text": "Measures for manual dexterity, attention and coordination, and overall cognition were unchanged.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 305,
+      "text": "Transient side effects (n = 3) were ipsilateral hand clumsiness and mild gait instability for up to 3 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 306,
+      "text": "The authors concluded that unilateral MRgFUS lesioning of the CTT was highly effective in reducing contralateral hand tremor in ET without affecting fine motor function and dexterity over 6 months of follow-up; adverse effects were mild and transient.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 307,
+      "text": "Moreover, they stated that larger trials with a longer follow-up are needed to adequately evaluate the long-term safety and effectiveness of MRgFUS CTT ablation.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 308,
+      "text": "This study provided Class IV evidence that for patients with ET, transcranial MRgFUS ablation of the CTT improved tremor.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 309,
+      "text": "Fasano and colleagues (2017) reported the 6-month single-blinded results of unilateral thalamotomy with MRgFUS in patients with tremors other than ET.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 310,
+      "text": "Three patients with tremor due to PD, 2 with dystonic tremor in the context of cervico-brachial dystonia and writer's cramp, and 1 with dystonia gene-associated tremor underwent MRgFUS targeting the ventro-intermedius nucleus (Vim) of the dominant hemisphere.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 311,
+      "text": "The primary end-point was the reduction of lateralized items of the Tremor Rating Scale of contralateral hemi-body assessed by a blinded rater.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 312,
+      "text": "All patients achieved a statistically significant, immediate, and sustained improvement of the contralateral tremor score by 42.2 %, 52.0 %, 55.9 %, and 52.9 % at 1 week and 1, 3, and 6 months after the procedure, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 313,
+      "text": "All patients experienced transient side effects and 2 patients experienced persistent side effects at the time of last evaluation: hemi-tongue numbness and hemiparesis with hemi-hypoesthesia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 314,
+      "text": "The authors concluded that Vim MRgFUS is a promising, incision- free, but nevertheless invasive technique to treat tremors other than essential tremor.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 315,
+      "text": "They stated that future studies on larger samples and longer follow-up are needed to further define its safety and effectiveness.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 316,
+      "text": "Chang and co-workers (2018) reported results of 2- year follow-up after MRgFUS thalamotomy for ET.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 317,
+      "text": "A total of 76 patients with moderate-to-severe ET, who had not responded to at least 2 trials of medical therapy, were enrolled in the original randomized study of unilateral thalamotomy and evaluated using the clinical rating scale for tremor; 67 of the patients continued in the open-label extension phase of the study with monitoring for 2 years; 9 patients were excluded by 2 years (e.g., because of alternative therapy such as deep brain stimulation (n = 3) or inadequate thermal lesioning (n = 1)).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 318,
+      "text": "However, all patients in each follow-up period were analyzed.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 319,
+      "text": "Mean hand tremor score at baseline (19.8 ± 4.9, 76 patients) improved by 55 % at 6 months (8.6 ± 4.5, 75 patients).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 320,
+      "text": "The improvement in tremor score from baseline was durable at 1 year (53 %, 8.9 ± 4.8, 70 patients) and at 2 years (56 %, 8.8 ± 5.0, 67 patients).",
+      "label": "PREMISE"
+    }
+  ]
+}
