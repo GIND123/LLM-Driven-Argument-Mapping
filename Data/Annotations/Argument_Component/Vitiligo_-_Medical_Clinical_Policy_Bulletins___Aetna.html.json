@@ -1,0 +1,367 @@
+{
+  "document_id": "Vitiligo_-_Medical_Clinical_Policy_Bulletins___Aetna.html",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 2,
+      "text": "I. Medical Necessity Aetna considers photochemotherapy (i.e., psoralens and ultraviolet A [PUVA]), excimer laser (e.g., XTRAC, PhotoMedex, Radnor, PA; EX-308, Ra Medical Systems, Inc., Carlsbad, CA), or narrow- band ultraviolet B (NB-UVB) medically necessary for the treatment of vitiligo when the member has had an inadequate response to any of the following: Topical tacrolimus; or Topical and systemic corticosteroids; or Topical ruxolitinib (Opzelura).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "Aetna considers continued PUVA or narrow-band UVB therapy not medically necessary unless there is significant follicular pigmentation after 6 months of therapy (8 to 10 treatments per month). II.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Experimental, Investigational, or Unproven Aetna considers the following procedures experimental, investigational, or unproven because the effectiveness of these approaches has not been established: A. ApaI, BsmI, catalase (389C>T), cystathionine B synthase (CBS), cytotoxic T-lymphocyte antigen (CTLA)-4+49A/G, human leukocyte antigen-A, NLRP1, methylenetetrahydrofolate reductase (MTHFR), protein tyrosine phosphatase, non-receptor type 22 +1858C→T, and TNF- alpha-308G/A gene polymorphisms testing for early detection of vitiligo B. Measurement of interleukin-17 (IL-17) levels for the management of vitiligo C. Use of digital and analog image analysis systems (e.g., 2D digital imaging analysis and 3D photography) for surface calculation of vitiligo lesions D. The following interventions for the treatment of vitiligo (not an all-inclusive list): Apremilast (alone or combined with NB-UVB) Autologous mini-punching grafting Blister roof grafting (suction epidermal blister grafting) (e.g., CelluTome Epidermal Harvesting System) Capecitabine CAR-T-cell therapy Carbon dioxide fractional laser Chimeric monoclonal antibody to CD20 (e.g., rituximab) Combined baricitinib and narrow-band ultraviolet B (NB-UVB) phototherapy Combined fractional CO2 laser and NB-UVB phototherapy Fire needle therapy Glutathione Home phototherapy Interleukins Intradermal mesotherapy (injections of bio-revitalizant NCTF135) Melagenine α-melanocyte stimulating hormone (e.g., afamelanotide) Melanocyte transplantation/cultured and non-cultured cellular melanocyte keratinocyte transfer Microneedle-based drug delivery approaches Neovir (an intramuscular immunomodulatory agent, composed of sodium oxodihydroacridinylacetate) Platelet-rich plasma Prostaglandins (e.g., bimatoprost, latanoprost, and prostaglandin E2) Split thickness skin grafting Tars Topical minoxidil Topical phenytoin gel Topical pseudocatalase Tumor necrosis factor-alpha agents (e.g., adalimumab, etanercept, and infliximab) Vitamin D analogs (e.g., calcitriol and paricalcitol). III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Cosmetic Aetna considers treatments for vitiligo cosmetic if they do not affect the underlying condition and do not result in improved protection against skin cancer; specifically micropigmentation (tattooing) and depigmentation (with monobenzylether of hydroquinone/monobenzone) are considered cosmetic. IV.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description Code Code Description CPT codes covered if selection criteria are met: 96900 Actinotherapy (ultraviolet light) F [Narrow-band ultraviolet B (NB-UVB)] 96912 Photochemotherapy; psoralens and ultraviolet A (PUVA) Photochemotherapy (Goeckerman and/or PUVA) for severe photoresponsive 96913 dermatoses requiring at least four to eight hours of care under direct supervision of the physician (includes application of medication and dressings) 96999 Unlisted special dermatological service or procedure [excimer laser] CPT codes not covered for indications listed in the CPB: Cytotoxic T-lymphocyte antigen (CTLA)-4+49A/G and TNF-alpha 308G/A polymorphism testing, cystathionine B synthase (CBS) gene polymorphism, measurement of Interleukin-17 levels, microneedle- based drug delivery approaches, combined fractional CO2 laser and NB-UVB phototherapy for the treatment of vitiligo, combined baricitinib and narrow-band ultraviolet B (NB-UVB) phototherapy - no specific code Injection(s), platelet rich plasma, any site, including image guidance, harvesting and 0232T preparation when performed Tattooing, intradermal introduction of insoluble opaque pigments to correct color 11920 - 11922 defects of skin, including micropigmentation Split-thickness autograft, trunk, arms, legs; first 100 sq cm or less, or 1% of body area 15100 of infants and children (except 15050) each additional 100 sq cm, or each additional 1% of body area of infants and 15101 children, or part thereof (List separately in addition to code for primary procedure) Chimeric antigen receptor T-cell (CAR-T) therapy; harvesting of blood-derived T 38225 lymphocytes for development of genetically modified autologous CAR-T cells, per day Chimeric antigen receptor T-cell (CAR-T) therapy; preparation of blood-derived T 38226 lymphocytes for transportation (eg, cryopreservation, storage) Chimeric antigen receptor T-cell (CAR-T) therapy; receipt and preparation of CAR-T 38227 cells for administration Chimeric antigen receptor T-cell (CAR-T) therapy; CAR-T cell administration, 38228 autologous 3D rendering with interpretation and reporting of computed tomography, magnetic resonance imaging, ultrasound, or other tomographic modality with image 76376 postprocessing under concurrent supervision; not requiring image postprocessing on an independent workstation 76377 requiring image postprocessing on an independent workstation MTHFR (5,10-methylenetetrahydrofolate reductase) (eg, hereditary 81291 hypercoagulability) gene analysis, common variants (eg, 677T, 1298C) Acupuncture, 1 or more needles; without electrical stimulation, initial 15 minutes of 97810 personal one-hyphenon-hyphenone contact with patient [fire needle therapy] without electrical stimulation, each additional 15 minutes of personal one- 97811 hyphenon-hyphenone contact with the patient, with re-hypheninsertion of needle(s) (List separately in addition to code for primary procedure) [fire needle therapy] HCPCS codes covered if selection criteria are met: J0702 Injection, betamethasone acetate 3mg and betamethasone sodium phosphate, 3 mg Code Code Description J1020 Injection, methylprednisolone acetate, 20 mg J1030 Injection, methylprednisolone acetate, 40 mg J1040 Injection, methylprednisolone acetate, 80 mg J1094 Injection, dexamethasone acetate, 1 mg J1100 Injection, dexamethasone sodium phosphate, 1mg J1700 Injection, hydrocortisone acetate, up to 25 mg (i. e., Hydrocortone acetate) Injection, hydrocortisone sodium phosphate, up to 50 mg (i.e., Hydrocortone J1710 phosphate) J1720 Injection, hydrocortisone sodium succinate, up to 100 mg (i.e., Solu-Cortef) Injection, prednisolone acetate, up to 1 ml (i.e., Key-Pred 25, Key-Pred 50, Predcor- J2650 25, Predcor-50, Predoject 50, Predalone-50, Predicort-50) J2920 Injection, methylprednisolone sodium succinate, up to 40 mg (i.e., Solu-Medrol) J2930 Injection, methylprednisolone sodium succinate, up to 125 mg (i.e., Solu-Medrol) J3301 Injection, triamcinolone acetonide, per 10 mg (i.e., Kenalog) J3302 Injection, triamcinolone diacetate, per 5 mg (i.e., Aristocort) J3303 Injection, triamcinolone hexacetonide, per 5 mg (i.e., Aristospan) J7509 Methylprednisolone, oral, per 4 mg J7510 Prednisolone, oral, per 5 mg J7512 Prednisone, immediate release or delayed release, oral, 1 mg J8540 Dexamethasone, oral, 0.25 mg HCPCS codes not covered for indications listed in the CPB: Apremilast, Intradermal mesotherapy (injections of bio-revitalizant NCTF135) - no specific code A4633 Replacement bulb/lamp for ultraviolet light therapy system, each Ultraviolet light therapy system panel, includes bulbs/lamps, timer, and eye E0691 protection; treatment area two square feet or less Ultraviolet light therapy system panel, includes bulbs/lamps, timer, and eye E0692 protection, four foot panel Ultraviolet light therapy system panel, includes bulbs/lamps, timer, and eye E0693 protection, six foot panel Ultraviolet multidirectional light therapy system in 6 foot cabinet, includes E0694 bulbs/lamps, timer, and eye protection J0139 Injection, adalimumab, 1 mg J0636 Injection, calcitriol, 0.1 mcg Injection, etanercept, 25 mg (code may be used for Medicare when drug administered J1438 under the direct supervision of a physician, not for use when drug is self- administered) J1745 Injection, infliximab, 10 mg J2501 Injection, paricalcitol, 1 mcg J8522 Capecitabine, oral, 50 mg J9312 Injection, rituximab, 10 mg P9020 Platelet rich plasma, each unit Q5103 Injection, infliximab-dyyb, biosimilar, (Inflectra), 10 mg Q5104 Injection, infliximab-abda, biosimilar, (Renflexis), 10 mg Q5109 Injection, infliximab-qbtx, biosimilar, (Ixifi), 10 mg Q5140 Injection, adalimumab-fkjp, biosimilar, 1 mg Q5141 Injection, adalimumab-aaty, biosimilar, 1 mg Code Code Description Q5142 Injection, adalimumab-ryvk biosimilar, 1 mg Q5143 Injection, adalimumab-adbm, biosimilar, 1 mg Q5144 Injection, adalimumab-aacf (idacio), biosimilar, 1 mg Q5145 Injection, adalimumab-afzb (abrilada), biosimilar, 1 mg S0161 Calcitrol, 0.25 mcg Other HCPCS codes related to the CPB: J0702 Injection, betamethasone acetate 3 mg and betamethasone sodium phosphate 3 mg J1010 Injection, methylprednisolone acetate, 1 mg J1100 Injection, dexamethasone sodium phosphate, 1 mg J1700 Injection, hydrocortisone acetate, up to 25 mg J1710 Injection, hydrocortisone sodium phosphate, up to 50 mg J1720 Injection, hydrocortisone sodium succinate, up to 100 mg J2650 Injection, prednisolone acetate, up to 1 ml J2919 Injection, methylprednisolone sodium succinate, 5 mg J3299 Injection, triamcinolone acetonide (xipere), 1 mg J3300 Injection, triamcinolone acetonide, preservative free, 1 mg J3301 Injection, triamcinolone acetonide, not otherwise specified, 10 mg J3302 Injection, triamcinolone diacetate, per 5 mg J3303 Injection, triamcinolone hexacetonide, per 5 mg Injection, triamcinolone acetonide, preservative-free, extended-release, microsphere J3304 formulation, 1 mg J7509 Methylprednisolone oral, per 4 mg J7510 Prednisolone oral, per 5 mg J7512 Prednisone, immediate release or delayed release, oral, 1 mg J8540 Dexamethasone, oral, 0.25 mg J8541 Dexamethasone (hemady), oral, 0.25 mg ICD-10 codes covered if selection criteria are met: L80 Vitiligo Human leukocyte antigen-A polymorphism testing - no specific code: ICD-10 codes not covered for indications listed in the CPB (not all-inclusive): L80 Vitiligo Protein tyrosine phosphatase: CPT codes not covered for indications listed in the CPB: 86341 Islet cell antibody Code Code Description ICD-10 codes not covered for indications listed in the CPB (not all-inclusive): L80 Vitiligo NLPR1 gene polymorphisms testing - no specific code: ICD-10 codes not covered for indications listed in the CPB (not all-inclusive): L80 Vitiligo M30.0 - M35.9 Polyarteritis nodosa and related conditions CelluTome Epidermal Harvesting System: CPT codes not covered for indications listed in the CPB: Epidermal autograft, trunk, arms, legs; first 100 sq cm or less, or 1% of body area of 15110 infants and children Epidermal autograft, trunk, arms, legs; each additional 100 sq cm, or each additional 15111 1% of body area of infants and children, or part thereof (List separately in addition to code for primary procedure) Epidermal autograft, face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, 15115 feet, and/or multiple digits; first 100 sq cm or less, or 1% of body area of infants and children Epidermal autograft, face, scalp, eyelids, mouth, neck, ears, orbits, genitalia, hands, feet, and/or multiple digits; each additional 100 sq cm, or each additional 1% of body 15116 area of infants and children, or part thereof (List separately in addition to code for primary procedure) ICD-10 codes not covered for indications listed in the CPB (not all-inclusive): L80 Vitiligo Prostaglandins and prostaglandin E2: CPT codes not covered for indications listed in the CPB: 84150 Prostaglandin, each ICD-10 codes not covered for indications listed in the CPB (not all-inclusive): L80 Vitiligo Aprimalist, Topical phenytoin gel, Glutathion, Melagenin, Topical minoxidil, Topical pseudocatalase, Nevoir, Carbon dioxide fractional laser - no specific code: Code Code Description ICD-10 codes not covered for indications listed in the CPB (not all-inclusive): L80 Vitiligo Capecitabine: HCPCS codes not covered for indications listed in the CPB: J2355 Injection, oprelvekin, 5 mg J8520 Capecitabine, oral, 150 mg J8521 Capecitabine, oral, 500 mg J9015 Injection, aldesleukin, per single use vial ICD-10 codes not covered for indications listed in the CPB (not all-inclusive): L80 Vitiligo Vitiligo is an acquired pigmentary disorder of skin and mucous membranes, manifesting itself by expanding depigmented lesions.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "The 3 prevailing theories of the pathogenesis of vitiligo include an immune hypothesis, a neural-mediated hypothesis, and a “self-destruct” hypothesis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 11,
+      "text": "These 3, plus newer hypotheses suggesting that vitiligo may be due to a melanocyte growth factor deficiency or to an abnormal melatonin receptor on melanocytes, have not been definitively proven, and it is likely that the loss of epidermal and follicular melanocytes in vitiligo may be the result of several different pathogenic mechanisms.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 12,
+      "text": "Psoralen photochemotherapy (psoralen and ultraviolet light A or PUVA) is appropriate for properly selected patients with vitiligo.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 13,
+      "text": "The treatment involves taking oral psoralen or applying it topically followed by carefully timed exposure to UVA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 14,
+      "text": "Repigmentation may begin after 15 to 25 treatments.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 17,
+      "text": "Response to PUVA is unlikely to occur if follicular pigmentation has not appeared after 3 months of PUVA therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 18,
+      "text": "Dark-skinned patients respond better than fair skin patients do; the latter are unlikely to benefit from PUVA unless there is marked disfigurement.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 19,
+      "text": "Most patients who respond do not develop new areas of pigment loss; furthermore, maintenance with PUVA therapy is not necessary.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 22,
+      "text": "Patients must apply the cream (e.g., triamcinolone 0.1 %, desonide 0.05 %) once-daily to the white patches on their skin for at least 3 to 4 months before seeing any results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 24,
+      "text": "Oral mini-pulse therapy with 5 mg betamethasone/dexamethasone may stop the progression and induce spontaneous repigmentation in some vitiligo patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 27,
+      "text": "Narrow-band UVB is typically administered 2 to 3 times per week for several months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 28,
+      "text": "However, there is a lack of evidence regarding the safety and effectiveness of home narrow-band UVB phototherapy for the treatment of vitiligo.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 29,
+      "text": "In a randomized controlled study, Ada et al (2005) concluded that narrow-band UVB phototherapy is effective in treating vitiligo, and the addition of topical calcipotriol does not improve treatment outcome.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 30,
+      "text": "In a double-blind randomized study, Yones et al (2007) compared the effectiveness of oral PUVA with that of narrowband-UVB (NB-UVB) phototherapy in patients with non-segmental vitiligo.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 41,
+      "text": "The authors concluded that these findings suggested that 389C>T may not contribute to vitiligo susceptibility.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 42,
+      "text": "However, larger primary studies with the consideration of gene-environment and gene-gene interactions are still needed to further evaluate the interaction of CAT gene polymorphism with vitiligo susceptibility.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 43,
+      "text": "In a meta-analysis, Li and colleagues (2015) evaluated the association between 2 common polymorphisms (ApaI and BsmI) in the VDR gene and the susceptibility to vitiligo.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 48,
+      "text": "Human Leukocyte Antigen-A Polymorphism Testing Li and colleagues (2016) evaluated the association between vitiligo and human leukocyte antigen- (HLA-) A. Methods.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 51,
+      "text": "Overall, three alleles (HLA- A⁎02, A⁎33, and Aw⁎31) were significantly associated with increased risk of vitiligo, two (HLA-A⁎09 and Aw⁎19) were associated with decreased risk, and the remaining 28 were unassociated.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 79,
+      "text": "The authors concluded that they identified a potential genetic relationship in the Caucasian population between the NLRP1 rs12150220 polymorphism and a decreased susceptibility to autoimmune diseases, especially autoimmune Addison's disease, T1DM, or SLE.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 84,
+      "text": "Blister Roof Grafting Janowska and colleagues (2016) stated that vitiligo is a multi-factorial acquired dermatosis characterized by achromic or hypochromic macules and by the absence of functioning melanocytes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 91,
+      "text": "In a pilot study, the authors stated that this system was seen to be a safe and effective means of harvesting epidermal micrografts containing melanocytes for use in patients with stable vitiligo unresponsive to standard therapies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 92,
+      "text": "Cai and associates (2016) stated that epidermal grafting has several advantages over full-thickness or split- thickness grafts in the treatment of complex non-healing wounds.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 106,
+      "text": "The authors concluded that the automated SBEG harvesting device was a safe and effective option for treating complex non-healing wounds in multi-morbid patients who may be poor surgical candidates.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 108,
+      "text": "These investigators stated that in dealing with complex wounds, patient selection is an integral component of a successful outcome; patients with co-morbidities not suitable for the operating room, wound healing issues, and compliance concerns are poor candidates for traditional skin grafts.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 109,
+      "text": "The autologous epidermal grafts effectively circumvent these problems and present an attractive alternative.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 110,
+      "text": "The creation of an automated SBEG harvesting technique further simplified the procedure and minimized post-operative complications.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 111,
+      "text": "The authors concluded that although this study has shown success in a variety of patients, identification of the ideal patient population may be of interest in follow-up studies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 112,
+      "text": "Krishna and colleagues (2016) stated that vitiligo is a common pigmentary disorder of the skin with a great amount of social stigma attached to it.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 113,
+      "text": "Although various medical modalities are available for the treatment of stable vitiligo, surgical modality remains the treatment of choice for stable and localized vitiligo.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 114,
+      "text": "The surgical options range from simple punch grafting to the recent epidermal harvesting methods using a negative pressure unit.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 116,
+      "text": "These researchers noted that new automated epidermal harvesting system now commercially available involves a tool that applies both heat and suction concurrently to normal skin to induce epidermal micrografts; it serves as a safe, quick and cost-effective method without anesthesia, with a very minimal downtime for healing and requires an optimal expertise.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 117,
+      "text": "The duration of re- pigmentation appeared to be faster and more uniform compared to other procedures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 118,
+      "text": "The authors concluded that more controlled studies are needed to prove the effectiveness of negative pressure epidermal harvesting in patients with stable vitiligo.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 120,
+      "text": "Dillon and colleagues (2017) stated that latanoprost (LT) is a prostaglandin F2-alpha analog that can induce skin pigmentation, a side effect discovered via its use in the treatment of glaucoma.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 125,
+      "text": "The authors concluded that these findings indicated that topical phenytoin of low concentrations may have beneficial effects through immunomodulatory activity by affecting CD4 and CD8 counts and subsequently the ratio between them.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 126,
+      "text": "They stated that further studies are recommended to combine phenytoin with other anti-vitiligo agents such as local corticosteroids or phototherapy to clarify if it could potentiate their effects.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 149,
+      "text": "The authors described how the association of the daily use of topical 2 % minoxidil with alternate day PUVA, was able to induce local hyperthricosis and marker re-pigmentation in 2 vitiligo patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 150,
+      "text": "Unfortunately, no other studies about minoxidil in vitiligo have been conducted and some clinical reports described controversial results, such as the appearance of leucoderma after the use of the drug.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 151,
+      "text": "Topical cream containing pseudocatalase has been proposed as a therapeutic tool for vitiligo.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 152,
+      "text": "The drug acts by reducing the free radicals and improving the catalase action. Generally, it is applied twice- daily.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 153,
+      "text": "Better results appeared to be achieved when pseudocatalase is associated to sol-therapy, UVA or nb-UVB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 155,
+      "text": "Gianfaldoni and colleagues (2018b) noted that Neovir is an intramuscular Immunomodulatory agent, composed of sodium oxo – dihydro – acridinyl - acetate (ODHAA).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 156,
+      "text": "It is usually used to normalize impaired immune system functions under various conditions, such as viral infections, immunodeficiency, oncological diseases and multiple sclerosis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 159,
+      "text": "Vitiligo progression was assessed in 1, 3, 6 and 12 months after treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 160,
+      "text": "The results of the preliminary study were excellent: sodium oxodihydroacridinylacetate showed high efficiency in achieving long-term stabilization of non-segmental vitiligo.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 162,
+      "text": "Carbon Dioxide Fractional Laser Chen and colleagues (2018) noted that tacrolimus is a conventional medication for the treatment of vitiligo, but the effect of a single medication is limited.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 163,
+      "text": "These researchers examined the effects, adverse responses, and re-pigmentation results of the joint treatment of vitiligo by carbon dioxide (CO2) fractional laser together with tacrolimus.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 170,
+      "text": "The authors concluded that the treatment of vitiligo by CO2 fractional laser together with tacrolimus was effective and was most suitable for patients in the progression stage.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 175,
+      "text": "Chiu and associates (2018) stated that the treatment of stable non-segmental vitiligo is often challenging, which new therapies are being searched.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 176,
+      "text": "Multiple clinical trials have proposed the benefits and safety of using fractional CO2 laser as an adjunct therapy to conventional treatments.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 177,
+      "text": "These researchers examined the safety and efficacy of fractional CO2 laser as a combination therapy to conventional treatments in patients with stable non-segmental vitiligo.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 182,
+      "text": "the authors concluded that the findings of this meta-analysis showed that using fractional CO2 laser in combination with conventional treatments was safe and efficient, and may be considered as an adjunct therapeutic option for patients with refractive non-segmental vitiligo.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 190,
+      "text": "The studies highlight the crucial role of IL-17 in the onset and progression of the disease, and its synergistic action with IL-2, IL-6 and IL-33.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 192,
+      "text": "The authors concluded that these findings showed the growing need for new therapies targeting vitiligo and further research on the role of ILs as a treatment is needed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 208,
+      "text": "The authors concluded that the findings of this study suggested a possible role of altered Hcy and vitamin B12 levels in precipitation and progression of vitiligo in genetically susceptible individuals.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 209,
+      "text": "Interestingly, MTHFR 1298 A > C polymorphism was found to be associated with autoimmune vitiligo.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 211,
+      "text": "El Tahlawi and colleagues (2020) noted that an elevated Hcy level has been described in vitiligo.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 212,
+      "text": "Methylenetetrahydrofolate reductase (MTHFR) and cystathionine B synthase (CBS) are major determinants of the homocysteine metabolism.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 213,
+      "text": "These researchers examined serum Hcy levels in vitiligo patients as well as the association between MTHFR (C677T, A1298C) and CBS gene polymorphisms and susceptibility to vitiligo in a sample of those populations; Hcy levels were estimated by radioimmunoassay while MTHFR (C677T, A1298C) and CBS gene polymorphisms were detected by the PCR-RFLP technique in 100 vitiligo patients and 80 healthy controls.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 214,
+      "text": "The Hcy level was significantly higher in vitiligo patients than controls (p = 0.000).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 215,
+      "text": "Significant differences in the genotype and allele distributions of single nucleotide polymorphisms (SNPs) of the MTHFR (C677T, A1298C) with the mutant genotypes were more common in the controls than patients (p = 0.001, 0.029, respectively); CBS gene mutant genotypes and alleles were more common in vitiligo patients than controls (p = 0.002).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 216,
+      "text": "The authors concluded that CBS and MTHFR gene polymorphisms may play a major role in the genetic susceptibility to vitiligo.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 217,
+      "text": "Chang and associates (2020) stated that MTHFR is an important enzyme that converts 5,10- methylenetetrahydrofolate into 5-methylenetetrahydrofolate, which provides the methyl group to convert Hcy to methionine.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 218,
+      "text": "Two common MTHFR gene polymorphisms, C677T (rs1801133) and A1298C (rs1801131), are associated with decreased MTHFR enzyme activity, and several studies have reported the involvement of these polymorphisms in susceptibility to diseases, including autoimmune diseases.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 219,
+      "text": "Vitiligo is a common cutaneous hypo-pigmentation disease resulting from the loss of functional melanocytes due to autoreactive CD8+ T cells or oxidative stress in genetically predisposed individuals.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 226,
+      "text": "There was a significant difference between CMT and CMT + phototherapy in stable vitiligo (p 0.05).",
+      "label": "PREMISE"
+    }
+  ]
+}
