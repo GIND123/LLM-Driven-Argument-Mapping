@@ -1,0 +1,242 @@
+{
+  "document_id": "antiemetics-oncology",
+  "source": "Uhc",
+  "dataset": "uhc",
+  "sentences": [
+    {
+      "id": 2,
+      "text": "Medical Necessity Plans Preferred Product(s) Non-Preferred Product(s) Neurokinin 1 Receptor Antagonist (NK1 RA) Emend (fosaprepitant) injection Cinvanti (aprepitant) injectable emulsion, Focinvez (fosaprepitant) injection Emend (aprepitant) capsules Varubi (rolapitant) tablets 5-Hydroxytryptamine Receptor Antagonist (5HT3 RA) Kytril (granisetron) injection Sustol (granisetron) injection, Posfrea (palonosetron) injection Kytril (granisetron) tablets Zofran (ondansetron) injection Zofran (ondansetron) tablets Aloxi (palonosetron) injection Antiemetics for Oncology Page 1 of 10 UnitedHealthcare Commercial Medical Benefit Drug Policy Effective 10/01/2025 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 3,
+      "text": "Copyright 2025 United HealthCare Services, Inc. Preferred Product(s) Non-Preferred Product(s) NK1 RA/5HT3 RA Combination Akynzeo (fosnetupitant/palonosetron) injection Akynzeo (netupitant/palonosetron) capsule Coverage for antiemetics will be provided contingent on the coverage criteria in the Diagnosis-Specific Criteria section.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Any U.S. Food and Drug Administration approved product that may belong to UnitedHealthcare Preferred or Non- preferred Product categories but not listed by name in this policy will be considered non-preferred until reviewed by UnitedHealthcare P&T committee.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Treatment with non-preferred NK1 RA, 5HT3 RA, or NK1 RA/5HT3 RA combination product is medically necessary for the indications specified in the policy when one of the following is met: Both of the following: History of a trial of adequate dose and duration to one of the preferred NK1 RA or 5HT3 RA products, resulting in o minimal clinical response; and Physician attests that, in their clinical opinion, the clinical response would be expected to be superior with non- o preferred NK1 RA, 5HT3 RA, or NK1 RA/5HT3 RA combination product, than experienced with preferred NK1 RA or 5HT3 RA product or Both of the following: History of intolerance, contraindication, or adverse event to one of the preferred NK1 RA or 5HT3 RA products; o and Physician attests that, in their clinical opinion, the same intolerance, contraindication, or adverse event would not o be expected to occur with non-preferred NK1 RA, 5HT3 RA, or NK1 RA/5HT3 RA combination products Non-Medical Necessity Plans Any antiemetic product is to be approved contingent on the coverage criteria in the Diagnosis-Specific Criteria section.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Diagnosis-Specific Criteria For the coverage criteria below, in absence of specified drug products, the term “antiemetics” will be used in this policy where the coverage criteria apply to all products listed above.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 8,
+      "text": "Antiemetics are proven and medically necessary for the following indications: NK1 RA (Emend, Cinvanti, Varubi) may be indicated when one of following are present: Both of the following: o  Prevention of chemotherapy-induced nausea and vomiting due to High Emetic Risk parenteral anticancer agents;10 and  In combination with a 5HT3 RA or All of the following: o  Prevention of chemotherapy-induced nausea and vomiting due to Moderate Emetic Risk parenteral anticancer agents; and  In combination with a 5HT3 RA; and  One of the risk factors for anticancer-agent induced nausea/vomiting: Younger age ( 90% frequency of emesis) AC combination defined as any chemotherapy Doxorubicin ≥ 60 mg/m2 regimen that contains anthracycline and Epirubicin > 90 mg/m2 cyclophosphamide Fam-trastuzumab deruxtecan-nxki Carboplatin AUC ≥ 4 Ifosfamide ≥ 2 g/m2 per dose Carmustine > 250 mg/m2 Mechlorethamine Cisplatin Melphalan ≥ 140 mg/m2 Cyclophosphamide > 1500 mg/m2 Streptozocin Dacarbazine Sacituzumab govitecan-hziy NCCN listed moderate emetic risk regimens (> 30%-90% frequency of emesis) Aldesleukin > 12 – 15 million IU/m2 Busulfan Amifostine > 300 mg/m2 Carboplatin AUC 200 mg/m2 Lurbinectedin Dactinomycin Melphalan < 140 mg/m2 Daunorubicin Methotrexate ≥ 250 mg/m2 Dual-drug liposomal encapsulation of cytarabine and Mirvetuximab soravtansine-gynx daunorubicin Naxitamab-gqgk Dinutuximab Oxaliplatin Doxorubicin < 60 mg/m2 Romidepsin Epirubicin ≤ 90 mg/m2 Temozolomide Idarubicin Trabectedin Ifosfamide < 2 g/m2 per dose American Society of Clinical Oncology28 The American Society of Clinical Oncology (ASCO) has published guidelines for antiemetics in oncology after conducting a systematic review by an expert panel of forty-one publications (35 randomized control trials and 6 meta-analysis).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "The guideline addresses the prevention, management, and nausea and vomiting due to antineoplastic agents and/or radiation therapy in patients with cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 10,
+      "text": "For high emetic risk antineoplastic agents, ASCO guidelines recommend four-drug combination (an NK1 receptor antagonist, a 5-HT3 receptor antagonist, dexamethasone, and olanzapine) with dexamethasone and olanzapine to be continued on days 2-4; high quality of evidence and strong strength of recommendations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 11,
+      "text": "In addition, patients who are treated with anthracycline and cyclophosphamide combination should be offered four-drug antiemetic combination (an NK1 receptor antagonist, a 5-HT3 receptor antagonist, dexamethasone, and olanzapine) with olanzapine continued on days 2-4; high quality of evidence and strong strength of recommendations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 12,
+      "text": "For moderate emetic risk antineoplastic agents, especially those treated with carboplatin area under the curve (AUC) ≥ 4 mg/ml per minute, ASCO guidelines recommend a 3-drug combination (an NK1 receptor antagonist, a 5-HT3 receptor antagonist, and dexamethasone).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 13,
+      "text": "Those treated with moderate emetic risk antineoplastic agents excluding carboplatin AUC ≥ 4 mg/ml per minute, ASCO guidelines recommend 2-drug combination (a 5-HT3 receptor antagonist and dexamethasone); high quality of evidence and strong strength of recommendations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 14,
+      "text": "For low emetic risk antineoplastic agents, ASCO guidelines recommend single agents (a 5-HT3 receptor antagonist or dexamethasone), low quality of evidence and moderate strength of recommendations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 15,
+      "text": "For minimal emetic risk antineoplastic agents, ASCO guidelines recommend no routine antiemetic prophylaxis, low quality of evidence and moderate strength of recommendation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 16,
+      "text": "For breakthrough nausea and vomiting, ASCO guidelines recommend evaluating emetic risk, disease status, concurrent illnesses, and medications, and ascertain that the best regimen is being administered for the emetic risk.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 17,
+      "text": "Those who experience nausea or vomiting despite optimal prophylaxis, and who did not receive olanzapine prophylactically, should be offered olanzapine in addition to continuing the standard antiemetic regimen, intermediate quality of evidence and moderate strength of recommendation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 19,
+      "text": "ASCO, 2017) U.S. Food and Drug Administration (FDA) This section is to be used for informational purposes only.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 20,
+      "text": "FDA approval alone is not a basis for coverage.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 21,
+      "text": "Akynzeo® (palonosetron/netupitant) capsule is a combination of selective 5-HT3 receptor antagonist and substance P/neurokinin 1 receptor antagonist indicated in combination with dexamethasone in adults for the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of cancer chemotherapy, including, but not limited to, highly emetogenic chemotherapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 22,
+      "text": "Akynzeo® (palonosetron/fosnetupitant) injection is a combination of selective 5-HT3 receptor antagonist and substance P/neurokinin 1 receptor antagonist indicated in combination with dexamethasone in adults for the prevention of acute and Antiemetics for Oncology Page 6 of 10 UnitedHealthcare Commercial Medical Benefit Drug Policy Effective 10/01/2025 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "Copyright 2025 United HealthCare Services, Inc. delayed nausea and vomiting associated with initial and repeat courses of highly emetogenic cancer chemotherapy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 32,
+      "text": "Varubi® (rolapitant) tablet is a substance P/neurokinin 1 (NK1) receptor antagonist indicated in combination with other antiemetic agents in adults for the prevention of delayed nausea and vomiting associated with initial and repeat courses of emetogenic cancer chemotherapy, including, but not limited to, highly emetogenic chemotherapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 33,
+      "text": "Aloxi® (palonosetron) injection is a serotonin subtype 3 (5-HT3) receptor antagonist indicated in adults for moderately emetogenic cancer chemotherapy -- prevention of acute and delayed nausea and vomiting associated with initial and repeat courses, highly emetogenic cancer chemotherapy -- prevention of acute nausea and vomiting associated with initial and repeat courses, and prevention of postoperative nausea and vomiting (PONV) for up to 24 hours following surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 35,
+      "text": "Aloxi is also indicated in pediatric patients aged 1 month to less than 17 years for prevention of acute nausea and vomiting associated with initial and repeat courses of emetogenic cancer chemotherapy, including highly emetogenic cancer chemotherapy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 36,
+      "text": "Aloxi® (palonosetron) capsules is a serotonin subtype 3 (5-HT3) receptor antagonist, indicated for moderately emetogenic cancer chemotherapy -- prevention of acute nausea and vomiting associated with initial and repeat courses.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 38,
+      "text": "Kytril® (granisetron) injection is a serotonin-3 (5-HT3) receptor antagonist indicated for the prevention of nausea and/or vomiting associated with initial and repeat courses of emetogenic cancer therapy, including high-dose cisplatin and for the prevention and treatment of postoperative nausea and vomiting in adults.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 39,
+      "text": "Zofran® (ondansetron) oral solution, tablets, and orally disintegrating tablets are 5-HT3 receptor antagonist indicated for the prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy, including cisplatin greater than or equal to 50 mg/m2, nausea and vomiting associated with initial and repeat courses of moderately emetogenic cancer chemotherapy, nausea and vomiting associated with radiotherapy in patients receiving either total body irradiation, single high-dose fraction to the abdomen, or daily fractions to the abdomen, or postoperative nausea and/or vomiting.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 40,
+      "text": "Antiemetics for Oncology Page 7 of 10 UnitedHealthcare Commercial Medical Benefit Drug Policy Effective 10/01/2025 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 41,
+      "text": "Copyright 2025 United HealthCare Services, Inc. Zofran® (ondansetron) injection is a 5-HT3 receptor antagonist indicated for prevention of nausea and vomiting associated with initial and repeat courses of emetogenic cancer chemotherapy and prevention of postoperative nausea and/or vomiting.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 42,
+      "text": "Centers for Medicare and Medicaid Services (CMS) Medicare may cover oral Aprepitant (Emend® capsules) when criteria are met.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 43,
+      "text": "Refer to the National Coverage Determination (NCD) for Aprepitant for Chemotherapy-Induced Emesis (110.18).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 44,
+      "text": "Local Coverage Determinations (LCDs)/Local Coverage Articles (LCAs) exist; refer to the LCDs/LCAs for Oral Antiemetic Drugs (Replacement for Intravenous Antiemetics).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 45,
+      "text": "CMS does not have an NCD for Akynzeo® (palonosetron/netupitant) capsules, Kytril® (granisetron) tablets, Varubi® (rolapitant) tablets and Zofran® (ondansetron) tablets.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 46,
+      "text": "LCDs/LCAs exist; refer to the LCDs/LCAs for Oral Antiemetic Drugs (Replacement for Intravenous Antiemetics).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 47,
+      "text": "CMS does not have an NCD, LCD or LCA for the following injectable antiemetics used to treat chemotherapy induced nausea or vomiting: • Akynzeo® (palonosetron/fosnetupitant) injection • Aloxi® (palonosetron) injection • Cinvanti® (aprepitant) injectable emulsion • Emend® (fosaprepitant) injection • Kytril® (granisetron) injection • Sustol® (granisetron extended release) injection • Zofran® (ondansetron) injection In general, Medicare covers outpatient (Part B) drugs that are furnished \"incident to\" a physician's service provided that the drugs are not usually self-administered by the patients who take them.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 50,
+      "text": "McDonagh M, Peterson K, Thakurta S. Consideration of Evidence on Antiemetic Drugs for Nausea and Vomiting Associated with Chemotherapy or Radiation Therapy in Adults.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 54,
+      "text": "Combined data from two phase III trials of the NK1 antagonist aprepitant plus a 5HT 3 antagonist and a corticosteroid for prevention of chemotherapy-induced nausea and vomiting: effect of gender on treatment response. Support Care Cancer. 2006;14(4):354-360. doi:10.1007/s00520-005-0914-4. 5. Emend (fosaprepitant) for injection.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 63,
+      "text": "Antiemetics for Oncology Page 8 of 10 UnitedHealthcare Commercial Medical Benefit Drug Policy Effective 10/01/2025 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 71,
+      "text": "5-HT3 receptors as important mediators of nausea and vomiting due to chemotherapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 72,
+      "text": "Biochimica et Biophysica Acta 2015;1848(10 Pt B):2738-46. DOI: 10.1016/j.bbamem.2015.03.020. 16. Zhou M. et al.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 87,
+      "text": "A randomized phase III study evaluating the efficacy and safety of NEPA, a fixed- dose combination of netupitant and palonosetron, for prevention of chemotherapy-induced nausea and vomiting following moderately emetogenic chemotherapy. Ann Oncol. 2014;25(7):1328-1333. doi:10.1093/annonc/mdu101. 24.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 92,
+      "text": "Policy History/Revision Information Date Summary of Changes 10/01/2025 Applicable Codes Updated list of applicable ICD-10 diagnosis codes to reflect annual edits; added R11.16 Supporting Information Archived previous policy version 2025D0093J Instructions for Use This Medical Benefit Drug Policy provides assistance in interpreting UnitedHealthcare standard benefit plans.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 96,
+      "text": "UnitedHealthcare reserves the right to modify its Policies and Guidelines as necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 98,
+      "text": "Antiemetics for Oncology Page 9 of 10 UnitedHealthcare Commercial Medical Benefit Drug Policy Effective 10/01/2025 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 100,
+      "text": "In the absence of a Medicare National Coverage Determination (NCD), Local Coverage Determination (LCD), or other Medicare coverage guidance, CMS allows a Medicare Advantage Organization (MAO) to create its own coverage determinations, using objective evidence-based rationale relying on authoritative evidence (Medicare IOM Pub. No. 100-16, Ch. 4, §90.5).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 101,
+      "text": "UnitedHealthcare may also use tools developed by third parties, such as the InterQual® criteria, to assist us in administering health benefits.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 102,
+      "text": "UnitedHealthcare Medical Benefit Drug Policies are intended to be used in connection with the independent professional medical judgment of a qualified health care provider and do not constitute the practice of medicine or medical advice.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 103,
+      "text": "Antiemetics for Oncology Page 10 of 10 UnitedHealthcare Commercial Medical Benefit Drug Policy Effective 10/01/2025 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    }
+  ]
+}

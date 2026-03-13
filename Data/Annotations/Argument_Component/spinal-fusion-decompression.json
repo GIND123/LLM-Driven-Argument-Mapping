@@ -1,0 +1,367 @@
+{
+  "document_id": "spinal-fusion-decompression",
+  "source": "Uhc",
+  "dataset": "uhc",
+  "sentences": [
+    {
+      "id": 2,
+      "text": "UnitedHealthcare Individual Exchange This Medical Policy applies to Individual Exchange benefit plans.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "Coverage Rationale Spinal procedures for the treatment of spine pain are proven and medically necessary in certain circumstances.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Isolated Facet Fusion, with or without instrumentation, is unproven and not medically necessary due to insufficient evidence of efficacy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Dynamic Stabilization systems for the treatment of degenerative Spondylolisthesis are unproven and not medically necessary due to insufficient evidence of efficacy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 7,
+      "text": "Total Facet Joint Arthroplasty is unproven and not medically necessary due to insufficient evidence of efficacy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Dividing treatment of symptomatic, multi-site spinal pathology via anterior or posterior approach into serial or Staged Multiple Sessions when one session can address all sites is unproven and not medically necessary due to insufficient evidence of safety and efficacy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Medical Records Documentation Used for Reviews Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 11,
+      "text": "Medical records documentation may be required to assess whether the member meets the clinical criteria for coverage but does not guarantee coverage of the service requested; refer to the guidelines titled Medical Records Documentation Used for Reviews.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 12,
+      "text": "Definitions Disabling Symptoms: Are defined in a pivotal study demonstrating benefit of surgery (Weinstein, 2009) where the participants with an Oswestry Disability Index score of more than 8, or an SF-36 Bodily Pain Score of less than 70 or a Physical Function Score of less than 78 were the ones that demonstrated benefit.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 13,
+      "text": "These scores are equal to or more severe than the majority of participants, meaning those participants within two standard deviations (+/-) of the mean for such scores.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 14,
+      "text": "Dynamic Stabilization: Also known as soft stabilization or flexible stabilization has been proposed as an adjunct or alternative to Spinal Fusion for the treatment of severe refractory pain due to degenerative Spondylolisthesis, or continued severe refractory back pain following prior fusion, sometimes referred to as failed back surgery syndrome.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 15,
+      "text": "Dynamic Stabilization uses flexible materials rather than rigid devices to stabilize the affected spinal segment(s).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 16,
+      "text": "These flexible materials may be anchored to the vertebrae by synthetic cords or by pedicle screws.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 17,
+      "text": "Unlike the rigid fixation of Spinal Fusion, Dynamic Stabilization is intended to preserve the mobility of the spinal segment. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 24,
+      "text": "Lenahan, 2018) • Presenting symptoms should include a positive nerve root tension sign (positive straight leg raise test or femoral tension sign), or a reflex (asymmetric depressed reflex), sensory (asymmetric decreased sensation in a dermatomal distribution), or motor (asymmetric weakness in a myotomal distribution) deficit that correspond to the specific affected nerve root. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 26,
+      "text": "Lenahan, 2018) Spinal Fusion: Also called arthrodesis, is a surgical technique that may be done as an open or minimally invasive procedure.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 27,
+      "text": "There are many different approaches to Spinal Fusion, but all techniques involve removing the disc between two or more vertebrae and fusing the adjacent vertebrae together using bone grafts and/or spacers placed where the disc used to be.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 28,
+      "text": "Spacers can be made of bone or bone substitutes, metal (titanium), carbon fiber, polymers or bioresorbable materials and are often supported by plates, screws, rods, and/or cages. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 29,
+      "text": "Veritas Health, 2022) Spondylolisthesis: An acquired condition that involves the anterior displacement of one vertebral segment over subjacent vertebrae.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 30,
+      "text": "The causes can be congenital, due to stress fractures, facet degeneration, injury, or after decompression surgery.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 31,
+      "text": "The condition may be asymptomatic or cause significant pain and nerve-related symptoms.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 33,
+      "text": "Listhesis demonstrated on imaging is considered clinically significant (as opposed to a normal age-related change without clinical implication) if sagittal plane displacement is at least 3 mm on flexion and extension views or relative sagittal plane angulation greater than 11 degrees. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 34,
+      "text": "Ghogawala et al, 2016) Spinal Fusion and Decompression Page 2 of 12 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 36,
+      "text": "The condition is an acquired condition, occurs commonly at a young age and may occur with or without Spondylolisthesis.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 49,
+      "text": "CPT Code Description 0202T Posterior vertebral joint(s) arthroplasty (e.g., facet joint[s] replacement), including facetectomy, laminectomy, foraminotomy, and vertebral column fixation, injection of bone cement, when performed, including fluoroscopy, single level, lumbar spine 0219T Placement of a posterior intrafacet implant(s), unilateral or bilateral, including imaging and placement of bone graft(s) or synthetic device(s), single level; cervical 0220T Placement of a posterior intrafacet implant(s), unilateral or bilateral, including imaging and placement of bone graft(s) or synthetic device(s), single level; thoracic 0221T Placement of a posterior intrafacet implant(s), unilateral or bilateral, including imaging and placement of bone graft(s) or synthetic device(s), single level; lumbar 0222T Placement of a posterior intrafacet implant(s), unilateral or bilateral, including imaging and placement of bone graft(s) or synthetic device(s), single level; each additional vertebral segment (List separately in addition to code for primary procedure) 0719T Posterior vertebral joint replacement, including bilateral facetectomy, laminectomy, and radical discectomy, including imaging guidance, lumbar spine, single segment 22206 Osteotomy of spine, posterior or posterolateral approach, 3 columns, 1 vertebral segment (e.g., pedicle/vertebral body subtraction); thoracic 22207 Osteotomy of spine, posterior or posterolateral approach, 3 columns, 1 vertebral segment (e.g., pedicle/vertebral body subtraction); lumbar 22208 Osteotomy of spine, posterior or posterolateral approach, 3 columns, 1 vertebral segment (e.g., pedicle/vertebral body subtraction); each additional vertebral segment (List separately in addition to code for primary procedure) 22210 Osteotomy of spine, posterior or posterolateral approach, 1 vertebral segment; cervical 22212 Osteotomy of spine, posterior or posterolateral approach, 1 vertebral segment; thoracic 22214 Osteotomy of spine, posterior or posterolateral approach, 1 vertebral segment; lumbar 22216 Osteotomy of spine, posterior or posterolateral approach, 1 vertebral segment; each additional vertebral segment (List separately in addition to primary procedure) 22220 Osteotomy of spine, including discectomy, anterior approach, single vertebral segment; cervical 22222 Osteotomy of spine, including discectomy, anterior approach, single vertebral segment; thoracic 22224 Osteotomy of spine, including discectomy, anterior approach, single vertebral segment; lumbar Spinal Fusion and Decompression Page 3 of 12 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 50,
+      "text": "Copyright 2026 United HealthCare Services, Inc. CPT Code Description 22226 Osteotomy of spine, including discectomy, anterior approach, single vertebral segment; each additional vertebral segment (List separately in addition to code for primary procedure) 22532 Arthrodesis, lateral extracavitary technique, including minimal discectomy to prepare interspace (other than for decompression); thoracic 22533 Arthrodesis, lateral extracavitary technique, including minimal discectomy to prepare interspace (other than for decompression); lumbar 22534 Arthrodesis, lateral extracavitary technique, including minimal discectomy to prepare interspace (other than for decompression); thoracic or lumbar, each additional vertebral segment (List separately in addition to code for primary procedure) 22548 Arthrodesis, anterior transoral or extraoral technique, clivus-C1-C2 (atlas-axis), with or without excision of odontoid process 22551 Arthrodesis, anterior interbody, including disc space preparation, discectomy, osteophytectomy and decompression of spinal cord and/or nerve roots; cervical below C2 22552 Arthrodesis, anterior interbody, including disc space preparation, discectomy, osteophytectomy and decompression of spinal cord and/or nerve roots; cervical below C2, each additional interspace (List separately in addition to code for separate procedure) 22554 Arthrodesis, anterior interbody technique, including minimal discectomy to prepare interspace (other than for decompression); cervical below C2 22556 Arthrodesis, anterior interbody technique, including minimal discectomy to prepare interspace (other than for decompression); thoracic 22558 Arthrodesis, anterior interbody technique, including minimal discectomy to prepare interspace (other than for decompression); lumbar 22585 Arthrodesis, anterior interbody technique, including minimal discectomy to prepare interspace (other than for decompression); each additional interspace (List separately in addition to code for primary procedure) 22590 Arthrodesis, posterior technique, craniocervical (occiput-C2) 22595 Arthrodesis, posterior technique, atlas-axis (C1-C2) 22600 Arthrodesis, posterior or posterolateral technique, single interspace; cervical below C2 segment 22610 Arthrodesis, posterior or posterolateral technique, single interspace; thoracic (with lateral transverse technique, when performed) 22612 Arthrodesis, posterior or posterolateral technique, single interspace; lumbar (with lateral transverse technique, when performed) 22614 Arthrodesis, posterior or posterolateral technique, single interspace; each additional interspace (List separately in addition to code for primary procedure) 22630 Arthrodesis, posterior interbody technique, including laminectomy and/or discectomy to prepare interspace (other than for decompression), single interspace, lumbar 22632 Arthrodesis, posterior interbody technique, including laminectomy and/or discectomy to prepare interspace (other than for decompression), single interspace, lumbar; each additional interspace (List separately in addition to code for primary procedure) 22633 Arthrodesis, combined posterior or posterolateral technique with posterior interbody technique including laminectomy and/or discectomy sufficient to prepare interspace (other than for decompression), single interspace, lumbar 22634 Arthrodesis, combined posterior or posterolateral technique with posterior interbody technique including laminectomy and/or discectomy sufficient to prepare interspace (other than for decompression), single interspace, lumbar; each additional interspace (List separately in addition to code for primary procedure) 22800 Arthrodesis, posterior, for spinal deformity, with or without cast; up to 6 vertebral segments 22802 Arthrodesis, posterior, for spinal deformity, with or without cast; 7 to 12 vertebral segments 22804 Arthrodesis, posterior, for spinal deformity, with or without cast; 13 or more vertebral segments 22808 Arthrodesis, anterior, for spinal deformity, with or without cast; 2 to 3 vertebral segments 22810 Arthrodesis, anterior, for spinal deformity, with or without cast; 4 to 7 vertebral segments Spinal Fusion and Decompression Page 4 of 12 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 51,
+      "text": "Copyright 2026 United HealthCare Services, Inc. CPT Code Description 22812 Arthrodesis, anterior, for spinal deformity, with or without cast; 8 or more vertebral segments 22830 Exploration of spinal fusion 22840 Posterior non-segmental instrumentation (e.g., Harrington rod technique, pedicle fixation across 1 interspace, atlantoaxial transarticular screw fixation, sublaminar wiring at C1, facet screw fixation) (List separately in addition to code for primary procedure) 22841 Internal spinal fixation by wiring of spinous processes (List separately in addition to code for primary procedure) 22842 Posterior segmental instrumentation (e.g., pedicle fixation, dual rods with multiple hooks and sublaminar wires); 3 to 6 vertebral segments (List separately in addition to code for primary procedure) 22843 Posterior segmental instrumentation (e.g., pedicle fixation, dual rods with multiple hooks and sublaminar wires); 7 to 12 vertebral segments (List separately in addition to code for primary procedure) 22844 Posterior segmental instrumentation (e.g., pedicle fixation, dual rods with multiple hooks and sublaminar wires); 13 or more vertebral segments (List separately in addition to code for primary procedure) 22845 Anterior instrumentation; 2 to 3 vertebral segments (List separately in addition to code for primary procedure) 22846 Anterior instrumentation; 4 to 7 vertebral segments (List separately in addition to code for primary procedure) 22847 Anterior instrumentation; 8 or more vertebral segments (List separately in addition to code for primary procedure) 22848 Pelvic fixation (attachment of caudal end of instrumentation to pelvic bony structures) other than sacrum (List separately in addition to code for primary procedure) 22849 Reinsertion of spinal fixation device 22850 Removal of posterior nonsegmental instrumentation (e.g., Harrington rod) 22852 Removal of posterior segmental instrumentation 22853 Insertion of interbody biomechanical device(s) (e.g., synthetic cage, mesh) with integral anterior instrumentation for device anchoring (e.g., screws, flanges), when performed, to intervertebral disc space in conjunction with interbody arthrodesis, each interspace (List separately in addition to code for primary procedure) 22854 Insertion of intervertebral biomechanical device(s) (e.g., synthetic cage, mesh) with integral anterior instrumentation for device anchoring (e.g., screws, flanges), when performed, to vertebral corpectomy(ies) (vertebral body resection, partial or complete) defect, in conjunction with interbody arthrodesis, each contiguous defect (List separately in addition to code for primary procedure) 22855 Removal of anterior instrumentation 22859 Insertion of intervertebral biomechanical device(s) (e.g., synthetic cage, mesh, methylmethacrylate) to intervertebral disc space or vertebral body defect without interbody arthrodesis, each contiguous defect (List separately in addition to code for primary procedure) 22899 Unlisted procedure, spine 62380 Endoscopic decompression of spinal cord, nerve root(s), including laminotomy, partial facetectomy, foraminotomy, discectomy and/or excision of herniated intervertebral disc, 1 interspace, lumbar 63001 Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (e.g., spinal stenosis), 1 or 2 vertebral segments; cervical 63003 Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (e.g., spinal stenosis), 1 or 2 vertebral segments; thoracic 63005 Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (e.g., spinal stenosis), 1 or 2 vertebral segments; lumbar, except for spondylolisthesis 63012 Laminectomy with removal of abnormal facets and/or pars inter-articularis with decompression of cauda equina and nerve roots for spondylolisthesis, lumbar (Gill type procedure) Spinal Fusion and Decompression Page 5 of 12 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 52,
+      "text": "Copyright 2026 United HealthCare Services, Inc. CPT Code Description 63015 Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (e.g., spinal stenosis), more than 2 vertebral segments; cervical 63016 Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (e.g., spinal stenosis), more than 2 vertebral segments; thoracic 63017 Laminectomy with exploration and/or decompression of spinal cord and/or cauda equina, without facetectomy, foraminotomy or discectomy (e.g., spinal stenosis), more than 2 vertebral segments; lumbar 63020 Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc; 1 interspace, cervical 63030 Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc; 1 interspace, lumbar 63035 Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc; each additional interspace, cervical or lumbar (List separately in addition to code for primary procedure) 63040 Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc, reexploration, single interspace; cervical 63042 Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc, reexploration, single interspace; lumbar 63043 Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc, reexploration, single interspace; each additional cervical interspace (List separately in addition to code for primary procedure) 63044 Laminotomy (hemilaminectomy), with decompression of nerve root(s), including partial facetectomy, foraminotomy and/or excision of herniated intervertebral disc, reexploration, single interspace; each additional lumbar interspace (List separately in addition to code for primary procedure) 63045 Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s], [e.g., spinal or lateral recess stenosis]), single vertebral segment; cervical 63046 Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s], [e.g., spinal or lateral recess stenosis]), single vertebral segment; thoracic 63047 Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s], [e.g., spinal or lateral recess stenosis]), single vertebral segment; lumbar 63048 Laminectomy, facetectomy and foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s], [e.g., spinal or lateral recess stenosis]), single vertebral segment; each additional vertebral segment, cervical, thoracic, or lumbar (List separately in addition to code for primary procedure) 63050 Laminoplasty, cervical, with decompression of the spinal cord, 2 or more vertebral segments 63051 Laminoplasty, cervical, with decompression of the spinal cord, 2 or more vertebral segments; with reconstruction of the posterior bony elements (including the application of bridging bone graft and non-segmental fixation devices [e.g., wire, suture, mini-plates], when performed) 63052 Laminectomy, facetectomy, or foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s] [e.g., spinal or lateral recess stenosis]), during posterior interbody arthrodesis, lumbar; single vertebral segment (List separately in addition to code for primary procedure) 63053 Laminectomy, facetectomy, or foraminotomy (unilateral or bilateral with decompression of spinal cord, cauda equina and/or nerve root[s] [e.g., spinal or lateral recess stenosis]), during posterior interbody arthrodesis, lumbar; each additional vertebral segment (List separately in addition to code for primary procedure) Spinal Fusion and Decompression Page 6 of 12 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 53,
+      "text": "Copyright 2026 United HealthCare Services, Inc. CPT Code Description 63055 Transpedicular approach with decompression of spinal cord, equina and/or nerve root(s) (e.g., herniated intervertebral disc), single segment; thoracic 63056 Transpedicular approach with decompression of spinal cord, equina and/or nerve root(s) (e.g., herniated intervertebral disc), single segment; lumbar (including transfacet, or lateral extraforaminal approach) (e.g., far lateral herniated intervertebral disc) 63057 Transpedicular approach with decompression of spinal cord, equina and/or nerve root(s) (e.g., herniated intervertebral disc), single segment; each additional segment, thoracic or lumbar (List separately in addition to code for primary procedure) 63064 Costovertebral approach with decompression of spinal cord or nerve root(s) (e.g., herniated intervertebral disc), thoracic; single segment 63066 Costovertebral approach with decompression of spinal cord or nerve root(s) (e.g., herniated intervertebral disc), thoracic; each additional segment (List separately in addition to code for primary procedure) 63075 Discectomy, anterior, with decompression of spinal cord and/or nerve root(s), including osteophytectomy; cervical, single interspace 63076 Discectomy, anterior, with decompression of spinal cord and/or nerve root(s), including osteophytectomy; cervical, each additional interspace (List separately in addition to code for primary procedure) 63077 Discectomy, anterior, with decompression of spinal cord and/or nerve root(s), including osteophytectomy; thoracic, single interspace 63078 Discectomy, anterior, with decompression of spinal cord and/or nerve root(s), including osteophytectomy; thoracic, each additional interspace (List separately in addition to code for primary procedure) 63081 Vertebral corpectomy (vertebral body resection), partial or complete, anterior approach with decompression of spinal cord and/or nerve root(s); cervical, single segment 63082 Vertebral corpectomy (vertebral body resection), partial or complete, anterior approach with decompression of spinal cord and/or nerve root(s); cervical, each additional segment (List separately in addition to code for primary procedure) 63085 Vertebral corpectomy (vertebral body resection), partial or complete, transthoracic approach with decompression of spinal cord and/or nerve root(s); thoracic, single segment 63086 Vertebral corpectomy (vertebral body resection), partial or complete, transthoracic approach with decompression of spinal cord and/or nerve root(s); thoracic, each additional segment (List separately in addition to code for primary procedure) 63087 Vertebral corpectomy (vertebral body resection), partial or complete, combined thoracolumbar approach with decompression of spinal cord, cauda equina or nerve root(s), lower thoracic or lumbar; single segment 63088 Vertebral corpectomy (vertebral body resection), partial or complete, combined thoracolumbar approach with decompression of spinal cord, cauda equina or nerve root(s), lower thoracic or lumbar; each additional segment (List separately in addition to code for primary procedure) 63090 Vertebral corpectomy (vertebral body resection), partial or complete, transperitoneal or retroperitoneal approach with decompression of spinal cord, cauda equina or nerve root(s), lower thoracic, lumbar, or sacral; single segment 63091 Vertebral corpectomy (vertebral body resection), partial or complete, transperitoneal or retroperitoneal approach with decompression of spinal cord, cauda equina or nerve root(s), lower thoracic, lumbar, or sacral; each additional segment (List separately in addition to code for primary procedure) 63101 Vertebral corpectomy (vertebral body resection), partial or complete, lateral extracavitary approach with decompression of spinal cord and/or nerve root(s) (e.g., for tumor or retropulsed bone fragments); thoracic, single segment 63102 Vertebral corpectomy (vertebral body resection), partial or complete, lateral extracavitary approach with decompression of spinal cord and/or nerve root(s) (e.g., for tumor or retropulsed bone fragments); lumbar, single segment Spinal Fusion and Decompression Page 7 of 12 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 54,
+      "text": "Copyright 2026 United HealthCare Services, Inc. CPT Code Description 63103 Vertebral corpectomy (vertebral body resection), partial or complete, lateral extracavitary approach with decompression of spinal cord and/or nerve root(s) (e.g., for tumor or retropulsed bone fragments); thoracic or lumbar, each additional segment (List separately in addition to code for primary procedure) 63170 Laminectomy with myelotomy (e.g., Bischof or DREZ type), cervical, thoracic, or thoracolumbar 63172 Laminectomy with drainage of intramedullary cyst/syrinx; to subarachnoid space 63173 Laminectomy with drainage of intramedullary cyst/syrinx; to peritoneal or pleural space 63185 Laminectomy with rhizotomy; 1 or 2 segments 63190 Laminectomy with rhizotomy; more than 2 segments 63191 Laminectomy with section of spinal accessory nerve 63197 Laminectomy with cordotomy, with section of both spinothalamic tracts, 1 stage, thoracic 63200 Laminectomy, with release of tethered spinal cord, lumbar 63250 Laminectomy for excision or occlusion of arteriovenous malformation of spinal cord; cervical 63251 Laminectomy for excision or occlusion of arteriovenous malformation of spinal cord; thoracic 63252 Laminectomy for excision or occlusion of arteriovenous malformation of spinal cord; thoracolumbar 63265 Laminectomy for excision or evacuation of intraspinal lesion other than neoplasm, extradural; cervical 63266 Laminectomy for excision or evacuation of intraspinal lesion other than neoplasm, extradural; thoracic 63267 Laminectomy for excision or evacuation of intraspinal lesion other than neoplasm, extradural; lumbar 63270 Laminectomy for excision of intraspinal lesion other than neoplasm, intradural; cervical 63271 Laminectomy for excision of intraspinal lesion other than neoplasm, intradural; thoracic 63272 Laminectomy for excision of intraspinal lesion other than neoplasm, intradural; lumbar 63275 Laminectomy for biopsy/excision of intraspinal neoplasm; extradural, cervical 63277 Laminectomy for biopsy/excision of intraspinal neoplasm; extradural, lumbar 63280 Laminectomy for biopsy/excision of intraspinal neoplasm; intradural, extramedullary, cervical 63282 Laminectomy for biopsy/excision of intraspinal neoplasm; intradural, extramedullary, lumbar 63285 Laminectomy for biopsy/excision of intraspinal neoplasm; intradural, intramedullary, cervical 63286 Laminectomy for biopsy/excision of intraspinal neoplasm; intradural, intramedullary, thoracic 63287 Laminectomy for biopsy/excision of intraspinal neoplasm; intradural, intramedullary, thoracolumbar 63290 Laminectomy for biopsy/excision of intraspinal neoplasm; combined extradural-intradural lesion, any level 63300 Vertebral corpectomy (vertebral body resection), partial or complete, for excision of intraspinal lesion, single segment; extradural, cervical 63301 Vertebral corpectomy (vertebral body resection), partial or complete, for excision of intraspinal lesion, single segment; extradural, thoracic by transthoracic approach 63302 Vertebral corpectomy (vertebral body resection), partial or complete, for excision of intraspinal lesion, single segment; extradural, thoracic by thoracolumbar approach 63303 Vertebral corpectomy (vertebral body resection), partial or complete, for excision of intraspinal lesion, single segment; extradural, lumbar or sacral by transperitoneal or retroperitoneal approach 63304 Vertebral corpectomy (vertebral body resection), partial or complete, for excision of intraspinal lesion, single segment; intradural, cervical 63305 Vertebral corpectomy (vertebral body resection), partial or complete, for excision of intraspinal lesion, single segment; intradural, thoracic by transthoracic approach 63306 Vertebral corpectomy (vertebral body resection), partial or complete, for excision of intraspinal lesion, single segment; intradural, thoracic by thoracolumbar approach 63307 Vertebral corpectomy (vertebral body resection), partial or complete, for excision of intraspinal lesion, single segment; intradural, lumbar or sacral by transperitoneal or retroperitoneal approach Spinal Fusion and Decompression Page 8 of 12 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 62,
+      "text": "The effectiveness of nonsurgical treatments, the extent of pain, and patient preferences may all factor into the decision to have surgery [National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS), 2016].",
+      "label": "CLAIM"
+    },
+    {
+      "id": 63,
+      "text": "Arthrodesis (fusion) procedures in the lumbar (lower) spine are surgical procedures that join two or more lumbar vertebrae together into one solid bony structure.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 66,
+      "text": "The most common approach to arthrodesis (fusion) of the lumbar spine is the posterior approach.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 67,
+      "text": "After the vertebrae are exposed through the back, pressure on the nerve roots and/or spinal cord is removed (“decompressed”).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 68,
+      "text": "This usually includes removing part or all of the nearby lamina bone, facet joints, any free disc fragments, or filing down any nearby bone spurs to relieve the nerves inside the spinal canal of tension and pressure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 71,
+      "text": "As healing occurs, the bone strips will fuse across the spaces in between the vertebral bodies, such as the disc spaces or the facet joint spaces.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 74,
+      "text": "Clinical Evidence Dynamic Stabilization Systems Due to the lack of data from well-designed, long-term, randomized controlled clinical trials, current evidence is insufficient to permit conclusions about whether any beneficial effect from dynamic stabilization provides a significant advantage over conventional fusion techniques.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 78,
+      "text": "A total of 321 adult patients were randomized in a 2:1 fashion, with 219 patients assigned to undergo facet arthroplasty and 102 patients assigned to undergo fusion.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 82,
+      "text": "There were no significant differences between Spinal Fusion and Decompression Page 9 of 12 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 83,
+      "text": "Copyright 2026 United HealthCare Services, Inc. groups in surgical variables or complications, except that the fusion group had a higher rate of developing symptomatic adjacent segment degeneration.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 84,
+      "text": "The study demonstrated that decompression plus lumbar facet arthroplasty was associated with superior PROMs across multiple metrics, lower rates of new or progressive neurologic symptoms, and lower rates of symptomatic adjacent segment degeneration, equating to higher rates of composite clinical success, compared with decompression plus fusion, at 24 months postoperatively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 85,
+      "text": "Long-term follow-up will be necessary to determine differences in implant longevity, PROMs, and radiographic parameters such as stability of the spondylolisthesis and maintenance of motion beyond 2 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 92,
+      "text": "Finally, this study reports the primary outcome in only approximately one half of the randomized sample; however, this is consistent with both the predetermined statistical plan and previous randomized controlled trials when there is a sufficiently large between-group difference at a preplanned interim analysis. In 2022, Pinter et al.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 93,
+      "text": "conducted an interim analysis on the one-year safety profile and clinical and radiographic outcomes of 153 participants randomized to the investigational arm of the FDA investigational device exemption (IDE) clinical trial for the Total Posterior Spine System (TOPS™) (Premia Spine USA, Norwalk, CT) device.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 94,
+      "text": "Among the participants, 145 devices were implanted at L4-5 and 8 at L3-4.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 96,
+      "text": "The safety profile showed 11 total complications and included new neurological deficits, dural tears infection, seroma, hematoma as well as retained drains, misplaced pedicle screws and screw loosening.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 98,
+      "text": "Patient reported outcome measures (PROMs) showed sustained improvement from 6 weeks to 12 months in ODI scores, as well as the mean VAS scores for low back and leg pain.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 100,
+      "text": "Radiographic parameters included global lordosis, disc height at the index level, and disc angle and spondylolisthesis at the index level and the levels above and below the index level and was evaluated in 90 of the participants.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 101,
+      "text": "Static radiographic parameters demonstrated increased index disc angle and disc height with a reduction in the magnitude of spondylolisthesis.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 102,
+      "text": "Comparison of dynamic radiographic parameters showed increased flexion/extension ROM and translation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 110,
+      "text": "The authors concluded that the Dynesys stabilization system has a similar complication rate compared with lumbar fusion studies and has a slightly lower incidence of ASD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 111,
+      "text": "Clinical Practice Guidelines North American Spine Society (NASS) A 2014 (revised in 2019) NASS coverage policy recommendation, entitled Interspinous Fixation with Fusion which addresses “flexible fusion,” which is defined as dynamic stabilization without arthrodesis for the treatment of degenerative lumbar spondylolisthesis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 114,
+      "text": "Isolated Facet Fusion Evidence is limited to small, uncontrolled trials with lack of blinding or long-term follow-up.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 115,
+      "text": "Randomized, controlled trials comparing these allograft materials to standardized autograft materials are needed to determine long-term efficacy and impact on health outcomes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 118,
+      "text": "Gavaskar and Achimuthu (2010) conducted a prospective study of 30 patients with low-grade degenerative spondylolisthesis of the lumbar and lumbosacral spine who underwent facet fusion using 2 cortical screws and local Spinal Fusion and Decompression Page 10 of 12 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 121,
+      "text": "The authors found that patients with degenerative spondylolisthesis with lower grade slips and normal anterior structures represent an ideal indication for facet fusion.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 123,
+      "text": "Multiple Serial/Staged Spine Procedures There is insufficient evidence of efficacy to support dividing spine decompression procedures into serial, multiple, or staged sessions when one session can address all sites.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 124,
+      "text": "Total Facet Arthroplasty Due to the lack of data from well-designed, long-term, randomized controlled clinical trials, current evidence is insufficient to permit conclusions about benefits and safety of facet arthroplasty.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 125,
+      "text": "For individuals who have lumbar spinal stenosis who receive spinal decompression with facet arthroplasty, the evidence includes a preliminary report of a randomized controlled trial.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 132,
+      "text": "Accessed October 23, 2024) Dynamic Stabilization Systems On June 15, 2023, the FDA granted premarket approval (PMA) of the TOPS™ System (Premia Spine USA, Norwalk, CT), a motion preserving spinal implant intended to stabilize the spine following decompression without using rigid fixation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 135,
+      "text": "American Academy of Orthopaedic Surgeons (AAOS). Lumbar Spinal Stenosis. December 2013. Chen YN, Yang SH, Chou SC, et al.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 147,
+      "text": "Spinal Fusion and Decompression Page 11 of 12 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 151,
+      "text": "Noninvasive treatments for acute, subacute and chronic low back pain: A clinical practice guideline from the American College of Physicians. Annals of Internal Medicine. April 2017. Summers, Jeffrey.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 155,
+      "text": "Policy History/Revision Information Date Summary of Changes 01/01/2026 Template Update Created shared policy version to support application to Oxford plan membership Supporting Information Archived previous policy version 2025T0639G and SURGERY 126.5 Instructions for Use This Medical Policy provides assistance in interpreting UnitedHealthcare standard benefit plans.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 158,
+      "text": "Before using this policy, check the member specific benefit plan document and any applicable federal or state mandates.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 159,
+      "text": "UnitedHealthcare reserves the right to modify its Policies and Guidelines as necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 160,
+      "text": "This Medical Policy is provided for informational purposes. It does not constitute medical advice.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 161,
+      "text": "This Medical Policy may also be applied to Medicare Advantage plans in certain instances.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 162,
+      "text": "In the absence of a Medicare National Coverage Determination (NCD), Local Coverage Determination (LCD), or other Medicare coverage guidance, CMS allows a Medicare Advantage Organization (MAO) to create its own coverage determinations, using objective evidence-based rationale relying on authoritative evidence (Medicare IOM Pub. No. 100-16, Ch. 4, §90.5).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 163,
+      "text": "UnitedHealthcare may also use tools developed by third parties, such as the InterQual® criteria, to assist us in administering health benefits.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 164,
+      "text": "UnitedHealthcare Medical Policies are intended to be used in connection with the independent professional medical judgment of a qualified health care provider and do not constitute the practice of medicine or medical advice.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 165,
+      "text": "Spinal Fusion and Decompression Page 12 of 12 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    }
+  ]
+}
