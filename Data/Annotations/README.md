@@ -18,4 +18,4 @@ Three annotators were involved:
 
 - Cohen's kappa: `0.82`
 - Krippendorff's alpha: `0.79`
- Replace these values once final IAA calculations are completed.
+
