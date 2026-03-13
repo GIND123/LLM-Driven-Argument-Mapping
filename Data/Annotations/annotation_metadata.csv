@@ -1,5 +1,5 @@
 document_id,source,component_json,relation_json,component_record_count,component_claim_count,component_premise_count,component_non_argumentative_count,relation_record_count,relation_support_count,relation_attack_count,relation_none_count
-ablative-treatment-spinal-pain,uhc,ablative-treatment-spinal-pain.json,ablative-treatment-spinal-pain.json,126,25,84,17,40,19,0,21
+ablative-treatment-spinal-pain,uhc,ablative-treatment-spinal-pain.json,ablative-treatment-spinal-pain.json,126,25,84,17,252,91,70,91
 abnormal-uterine-bleeding-uterine-fibroids,uhc,abnormal-uterine-bleeding-uterine-fibroids.json,abnormal-uterine-bleeding-uterine-fibroids.json,77,20,33,24,98,23,7,68
 Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle,aetna,Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle.json,Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle.json,330,97,151,82,453,244,103,106
 Alzheimer's_Disease_Tests_-_Medical_Clinical_Policy_Bulletin,aetna,Alzheimer_Disease_Tests_Medical_Clinical_Policy_Bulletin.json,Alzheimer's_Disease_Tests_-_Medical_Clinical_Policy_Bulletin.json,146,10,99,37,297,171,42,84
@@ -24,7 +24,7 @@ NCD_-_Continuous_Positive_Airway_Pressure_(CPAP)_Therapy_For_Obstructive_Sleep_A
 NCD_-_Diathermy_Treatment_(150.5),cms_ncd,NCD_Diathermy_Treatment_(150.5).json,NCD_Diathermy_Treatment_(150.5).json,2,1,1,0,1,1,0,0
 NCD_-_Digoxin_Therapeutic_Drug_Assay_(190.24),cms_ncd,NCD_Digoxin_Therapeutic_Drug_Assay_(190.24).json,NCD_Digoxin_Therapeutic_Drug_Assay_(190.24).json,10,2,2,6,4,2,0,2
 NCD_-_Magnetic_Resonance_Imaging_(220.2),cms_ncd,NCD_Magnetic_Resonance_Imaging_(220.2).json,NCD_Magnetic_Resonance_Imaging_(220.2).json,63,24,15,24,37,16,0,21
-NCD_-_Magnetic_Resonance_Spectroscopy_-_RETIRED_(220.2.1),cms_ncd,NCD_Magnetic_Resonance_Spectroscopy_RETIRED_(220.2.1).json,,2,2,0,0,0,0,0,0
+NCD_-_Magnetic_Resonance_Spectroscopy_-_RETIRED_(220.2.1),cms_ncd,NCD_Magnetic_Resonance_Spectroscopy_RETIRED_(220.2.1).json,NCD_-_Magnetic_Resonance_Spectroscopy_-_RETIRED_(220.2.1).json,2,2,0,0,0,0,0,0
 NCD_-_Prostate_Specific_Antigen_(190.31),cms_ncd,NCD_Prostate_Specific_Antigen_(190.31).json,NCD_Prostate_Specific_Antigen_(190.31).json,12,2,9,1,18,1,0,17
 NCD_-_Screening_for_Hepatitis_B_Virus_(HBV)_Infection_(210.6),cms_ncd,NCD_Screening_for_Hepatitis_B_Virus_(HBV)_Infection_(210.6).json,NCD_Screening_for_Hepatitis_B_Virus_(HBV)_Infection_(210.6).json,19,8,3,8,9,6,0,3
 Nutritional_Support_-_Medical_Clinical_Policy_Bulletins___Ae,aetna,Nutritional_Support_-_Medical_Clinical_Policy_Bulletins___Ae.json,Nutritional_Support_-_Medical_Clinical_Policy_Bulletins___Ae.json,61,49,12,0,36,12,4,20
