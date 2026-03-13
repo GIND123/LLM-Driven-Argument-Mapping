@@ -9,34 +9,9 @@
       "label": "NON_ARGUMENTATIVE"
     },
     {
-      "id": 3,
-      "text": "Coverage Rationale Note: Conventional (Thermal) Radiofrequency Ablation requires site of service review.",
-      "label": "NON_ARGUMENTATIVE"
-    },
-    {
-      "id": 4,
-      "text": "Refer to the Medical Policy titled Office-Based Procedures – Site of Service.",
-      "label": "NON_ARGUMENTATIVE"
-    },
-    {
-      "id": 5,
-      "text": "The following facet joint nerve ablation techniques are unproven and not medically necessary due to insufficient evidence of efficacy: • Pulsed Radiofrequency Ablation of the facet nerves of the cervical, thoracic, or lumbar region, sacral nerve root, or dorsal root ganglion • Endoscopic radiofrequency ablation/endoscopic rhizotomy • Cryoablation (cryodenervation, cryoneurolysis, cryosurgery, or cryoanesthesia) • Cooled Radiofrequency Ablation • Chemical ablation (including but not limited to alcohol, phenol, or sodium morrhuate) • Laser ablation (including pulsed, continuous, or low level) Ablation for treating sacroiliac pain is unproven and not medically necessary due to insufficient evidence of efficacy.",
-      "label": "CLAIM"
-    },
-    {
-      "id": 6,
-      "text": "Intraosseous radiofrequency ablation of the basivertebral nerve (e.g., Intracept®) for the treatment of spinal pain is unproven and not medically necessary due to insufficient evidence of efficacy.",
-      "label": "CLAIM"
-    },
-    {
-      "id": 7,
-      "text": "Ablative Treatment for Spinal Pain Page 1 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
-      "label": "NON_ARGUMENTATIVE"
-    },
-    {
-      "id": 8,
-      "text": "Copyright 2026 United HealthCare Services, Inc. Definitions Conventional (Thermal) Radiofrequency Ablation: The application of continuous high-frequency electrical current to ablate nerve tissue: • Temperature ≥ 60 °C; and • Duration of ablation ≥ 40 seconds; and • Confirmation of needle placement by fluoroscopic-guided imaging Cooled Radiofrequency Ablation: The application of continuous high-frequency electrical current to ablate nerve tissue using water-cooled electrodes/probes.",
-      "label": "NON_ARGUMENTATIVE"
+      "id": 9,
+      "text": "Pulsed Radiofrequency Ablation: Technique that delivers intermittent, short bursts of energy, instead of continuous energy, using a probe temperature of 42 to 45 °C (Hayes, 2023).",
+      "label": "PREMISE"
     },
     {
       "id": 10,
@@ -51,7 +26,7 @@
     {
       "id": 12,
       "text": "Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
-      "label": "NON_ARGUMENTATIVE"
+      "label": "CLAIM"
     },
     {
       "id": 13,
@@ -59,23 +34,33 @@
       "label": "NON_ARGUMENTATIVE"
     },
     {
+      "id": 16,
+      "text": "CPT Code Description 22899 Unlisted procedure, spine [when used to report the Intracept procedure or cooled radiofrequency ablation] 27299 Unlisted procedure, pelvis or hip joint 64625 Radiofrequency ablation, nerves innervating the sacroiliac joint, with image guidance (i.e., fluoroscopy or computed tomography) 64628 Thermal destruction of intraosseous basivertebral nerve, including all imaging guidance; first 2 vertebral bodies, lumbar or sacral 64629 Thermal destruction of intraosseous basivertebral nerve, including all imaging guidance; each additional vertebral body, lumbar or sacral (List separately in addition to code for primary procedure) 64999 Unlisted procedure, nervous system CPT® is a registered trademark of the American Medical Association Description of Services Pulsed Radiofrequency Ablation delivers short bursts of radiofrequency energy instead of the conventional technique of continuous energy, allowing the tissue to cool between bursts in a pulsed manner (Hayes, 2023).",
+      "label": "PREMISE"
+    },
+    {
       "id": 17,
       "text": "Endoscopic rhizotomy, a posterior endoscopic method, also known as dorsal endoscopic rhizotomy, has been developed as an alternative to percutaneous electrode radiofrequency ablation to target the medial, intermediate, and lateral branches of the dorsal ramus using a modification of the Yeung Endoscopic Spinal Surgery cannula and a specially designed Ellman radiofrequency bipolar electrode.",
-      "label": "NON_ARGUMENTATIVE"
+      "label": "PREMISE"
     },
     {
       "id": 19,
       "text": "Cooled radiofrequency (e.g., COOLIEF) transmits thermal radiofrequency energy using water-cooled electrodes/probes.",
-      "label": "NON_ARGUMENTATIVE"
+      "label": "PREMISE"
     },
     {
       "id": 20,
       "text": "Chemical ablation uses an injection of chemicals, such as phenol or alcohol, to destroy nerve tissue.",
-      "label": "NON_ARGUMENTATIVE"
+      "label": "PREMISE"
     },
     {
       "id": 21,
       "text": "Laser ablation destroys nerve tissue using a laser beam.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 22,
+      "text": "Ablative Treatment for Spinal Pain Page 2 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
       "label": "NON_ARGUMENTATIVE"
     },
     {
@@ -86,7 +71,7 @@
     {
       "id": 24,
       "text": "Well-designed randomized controlled trials (RCTs), with large sample sizes and long-term follow-up, are needed to establish the impact on health outcomes.",
-      "label": "PREMISE"
+      "label": "CLAIM"
     },
     {
       "id": 25,
@@ -116,17 +101,17 @@
     {
       "id": 30,
       "text": "Additional robust, comparative evidence is needed to determine whether PRF application to the DRG is an effective and safe alternative treatment for cervical radicular pain that has failed conservative treatment. Kroll et al. (",
-      "label": "PREMISE"
+      "label": "CLAIM"
     },
     {
-      "id": 32,
-      "text": "Target facet joints were identified with oblique radiographic views.",
-      "label": "NON_ARGUMENTATIVE"
+      "id": 31,
+      "text": "2008) compared the efficacy of CRF thermocoagulation with pulsed RFA in a prospective, randomized, double-blinded study in 50 participants with lumbar back pain.",
+      "label": "PREMISE"
     },
     {
       "id": 33,
       "text": "CRF thermocoagulation was delivered at 80 °C for 75 seconds, while PRF was delivered at 42 °C, with a pulse duration of 20 milliseconds and pulse rate of 2 Hz for 120 seconds.",
-      "label": "NON_ARGUMENTATIVE"
+      "label": "PREMISE"
     },
     {
       "id": 34,
@@ -136,11 +121,6 @@
     {
       "id": 35,
       "text": "In the PRF group, comparisons of the relative change over time in both VAS and OSW scores were not significant.",
-      "label": "PREMISE"
-    },
-    {
-      "id": 36,
-      "text": "However, in the CRF group, VAS and OSW scores showed significant improvement.",
       "label": "PREMISE"
     },
     {
@@ -171,7 +151,12 @@
     {
       "id": 42,
       "text": "In total, 55% of patients with cervical pain and 44% of patients with lumbar pain had pain relief of 50% or more at the 3-month follow-up.",
-      "label": "PREMISE"
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 43,
+      "text": "The authors concluded that pulsed RFA appears to provide intermediate-term relief of pain; however, further studies, with long-term follow-up, are necessary.",
+      "label": "CLAIM"
     },
     {
       "id": 44,
@@ -179,19 +164,19 @@
       "label": "PREMISE"
     },
     {
-      "id": 45,
-      "text": "Additional well-designed studies are needed to evaluate the long-term results of pulsed RFA. Abejón et al. (",
-      "label": "PREMISE"
+      "id": 47,
+      "text": "The patients were divided into three groups according to the etiology of the lesion herniated disk, spinal stenosis, and failed back surgery syndrome.",
+      "label": "NON_ARGUMENTATIVE"
     },
     {
       "id": 48,
       "text": "The efficacy of the technique was assessed using a 10-point numeric rating scale (NRS) at baseline and the global perceived effect at 30, 60, 90, and 180 days.",
-      "label": "NON_ARGUMENTATIVE"
+      "label": "PREMISE"
     },
     {
       "id": 49,
       "text": "The reduction in medications and number of complications associated with the technique were assessed, although these were not reported.",
-      "label": "NON_ARGUMENTATIVE"
+      "label": "PREMISE"
     },
     {
       "id": 50,
@@ -209,9 +194,19 @@
       "label": "PREMISE"
     },
     {
+      "id": 53,
+      "text": "Van Zundert (2007) studied the effect of pulsed RFA in participants with cervical radicular pain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 54,
+      "text": "Overall, 23 of 256 screened participants in a randomized sham-controlled trial met the inclusion criteria and were randomly assigned in a double-blinded fashion to receive either pulsed RFA for 120 seconds or sham intervention.",
+      "label": "PREMISE"
+    },
+    {
       "id": 56,
       "text": "At 3 months, the pulsed RFA group showed a significantly better outcome regarding the global perceived effect (> 50% improvement) and VAS (20-point pain reduction).",
-      "label": "PREMISE"
+      "label": "NON_ARGUMENTATIVE"
     },
     {
       "id": 57,
@@ -219,19 +214,9 @@
       "label": "PREMISE"
     },
     {
-      "id": 58,
-      "text": "Copyright 2026 United HealthCare Services, Inc. domain vitality at 3 months.",
-      "label": "NON_ARGUMENTATIVE"
-    },
-    {
       "id": 59,
       "text": "The need for pain medication was significantly reduced in the pulsed RFA group after 6 months.",
-      "label": "PREMISE"
-    },
-    {
-      "id": 60,
-      "text": "No complications were observed during the study period.",
-      "label": "PREMISE"
+      "label": "NON_ARGUMENTATIVE"
     },
     {
       "id": 61,
@@ -251,7 +236,7 @@
     {
       "id": 64,
       "text": "Well- designed RCTs, with large sample sizes and long-term follow-up, are needed to establish the impact on health outcomes. Du et al. (",
-      "label": "PREMISE"
+      "label": "CLAIM"
     },
     {
       "id": 65,
@@ -261,17 +246,47 @@
     {
       "id": 66,
       "text": "Of these 11 articles, nine reported on the effects of percutaneous RFA, and two studies evaluated the efficiency of endoscopic neurotomy.",
-      "label": "PREMISE"
+      "label": "CLAIM"
     },
     {
       "id": 67,
       "text": "Of the two reporting on endoscopic neurotomy, the results showed that at 1 month, no difference between that and percutaneous RFA or placebo was observed.",
-      "label": "PREMISE"
+      "label": "CLAIM"
     },
     {
       "id": 68,
       "text": "Twelve-month results showed that when compared with RFA, endoscopic neurotomy can significantly reduce pain.",
       "label": "PREMISE"
+    },
+    {
+      "id": 69,
+      "text": "The authors concluded that endoscopic neurotomy can be used successfully as a complement to the percutaneous technique in individuals with therapy-refractory low back pain (LBP).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 70,
+      "text": "Compared with percutaneous RFA, endoscopic neurotomy seems to reduce LBP for a longer period of time.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 71,
+      "text": "Further research, with a longer follow-up period, is needed to confirm these findings.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 72,
+      "text": "Hayes published an Evidence Analysis Research Brief in 2024 to summarize and evaluate the evidence related to endoscopic rhizotomy for the treatment of LBP.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 73,
+      "text": "A review of abstracts suggested that there is adequate published, peer- reviewed literature; however, conclusions about safety and effectiveness cannot be made in this report.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "2020) conducted a prospective cohort study to assess the effectiveness of endoscopic rhizotomy for denervation of lumbar facet joints in participants with chronic low back pain (CLBP) due to facet joint syndrome.",
+      "label": "NON_ARGUMENTATIVE"
     },
     {
       "id": 76,
@@ -284,9 +299,74 @@
       "label": "NON_ARGUMENTATIVE"
     },
     {
+      "id": 79,
+      "text": "NRS was reduced significantly after 1 month and remained the same until the end of the study.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 80,
+      "text": "The ODI was significantly improved from 1 month after surgery up to the end of the study.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 82,
+      "text": "Participants aged less than 60 years or who had one to two joints treated had better improvement than the others.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 83,
+      "text": "The authors concluded that participants treated with endoscopic rhizotomy achieved pain relief through follow-up at 2 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 84,
+      "text": "Study limitations include the lack of randomization and a control and the small sample size.",
+      "label": "PREMISE"
+    },
+    {
       "id": 86,
       "text": "Cryoablation There is insufficient evidence to establish the safety and efficacy of cryoablation for treating spinal pain.",
       "label": "CLAIM"
+    },
+    {
+      "id": 87,
+      "text": "Well-designed RCTs, with large sample sizes and long-term follow-up, are needed to establish the impact on health outcomes.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 90,
+      "text": "Overall, 210 participants with clinically suspected SIJ pain who obtained short-term benefit from diagnostic SIJ injections and prognostic lateral branch blocks were randomly assigned to receive CRFA of the L5 dorsal ramus and S1 to S3 lateral branches or SMM that included pharmacotherapy, injections into the sacroiliac ligaments or joint cavity, physical therapy, chiropractic care, lifestyle changes, acupuncture, and yoga.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 91,
+      "text": "The primary outcome measure was mean reduction in LBP score via the numeric pain rating scale at 3 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 92,
+      "text": "The secondary outcomes included quality of life and function, as assessed by the ODI, SF-36 physical function domain, and EuroQoL-5.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 93,
+      "text": "Participant satisfaction was assessed using the Patient Global Impression of Change scale.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 94,
+      "text": "The results showed that CRFA resulted in superior improvements across all domains compared with medical management.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 95,
+      "text": "A total of 105 adverse events (CRFA: 65 events in 47 of 96 participants, 49.0%; SMM: 40 events in 28 of 104 participants, 26.9%) occurred.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 96,
+      "text": "In the CRFA cohort, 16 of these events were related to the procedure, while in the SMM participants, five events were related to procedures.",
+      "label": "PREMISE"
     },
     {
       "id": 97,
@@ -296,7 +376,7 @@
     {
       "id": 98,
       "text": "No serious related adverse events were reported, including nerve injury, in either group.",
-      "label": "PREMISE"
+      "label": "NON_ARGUMENTATIVE"
     },
     {
       "id": 99,
@@ -312,6 +392,246 @@
       "id": 101,
       "text": "This study is limited by a short follow-up period as well as the lack of specific requirements for the control group, which could undermine generalizability.",
       "label": "PREMISE"
+    },
+    {
+      "id": 105,
+      "text": "Selection of participants was based on medical history, physical examination, and positive medial branch blocks.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 106,
+      "text": "Percutaneous medial branch cryodenervation was performed using a Lloyd Neurostat 2000.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 111,
+      "text": "However, the authors noted that at the 12-month follow-up period, the failure rate rose to 43%.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 112,
+      "text": "The findings are limited by the lack of a comparison group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 115,
+      "text": "All participants received one treatment after confirmation with a medial branch block using a 1.3-cm needle.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 116,
+      "text": "Twenty-six participants required two to four additional treatments, and a 2.0-cm needle was used.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 117,
+      "text": "The VAS was used as an evaluation tool, along with reports of return to work and pain medication use.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 121,
+      "text": "The authors concluded that the computed tomography–guided treatment was effective.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 122,
+      "text": "The intervening variable of the medial branch blocks must be considered as part of the pain relief response, which the authors acknowledged.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 123,
+      "text": "Overall, 50% of participants had 50% pain relief for at least up to 1 year in the reported aggregate data.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 125,
+      "text": "Although the results are promising, further study is needed to identify the placebo effect of the medial branch blocks.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 127,
+      "text": "Cooled Radiofrequency Ablation for Facet or Sacroiliac Joints There is insufficient evidence to establish the safety and efficacy of CRFA for treating facet joint or sacroiliac pain.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 128,
+      "text": "Well- designed RCTs, with large sample sizes and long-term follow-up, are needed to establish the impact on health outcomes.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 129,
+      "text": "In 2022 (updated 2024), a Hayes Health Technology Assessment evaluated the safety and effectiveness of CRFA for the treatment of CLBP that originates from the SIJ.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 130,
+      "text": "The report showed an overall low-quality body of evidence, which suggests that CRFA of the SIJ is safe and may be effective for reducing the intensity of CLBP and improving physical function for 6 to 12 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 131,
+      "text": "Additional well-designed and well-executed research studies, with adequate sample sizes, are necessary to evaluate the treatment efficacy of CRFA.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 132,
+      "text": "An Agency for Healthcare Research and Quality comparative effectiveness review by Chou et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 134,
+      "text": "CRFA for sacroiliac pain was associated with a moderate to large reduction in pain and small to large improvement in function vs sham radiofrequency at 1 month.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 135,
+      "text": "Improvements in pain and function at 3 months were moderate. Evidence beyond 6 months is lacking.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 137,
+      "text": "CRFA for presumed facet joint pain was associated with a small, non–statistically significant reduction in pain vs conventional RFA at 6 months and no difference in function.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 147,
+      "text": "The authors concluded that when using a single diagnostic block paradigm with a threshold of > 75% pain reduction, treatment with both CRFA and traditional RFA resulted in a success rate of approximately 50% when defined by both improvement in pain and physical function at the 6-month follow-up.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 148,
+      "text": "While the success rate was higher in the CRFA group, this difference was not statistically significant.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 149,
+      "text": "Due to the small sample size, the lack of statistically significant findings could be due to type 2 errors, and the study should therefore be considered inconclusive.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 152,
+      "text": "2018) conducted a meta-analysis to assess the efficacy and safety of using CRFA in treating individuals with chronic SIJ pain in terms of pain and disability relief, individuals' satisfaction degree, and complications.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 155,
+      "text": "The authors suggested that high-quality and large-scale RCTs are required to validate their findings.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 162,
+      "text": "The authors reported that the study results suggest that SInergy safely afforded patients greater and more durable analgesia and disability relief than Simplicity III for SIJ-derived pain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 163,
+      "text": "The Simplicity III procedure may be more conducive than SInergy for bilateral procedures and for individuals who have limited tolerance to be in an RFA procedure-required prone position.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 169,
+      "text": "The authors concluded that the results show promising, durable improvements in pain, quality of life, and medication usage, with benefits persisting in some patients at 20 months after treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 189,
+      "text": "The study included patients aged 18 to 70 years, irrespective of sex, while specific inclusion and exclusion Ablative Treatment for Spinal Pain Page 6 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 194,
+      "text": "The authors concluded that despite potential side effects, such as transient pain, increased blood sugar levels, nerve damage, or infection, both treatments provided pain relief and reduced disability, presumably underscoring the importance of personalized treatment plans.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 195,
+      "text": "This study has many limitations, including the retrospective design of the study, small sample size, exclusion of outliers, absence of a placebo or sham control group, methodological flaws, reliance on subjective data (ODI scores), limited follow-up duration, and low statistical power.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 208,
+      "text": "The authors concluded that in this 5-year aggregate analysis, BVNA improved pain and function scores compared with baseline.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 209,
+      "text": "Similarly, there were reductions in opioid consumption and spinal injections post BVNA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 223,
+      "text": "The authors concluded, in this aggregate analysis of 247 participants with vertebrogenic pain, that use of conservative care and opioids and the need for functional strengthening activities were substantially reduced through 5 years post BVNA compared with baseline.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 224,
+      "text": "Lumbar fusion rates were less than half the published value at 5 years in similar populations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 227,
+      "text": "Ablative Treatment for Spinal Pain Page 7 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 234,
+      "text": "The authors concluded that BVNA, biological therapy, and multifidus stimulation provide improvement in both pain and disability compared with other interventions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 235,
+      "text": "The limited number of studies available has resulted in CIs that are too broad to declare a statistical difference and an inability to estimate accurate effects for each tested treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 245,
+      "text": "The authors concluded that BVNA, among other criteria, is a safe and minimally invasive therapy that significantly lowers pain and impairment in individuals with vertebrogenic pain with distinct Modic type 1 and 2 changes at L3-S1 vertebral levels.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 261,
+      "text": "The authors concluded that BVNA appears to be a durable, minimally invasive treatment for the relief of CLBP that can be successfully implemented in a community practice setting.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 268,
+      "text": "At baseline, 71% of participants reported back pain for ≥ 5 years, 28% were taking opioids, 34% had spinal injections in the prior 12 Ablative Treatment for Spinal Pain Page 8 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 274,
+      "text": "The authors concluded that intraosseous BVNA demonstrated clinically meaningful and durable improvements in pain and function through 3 years in participants with primary vertebrogenic LBP.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 275,
+      "text": "BVNA-treated participants reduced opioid use and interventions for LBP.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 286,
+      "text": "The authors concluded that there is moderate-quality evidence suggesting that this procedure is effective in reducing pain and disability in individuals with CLBP with type 1 or 2 Modic changes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 312,
+      "text": "Similarly, the former Ablative Treatment for Spinal Pain Page 9 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 351,
+      "text": "Ablative Treatment for Spinal Pain Page 10 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 462,
+      "text": "UnitedHealthcare may also use tools developed by third parties, such as the InterQual® criteria, to assist us in administering health benefits.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 463,
+      "text": "UnitedHealthcare Medical Policies are intended to be used in connection with the independent professional medical judgment of a qualified health care provider and do not constitute the practice of medicine or medical advice.",
+      "label": "CLAIM"
     }
   ]
 }
