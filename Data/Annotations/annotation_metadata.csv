@@ -1,6 +1,6 @@
 document_id,source,component_json,relation_json,component_record_count,component_claim_count,component_premise_count,component_non_argumentative_count,relation_record_count,relation_support_count,relation_attack_count,relation_none_count
 ablative-treatment-spinal-pain,uhc,ablative-treatment-spinal-pain.json,ablative-treatment-spinal-pain.json,126,25,84,17,40,19,0,21
-abnormal-uterine-bleeding-uterine-fibroids,uhc,abnormal-uterine-bleeding-uterine-fibroids.json,,77,20,33,24,0,0,0,0
+abnormal-uterine-bleeding-uterine-fibroids,uhc,abnormal-uterine-bleeding-uterine-fibroids.json,abnormal-uterine-bleeding-uterine-fibroids.json,77,20,33,24,98,23,7,68
 Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle,aetna,Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle.json,,330,97,151,82,0,0,0,0
 Alzheimer's_Disease_Tests_-_Medical_Clinical_Policy_Bulletin,aetna,Alzheimer_Disease_Tests_Medical_Clinical_Policy_Bulletin.json,Alzheimer's_Disease_Tests_-_Medical_Clinical_Policy_Bulletin.json,146,10,99,37,297,171,42,84
 antiemetics-oncology,uhc,antiemetics-oncology.json,antiemetics-oncology.json,47,19,18,10,54,24,0,30
