@@ -1,0 +1,258 @@
+{
+  "document_id": "spinal-fusion-decompression",
+  "source": "Uhc",
+  "relations": [
+    {
+      "source": 6,
+      "target": 118,
+      "type": "NONE",
+      "similarity": 0.6038
+    },
+    {
+      "source": 6,
+      "target": 63,
+      "type": "NONE",
+      "similarity": 0.3652
+    },
+    {
+      "source": 10,
+      "target": 155,
+      "type": "SUPPORT",
+      "similarity": 0.5043
+    },
+    {
+      "source": 10,
+      "target": 164,
+      "type": "SUPPORT",
+      "similarity": 0.4006
+    },
+    {
+      "source": 10,
+      "target": 162,
+      "type": "SUPPORT",
+      "similarity": 0.3813
+    },
+    {
+      "source": 24,
+      "target": 151,
+      "type": "NONE",
+      "similarity": 0.335
+    },
+    {
+      "source": 24,
+      "target": 9,
+      "type": "NONE",
+      "similarity": 0.2636
+    },
+    {
+      "source": 24,
+      "target": 3,
+      "type": "SUPPORT",
+      "similarity": 0.2365
+    },
+    {
+      "source": 33,
+      "target": 49,
+      "type": "SUPPORT",
+      "similarity": 0.3687
+    },
+    {
+      "source": 33,
+      "target": 93,
+      "type": "NONE",
+      "similarity": 0.3615
+    },
+    {
+      "source": 33,
+      "target": 96,
+      "type": "NONE",
+      "similarity": 0.3612
+    },
+    {
+      "source": 68,
+      "target": 52,
+      "type": "SUPPORT",
+      "similarity": 0.5134
+    },
+    {
+      "source": 68,
+      "target": 3,
+      "type": "SUPPORT",
+      "similarity": 0.5058
+    },
+    {
+      "source": 68,
+      "target": 53,
+      "type": "SUPPORT",
+      "similarity": 0.4907
+    },
+    {
+      "source": 74,
+      "target": 5,
+      "type": "NONE",
+      "similarity": 0.4056
+    },
+    {
+      "source": 74,
+      "target": 147,
+      "type": "NONE",
+      "similarity": 0.3577
+    },
+    {
+      "source": 74,
+      "target": 82,
+      "type": "NONE",
+      "similarity": 0.3567
+    },
+    {
+      "source": 84,
+      "target": 118,
+      "type": "NONE",
+      "similarity": 0.6443
+    },
+    {
+      "source": 84,
+      "target": 78,
+      "type": "NONE",
+      "similarity": 0.5868
+    },
+    {
+      "source": 84,
+      "target": 63,
+      "type": "NONE",
+      "similarity": 0.5837
+    },
+    {
+      "source": 85,
+      "target": 118,
+      "type": "NONE",
+      "similarity": 0.4428
+    },
+    {
+      "source": 85,
+      "target": 7,
+      "type": "SUPPORT",
+      "similarity": 0.4115
+    },
+    {
+      "source": 85,
+      "target": 49,
+      "type": "NONE",
+      "similarity": 0.3923
+    },
+    {
+      "source": 92,
+      "target": 93,
+      "type": "SUPPORT",
+      "similarity": 0.4572
+    },
+    {
+      "source": 92,
+      "target": 9,
+      "type": "SUPPORT",
+      "similarity": 0.298
+    },
+    {
+      "source": 92,
+      "target": 162,
+      "type": "SUPPORT",
+      "similarity": 0.2643
+    },
+    {
+      "source": 94,
+      "target": 78,
+      "type": "NONE",
+      "similarity": 0.4262
+    },
+    {
+      "source": 94,
+      "target": 49,
+      "type": "NONE",
+      "similarity": 0.3377
+    },
+    {
+      "source": 94,
+      "target": 51,
+      "type": "NONE",
+      "similarity": 0.314
+    },
+    {
+      "source": 100,
+      "target": 118,
+      "type": "NONE",
+      "similarity": 0.4875
+    },
+    {
+      "source": 100,
+      "target": 93,
+      "type": "SUPPORT",
+      "similarity": 0.4336
+    },
+    {
+      "source": 100,
+      "target": 50,
+      "type": "NONE",
+      "similarity": 0.4181
+    },
+    {
+      "source": 110,
+      "target": 63,
+      "type": "NONE",
+      "similarity": 0.5664
+    },
+    {
+      "source": 110,
+      "target": 118,
+      "type": "NONE",
+      "similarity": 0.5134
+    },
+    {
+      "source": 110,
+      "target": 147,
+      "type": "NONE",
+      "similarity": 0.4515
+    },
+    {
+      "source": 111,
+      "target": 118,
+      "type": "NONE",
+      "similarity": 0.7205
+    },
+    {
+      "source": 111,
+      "target": 63,
+      "type": "SUPPORT",
+      "similarity": 0.6596
+    },
+    {
+      "source": 111,
+      "target": 147,
+      "type": "NONE",
+      "similarity": 0.593
+    },
+    {
+      "source": 115,
+      "target": 78,
+      "type": "NONE",
+      "similarity": 0.3303
+    },
+    {
+      "source": 115,
+      "target": 7,
+      "type": "SUPPORT",
+      "similarity": 0.3283
+    },
+    {
+      "source": 115,
+      "target": 62,
+      "type": "NONE",
+      "similarity": 0.3081
+    },
+    {
+      "source": 121,
+      "target": 118,
+      "type": "SUPPORT",
+      "similarity": 0.7781
+    }
+  ]
+}
