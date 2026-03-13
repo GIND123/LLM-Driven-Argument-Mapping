@@ -1,0 +1,1527 @@
+{
+  "document_id": "Varicose_Veins_-_Medical_Clinical_Policy_Bulletins___Aetna.h",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Varicose Veins Number: 0050 Applicable CPT / HCPCS / ICD-10 Codes Scope of Policy This Clinical Policy Bulletin addresses treatment of varicose veins.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 2,
+      "text": "I. Medically Necessary A. Aetna considers the following procedures medically necessary for treatment of varicose veins: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "Great saphenous vein or small saphenous vein ligation / division / stripping; 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Radiofrequency endovenous occlusion (VNUS procedure); and 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Endovenous laser ablation of the saphenous vein (ELAS) (also known as endovenous laser treatment (EVLT)) When the following criteria are met: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Incompetence at the saphenofemoral junction or saphenopopliteal junction is documented by recent (performed within the past 6 months) Doppler or duplex ultrasound scanning, and all of the following criteria are met: a. Ultrasound documented junctional reflux duration of 500 milliseconds (ms) or greater in the saphenofemoral or saphenopopliteal vein to be treated; and b. Vein size is 4.5 mm or greater in diameter measured by ultrasound below the saphenofemoral or saphenopopliteal junction (not valve diameter at junction); and c. Saphenous varicosities result in any of the following: i. Intractable ulceration secondary to venous stasis; or ii.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 7,
+      "text": "More than 1 episode of minor hemorrhage from a ruptured superficial varicosity; or a single significant hemorrhage from a ruptured superficial varicosity, especially if transfusion of blood is required; or iii.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 8,
+      "text": "Saphenous varicosities result in either of the following, and symptoms persist despite a 3-month trial of conservative managementFootnote1* (including medical grade (20 mmHg or greater) gradient support compression stockings).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 9,
+      "text": "a. Recurrent superficial thrombophlebitis; or b. Severe and persistent pain and swelling interfering with activities of daily living. 2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 10,
+      "text": "Surgical ligation (including subfascial endoscopic perforator vein surgery (SEPS)) or endovenous ablation procedures are considered medically necessary for the treatment of incompetent perforating veins when all of the following are met: a. Perforating vein diameter measured by recent ultrasound of 3.5 mm or greater; and b. Outward flow duration of 500 msec duration or more; and c. Perforating vein is located underneath an active or healed venous stasis ulcer (also known as CEAP C5 or C6). See Appendix. 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "Endovenous ablation procedures are considered medically necessary adjunctive treatment of symptomatic accessory saphenous veins a. who are being treated or have previously ;been treated by one of the procedures listed above for incompetence (i.e., reflux) at the saphenofemoral junction or saphenopopliteal junction; and b. anatomically related persistent junctional reflux is demonstrated after the great or small saphenous veins have been removed or ablated.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "Note: Initially, endovenous ablation therapy of the first vein and of the second and subsequent veins in each affected extremity is considered medically necessary when criteria are met.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 13,
+      "text": "Note: Thus one primary code and one secondary code for each affected leg are considered medically necessary for initial endovenous ablation treatment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 14,
+      "text": "Note: Additional endovenous ablation therapy is considered medically necessary for persons with persistent or recurrent junctional reflux of the greater saphenous vein, lesser saphenous vein following initial endovenous ablation therapy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "In order to authorize additional endovenous ablation, there should be documentation that the member continues to have symptoms and ultrasound showing persistent junctional reflux.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 16,
+      "text": "Additional endovenous ablation therapy may also be necessary for treatment of accessory saphenous veins as noted above.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 17,
+      "text": "These procedures are considered experimental, investigational, or unproven for treatment of varicose tributaries and accessory veins other than the accessory saphenous vein.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 18,
+      "text": "These procedures are considered cosmetic for all other indications.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "Note: Doppler or duplex ultrasound studies are considered necessary prior to varicose vein treatment to assess the anatomy and to determine whether there is significant reflux at the saphenofemoral or saphenopopliteal junction requiring surgical repair, and after completion of the treatment to determine the success of the procedure and detect thrombosis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 20,
+      "text": "Ultrasound guidance is inclusive of the VNUS or ELAS procedures.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 21,
+      "text": "Note: The term endovenous catheter ablation (EVCA) is a non-specific term that refers to the several catheter based minimally invasive alternatives to surgical stripping such as radiofrequency endovenous occlusion (VNUS procedure) and endovenous laser ablation of the saphenous vein (ELAS).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 22,
+      "text": "In assessing the medical necessity of EVCA, reference should be made to the specific technique that is being employed.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "B. Aetna considers liquid or foam sclerotherapy (endovenous chemical ablation) (e.g., Varithena) medically necessary treatment of symptomatic saphenous veins, varicose tributaries, accessory, and perforator veins when all of the following criteria are met: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 24,
+      "text": "Vein size is 2.5 mm or greater in diameter, measured by recent ultrasound; and 2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 25,
+      "text": "Varicosities result in any of the following: a. Intractable ulceration secondary to venous stasis; or b. More than 1 episode of minor hemorrhage from a ruptured superficial varicosity; or a single significant hemorrhage from a ruptured superficial varicosity, especially if transfusion of blood is required; or c. Varicosities result in either of the following, and symptoms persist despite a 3- month trial of conservative managementFootnote1* (including medical grade (20 mmHg or greater) gradient support compression stockings): i. Recurrent superficial thrombophlebitis; or ii.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 26,
+      "text": "Severe and persistent pain and swelling interfering with activities of daily living; and 3.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 27,
+      "text": "If member has incompetence (i.e., reflux) at the saphenofemoral junction, the junctional reflux is being treated by one or more of the endovenous ablation or ligation and division procedures noted in section A above to reduce the risk of varicose vein recurrence.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 28,
+      "text": "Note: Varithena has not been proven to be more effective than other methods of foam sclerotherapy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 29,
+      "text": "Note: Since ultrasound-monitored or duplex-guided techniques for sclerotherapy have not been shown to definitively increase the effectiveness or safety of this procedure, these tests are only considered medically necessary when initially performed to determine the extent and configuration of varicose veins.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 30,
+      "text": "Note: Ultrasound- or radiologically guided or monitoring techniques are of no proven value when performed solely to guide the needle or introduce the sclerosant into the varicose veins.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 31,
+      "text": "Note: The number of medically necessary sclerotherapy injection sessions varies with the number of anatomical areas that have to be injected, as well as the response to each injection.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 32,
+      "text": "Usually 1 to 3 injections are necessary to obliterate any vessel, and 10 to 40 vessels, or a set of up to 20 injections in each leg, may be treated during one treatment session.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 33,
+      "text": "Initially, up to two sets of injections of sclerosing solution in multiple veins in each affected leg (i.e., a total of four sets of injections if both legs are affected) are considered medically necessary when criteria are met.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 34,
+      "text": "Note: A set of injections is defined as multiple sclerotherapy injections during a treatment session.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 35,
+      "text": "Additional sets of injections of sclerosing solution are considered medically necessary for persons with persistent or recurrent symptoms.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 36,
+      "text": "C. Aetna considers ambulatory phlebectomy or transilluminated powered phlebectomy (TriVex System) medically necessary adjunctive treatment of symptomatic saphenous veins, varicose tributaries, accessory, and perforator veins when all of the following criteria are met: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 37,
+      "text": "Vein size is 2.5 mm or greater in diameter; and 2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 38,
+      "text": "Varicosities result in any of the following: a. Intractable ulceration secondary to venous stasis; or b. More than 1 episode of minor hemorrhage from a ruptured superficial varicosity; or a single significant hemorrhage from a ruptured superficial varicosity, especially if transfusion of blood is required; or c. Varicosities result in either of the following, and symptoms persist despite a 3- month trial of conservative managementFootnote1* (including medical grade (20 mmHg or greater) gradient support compression stockings): i. Recurrent superficial thrombophlebitis; or ii.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 39,
+      "text": "Severe and persistent pain and swelling interfering with activities of daily living; and 3.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 40,
+      "text": "If member has incompetence (i.e., reflux) at the saphenofemoral junction or saphenopopliteal junction, the junctional reflux is being treated by one or more of the procedures noted in section A above to reduce the risk of varicose vein recurrence.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 41,
+      "text": "Note: Initially, up to two multiple stab phlebectomy incisions in each affected extremity (i.e., a total of four multiple stab incisions if both legs are affected) are considered medically necessary when criteria are met.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 42,
+      "text": "Additional multiple stab phlebectomy incisions are considered medically necessary for persons with persistent or recurrent symptoms.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 43,
+      "text": "Note: A set of stab phlebectomy incisions is defined as multiple stab phlebectomy incisions during a treatment session.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 44,
+      "text": "Footnote1*Note: A trial of conservative management is not required for persons with persistent or recurrent varicosities who have undergone prior endovenous catheter ablation procedures or stripping/division/ligation in the same leg because conservative management is unlikely to be successful in this situation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 45,
+      "text": "D. Aetna considers valvular reconstruction medically necessary for chronic venous insufficiency. II.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 46,
+      "text": "Experimental, Investigational, or Unproven A. The following procedures are considered experimental, investigational, or unproven because they have not been proven in direct comparative studies to be as effective as established alternatives or has not been proven for the listed indications: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 47,
+      "text": "Ambulatory phlebectomy or transilluminated powered phlebectomy for treatment of junctional reflux; 2.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 48,
+      "text": "Ambulatory selective variceal ablation under local anesthetic (the ASVAL procedure) for the treatment of symptomatic great saphenous vein; 3.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 49,
+      "text": "Endomechanical or mechanochemical ablation (MOCA) (e.g., ClariVein); 4.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 50,
+      "text": "Endovenous ablation (laser or radiofrequency) for the treatment of reflux of the common femoral vein; 5.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 51,
+      "text": "External valvuloplasty for the treatment of symptomatic great saphenous vein; 6.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 52,
+      "text": "Measurements of plasma growth factors (e.g., angiopoietin-1 (ANG1), angiopoietin-2 (ANG2), epidermal growth factor (EGF), platelet-derived growth factor (PDGF), and vascular endothelial growth factor (VEGF)) for predicting adequacy of treatment and the possibility of recurrence of varicose veins before and after treatment with endovenous laser ablation; 7.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 53,
+      "text": "Micronized purified flavonoid fraction; 8.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 54,
+      "text": "Peri-procedural thromboprophylaxis (including pharmacotherapy) for the prevention of deep vein thrombosis in varicose vein interventions; 9.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 55,
+      "text": "Polymorphism genotyping of matrix metalloproteinases genes (e.g., MMP1, MMP2, MMP3, and MMP7) as markers of predisposition to varicose veins; 10.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 56,
+      "text": "Sclerotherapy for treatment of reflux of iliac veins, the saphenofemoral junction, or saphenopopliteal junction; sclerotherapy alone has not been shown to be effective for persons with reflux at the saphenofemoral or saphenopopliteal junctions; under established guidelines, individuals with reflux should also be treated with endovenous ablation, ligation or division of the junction to reduce the risk of varicose vein recurrence; Note: Gel sclerotherapy of ovarian veins with the internal iliac veins, is considered medically necessary for the treatment of pelvic congestion syndrome - see CPB 0441 - Pelvic Congestion Syndrome: Treatments; 11.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 57,
+      "text": "Synthetic matrix metalloproteinases inhibitors; 12.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 58,
+      "text": "Transdermal laser treatment of large varicose veins; Note: Although transdermal Nd:YAG laser has been shown to be effective for the treatment of telangiectasias and reticular veins, treatment of these small veins is considered cosmetic; 13.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 59,
+      "text": "Use of medical adhesive (also referred to as cyanoacrylate superglue, n-butyl- cyanoacrylate) (e.g., VariClose Vein Sealing System, VenaSeal Closure System) for the treatment of varicose veins; 14. VeinGogh Ohmic Thermolysis System; 15.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 60,
+      "text": "VeinOPlus vascular device for the treatment of muscle atrophy due to varicose veins.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 61,
+      "text": "B. Endovenous ablation procedures are considered experimental, investigational, or unproven for treatment of varicose tributaries and accessory veins other than the accessory saphenous vein. III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 62,
+      "text": "Cosmetic A. The following procedures are considered cosmetic because they are used to treat small veins that do not cause pain bleeding, ulceration, or other medical problems: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 63,
+      "text": "Ambulatory phlebectomy and the TriVex system for veins less than 2.5 mm in diameter and all other indications; Note: Transilluminated powered phlebectomy has not been proven to be superior to other methods of varicose vein removal; therefore, the TriVex procedure should be billed as any other varicose vein removal procedure; 2.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 64,
+      "text": "Asclera polidocanol injection; Note: Although Asclera has been approved by the Food and Drug Administration (FDA) for the treatment of telangiectasias and reticular veins less than 3 mm in diameter, treatment of these small veins is considered cosmetic; 3.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 65,
+      "text": "Photothermal sclerosis (also referred to as an intense pulsed light source, e.g., the PhotoDerm VascuLight, VeinLase), used to treat small veins such as small varicose veins and spider veins; 4.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 66,
+      "text": "Sclerotherapy for treatment of veins less than 2.5 mm in diameter and for all other indications.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 67,
+      "text": "B. Endovenous ablation procedures are considered cosmetic for all other indications than listed in Policy section I. IV.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 68,
+      "text": "Related Policies CPB 0100 - Cryoablation CPB 0441 - Pelvic Congestion Syndrome: Treatments Table: Applicable CPT / HCPCS / ICD-10 Codes Code Code Description CPT codes covered if selection criteria are met: Injection of non-compounded foam sclerosant with ultrasound compression 36465 - 36466 maneuvers to guide dispersion of the injectate, inclusive of all imaging guidance and monitoring 36470 Injection of sclerosant; single incompetent vein (other than telangiectasia) 36471 multiple incompetent veins (other than telangiectasia), same leg Endovenous ablation therapy of incompetent vein, extremity, inclusive of all imaging 36475 guidance and monitoring, percutaneous, radiofrequency; first vein treated second and subsequent veins treated in a single extremity, each through separate + 36476 access sites (List separately in addition to code for primary procedure) Code Code Description Endovenous ablation therapy of incompetent vein, extremity, inclusive of all imaging 36478 guidance and monitoring, percutaneous, laser; first vein treated second and subsequent veins treated in a single extremity, each through separate + 36479 access sites (List separately in addition to code for primary procedure) 37500 Vascular endoscopy, surgical, with ligation of perforator veins, subfascial (SEPS) Ligation and division of long saphenous vein at saphenofemoral junction, or distal 37700 interruptions 37718 Ligation, division, and stripping, short saphenous vein Ligation, division, and stripping, long (greater) saphenous veins from saphenofemoral 37722 junction to knee or below Ligation and division and complete stripping of long or short saphenous veins with 37735 radical excision of ulcer and skin graft and/or interruption of communicating veins of lower leg, with excision of deep fascia Ligation of perforator veins, subfascial, radical (Linton type), including skin graft, 37760 when performed, open, 1 leg Ligation of perforator vein(s), subfascial, open, including ultrasound guidance, when 37761 performed, 1 leg 37765 Stab phlebectomy of varicose veins, one extremity; 10-20 stab incisions [ambulatory] 37766 more than 20 incisions [ambulatory] Ligation and division of short saphenous vein at saphenopopliteal junction (separate 37780 procedure) 37785 Ligation, division, and/or excision of varicose vein cluster(s), one leg Unlisted procedure, vascular surgery [reported for stab phlebectomy of varicose veins, 37799 1-9 incisions, ambulatory] CPT codes not covered for indications listed in the CPB: Polymorphism genotyping of matrix metalloproteinases genes, synthetic matrix metalloproteinases inhibitors, measurements of plasma growth factors (e.g., ANG1, ANG2, EGF, PDGF, and VEGF), Ambulatory selective variceal ablation under local anesthetic (the ASVAL procedure) and External valvuloplasty - no specific code Selective catheter placement, venous system; first order branch (e.g., renal vein, 36011 jugular vein) Single or multiple injections of sclerosing solutions, spider veins (telangiectasia); limb 36468 or trunk Endovenous ablation therapy of incompetent vein, extremity, inclusive of all imaging 36473 guidance and monitoring, percutaneous, mechanochemical; first vein treated Endovenous ablation therapy of incompetent vein, extremity, inclusive of all imaging guidance and monitoring, percutaneous, mechanochemical; subsequent vein(s) treated 36474 in a single extremity, each through separate access sites (List separately in addition to code for primary procedure) Endovenous ablation therapy of incompetent vein, extremity, by transcatheter delivery 36482 - 36483 of a chemical adhesive (eg, cyanoacrylate) remote from the access site, inclusive of all imaging guidance and monitoring, percutaneous Transcatheter occlusion or embolization (eg, for tumor destruction, to achieve 37204 hemostasis, to occlude a vascular malformation), percutaneous, any method, non- central nervous system, non-head or neck 37241 Vascular embolization or occlusion, inclusive of all radiological supervision and interpretation, intraprocedural roadmapping, and imaging guidance necessary to Code Code Description complete the intervention; venous, other than hemorrhage (eg, congenital or acquired venous malformations, venous and capillary hemangiomas, varices, varicoceles) Vascular embolization or occlusion, inclusive of all radiological supervision and interpretation, intraprocedural roadmapping, and imaging guidance necessary to 37244 complete the intervention; for arterial or venous hemorrhage or lymphatic extravasation Transcatheter therapy, embolization, any method, radiological supervision and 75894 interpretation Ultrasonic guidance for needle placement (eg, biopsy, aspiration, injection, localization device), imaging supervision and interpretation [not covered when 76942 performed solely to guide the needle or introduce the sclerosant into the varicose veins] Ultrasonic guidance, intraoperative [not covered when performed solely to guide the 76998 needle or introduce the sclerosant into the varicose veins] Other CPT codes related to the CPB: Intravascular ultrasound (noncoronary vessel) during diagnostic evaluation and/or 37252 therapeutic intervention, including radiological supervision and interpretation; initial noncoronary vessel (List separately in addition to code for primary procedure) Venography, extremity, unilateral or bilateral, radiological supervision and 75820, 75822 interpretation Limited bilateral non-invasive physiologic studies of upper or lower extremity arteries, (eg, for lower extremity: ankle/brachial indices at distal posterior tibial and anterior tibial/dorsalis pedis arteries plus bidirectional, Doppler waveform recording 93922 and analysis at 1-2 levels, or ankle/brachial indices at distal posterior tibial and anterior tibial/dorsalis pedis arteries plus volume plethysmography at 1-2 levels, or ankle/brachial indices at distal posterior tibial and anterior tibial/dorsalis pedis arteries with transcutaneous oxygen tension measurements at 1-2 levels) Complete bilateral non-invasive physiologic studies of upper or lower extremity arteries, 3 or more levels (eg, for lower extremity: ankle/brachial indices at distal posterior tibial and anterior tibial/dorsalis pedis arteries plus segmental blood pressure measurements with bidirectional Doppler waveform recording and analysis at 3 or more levels, or ankle/brachial indices at distal posterior tibial and anterior 93923 tibial/dorsalis pedis arteries plus segmental volume plethysmography at 3 or more levels, or ankle/brachial indices at distal posterior tibial and anterior tibial/dorsalis pedis arteries plus segmental transcutaneous oxygen tension measurements at 3 or more level(s), or single level study with provocative functional maneuvers (eg, measurements with postural provocative tests or measurements with reactive hyperemial) Non-invasive physiologic studies of lower extremity arteries, at rest and following treadmill stress testing, (ie, bidirectional Doppler waveform or volume plethysmography recording and analysis at rest with ankle/brachial indices 93924 immediately after and at timed intervals following performance of a standardized protocol on a motorized treadmill plus recording of time of onset of claudication or other symptoms, maximal walking time, and time to recovery) complete bilateral study Duplex scan of extremity veins including responses to compression and other 93970 maneuvers; complete bilateral study 93971 unilateral or limited study Code Code Description HCPCS codes covered if selection criteria are met: S2202 Echosclerotherapy HCPCS codes not covered for indications listed in the CPB: VeinOPlus vascular device - no specific code Other HCPCS codes related to the CPB: A6530 - A6549 Compression stockings ICD-10 codes covered if selection criteria are met: I80.00 - I80.03 Phlebitis and thrombophlebitis of superficial vessels of lower extremities I82.401 - I82.499 Acute embolism and thrombosis of deep veins of lower extremity I82.501 - I82.599 Chronic embolism and thrombosis of deep veins of lower extremity I83.001 - I83.899 Varicose veins of lower extremities I87.001 - I87.099 Postthrombotic syndrome Venous insufficiency (chronic) (peripheral) [not covered for saphenopopliteal reflux] I87.2 [not covered for common femoral reflux][not covered for reflux of iliac veins] ICD-10 codes not covered for indications listed in the CPB: I83.90 - I83.93 Asymptomatic varicose veins of lower extremities M62.50 - M62.59, M62.5A0, Muscle wasting and atrophy, not elsewhere classified [due to varicose veins] M62.5A1, M62.5A2, M62.5A9 O22.00 - O22.03 Varicose veins of lower extremity in pregnancy O22.20 - O22.23 Superficial thrombophlebitis in pregnancy O22.90 - O22.93 Venous complication in pregnancy, unspecified O87.0 Superficial thrombophlebitis in the puerperium O87.4 Varicose veins of lower extremity in the puerperium O87.9 Venous complication in the puerperium, unspecified Varicose veins are a common condition.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 69,
+      "text": "In adult western populations visible varicose veins are present in 20 to 25 % of women and 10 to 15 % of men.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 70,
+      "text": "In most persons, varicose veins do not cause symptoms other than poor cosmesis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 71,
+      "text": "Varicose vein surgery is one of the most commonly performed cosmetic procedures in the United States.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 72,
+      "text": "Most varicose veins do not require medical treatment (Tapley et al, 2003).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 73,
+      "text": "In some cases, however, the circulation may be hindered enough to cause swelling of the foot and ankle, discomfort, a tingling sensation, or a feeling of heaviness.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 74,
+      "text": "For most people with varicose veins, wearing specially fitted elastic stockings is all that is needed.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 75,
+      "text": "The stockings should be carefully fitted to the individual, providing the most pressure in the lowest part of the leg.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 76,
+      "text": "The stockings should be put on when first arising in the morning, preferably before getting out of bed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 77,
+      "text": "Exercise such as walking or cycling also helps promote better circulation from the lower part of the body.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 78,
+      "text": "Resting with the legs elevated will help promote circulation; in contrast, sitting with the legs crossed can aggravate the condition.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 79,
+      "text": "Authorities have recommended 6 or more months as a reasonable duration for a trial conservative management (NHS, 2005).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 80,
+      "text": "A substantial proportion of varicose vein symptoms respond to conservative management.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 81,
+      "text": "A randomized controlled clinical trial compared surgery (n = 124) to conservative management (n = 122) of varicose veins (Michaels et al, 2006).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 82,
+      "text": "Conservative management consisted of lifestyle advice relating to exercise, leg elevation, management of weight and diet, and the use of compression hosiery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 83,
+      "text": "In the surgical arm of the trial patients received the same lifestyle advice but also underwent surgical treatment, consisting of flush ligation of sites of reflux, stripping of the long saphenous vein and multiple phlebectomies, as appropriate.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 84,
+      "text": "Although a greater proportion of patients assigned to surgery plus lifestyle advice at relieving symptoms at 1 year, approximately one-third of subjects assigned to conservative management reported some relief from conservative management with compression hosiery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 85,
+      "text": "At 2 years, there was no significant difference in symptom improvement between groups assigned to conservative management versus surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 86,
+      "text": "The authors posited that the lack of significant difference in symptomatology between groups at 2 years may have been due to cross-overs, with 7 patients in the conservative management group opting for surgery in year 1 and 37 patients opting for surgery in year 2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 87,
+      "text": "The study also found that persons assigned to surgery plus lifestyle advice had a greater improvement in cosmesis and quality of life than persons assigned to lifestyle advice alone, although it is not known whether improvements in quality of life were primarily related to improvements in cosmesis versus reductions in symptomatology.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 88,
+      "text": "Weaknesses of the study included a substantial loss to follow-up in all groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 89,
+      "text": "Fifteen of the 124 patients assigned to surgery either refused surgery in favor of conservative management or declined surgery due to fitness.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 90,
+      "text": "Of the remaining 109 patients who underwent surgery, 43 were lost to follow up by the first year.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 91,
+      "text": "Of subjects assigned to conservative treatment, 21 were lost to follow-up by the first year.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 92,
+      "text": "The authors observed that, although surgery was more effective at improving symptomatology at 1 year, a substantial proportion of patients assigned to conservative treatment reported resolution or improvements in aching (26 %), heaviness (46 %), itching (56 %), and swelling (68 %).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 93,
+      "text": "In addition, a substantial proportion of persons assigned to conservative management reported improvements in cosmesis. \"",
+      "label": "PREMISE"
+    },
+    {
+      "id": 94,
+      "text": "Indeed, 22 % of the latter reported that they no longer had cosmetic concerns.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 95,
+      "text": "These observations suggest a substantial benefit from surgery but perhaps support the case for careful evaluation of patients’ symptoms and problems when considering surgical treatment.\"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 96,
+      "text": "An editorialist noted that the short follow-up of subjects assigned to surgery may result in an underestimate of the costs and an exaggeration of the benefits of surgery (van Rij, 2006).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 97,
+      "text": "By the third year, only 40 % of subjects in the study by Michaels et al assigned to surgery were assessed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 98,
+      "text": "The editorialist noted, however, that most recurrences are diagnosed later than 3 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 99,
+      "text": "Focusing on the short-term may lead to an under- estimate of cost and an over-estimate of benefit.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 100,
+      "text": "The editorialist stated that prospective comparisons of durability up to 5 years and longer are infrequent and yet by this time the recurrence rate may be as high as 50 %.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 101,
+      "text": "In patients with varicose veins, leg pain may be associated with superficial thrombophlebitis or venous leg ulcers.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 102,
+      "text": "In evaluating the role of varicose vein surgery in treatment of these conditions, the effectiveness of varicose vein surgery must be compared to conservative management.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 103,
+      "text": "If the patient is suffering from superficial thrombophlebitis, conservative management is indicated.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 104,
+      "text": "According to available guidelines, uncomplicated superficial thrombophlebitis is usually treated symptomatically with heat, simple analgesia, non-steroidal anti-inflammatory drugs (NSAIDs), and compression stockings (SCHIN, 2002).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 105,
+      "text": "Treatment should continue until symptoms have completely subsided (usually 2 to 6 weeks to subside but the thrombosed vein may be palpable and tender for months).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 106,
+      "text": "More severe thrombophlebitis, as indicated by the degree of pain and redness and the extent of abnormality, should be treated by bed rest with elevation of the extremity and application of hot, wet compresses.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 107,
+      "text": "Leg ulcers arising from venous problems are called venous (varicose or stasis) ulcers.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 108,
+      "text": "The main conservative treatment has been to apply a firm compression garment (bandage or stocking) to the lower leg in order to help the blood return back up the leg.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 109,
+      "text": "Cullum et al (2002) conducted a meta-analysis of the literature on the effectiveness of compression bandaging and stockings in the treatment of varicose leg ulcers.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 110,
+      "text": "The authors concluded that compression increases ulcer-healing rates compared with no compression.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 111,
+      "text": "The authors also found that multi-layered systems are more effective than single-layered systems.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 112,
+      "text": "High compression is more effective than low compression but there are no clear differences in the effectiveness of different types of high compression.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 113,
+      "text": "In a meta-analysis, Nelson et al (2002) found circumstantial evidence of the benefit of compression in reducing recurrence of varicose ulcers.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 114,
+      "text": "The authors also noted that recurrence rates may be lower in high compression hosiery than in medium compression hosiery and therefore patients should be offered the strongest compression with which they can comply.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 115,
+      "text": "In a trial conducted at 20 centers in the United Kingdom, funded by the National Institute for Health Research Health Technology Assessment Program, Gohel, et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 116,
+      "text": "2019) randomly assigned 450 patients with venous leg ulcers to receive compression therapy and undergo early endovenous ablation of superficial venous reflux within 2 weeks after randomization (early-intervention group) or to receive compression therapy alone, with consideration of endovenous ablation deferred until after the ulcer was healed or until 6 months after randomization if the ulcer was unhealed (deferred-intervention group).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 117,
+      "text": "The primary outcome was the time to ulcer healing.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 118,
+      "text": "Secondary outcomes were the rate of ulcer healing at 24 weeks, the rate of ulcer recurrence, the length of time free from ulcers (ulcer-free time) during the first year after randomization, and patient-reported health-related quality of life.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 119,
+      "text": "Patient and clinical characteristics at baseline were similar in the two treatment groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 120,
+      "text": "The time to ulcer healing was shorter in the early- intervention group than in the deferred-intervention group; more patients had healed ulcers with early intervention (hazard ratio for ulcer healing, 1.38; 95% confidence interval [CI], 1.13 to 1.68; P=0.001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 121,
+      "text": "The median time to ulcer healing was 56 days (95% CI, 49 to 66) in the early-intervention group and 82 days (95% CI, 69 to 92) in the deferred-intervention group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 122,
+      "text": "The rate of ulcer healing at 24 weeks was 85.6% in the early-intervention group and 76.3% in the deferred-intervention group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 123,
+      "text": "The median ulcer-free time during the first year after trial enrollment was 306 days (interquartile range, 240 to 328) in the early-intervention group and 278 days (interquartile range, 175 to 324) in the deferred-intervention group (P=0.002).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 124,
+      "text": "The most common procedural complications of endovenous ablation were pain and deep-vein thrombosis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 125,
+      "text": "Early endovenous ablation of superficial venous reflux resulted in faster healing of venous leg ulcers and more time free from ulcers than deferred endovenous ablation. A review (Weiß, et al.,",
+      "label": "CLAIM"
+    },
+    {
+      "id": 126,
+      "text": "2019) noted that weak points of the study by Gohel, et al.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 127,
+      "text": "are I. the relatively small (2–3 cm 2 ) ulcers, which are not representative of the ulcers commonly seen in inpatient/outpatient wound facilities, II.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 128,
+      "text": "the ulcer duration being very short (~3 months) compared with real‐life situations, where patients present with long‐standing ulcers, III.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 129,
+      "text": "the study population being almost exclusively white, and IV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 130,
+      "text": "venous ulcers are included exclusively, whereas many ulcers are due to a combination of venous and arterial problems.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 131,
+      "text": "2 I. the relatively small (2–3 cm ) ulcers, which are not representative of the ulcers commonly seen in inpatient/outpatient wound facilities, II.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 132,
+      "text": "the ulcer duration being very short (~3 months) compared with real‐life situations, where patients present with long‐standing ulcers, III.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 133,
+      "text": "the study population being almost exclusively white, and IV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 134,
+      "text": "venous ulcers are included exclusively, whereas many ulcers are due to a combination of venous and arterial problems.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 135,
+      "text": "The reviewers concluded: \"Adequately powered, high‐quality randomized controlled trials comparing the three available treatment options – compression, conventional venous surgery and endovenous treatment – are still required.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 136,
+      "text": "These should measure and report outcomes that include time to ulcer healing, ulcer recurrence, adverse events, quality of life and cost‐effectiveness.\"",
+      "label": "PREMISE"
+    },
+    {
+      "id": 137,
+      "text": "Adequately powered, high‐quality randomized controlled trials comparing the three available treatment options – compression, conventional venous surgery and endovenous treatment – are still required.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 138,
+      "text": "These should measure and report outcomes that include time to ulcer healing, ulcer recurrence, adverse events, quality of life and cost‐effectiveness.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 139,
+      "text": "According to a systematic review of the evidence, pentoxifilline has also been shown to be effective for treatment of venous leg ulcers (Nelson et al, 2002).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 140,
+      "text": "According to the systematic evidence review, compression has been shown to prevent venous leg ulcers.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 141,
+      "text": "The effectiveness of vein surgery for prevention or treatment of venous ulcers is \"unknown\" (Nelson et al, 2002).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 142,
+      "text": "Beyond conservative therapy, the treatment of varicose veins in the lower legs includes injection/compression sclerotherapy and surgical stripping or ligation or a combination of these approaches depending upon the severity of the condition.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 143,
+      "text": "Despite many years of experience, there is still a disappointingly high recurrence rate of varices because many patients are inadequately investigated before treatment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 144,
+      "text": "As it has been shown that physical examination alone is unreliable, pre-treatment Doppler or Duplex ultrasound examination must be performed for localization of the sites of incompetence to allow the individualization of the treatment strategy for each patient.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 145,
+      "text": "Photographs or office diagrams may be helpful in assessing the size and extent of the varices.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 146,
+      "text": "Under established guidelines, the basic tenet of successful treatment is to eliminate the primary and secondary sources of the reflux.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 147,
+      "text": "These sources are usually a nearby perforator, or most often a major junction that causes redirected venous return through veins with intact valves.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 148,
+      "text": "Sclerotherapy has been found to be more effective in patients with dilated superficial or residual varicose veins, recurrent varicosities or incompetent perforating veins of small to moderate size (less than 6 mm) without vein reflux.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 149,
+      "text": "Large varicosities do not respond as well as small varicosities to sclerotherapy (Rosenberg, 2006; MSAC, 2011; MAS, 2011).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 150,
+      "text": "Inadvertent intra-arterial injection has been an untoward sequela of sclerotherapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 151,
+      "text": "Almost all cases of painful varicosities are associated with junctional reflux.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 152,
+      "text": "When reflux at the saphenofemoral and/or saphenopopliteal junctions is present, accepted guidelines provide that sclerotherapy should not be performed until surgical ligation and division of the junction has been done.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 153,
+      "text": "The junctions themselves can not be adequately treated by sclerotherapy as junctional reflux must be addressed by endovenous ablation methods or surgical ligation or stripping (Jakobsen, 1979; MSAC, 2008; MSAC, 2011).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 154,
+      "text": "Although varicosities can occasionally be present in the absence or reflux, there is a lack of evidence from reliable clinical studies of the effectiveness of sclerotherapy in relieving symptomatic varicosities not associated with junctional reflux.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 155,
+      "text": "The sole randomized controlled clinical trial (n = 25) to address the efficacy of sclerotherapy in varicosities not associated with junctional reflux (Kalhe and Leng, 2004) evaluated sclerotherapy efficacy in obliterating varicosities, but did not address its effectiveness at relieving pain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 156,
+      "text": "Although sclerotherapy can be used to treat visible subcuticular veins (i.e., spider angiomas, and telangiectasias) less than 2.5 mm in size, these small veins do not cause symptoms and their treatment is purely cosmetic (MSAC, 2011).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 157,
+      "text": "Doppler ultrasound is often used in conjunction with other non-invasive physiologic testing to characterize the anatomy and physiology of the varicose vein network prior to injection or surgical intervention.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 158,
+      "text": "However, duplex scans are also sometimes utilized during the sclerotherapy procedure itself.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 159,
+      "text": "Their purported usefulness in this regard includes the localization of deep or inaccessible injection sites, such as when there are extensive networks of large deep varicosities, areas of significant reflux between superficial and deep systems, or risks to arterial structures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 160,
+      "text": "Ultrasound has also been used to monitor the effectiveness of compressive sclerotherapy in obliterating the lumen of the target vein and reducing reflux/retrograde flow.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 161,
+      "text": "However, these indications have not been scientifically validated.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 162,
+      "text": "There is little evidence, in the form of randomized prospective clinical trials, to support that ultrasound makes a significant difference in optimizing outcome or decreasing complications, from sclerotherapy for varicose veins, when compared to non- ultrasound-guided techniques.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 163,
+      "text": "A structured evidence review conducted by the Alberta Heritage Foundation for Medical Research (AHFMR) (2003) concluded that “the reviewed evidence does not adequately address the questions; which sclerosant is superior and which technique with or without ultrasound guidance is most efficacious.”",
+      "label": "CLAIM"
+    },
+    {
+      "id": 164,
+      "text": "Venous reflux can be elicited manually by calf muscle compression and release, by the Valsava maneuver, or by pneumatic tourniquet release (Markovic & Shortell, 2014).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 165,
+      "text": "If saphenofemoral reflux lasting longer than 500 ms is present, the diameter of the great saphenous veins (GSV) is recorded 2.5 cm distal to the saphenofemoral junction.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 167,
+      "text": "The compliant GSV adjusts its luminal size to the level of transmural pressure, and measurement of its diameter has been shown to reflect the severity of hemodynamic compromise in limbs with GSV reflux. In a cohort study, Navarro, et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 168,
+      "text": "2002) evaluated the relationship of GSV diameter determined in the thigh and calf to clinical severity of reflux in 112 legs in 85 consecutive patients with saphenofemoral junction and truncal GSV incompetence.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 169,
+      "text": "The authors stated that they found that the GSV diameter proved to be a relatively accurate measure of hemodynamic impairment and clinical severity in a model of saphenofemoral junction and GSV incompete ce, predicting not only the absence of abnormal reflux, but also the presence of critical venous incompetence.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 170,
+      "text": "A GSV diameter of 5.5 mm or less predicted the absence of abnormal reflux, with a sensitivity of 78 %, a specificity of 87 %, positive and negative predictive values of 78 %, and an accuracy of 82 %.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 171,
+      "text": "Ligation and division of the saphenofemoral and/or saphenopopliteal junction is indicated in patients with symptomatic varicose veins who have failed conservative management, when reflux of greater than 0.5 seconds is demonstrated by Doppler examination or Duplex scanning.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 172,
+      "text": "The literature states that operative excision of varicose veins in the leg(s) should be reserved for those that are very large (greater than 6 mm), extensive in distribution, or occur in large clusters.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 173,
+      "text": "Ligation alone usually results in a high recurrence rate of the varicose vein, which may then require sclerotherapy treatment (MSAC, 2008).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 174,
+      "text": "Stripping of the greater and/or lesser saphenous vein, performed in conjunction with ligation and division of their respective junctions, is indicated when the saphenous veins themselves show varicose changes (usually greater than 1 cm in diameter).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 175,
+      "text": "Varicose vein surgery and/or sclerotherapy during pregnancy is not appropriate because dilatation of veins in the legs is physiologic and will revert to normal after delivery, at which time a more accurate appraisal can be made.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 176,
+      "text": "Visible subcuticular veins (i.e., spider angiomas, and telangiectasias) less than 2.5 mm in size do not cause symptoms and their treatment is purely cosmetic.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 177,
+      "text": "Ambulatory phlebectomy (AP) (also known as microphlebectomy) is a minimally invasive procedure performed under local anesthesia, and is an accepted outpatient therapy for the removal of varicose veins.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 178,
+      "text": "This treatment allows excision of almost all of the large varicose veins except the proximal long saphenous vein, which is better-managed by stripping.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 179,
+      "text": "Non-refluxing varicose veins on the surface of the leg, not including the saphenous veins, may be treated as an outpatient procedure under local anaesthetic using ambulatory phlebectomy (MSAC, 2011).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 180,
+      "text": "However, recurrence rates can be high if the source of the reflux is not treated (MSAC, 2011).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 181,
+      "text": "The junctions themselves can not be treated with simple phlebectomy as junctional reflux must be addressed by endovenous ablation methods or rarely by surgical ligation and stripping (MSAC, 2011; Weiss, 2007).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 182,
+      "text": "Patients can ambulate immediately after AP.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 183,
+      "text": "Complications associated with AP include blister formation, localized thrombophlebitis, skin necrosis, hemorrhage, and persistent edema.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 184,
+      "text": "The use of broad compression pads following AP reduces hemorrhage and enhances resorption.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 185,
+      "text": "The TriVex System (transilluminated powered phlebectomy) is an alternative method of providing ambulatory phlebectomy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 186,
+      "text": "This entails endoscopic resection and ablation of the superficial veins using an illuminator and a \"powered vein rejector\", a small powered surgical device.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 187,
+      "text": "In this procedure, veins are marked with a magic marker.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 188,
+      "text": "In order to enhance visualization of the veins, a bright light is introduced into the leg through a tiny incision.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 189,
+      "text": "The powered vein rejector, which has a powered oscillating end, is then introduced to cut and dislodge the veins.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 190,
+      "text": "The pieces of vein are then gently retrieved by suction down a tube.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 191,
+      "text": "Transilluminated powered phlebectomy is usually performed in the hospital on an outpatient basis and under general anesthesia or using local anesthesia with sedation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 192,
+      "text": "The manufacturer of the TriVex System states that the unique illumination feature allows the surgeon to quickly and accurately target and remove the vein and then visually confirm its complete extraction.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 193,
+      "text": "The manufacturer claims that this new process makes varicose vein removal more effective, complete and less traumatic for patients, by reducing the number of incisions required to perform the procedure and the duration of surgery.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 194,
+      "text": "The manufacturer also claims that this method not only reduces the pain associated with varicose vein removal but also reduces the potential for post-operative infection.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 195,
+      "text": "There is inadequate evidence, however, in the published peer-reviewed medical literature substantiating these claims.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 196,
+      "text": "The potential advantages of the TriVex System over standard ambulatory phlebectomy have not been proven.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 197,
+      "text": "Therefore, the TriVex procedure should be billed as any other varicose vein removal procedure.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 198,
+      "text": "The term endovenous catheter ablation (EVCA) has been used to refer to the several new catheter based minimally invasive alternatives to surgical stripping, including laser ablation and radiofrequency ablation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 199,
+      "text": "Endovenous catheter ablation and surgical ligation/stripping are indicated for treatment of the same general population: patients in whom the great and/or small saphenous veins have reflux or incompetence of 0.5 seconds or longer demonstrated on duplex scanning, and varicose vein symptoms significantly impinge on quality of life (MSAC, 2011).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 200,
+      "text": "These patients have exhausted conservative treatment measures, and sclerotherapy is considered unlikely to provide successful results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 201,
+      "text": "Endovenous laser ablation and radiofrequency ablation are essentially identical except for the use of different specialized equipment and catheters, with thermal energy delivered through either a radiofrequency catheter or laser fiber (MSAC, 2011).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 202,
+      "text": "The objectives of the two treatments are the same, being the destruction or ablation of a refluxing vein or segment of vein via application of thermal energy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 203,
+      "text": "The procedure to place the catheter within the vein is the same for radiofrequency ablation and endovenous laser ablation, also both procedures are conducted under duplex ultrasonography guidance (MSAC, 2011).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 204,
+      "text": "The physiological mechanism of vein ablation is also the same, with thermal energy producing endothelial and vein wall damage, denaturing and occluding the vein to close the vein, abolishing venous reflux and visible varicosities (MSAC, 2011).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 205,
+      "text": "ECVA is performed with tumescent anesthesia (Markovic and Shortell, 2014).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 206,
+      "text": "Tumescent anesthesia allows physicians to use large volumes (500 ml) of dilute (0.1%) lidocaine in a single session while achieving anesthesia levels equivalent to those achieved with 1% lidocaine.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 207,
+      "text": "In this way, the entire thigh portion of the GSV can be safely anesthetized (and consequently obliterated) at one time.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 208,
+      "text": "Epinephrine can be added to the solution to improve postoperative hemostasis, increase venous contraction around the heat-generating catheter, and lengthen the duration of postprocedural analgesia.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 209,
+      "text": "A common formula for the tumescent anesthesia solution is 450 ml of normal saline mixed with 50 ml of 1% lidocaine with epinephrine (1:100,000 dilution) and 10 ml of sodium bicarbonate to buffer the acidity of the lidocaine.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 210,
+      "text": "Endovenous laser ablation of saphenous vein (ELAS) is a treatment alternative to surgical ligation and stripping of the greater saphenous vein.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 211,
+      "text": "Endovenous laser therapy for varicose veins is indicated for patients with clinically documented primary venous reflux, confirmed by duplex ultrasound, of the great or small saphenous veins (MSAC, 2008).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 212,
+      "text": "Endovenous laser ablation is only suitable for patients with large, saphenous varicose veins, as the catheter requires saphenous veins with a minimum 4.5mm in diameter.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 213,
+      "text": "These patients have exhausted other conservative treatment measures and sclerotherapy is considered unlikely to be successful (MSAC, 2008).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 214,
+      "text": "After ultrasound examination to confirm the site and extent of saphenous reflux, a catheter is introduced into the damaged vein along a guide wire via percutaneous puncture at the distal extent of the diseased saphenous vein (MSAC, 2008).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 215,
+      "text": "Perivascular infiltration of dilute local anesthetic along the length of the vein is then performed under ultrasound guidance to collapse the lumen and compress the vein onto the catheter, to dissipate heat generated during the procedure so as to prevent tissue damage, and to anesthetize the vein (MSAC).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 216,
+      "text": "The guide wire is replaced with a laser probe introduced through the catheter to just below the saphenofemoral or saphenopopliteal junction, with positioning confirmed by ultrasound.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 217,
+      "text": "Laser energy is then applied as the fiber and catheter are slowly withdrawn so as to close the vein and abolish venous reflux.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 218,
+      "text": "Pulses of laser light are emitted inside the vein, and the vein collapses, and seals shut.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 219,
+      "text": "This procedure may be performed in the office under local anesthesia.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 220,
+      "text": "A bandage or compression hose is placed on the treated leg following the treatment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 221,
+      "text": "The procedure is performed on an outpatient basis.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 222,
+      "text": "Endovenous laser treatment can only be used for large veins, as a catheter must be inserted into the lumen of the vein to be treated (MSAC, 2008).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 223,
+      "text": "Endovenous laser treatment is not viable on saphenous veins smaller than 4.5 mm in diameter, and cannot be used for the treatment of small veins or telangiectases.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 224,
+      "text": "Smaller veins may be treated with sclerotherapy or ambulatory phlebectomy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 225,
+      "text": "A range of laser wavelengths can be used to achieve occlusion; there is no strong evidence to indicate that any particular wavelength is superior to any other (MSAC, 2008).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 226,
+      "text": "One systematic evidence review reported that the short term (within 6 months) reported occlusion rates of the GSV and small saphenous vein (SSV) found in studies of endovenous laser therapy were all greater than 90%.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 227,
+      "text": "Absolute contraindications to ELAS treatment include occlusive deep venous thrombosis and pregnancy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 228,
+      "text": "Relative contraindications include occlusive arterial disease, hypercoabulability, tortuous veins, and inability to ambulate (MSAC, 2008).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 229,
+      "text": "Endoluminal radiofrequency thermal heating (VNUS Closure Procedure) has been used with or without ligation and division for treatment of incompetence of the saphenofemoral and saphenopopliteal junction.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 230,
+      "text": "To perform the radiofrequency ablation (RFA) procedure, the affected leg is prepared and draped, and a superficial local anaesthetic agent is used to anesthetize the site of cannulation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 231,
+      "text": "A radiofrequency catheter is inserted into the lumen of the greater saphenous vein, starting at its junction with the femoral vein.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 232,
+      "text": "Under some protocols, the placement of the catheter is guided by duplex ultrasonography.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 233,
+      "text": "The radiofrequency catheter heats the inner lumen of the vein to 85°C, with subsequent scarring and closure of the treated vein.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 234,
+      "text": "The procedure is performed in an office setting without general anesthesia; treatment time averages 20 mins.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 235,
+      "text": "Adverse sequelae include purpura, erythema and pain, which generally resolve days or weeks after treatment, and indurated fibrous cords that may remain for several months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 236,
+      "text": "Upon completion of the RFA procedure, the site of venous puncture is dressed, and compression stockings and/or bandages are applied as appropriate to reduce the risk of venous thromboembolism and to reduce postoperative bruising and tenderness (MSAC, 2011).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 237,
+      "text": "Non-steroidal anti-inflammatory drugs are commonly used for post-procedural pain relief.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 238,
+      "text": "For most patients additional procedures such as sclerotherapy or phlebectomy are required for the treatment of superficial veins below the knee, any tributary varicose veins, and telangiectases.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 239,
+      "text": "These procedures may be performed during the RFA or endovenous laser treatment procedure, or over one or two follow-up visits.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 240,
+      "text": "Radiofrequency ablation is designed as a single-use therapeutic intervention, delivered as a single course of treatment per affected leg to obliterate the great or small saphenous veins through the application of thermal energy (MSAC, 2011).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 241,
+      "text": "While generally indicated for primary varicose veins, re-treatment of varicose veins with RFA may be possible in some patients where neovascularisation or revascularisation has occurred.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 242,
+      "text": "However, revascularization in the short term following treatment is uncommon.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 243,
+      "text": "Studies reporting on radiofrequency ablation with the more efficient second generation catheters report ablation rates close to 100% at 6-month follow-up with no major adverse events (MAS, 2011).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 244,
+      "text": "Prospective case series extending to 24 months have shown success rates with RFA similar to those reported for vein ligation and stripping.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 245,
+      "text": "Weiss and Weiss (2002) reported complete disappearance of the treated saphenous vein in 90 % of 21 patients followed for 24 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 246,
+      "text": "Endothermal radiofrequency thermal heating may be performed with or without high ligation of the greater saphenous vein.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 247,
+      "text": "Chandler et al (2000) found no statistically significant difference in 1-year success rates from endovenous radiofrequency catheter ablation in 120 limbs treated without saphenofemoral ligation and 60 limbs treated with saphenofemoral ligation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 248,
+      "text": "The authors concluded that \"these early results suggest that extended sapheno-femoral junction (SFJ) ligation may add little to effective GSV [greater saphenous vein] obliteration, but our findings are not sufficiently robust to warrant abandonment of SFJ ligation as currently practiced in the management of primary varicose veins associated with GSV reflux.\"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 249,
+      "text": "Pivotal studies of endovenous catheter ablation (endovenous laser ablation and endovenous radiofrequency ablation) procedures have focused on junctional incompetence.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 250,
+      "text": "There is a lack of evidence of the effectiveness of endovenous catheter ablation procedures for treatment of varicose tributaries and perforator veins.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 251,
+      "text": "In addition, there are no studies comparing endovenous catheter ablation procedures to standard methods of treating varicose tributaries and perforator veins with sclerotherapy and ambulatory phlebectomy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 252,
+      "text": "The Society for Interventional Radiologists (2003) has a position statement on VNUS that states that “(d)uplex ultrasound is necessary to map the anatomy of the venous system prior to the procedure, and imperative during the procedure for correct catheter placement and for proper tumescent anesthetic administration to minimize potential complications.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 253,
+      "text": "Duplex ultrasound also is necessary for follow-up after endovenous ablation.”",
+      "label": "CLAIM"
+    },
+    {
+      "id": 254,
+      "text": "Sadick (2000) has noted that the new less-invasive technologies for treatment of varicose veins must be evaluated with caution. \"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 255,
+      "text": "Long-term studies with other technologies must be compared with surgical ligation of the incompetent SFJ (sapheno-femoral junction).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 256,
+      "text": "Six-month and 5-year follow-ups are two different end- points.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 257,
+      "text": "The latter is a more accurate time interval of therapeutic efficacy.\"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 258,
+      "text": "Subfascial endoscopic perforator vein surgery (SEPS) is a minimally invasive endoscopic procedure that eliminates the need for a large incision in the leg.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 259,
+      "text": "It has been explored as an alternative to the traditional open surgical treatment of chronic venous insufficiency.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 260,
+      "text": "The aim of the procedure is to interrupt incompetent medial calf perforating veins to reduce venous reflux and decrease ambulatory venous hypertension in critical areas above the ankle where venous ulcers most frequently develop.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 261,
+      "text": "Kalra and Gloviczki (2002) stated that available evidence confirmed the superiority of SEPS over open perforator ligation, but do not address its role in the surgical treatment of advanced chronic venous insufficiency (CVI) and venous ulceration.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 262,
+      "text": "Ablation of superficial reflux by high ligation and stripping of the greater saphenous vein with avulsion of branch varicosities is concomitantly performed in the majority of patients undergoing SEPS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 263,
+      "text": "The clinical and hemodynamic improvements attributable to SEPS thus are difficult to ascertain.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 264,
+      "text": "As with open perforator ligation, clinical and hemodynamic results are better in patients with primary valvular incompetence (PVI) than in those with the post-thrombotic (PT) syndrome.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 265,
+      "text": "Until prospective, randomized, multicenter clinical studies are performed to address lingering questions regarding the effectiveness of SEPS, the procedure is recommended in patients with advanced CVI secondary to PVI of superficial and perforating veins, with or without deep venous incompetence.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 266,
+      "text": "The performance of SEPS in patients with PT syndrome remains controversial.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 267,
+      "text": "Contraindications for SEPS include associated arterial occlusive disease, infected ulcer, a non-ambulatory patient, and a medically high-risk patient.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 268,
+      "text": "Diabetes, renal failure, liver failure, morbid obesity, ulcers in patients with rheumatoid arthritis, or scleroderma, and presence of deep vein obstruction at the level of the popliteal vein or higher on pre-operative imaging are relative contraindications.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 269,
+      "text": "Patients with extensive skin changes, circumferential large ulcers, recent deep vein thrombosis, severe lymphedema, or large legs may not be suitable candidates (Kalra and Gloviczki, 2002).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 270,
+      "text": "McDonagh et al (2002, 2003) has reported on the effectiveness of ultrasound-guided foam sclerotherapy (comprehensive objective mapping, precise image-guided injection, anti-reflux positioning and sequential sclerotherapy (COMPASS) technique) in the treatment persons with varicosities of the greater saphenous vein with saphenous vein reflux.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 271,
+      "text": "Published studies of the COMPASS technique involve relatively short-term follow up.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 272,
+      "text": "Study subjects were followed for 3 years, and for only 2 years after completion of a series of repeat sclerotherapy injections that were administered over 1 year.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 273,
+      "text": "In addition, these studies do not include a comparable group of subjects treated with surgery, which has been the primary method of treating incompetent long saphenous veins.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 274,
+      "text": "Thus, it is not possible to reach definitive conclusions about the durability of results of the COMPASS technique or its effectiveness compared with surgery for treatment of greater saphenous vein varicosities and saphenofemoral incompetence.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 275,
+      "text": "In addition, published studies of the COMPASS technique come from a single group of investigators.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 276,
+      "text": "In reviewing the study by McDonagh (2002), Allegra (2003) commented: “Surgical treatment has a long history with 5-20 year follow-ups being routine.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 277,
+      "text": "The 3 year follow-up in the present study is certainly not comparable ….",
+      "label": "PREMISE"
+    },
+    {
+      "id": 278,
+      "text": "This study does not answer questions raised against ultrasound guided sclerotherapy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 279,
+      "text": "It would be important to have the relevant aspects of this study duplicated, reproduced, and verified.”",
+      "label": "CLAIM"
+    },
+    {
+      "id": 280,
+      "text": "Published long-term randomized controlled clinical studies have demonstrated that surgery plus sclerotherapy is more effective than surgery alone for treatment of varicosities associated with incompetence of the saphenofemoral junction.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 281,
+      "text": "Belcaro et al (2003) reported on the results from the Venous Disease International Control (VEDICO) trial, the first long-term randomized controlled clinical trial of foam sclerotherapy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 282,
+      "text": "The VEDICO trial involved 749 patients with varicose veins and saphenous vein incompetence who were randomly treated by six different approaches: standard sclerotherapy, high-dose sclerotherapy, surgical ligation, stab avulsion, foam sclerotherapy, and combined surgery (ligation or stab avulsion) and high dose sclerotherapy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 283,
+      "text": "At 10 years, the occurrence of new veins was 56 % for standard sclerotherapy, 51 % for foam sclerotherapy, 49 % for high-dose sclerotherapy, 41 % for stab avulsion, 38 % for ligation, and 27 % for combined surgery and sclerotherapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 284,
+      "text": "Belcaro et al (2000) reported on the results of a randomized controlled clinical study comparing ultrasound- guided sclerotherapy with surgery alone or surgery combined with sclerotherapy in 96 patients with varicose veins and superficial venous incompetence.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 285,
+      "text": "Although all approaches were reported to be effective in controlling the progression of venous incompetence, surgery appeared to be the most effective method on a long-term basis, and that surgery combined with sclerotherapy may be more effective than surgery alone.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 286,
+      "text": "After 10 years follow-up, no incompetence of the saphenofemoral junction was observed in both groups assigned to surgery, compared to 18.8 % of limbs of subjects assigned to ultrasound-guided sclerotherapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 287,
+      "text": "Of limbs treated with ultrasound-guided sclerotherapy, 43.8 % of the distal venous systems were incompetent, compared to 36 % of limbs of subjects treated with surgery alone, and 16.1 % of limbs of subjects treated with surgery plus sclerotherapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 288,
+      "text": "The L'Agence Nationale d' Accreditation et d'Evaluation en Sante (l'ANAES) (Grange et al, 1998) conducted a systematic review of the literature on the indications of surgery for varicose veins of the legs.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 289,
+      "text": "Given the lack of good scientific evidence on the various treatments for primary varicose veins, the working group made recommendations based on professional agreement.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 290,
+      "text": "They concluded that surgery is the treatment of choice for saphenous veins with reflux.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 291,
+      "text": "An evidence review of surgical treatments for deep venous incompetence by the Alberta Heritage Foundation for Medical Research (Scott and Corabain, 2003) stated that \"(s)clerotherapy is particularly effective in superficial venous incompetence when there is a large vein located in close proximity to the ulcer.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 292,
+      "text": "However, surgery is indicated when there is substantial proximal incompetence in a saphenous vein.\"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 293,
+      "text": "A comprehensive evidence review of sclerotherapy for varicose veins conducted by the Alberta Heritage Foundation for Medical Research (2003) concluded that \"the reviewed evidence does not adequately address the questions; which sclerosant is superior and which technique with or without ultrasound guidance is most efficacious … In recent years, new methods such as ES (endovascular sclerotherapy) and foam sclerotherapy (using ultrasound guidance) have been developed and proposed to improve the safety and efficacy of sclerotherapy for various types of varicose veins.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 294,
+      "text": "Evidence about these new techniques for treating patients with incompetence of the long saphenous vein is limited.\"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 295,
+      "text": "The assessment concluded that although \" (s)clerotherapy appears to be the treatment of choice for reticular varicosities, telangiectasia and other small, unsightly blood vessels … (t)he place of sclerotherapy as the first treatment for larger varicose veins (saphenous or non-saphenous) remains controversial.\"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 296,
+      "text": "There is a lack of reliable evidence that one type of sclerosant is significantly better than any other (Tisi 2007; Jia et al, 2006).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 297,
+      "text": "Jia and colleagues (2007) evaluated the safety and effectiveness of foam sclerotherapy for varicose veins.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 298,
+      "text": "The authors concluded that serious adverse events associated with foam sclerotherapy are rare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 299,
+      "text": "However, there is insufficient evidence to allow a meaningful comparison of the effectiveness of this treatment with that of other minimally invasive therapies or surgery.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 300,
+      "text": "Kendler and associates (2007) noted that \"(r)ecently the use of foam sclerotherapy had a renaissance.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 301,
+      "text": "Several studies have documented the efficacy of foam sclerotherapy in selected patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 302,
+      "text": "The possibility of treating patients in an outpatient setting, with low costs and rapidly, makes foam sclerotherapy very attractive compared to invasive and minimally invasive methods.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 303,
+      "text": "However long-term follow-ups in properly controlled randomized trials are needed before foam sclerotherapy can be recommended as a routine procedure\".",
+      "label": "CLAIM"
+    },
+    {
+      "id": 304,
+      "text": "The FDA has approved Asclera (polidocanol) injection (BioForm Medical Inc., Franksville, WI) to close spider veins (tiny varicose veins less than 1 millimeter in diameter) and reticular veins (those that are 1 to 3 millimeters in diameter).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 305,
+      "text": "As these small veins have not been demonstrated to cause symptoms, treatment of these small veins is considered cosmetic.",
+      "label": "CLAIM"
+    }
+  ]
+}
