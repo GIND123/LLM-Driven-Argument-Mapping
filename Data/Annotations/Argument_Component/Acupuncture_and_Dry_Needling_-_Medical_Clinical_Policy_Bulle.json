@@ -1,0 +1,1657 @@
+{
+  "document_id": "Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Acupuncture and Dry Needling Number: 0135 Applicable CPT / HCPCS / ICD-10 Codes Scope of Policy This Clinical Policy Bulletin addresses acupuncture and dry needling.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 2,
+      "text": "I. Medical Necessity Aetna considers acupuncture (manual or electroacupuncture) medically necessary for any of the following indications: A. Chronic (minimum 12 weeks duration) neck pain; or B. Chronic (minimum 12 weeks duration) headache; or C. Low back pain; or D. Nausea of pregnancy; or E. Pain from osteoarthritis of the knee or hip (adjunctive therapy); or F. Post-operative and chemotherapy-induced nausea and vomiting; or G. Post-operative dental pain; or H. Temporomandibular disorders (TMD).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "Maintenance treatment, where the member's symptoms are neither regressing or improving, is considered not medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "If no clinical benefit is appreciated after four weeks of acupuncture, then the treatment plan should be reevaluated.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Further acupuncture treatment is not considered medically necessary if the member does not demonstrate meaningful improvement in symptoms. II.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Experimental, Investigational, or Unproven The following procedures are considered experimental, investigational, or unproven because the effectiveness of these approaches has not been established: A. Acupuncture There is inadequate scientific research assessing the efficacy of acupuncture compared with placebo, sham acupuncture or other modalities of treatment in the following conditions (not an all inclusive list): Abdominal obesity Gout Acne Hypoxic ischemic encephalopathy Acute pancreatitis Induction of labor Addiction Infantile colic AIDS Infantile diarrhea Alcohol withdrawal syndrome Infertility (e.g., to assist oocyte retrieval Allergies and embryo transfer during IVF treatment Alzheimer’s disease cycle) Amblyopia Inflammatory bowel diseases (Crohn's Anorexia disease and ulcerative colitis) Asthma Insomnia (including cancer-related Attention deficit hyperactivity disorder insomnia) (ADHD) Intra-cerebral hemorrhage Autism spectrum disorders Irritable bowel syndrome Bell's palsy Menopause-associated vasomotor Benign prostatic hypertrophy symptoms Breast cancer-related hot flashes Menopausal hot flashes Breast cancer-related lymphedema Menstrual cramps/dysmenorrhea Burning mouth syndrome Mild cognitive impairment Cancer-induced bone pain Multiple sclerosis Cancer-related dyspnea Mumps Cancer-related fatigue Myofascial pain Cardiovascular diseases (e.g., angina Myopia pectoris, heart failure, hypertension) Neuropathic pain Carpal tunnel syndrome Nocturnal enuresis Cerebral palsy Non-alcoholic fatty liver disease Chemotherapy-induced leukopenia Obesity / weight reduction Chemotherapy-induced neuropathic pain Obstructive sleep apnea Chronic hepatitis B Occipital neuralgia Chronic ankle instability Oligoasthenozoospermia Chronic pain syndrome (e.g., RSD, facial Oral ulcer pain) Osteoporosis Chronic obstructive pulmonary disease Painful neuropathies (COPD) Parkinson's disease Chronic constipation Parkinson's disease-related fatigue, Chronic fatigue syndrome depression Cognitive impairment Peptic ulcer Coronary heart disease Peripheral arterial disease (e.g., intermittent Diabetic gastroparesis claudication) Diabetic peripheral neuropathy Phantom leg pain Diminished ovarian reserve Plantar fasciitis Dry eyes Polycystic ovary syndrome Dysmenorrhea Post-herpetic neuralgia Endometriosis pain Post-operative ileus Epilepsy Post-prandial distress syndrome Erectile dysfunction Post-stroke hiccup Facial spasm Post-stroke shoulder pain Fetal breech presentation Post-surgical neuropathic pain after breast Fibromyalgia cancer surgery Fibrotic contractures Post-traumatic stress disorder Gastric ulcer Premature ejaculation Glaucoma Premenstrual syndrome/premenstrual Sleep disturbance in individuals with dysphoric disorder cancer Pruritus Smoking cessation Psoriasis Spasticity after stroke Psychiatric disorders (e.g., anxiety, Stroke rehabilitation (e.g., dysphagia) depression, and schizophrenia) Systemic lupus erythematosus Raynaud’s disease pain Tennis elbow / epicondylitis Renal colic Thoracic back pain Respiratory disorders Tic disorders (e.g., Tourette syndrome) Restless leg syndrome Tinnitus Rheumatoid arthritis Urinary incontinence Rhinitis Uterine fibroids Sensorineural deafness Vascular dementia Sexual dysfunction Xerostomia Shoulder bursitis Whiplash; B. Acupuncture point injection (also known as acupoint injection therapy, biopuncture) for the following conditions (not an all-inclusive list): Amyotrophic lateral sclerosis Cancer-related pain Cervical spondylosis Chronic daily headache Dysmenorrhea (menstrual pain) Lateral elbow pain (tennis elbow); C. Acupotomy for the treatment of herpes zoster, low back/shoulder pain, paresthesia of skin, and trigger finger; D. Dry needling; E. Transcutaneous electronic acupoint stimulation for improvement of post-operative recovery after gynecologic surgery; F. Use of the Teding Dianci Pu (TDP) lamp as an adjunct to acupuncture. III.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 7,
+      "text": "Policy Limitations and Exclusions Note: Standard Aetna plans extend coverage of acupuncture for medically necessary indications when administered by a health care provider practicing within the scope of his/her license.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Some Aetna plans limit coverage of acupuncture to when it is used in a lieu of other anesthesia for a surgical or dental procedure covered under the health benefits plan, and the health care provider administering it is a legally qualified physician practicing within the scope of his/her license.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "Some other plans may extend coverage of acupuncture for medically necessary indications, but only when administered by a health care provider who is a legally qualified physician practicing within the scope of his/her license.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Please check benefit plan descriptions for details.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 11,
+      "text": "Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description CPT codes covered if selection criteria are met: Code Code Description 97810 Acupuncture, 1 or more needles; without electrical stimulation, initial 15 minutes of personal one-on-one contact with patient + 97811 without electrical stimulation, each additional 15 minutes of personal one-on-one contact with the patient, with re-insertion of needle(s) (List separately in addition to code for primary procedure) 97813 with electrical stimulation, initial 15 minutes of personal one-on-one contact with patient + 97814 with electrical stimulation, each additional 15 minutes of personal one-on-one contact with the patient, with re-insertion of needle(s) (List separately in addition to code for primary procedure) CPT codes not covered for indications listed in the CPB: Teding Dianci Pu (TDP) lamp, transcutaneous electronic acupoint stimulation -no specific code 20560 Needle insertion(s) without injection(s); 1 or 2 muscle(s) 20561 3 or more muscles [dry needling] Other CPT codes related to CPB: 19120 Excision of cyst, fibroadenoma, or other benign or malignant tumor, aberrant breast tissue, duct lesion, nipple or areolar lesion (except 19300), open, male or female, 1 or more lesions 19125 Excision of breast lesion identified by preoperative placement of radiological marker, open; single lesion +19126 each additional lesion separately identified by a preoperative radiological marker (List separately in addition to code for primary procedure) 19301 Mastectomy, partial (eg, lumpectomy, tylectomy, quadrantectomy, segmentectomy) 19302 with axillary lymphadenectomy 19303 Mastectomy, simple, complete 19305 Mastectomy, radical, including pectoral muscles, axillary lymph nodes 19306 Mastectomy, radical, including pectoral muscles, axillary and internal mammary lymph nodes (Urban type operation) 19307 Mastectomy, modified radical, including axillary lymph nodes, with or without pectoralis minor muscle, but excluding pectoralis major muscle 19316 Mastopexy 19340 Insertion of breast implant on same day of mastectomy (ie, immediate) 19342 Insertion or replacement of breast implant on separate day from mastectomy 19357 Tissue expander placement in breast reconstruction, including subsequent expansion(s) 19361 Breast reconstruction; with latissimus dorsi flap 19364 with free flap (eg, fTRAM, DIEP, SIEA, GAP flap) 19367 with single-pedicled transverse rectus abdominis myocutaneous (TRAM) flap 19368 with single-pedicled transverse rectus abdominis myocutaneous (TRAM) flap, requiring separate microvascular anastomosis (supercharging) 19369 with bipedicled transverse rectus abdominis myocutaneous (TRAM) flap HCPCS codes covere if selection criteria are met: Code Code Description S8930 Electrical stimulation of auricular acupuncture points; each 15 minutes of personal one-on-one contact with the patient ICD-10 codes covered if selection criteria are met (not all-inclusive): G43.001 - G43.E19 Migraine K08.9 Disorder of teeth and supporting structures, unspecified [postoperative dental pain] M16.0 - M16.12 Primary osteoarthritis of hip M16.2 - M16.7 Secondary osteoarthritis, hip M16.9 Osteoarthritis of hip, unspecified M17.0 - M17.12 Osteoarthritis of knee M17.2 - M17.5 Secondary osteoarthritis, knee M17.9 Osteoarthritis of knee, unspecified M26.601 - M26.69 Temporomandibular joint disorders M54.2 Cervicalgia [chronic neck pain] M54.50 - M54.59 Low back pain O21.0 - O21.9 Excessive vomiting in pregnancy R11.2 Nausea with vomiting [postoperative] [chemotherapy-induced] R51.0- R51.9 Headache T45.1x5A - Adverse effect of antineoplastic and immunosuppressive drugs [chemotherapy- T45.1x5S induced nausea and vomiting] Z98.890 - Z98.891 Other specified postprocedural status [dental, with pain] ICD-10 codes not covered for indications listed in the CPB: B02.21 - B02.29 Zoster with other nervous system involvement B18.0 - B18.1 Chronic (viral) hepatitis B B20 Human immunodeficiency virus [HIV] disease B26.0 - B26.9 Mumps C50.011 - C50.929 Malignant neoplasm of breast C79.81 Secondary malignant neoplasm of breast D05.00 - D05.92 Carcinoma in situ of breast D25.0 - D25.9 Leiomyoma of uterus (fibroids) D72.819 Decreased white blood cell count, unspecified [leukocytopenia] E28.2 Polycystic ovaries syndrome E28.310 Symptomatic premature menopause E28.8 Other ovarian dysfunction [diminished ovarian reserve] E66.01 - E66.1 Overweight and obesity E66.3 - E66.9 E89.41 Symptomatic postprocedural ovarian failure F01.50 - F99 Mental disorders [including addiction, insomnia, tension headache, smoking cessation, autism spectrum disorders] G12.21 Amyotrophic lateral sclerosis G20.A1 - G20.C Parkinson's disease G25.81 Restless legs syndrome G30.0 - G30.9 Alzheimer's disease G31.84 Mild cognitive impairment, so stated Code Code Description G35 Multiple sclerosis G40.001 - G40.919 Epilepsy and recurrent seizures G44.1 Vascular headache, not elsewhere classified G47.00 - G47.09 Insomnia G47.30 Sleep apnea, unspecified G47.33 Obstructive sleep apnea (adult) (pediatric) G47.8 Other sleep disorders [sleep disturbance in individuals with cancer] G50.0 - G64 Trigeminal nerve disorders, facial nerve disorders, disorders of other cranial nerves, nerve root and plexus disorders, mononeuritis of upper limb and mononeuritis multiplex, mononeuritis of lower limb, hereditary and idiopathic peripheral neuropathy or inflammatory and toxic neuropathy G80.0 - G80.9 Cerebral palsy G89.18 Other acute postprocedural pain G89.28 Other chronic postprocedural pain G90.50 - G90.59 Complex regional pain syndrome I (CRPS I) H04.121 - H04.129 Dry eye syndrome H40.001 - H40.9 Glaucoma H52.10 - H52.13 Myopia H53.001 - H53.039 Amblyopia ex anopsia H90.3 - H90.5 Sensorineural hearing loss H93.11 - H93.19 Tinnitus H93.A1 - H93.A9 Pulsatile tinnitus I00 - I99.9 Diseases of the circulatory system I10 - I1A.0 Hypertensive disease I20.0 - I20.9 Angina pectoris I21.01 - I25.9 Coronary heart disease I50.1 - I50.9 Heart Failure I60.00 - I69.993 Cerebrovascular disease I69.998 Other sequelae following unspecified cerebrovascular disease [spasticity after stroke] I70.0 - I75.89 Diseases of arteries, arterioles and capillaries I77.0 - I79.8 I89.0 Lymphedema, not elsewhere classified I97.2 Postmastectomy lymphedema syndrome [breast cancer-related] J00 - J99 Diseases of the respiratory system K11.7 Disturbance of salivary secretion [xerostomia] K12.30 - K12.39 Oral mucositis (ulcerative) K14.6 Glossodynia [burning mouth syndrome] K25.0 - K25.9 Gastric ulcer K27.0 - K27.9 Peptic ulcer K30 Functional dyspepsia [post-prandial distress syndrome] K31.84 Gastroparesis [diabetic] K50.00 - K51.919 Inflammatory bowel diseases [Crohn's disease and ulcerative colitis] K58.0 - K58.9 Irritable bowel syndrome K59.00 - K59.09 Constipation K75.81 Nonalcoholic steatohepatitis (NASH) K76.0 Fatty (change of) liver, not elsewhere classified [non-alcoholic fatty liver disease] K85.00 - K85.92 Acute pancreatitis Code Code Description K91.89 Other postprocedural complications and disorders of digestive system [post-operative ileus] L29.0 - L29.9 Pruritus L40.0 - L40.9 Psoriasis L70.0 - L70.9 Acne M05.00 - M05.09 Rheumatoid arthritis M05.20 - M06.9 M08.00 - M08.99 M10.00 – M10.9 Gout M1A.00X0 – Chronic gout M1A.09X1 M25.371 – M25.373 Other instability, ankle M25.721 - M25.729 Osteophyte, elbow M30.0 - M31.9 Polyarteritis nodosa and related conditions M32.0 – M32.9 Systemic lupus erythematosus (SLE) M43.20 - M43.28, Other and unspecified disorders of back M43.27 - M43.28 M48.00 - M48.08 M51.14 - M51.17, M53.2x7 - M53.2x8 M53.3, M54.03 - M54.09, M54.14 - M54.17, M62.830 M43.6, M48.01 - Other disorders of cervical region M48.03, M48.8x2 M50.10 - M50.13, M53.0 - M53.1 M53.81 - M53.83, M54.00 - M54.02 M54.11 - M54.13, M54.81 M99.20 - M99.21, M99.30 - M99.31 M99.40 - M99.41, M99.50 - M99.51 M99.60 - M99.61, M99.70 - M99.71 M47.11 - M47.13, Cervical spondylosis without myelopathy or with myelopathy M47.21 - M47.23 M47.811 - M47.813, M47.891 - M47.893 M50.00 - M50.03 Cervical disc disorder with myelopathy M50.20 - M50.23 Other cervical disc displacement M54.6 Pain in thoracic spine M60.80 - M60.9 Other myositis M62.40 - M62.49 Contracture of muscle [fibrotic contracture] M72.2 Plantar fascial fibromatosis M75.00 - M75.02 Adhesive capsulitis of shoulder M75.100 - M75.122 Rotator cuff tear or rupture, not specified as traumatic, and bursitis of shoulder M75.50 - M75.52 M77.10 - M77.12 Lateral epicondylitis Code Code Description M79.10 - M79.18 Myalgia M79.2 Neuralgia and neuritis, unspecified [neuropathic pain] M80.00xA - M81.8 Osteoporosis with/without current pathological fracture M96.1 Postlaminectomy syndrome, not elsewhere classified N23 Unspecified renal colic N39.3 - N39.8 Urinary incontinence N46.01 - N46.9 Male infertility N52.01 - N52.9 Male erectile dysfunction N53.11 – N53.9 Other male sexual dysfunction N80.00 - N80.9, Endometriosis N80.A0 - N80.D9 N94.4 - N94.6 Dysmenorrhea N95.1 Menopausal and female climacteric states N97.0 - N97.9 Female infertility Numerous options Injuries to musculoskeletal and connective tissues, skin and cutaneous tissues, nervous system and other and unspecified injuries, sequela O32.1xx+ Maternal care for breech presentation O99.210 - O99.215 Obesity complicating pregnancy, childbirth, and the puerperium P11.3 Birth injury to facial nerve P19.0 - P28.9 Fetal distress, birth asphyxia, respiratory distress syndrome, and other respiratory conditions of fetus and newborn P91.60 - P91.63 Hypoxic ischemic encephalopathy [HIE] R06.00 - R06.09 Abnormalities of breathing[cancer-related] R07.82 - R07.89 Other chest pain R10.83 Colic R19.7 Diarrhea [infantile] R32 Unspecified urinary incontinence R37 Sexual dysfunction, unspecified R53.81 - R53.83 Other malaise and fatigue [cancer related] R63.0 Anorexia [pediatric] R63.2 Polyphagia R63.5 Abnormal weight gain S13.4xxA- Whiplash injury S13.4xxS, S13.8xxA - S13.8xxS, S13.9xxA - S13.9xxS, S16-1xxA - S16.1xxS T45.1x5A - Adverse effects of antineoplastic and immunosuppressive drugs T45.1x5S T78.40XA - Other and unspecified allergies T78.40XS Z68.30 - Z68.45 Body Mass Index 30.0-70 and over, adult Acupotomy: CPT codes not covered for indications listed in the CPB: Code Code Description Acupotomy –no specific code ICD-10 codes not covered for indications listed in the CPB: B02.0 - B02.9 Zoster [herpes zoster] M25.511 - M25.519 Pain in shoulder M54.50 - M54.59 Low back pain M65.30 - M65.359 Trigger finger R20.2 Paresthesia of skin Transcutaneous electronic acupoint stimulation: CPT codes not covered for indications listed in the CPB: Transcutaneous electronic acupoint stimulation –no specific code Other CPT codes related to CPB: 56405 - 58999 Female Genital System ICD-10 codes not covered for indications listed in the CPB: Z48.816 Encounter for surgical aftercare following surgery on the genitourinary system [Female] Acupuncture Acupuncture as a therapeutic intervention is widely practiced in the United States.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 12,
+      "text": "The general theory of acupuncture is based on the premise that there are patterns of energy flow (Qi) through the body that are essential for health.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "Disruptions of this flow are believed to be responsible for disease.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "Acupuncture may correct imbalances of flow at identifiable points close to the skin.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "Findings from basic research have begun to elucidate the mechanisms of action of acupuncture, including the release of opioids and other peptides in the central nervous system and the periphery and changes in neuroendocrine function.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 16,
+      "text": "While there have been many studies of its potential usefulness, the vast majority of papers studying acupuncture in the biomedical literature consist of case reports, case series, or intervention studies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 17,
+      "text": "One of the difficulties with drawing conclusions from the existing literature is that the term acupuncture is used to describe a variety of treatments that differ in many important aspects according to level of effect (e.g., local, segmental, generalized) and type of acupuncture treatment (e.g., manual versus electrical acupuncture).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 18,
+      "text": "Many of these studies provide equivocal results because of design, sample size, and other factors.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 19,
+      "text": "The issue is further complicated by inherent difficulties in the use of appropriate controls, such as placebos and sham acupuncture groups, and by absence of studies comparing acupuncture with conventional biomedical treatments.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 20,
+      "text": "Some factors needing investigation include frequency, number, and duration of treatments, depth of puncture, number of acupuncture points used, combination with other therapies, sample size, setting, blinding factors, and needle size.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 21,
+      "text": "Be that as it may, promising results have emerged on the efficacy of acupuncture in adult post-operative and chemotherapy nausea and vomiting and in postoperative dental pain.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 22,
+      "text": "There is insufficient evidence of the efficacy of acupuncture as a treatment for fibromyalgia.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "The U.S. Department of Health and Human Services, Public Health Service, Agency for Healthcare Research and Quality (AHRQ) performed a technology assessment (2003) on Acupuncture for the Treatment of Fibromyalgia; it stated that \"[a]t this time, therefore, there is insufficient evidence to conclude that acupuncture has efficacy for the treatment of fibromyalgia.\"",
+      "label": "PREMISE"
+    },
+    {
+      "id": 24,
+      "text": "There is evidence to support the use of acupuncture in migraine.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 25,
+      "text": "In a large randomized controlled study (n = 401), Vickers et al (2004) examined the effects of a policy of \"use acupuncture\" on headache (predominantly migraine), health status, days off sick, and use of resources in patients with chronic headache compared with a policy of \"avoid acupuncture\".",
+      "label": "PREMISE"
+    },
+    {
+      "id": 26,
+      "text": "Patients were randomly allocated to receive up to 12 acupuncture treatments over 3 months or to a control intervention offering usual care.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 27,
+      "text": "Headache score, SF-36 health status, and use of medication were assessed at baseline, 3, and 12 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 28,
+      "text": "Use of resources was assessed every 3 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 29,
+      "text": "Headache score at 12 months, the primary end point, was lower in the acupuncture group (16.2, SD 13.7, n = 161, 34 % reduction from baseline) than in controls (22.3, SD 17.0, n = 140, 16 % reduction from baseline).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 30,
+      "text": "The adjusted difference between means is 4.6 (95 % confidence interval [CI]: 2.2 to 7.0; p = 0.0002).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 31,
+      "text": "This result is robust to sensitivity analysis incorporating imputation for missing data.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 32,
+      "text": "Patients in the acupuncture group experienced the equivalent of 22 fewer days of headache per year (8 to 38).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 33,
+      "text": "SF-36 data favored acupuncture, although differences reached significance only for physical role functioning, energy, and change in health.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 34,
+      "text": "Compared with controls, patients randomized to acupuncture used 15 % less medication (p = 0.02), made 25 % fewer visits to general practitioners (p = 0.10), and took 15 % fewer days off sick (p = 0.2).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 35,
+      "text": "The authors concluded that acupuncture leads to persisting, clinically relevant benefits for primary care patients with chronic headache, particularly migraine.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 36,
+      "text": "The results of the study by Vickers et al (2004) are in agreement with recent findings of Allais et al (2003) who reported that acupuncture is effective in reducing the frequency of migraine attacks as well as those by Linde et al (2009) who reported that acupuncture was more effective than a placebo injection in the early treatment of an acute migraine attack.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 37,
+      "text": "Facco and colleagues (2008) examined the effectiveness of a true acupuncture treatment according to traditional Chinese medicine (TCM) in migraine without aura, comparing it to a standard mock acupuncture protocol, an accurate mock acupuncture healing ritual, and untreated controls.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 38,
+      "text": "A prospective, randomized, controlled study was performed in 160 patients suffering from migraine without aura, assessed according to the ICD-10 classification.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 39,
+      "text": "Patients were divided into the following 4 groups: I. group TA, treated with true acupuncture (according to TCM) plus rizatriptan; II.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 40,
+      "text": "group RMA, treated with ritualized mock acupuncture plus rizatriptan; III.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 41,
+      "text": "group SMA, treated with standard mock acupuncture plus rizatriptan; and IV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 42,
+      "text": "group R, without prophylactic treatment with relief therapy only (rizatriptan).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 43,
+      "text": "The MIDAS Questionnaire was administered before treatment (T0), at 3 (T1) and 6 months (T2) from the beginning of treatment, and the MIDAS Index (MI) was calculated.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 44,
+      "text": "Rizatriptan intake was also checked in all groups of patients at T0, T1, and T2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 45,
+      "text": "Group TA and RMA were evaluated according to TCM as well; then, the former was submitted to true acupuncture and the latter to mock acupuncture treatment resembling the same as TA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 46,
+      "text": "The statistical analysis was conducted with factorial ANOVA and multiple tests with a Bonferroni adjustment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 47,
+      "text": "A total of 127 patients completed the study (33 dropouts): 32 belonged to group TA, 30 to group RMA, 31 to group SMA, and 34 to group R. Before treatment the MI (T(0)) was moderate-to- severe with no significant inter-group differences.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 48,
+      "text": "All groups underwent a decrease of MI at T(1) and T(2), with a significant group difference at both T(1) and T(2) compared to T(0) (p L) and improved speech and swallowing.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 49,
+      "text": "However, she did not continue to receive the Enercel acupoint injections, and she subsequently demonstrated a slow, progressive loss of neurological function during the ensuing 3 months, as shown on follow-up examinations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 50,
+      "text": "Patient 2 had significantly impaired speech and mild motor loss in the upper extremities and the left leg.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 51,
+      "text": "After 4 weeks of treatment, his voice had significantly improved to the point where his speech was understandable and his motor functions had returned to normal.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 52,
+      "text": "He continued receiving Enercel acupoint injections during the 3-month follow-up period and his clinical improvements were maintained.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 53,
+      "text": "Thus, these 2 patients with ALS showed clinical improvements after 4 weeks of Enercel acupoint injection therapy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 54,
+      "text": "Follow-up data suggested that ongoing therapy may be necessary in order to maintain these positive effects.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 55,
+      "text": "The authors concluded that the findings of this preliminary study merits further study and confirmation.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 56,
+      "text": "In a Cochrane review, Paley et al (2011) evaluated effectiveness of acupuncture for relief of cancer-related pain in adults.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 57,
+      "text": "CENTRAL, MEDLINE, EMBASE, PsycINFO, AMED, and SPORTDiscus were searched up to November 2010 including non-English language papers.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 58,
+      "text": "Randomized controlled trials evaluating any type of invasive acupuncture for pain directly related to cancer in adults of 18 years or over were selected for analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 59,
+      "text": "It was planned to pool data to provide an overall measure of effect and to calculate the number needed to treat to benefit, but this was not possible due to heterogeneity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 60,
+      "text": "Two review authors independently extracted data adding it to data extraction sheets. Quality scores were given to studies.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 61,
+      "text": "Data sheets were compared and discussed with a third review author who acted as arbiter.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 62,
+      "text": "A total of 3 RCTs (204 participants) were included.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 63,
+      "text": "One high-quality study investigated the effect of auricular acupuncture compared with auricular acupuncture at \"placebo\" points and with non-invasive vaccaria ear seeds attached at \"placebo\" points.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 64,
+      "text": "Participants in 2 acupuncture groups were blinded but blinding wasn't possible in the ear seeds group because seeds were attached using tape.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 65,
+      "text": "This may have biased results in favor of acupuncture groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 66,
+      "text": "Participants in the real acupuncture group had lower pain scores at 2-month follow-up than either the placebo or ear seeds group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 67,
+      "text": "There was high-risk of bias in 2 studies because of low methodological quality.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 68,
+      "text": "One study comparing acupuncture with medication concluded that both methods were effective in controlling pain, although acupuncture was the most effective.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 69,
+      "text": "The second study compared acupuncture, point-injection and medication in participants with stomach cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 70,
+      "text": "Long-term pain relief was reported for both acupuncture and point-injection compared with medication during the last 10 days of treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 71,
+      "text": "Although both studies have positive results in favor of acupuncture, they should be viewed with caution due to methodological limitations, small sample sizes, poor reporting and inadequate analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 72,
+      "text": "The authors concluded that there is insufficient evidence to judge whether acupuncture is effective in treating cancer- related pain in adults.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 73,
+      "text": "In a pilot study, park et al (2011) examined the possibility of Carthami-Semen (CS, Safflower seed) acupuncture point injection as a new promising treatment for chronic daily headache (CDH).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 74,
+      "text": "A total of 40 subjects with CDH were recruited and randomized to a CS acupuncture point injection group or a normal saline (NS) acupuncture point injection group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "Acupuncture point injections were applied twice-weekly during a 4-week period to the bilateral Fengchi (GB20), Jianjing (GB21) and Taiyang (EX-HN5) acupoints with CS extract or NS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 76,
+      "text": "The primary outcome measure was headache-related QOL (HR-QOL), assessed using the Headache Impact Test (HIT).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 77,
+      "text": "Secondary outcome measures were the changes in the number of headache-free days and health status as assessed with the Short Form (36) Health Survey (SF-36).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 78,
+      "text": "HIT scores decreased by 14.9 points in the CS acupuncture point injection group compared with 7.9 points in the NS acupuncture point injection group (p = 0.013).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 79,
+      "text": "Headache-free days increased by 32.6 % in the CS acupuncture point injection group compared with 17.4 % in the NS acupuncture point injection group (p = 0.045).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 80,
+      "text": "There were significant increases in SF-36 scores compared with baseline in both groups, but the mean improvement was greater in the CS acupuncture point injection group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 81,
+      "text": "No serious adverse events were reported.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 82,
+      "text": "The authors stated that these findings suggested that the CS acupuncture point injection could be a new safe and promising treatment for CDH.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 83,
+      "text": "They stated that a larger and long-term follow-up trial is needed to determine more definitely the efficacy of CS acupuncture point injection and to elucidate how long the effect lasts.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 84,
+      "text": "Zhang et al (2012) examined the effects of acupoint injection on cervical spondylosis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 85,
+      "text": "Electronic retrieval was carried out on literatures from the period of May 1, 2006 to June 1, 2011 in databases of PubMed, ISI web of knowledge and CNKI.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 86,
+      "text": "The selected literatures were summarized and classified from 3 aspects of acupoints selection, medication selection and manipulations.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 87,
+      "text": "The authors noted that cervical Jiaji (EX-B 2) points, Fengchi (GB 20) and Ashi points are common acupoints.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 88,
+      "text": "The medications contain simple Chinese herbs (e.g., Danggui injection, etc.)",
+      "label": "PREMISE"
+    },
+    {
+      "id": 89,
+      "text": "and compound Chinese herbs (e.g., compound Danggui injection, etc.),",
+      "label": "PREMISE"
+    },
+    {
+      "id": 90,
+      "text": "simple western medicine (e.g., vitamin B family) and Chinese herbs combined with western medicine (compound Danggui combined with vitamin B12).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 91,
+      "text": "Disposable syringes were used for injection equipment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 92,
+      "text": "The authors stated that while acupoint injection in treating cervical spondylosis is effective, however, mechanism studies are still deficient since most of the researches focused on clinical observation.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 93,
+      "text": "They concluded that manipulation of acupoint injection is not standardized; laws of clinical effect are unclear.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 94,
+      "text": "Thus, they stated that \"the above mentioned defects are still remained for further improvement\".",
+      "label": "CLAIM"
+    },
+    {
+      "id": 95,
+      "text": "Bae et al (2014) conducted a meta-analysis of an array of appropriate studies to evaluate the pre-operative anxiolytic efficacy of acupuncture therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 96,
+      "text": "Four electronic databases (MEDLINE, EMBASE, CENTRAL, and CINAHL) were searched up to February 2014.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 97,
+      "text": "In the meta-analysis, data were included from RCT studies in which groups receiving pre-operative acupuncture treatment were compared with control groups receiving a placebo for anxiety.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 98,
+      "text": "A total of 14 publications (n = 1,034) were included.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 99,
+      "text": "Six publications, using the State-Trait Anxiety Inventory-State (STAI-S), reported that acupuncture interventions led to greater reductions in pre-operative anxiety relative to sham acupuncture (mean difference = 5.63, p 0.05).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 100,
+      "text": "In addition, publication bias was detected.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 101,
+      "text": "The authors concluded that this study would add to the body of knowledge regarding the safety and effectiveness of acupuncture-related therapies in the treatment of MCI.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 102,
+      "text": "The findings of this study would also assist in the choice of clinical guidelines that optimize acupuncture treatment for patients with MCI.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 103,
+      "text": "However, these researchers stated that more robust comparative evidence is needed to confirm this conclusion.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 104,
+      "text": "They noted that that more high-quality, large-sample, multi-center RCTs are needed to confirm these findings.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 105,
+      "text": "The authors stated that this study had several drawbacks.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 106,
+      "text": "First, there was insufficient information on the effectiveness of acupuncture-related treatment for MCI due to the small sample sizes, the small number of patients in each trial, and the limited assessment of MMSE and MoCA data currently accessible.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 107,
+      "text": "Second, a small number of RCTs revealed potential bias due to the small number of subjects and the use of voluntary reporting.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 108,
+      "text": "Fortunately, no apparent inconsistency or heterogeneity was found in this network meta-analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 109,
+      "text": "However, it was possible that some of the included studies over-stated the effectiveness of therapies, which could have had an impact on the findings if they had been excluded.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 110,
+      "text": "Third, these researchers excluded several complementary and alternative therapy interventions due to the selection criteria for outcome measures, which may have impacted the quality of the evidence in this area.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 111,
+      "text": "Fourth, as for the use of nimodipine and donepezil in conventional therapy for MCI, some evidence from Chinese clinical articles showed that donepezil and nimodipine were used in the clinical treatment of MCI in some regions of China; but are rarely used in the U.S. and other areas of the world.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 112,
+      "text": "Fifth, although the included studies were subjected to a full assessment using the Cochrane Collaboration's risk of bias methodology, the overall quality of the trials was not very good.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 113,
+      "text": "This may be a result of using solitary blindness as a high-risk condition.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 114,
+      "text": "Due to the particular nature of acupuncture research, single-blind designs are frequently used, which may have increased the possibility of bias in the study findings.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 115,
+      "text": "Menopause-Associated Vasomotor Symptoms The 2015 North American Menopause Society’s position statement on \"Non-hormonal management of menopause-associated vasomotor symptoms\" (No authors listed) stated that clinicians need to be well informed about the level of evidence available for the wide array of non-hormonal management options currently available to midlife women to help prevent underuse of effective therapies or use of inappropriate or ineffective therapies.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 116,
+      "text": "It recommended cognitive-behavioral therapy and, to a lesser extent, clinical hypnosis, which have been shown to be effective in reducing VMS.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 117,
+      "text": "Paroxetine salt is the only non-hormonal medication approved by the Food and Drug Administration (FDA) for the management of VMS, although other selective serotonin reuptake/norepinephrine reuptake inhibitors, gabapentinoids, and clonidine showed evidence of efficacy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 118,
+      "text": "It recommended with caution some therapies that may be beneficial for alleviating VMS: weight loss, mindfulness-based stress reduction, the S-equol derivatives of soy isoflavones, and stellate ganglion block; but noted that additional studies of these therapies are needed.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 119,
+      "text": "It did not recommend the following interventions for managing VMS: cooling techniques, avoidance of triggers, exercise, yoga, paced respiration, relaxation, over-the-counter supplements and herbal therapies, acupuncture, calibration of neural oscillations, and chiropractic interventions because there are negative, insufficient, or inconclusive data on these interventions.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 120,
+      "text": "Multiple Sclerosis Branas et al (2000) I. identified current treatments for fatigue in multiple sclerosis (MS) and their evidence-base, and II.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 121,
+      "text": "systematically reviewed the evidence for those treatments that have been investigated in more than 1 rigorous study, in order to determine their effectiveness and cost-effectiveness.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 122,
+      "text": "The review was carried out in 2 stages: I. a formal scoping review (to assess the range of interventions used by people with MS, and II.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 123,
+      "text": "a systematic review for treatments that had been identified as promising and that had been investigated in clinical trials (as identified in the scoping review).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 124,
+      "text": "A systematic review of research on costs and cost-effectiveness of those interventions identified as promising was also performed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 125,
+      "text": "Electronic databases, including Medline and Embase, were searched for the period 1991 to June 1999 (scoping review) and 1966 to December 1999 (systematic review).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 126,
+      "text": "Reference lists from publications were also searched, and experts were contacted for any additional information not already identified.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 127,
+      "text": "Interventions identified for the treatment of fatigue in MS I. Behavioral advice.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 128,
+      "text": "This is the main element of initial clinical management and no rigorous research of its effectiveness was identified. II.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 129,
+      "text": "Drugs (amantadine, pemoline, potassium-channel blockers and antidepressants). III.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 130,
+      "text": "Training, rehabilitation and devices (cooling vests and electromagnetic fields). IV.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 131,
+      "text": "Alternative therapies (bee venom, cannabis, acupuncture/acupressure and yoga).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 132,
+      "text": "Only 2 drugs, amantadine and pemoline, met the criteria for full systematic review.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 133,
+      "text": "One parallel and 3 cross- over trials were found, involving a total of 236 people with MS. All studies were open to bias.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 134,
+      "text": "All studies showed a pattern in favor of amantadine compared with placebo, but there is considerable uncertainty about the validity and clinical significance of this finding.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 135,
+      "text": "This pattern of benefit was considerably undermined when different assumptions were used in the sensitivity analysis; 1 parallel and 1 cross-over trial were found involving a total of 126 people with MS. Both studies were open to bias.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 136,
+      "text": "There was no overall tendency in favor of pemoline over placebo and an excess of reports of adverse effects with pemoline.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 137,
+      "text": "The drug costs of amantadine and pemoline are modest (pound 200 and pound 80 per annum, respectively).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 138,
+      "text": "No economic evaluations were identified in the systematic review, and available data were insufficient to allow modelling of cost-effectiveness in this rapid review.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 139,
+      "text": "The authors concluded that there is insufficient evidence to allow people with MS, clinicians or policy makers to make informed decisions on the appropriate use of the many treatments on offer.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 140,
+      "text": "Only amantadine appeared to have some proven ability to alleviate the fatigue in MS, though only a proportion of users will obtain benefit and then only some of these patients will benefit sufficiently to take the drug in the long term.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 141,
+      "text": "The frequency, severity and impact of fatigue, the poverty of available research, and the absence of any ongoing research, suggest that new research is an urgent priority.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 142,
+      "text": "People with MS, clinicians and policy makers should work together to ensure that the evidence required is collected as quickly as possible by encouraging involvement in rigorous research.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 143,
+      "text": "Research should not be restricted to the 2 drugs reviewed in depth in this report.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 144,
+      "text": "All interventions identified in the scoping review (see above) should be considered, as should basic scientific research into the underlying mechanism of fatigue in MS.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 145,
+      "text": "Campbell et al (2016) evaluated the effectiveness of physiotherapy interventions, including exercise therapy, for the rehabilitation of people with progressive MS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 146,
+      "text": "Five databases (Cochrane Library, Physiotherapy Evidence Database [PEDro], Web of Science Core Collections, Medline, Embase) and reference lists of relevant articles were searched.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 147,
+      "text": "Randomized experimental trials, including participants with progressive MS and investigating a physiotherapy intervention or an intervention containing a physiotherapy element, were included.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 148,
+      "text": "Data were independently extracted using a standardized form, and methodological quality was assessed using the PEDro scale.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 149,
+      "text": "A total of 13 studies (described by 15 articles) were identified and scored between 5 and 9 out of 10 on the PEDro scale; 8 interventions were assessed: exercise therapy, multi- disciplinary rehabilitation, functional electrical stimulation, botulinum toxin type A injections and manual stretches, inspiratory muscle training, therapeutic standing, acupuncture, and body weight-supported treadmill training.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 150,
+      "text": "All studies, apart from 1, produced positive results in at least 1 outcome measure; however, only 1 article used a power calculation to determine the sample size and because of drop-outs the results were subsequently underpowered.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 151,
+      "text": "The authors concluded that the findings of this review suggested that physiotherapy may be effective for the rehabilitation of people with progressive MS.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 152,
+      "text": "However, they stated that further appropriately powered studies are needed.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 153,
+      "text": "Furthermore, an UpToDate review on \"Symptom management of multiple sclerosis in adults\" (Olek et al, 2016) states that \"Complementary and Alternative Medicine – To manage their symptoms, patients with MS often employ a variety of complementary and/or alternative treatments such as exercise, meditation, yoga, relaxation techniques, acupuncture, cannabis, massage, dietary modification, vitamins, herbs, and mineral supplements.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 154,
+      "text": "However, there are few high-quality data regarding the utility of these interventions\".",
+      "label": "CLAIM"
+    },
+    {
+      "id": 155,
+      "text": "Neuropathic Pain In a Cochrane review, Ju and associates (2017) evaluated the analgesic efficacy and AEs of acupuncture treatments for chronic neuropathic pain in adults.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 156,
+      "text": "These investigators searched CENTRAL, Medline, Embase, 4 Chinese databases, ClinicalTrials.gov and World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) on February 14, 2017.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 157,
+      "text": "They also cross-checked the reference lists of included studies; RCTs with treatment duration of 8 weeks or longer comparing acupuncture (either given alone or in combination with other therapies) with sham acupuncture, other active therapies, or treatment as usual, for neuropathic pain in adults were selected for analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 158,
+      "text": "These researchers searched for studies of acupuncture based on needle insertion and stimulation of somatic tissues for therapeutic purposes, and they excluded other methods of stimulating acupuncture points without needle insertion.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 159,
+      "text": "They searched for studies of manual acupuncture, electro-acupuncture or other acupuncture techniques used in clinical practice (such as warm needling, fire needling, etc.).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 160,
+      "text": "These investigators used the standard methodological procedures expected by Cochrane.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 161,
+      "text": "The primary outcomes were pain intensity and pain relief.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 162,
+      "text": "The secondary outcomes were any pain-related outcome indicating some improvement, withdrawals, participants experiencing any AE, serious adverse events (SAEs) and QOL.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 163,
+      "text": "For dichotomous outcomes, these researchers calculated RR with 95 % CI, and for continuous outcomes they calculated the MD with 95 % CI.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 164,
+      "text": "They also calculated number needed to treat for an additional beneficial outcome (NNTB) where possible.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 165,
+      "text": "These researchers combined all data using a random-effects model and assessed the quality of evidence using GRADE to generate \"Summary of findings\" tables.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 166,
+      "text": "A total of 6 studies involving 462 participants with chronic peripheral neuropathic pain (442 completers (251 male), mean ages 52 to 63 years) were included in this review.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 167,
+      "text": "The included studies recruited 403 participants from China and 59 from the UK.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 168,
+      "text": "Most studies included a small sample size (fewer than 50 participants per treatment arm) and all studies were at high risk of bias for blinding of participants and personnel.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 169,
+      "text": "Most studies had unclear risk of bias for sequence generation (4 out of 6 studies), allocation concealment (5 out of 6) and selective reporting (all included studies).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 170,
+      "text": "All studies investigated manual acupuncture, and these reviewers did not identify any study comparing acupuncture with treatment as usual, nor any study investigating other acupuncture techniques (such as electro-acupuncture, warm needling, fire needling).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 171,
+      "text": "One study compared acupuncture with sham acupuncture.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 172,
+      "text": "The reviewers ware uncertain if there was any difference between the 2 interventions on reducing pain intensity (n = 45; MD -0.4, 95 % CI: -1.83 to 1.03, very low-quality evidence), and neither group achieved \"no worse than mild pain\" (VAS, 0 to 10) average score was 5.8 and 6.2, respectively in the acupuncture and sham acupuncture groups, where 0 = no pain).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 173,
+      "text": "There were limited data on QOL, which showed no clear difference between groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 174,
+      "text": "Evidence was not available on pain relief, AEs or other pre- defined secondary outcomes for this comparison; 3 studies compared acupuncture alone versus other therapies (mecobalamin combined with nimodipine, and inositol).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 175,
+      "text": "Acupuncture may reduce the risk of \"no clinical response\" to pain than other therapies (n = 209; RR 0.25, 95 % CI: 0.12 to 0.51), however, evidence was not available for pain intensity, pain relief, AEs or any of the other secondary outcomes; 2 studies compared acupuncture combined with other active therapies (mecobalamin, and Xiaoke bitong capsule) versus other active therapies used alone.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 176,
+      "text": "These reviewers found that the acupuncture combination group had a lower VAS score for pain intensity (n = 104; MD -1.02, 95 % CI: -1.09 to -0.95) and improved QOL (n = 104; MD -2.19, 95 % CI: -2.39 to -1.99), than those receiving other therapy alone.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 177,
+      "text": "However, the average VAS score of the acupuncture and control groups was 3.23 and 4.25, respectively, indicating neither group achieved \"no worse than mild pain\".",
+      "label": "PREMISE"
+    },
+    {
+      "id": 178,
+      "text": "Furthermore, this evidence was from a single study with high risk of bias and a very small sample size.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 179,
+      "text": "There was no evidence on pain relief and the reviewers identified no clear differences between groups on other parameters, including \"no clinical response\" to pain and withdrawals. There was no evidence on AEs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 180,
+      "text": "The overall quality of evidence was very low due to study limitations (high risk of performance, detection, and attrition bias, and high risk of bias confounded by small study size) or imprecision.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 181,
+      "text": "The reviewers have limited confidence in the effect estimate and the true effect is likely to be substantially different from the estimated effect.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 182,
+      "text": "The authors concluded that due to the limited data available, there is insufficient evidence to support or refute the use of acupuncture for neuropathic pain in general, or for any specific neuropathic pain condition when compared with sham acupuncture or other active therapies.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 183,
+      "text": "Moreover, they noted that 5 studies are still ongoing and 7 studies are awaiting classification due to the unclear treatment duration, and the results of these studies may influence the current findings.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 184,
+      "text": "Non-Alcoholic Fatty Liver Disease In a systematic review and meta-analysis of published RCTs, Chen and colleagues (2021) examined the safety and effectiveness of acupuncture treatment (AT) or acupuncture plus conventional medicine (CM) versus CM alone for the treatment of patients with non-alcoholic fatty liver disease (NAFLD).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 185,
+      "text": "A total of 8 databases were searched independently from inception to April 30, 2020; RCTs were included if they contained reports on the use acupuncture or the use of acupuncture combined with CM and compared with the use of CM.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 186,
+      "text": "Summary OR and 95 % CIs were used to calculate the overall clinical efficacy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 187,
+      "text": "Secondary outcomes, namely aspartate aminotransferase, alanine aminotransferase, total cholesterol, triglyceride, high- density lipoprotein cholesterol, low-density lipoprotein cholesterol, and body mass index (BMI), were calculated by mean difference with 95 % CIs.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 188,
+      "text": "After the final screening, 8 RCTs with 939 patients were included.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 189,
+      "text": "This meta-analysis showed that AT was superior to CM in improving overall clinical efficacy (OR = 3.19, 95 % CI: 2.06 to 4.92, p 0.05); the recurrence rate of acupuncture was significantly lower than that of western medicine [RR = 0.35, 95 % CI: 0.14 to 0.84), p 0.05).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 190,
+      "text": "Rinsing with honey mouthwash 12.5 % led to the inhibition of Staphylococcus aureus and Pseudomonas aeruginosa on the 4th day of the intervention in all samples.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 191,
+      "text": "The authors concluded that none of the studied solutions contributed to the reduction of oropharyngeal bacterial colonization.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 192,
+      "text": "It appeared that the growth inhibition of Staphylococcus aureus and Pseudomonas aeruginosa by the honey 12.5 % mouthwash in mechanically ventilated patients need further investigation.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 193,
+      "text": "Teding Dianci Pu therapy was one of the key words of this study.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 194,
+      "text": "Thoracic Back Pain In a systematic review, Southerst et al (2015) examined available evidence on the effectiveness of non- invasive interventions, excluding pharmacotherapies, for musculoskeletal thoracic pain; RCTs, cohort studies, and case-control studies evaluating the effectiveness of non-invasive interventions were eligible.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 195,
+      "text": "These investigators searched Medline, Embase, PsycINFO, and the Cochrane Central Register of Controlled Trials accessed via Ovid Technologies, Inc, and CINAHL Plus with full text accessed via EBSCOhost from 1990 to 2015.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 196,
+      "text": "The search strategies combined controlled vocabulary relevant to each database (e.g., MeSH for Medline) and text words relevant to the research question and the inclusion criteria.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 197,
+      "text": "Random pairs of independent reviewers screened studies for relevance and critically appraised relevant studies using the Scottish Intercollegiate Guidelines Network criteria.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 198,
+      "text": "Studies with a low risk of bias were synthesized following best evidence synthesis principles.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 199,
+      "text": "These researchers screened 6,988 articles and critically appraised 2 studies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 200,
+      "text": "Both studies had a low-risk of bias and were included in the synthesis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 201,
+      "text": "One RCT compared thoracic spinal manipulation, needle acupuncture, and placebo electrotherapy for recent thoracic spine pain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 202,
+      "text": "There were statistically significant but clinically non-important short-term reductions in pain favoring manipulation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 203,
+      "text": "There were no differences between acupuncture and placebo electrotherapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 204,
+      "text": "Another RCT compared a multi-modal program of care and a session of education for recent musculoskeletal chest wall pain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 205,
+      "text": "The multi-modal care resulted in statistically significant but clinically non-important short-term reductions in pain over education; however, subjects receiving multi-modal care were more likely to report important improvements in chest pain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 206,
+      "text": "The authors concluded that quality evidence on the management of musculoskeletal thoracic pain was sparse.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 207,
+      "text": "Available evidence suggested that compared to placebo, spinal manipulation was associated with a small and clinically non-important reduction in pain intensity and that acupuncture resulted in similar outcomes as placebo.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 208,
+      "text": "Additionally, a multi-modal program of care (i.e., manual therapy, soft tissue therapy, exercises, heat/ice, and advice) and a single education session resulted in similar pain reduction for recent-onset musculoskeletal chest wall pain.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 209,
+      "text": "However, patients who receive multi-modal care were more likely to report pain improvements.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 210,
+      "text": "Furthermore, an UpToDate review on “Overview of the clinical uses of acupuncture” (Yang and Yeh, 2023) does not mention thoracic back pain as an indication of acupuncture.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 211,
+      "text": "Tinnitus In a systematic review, Xu et al (2022) examined the evidence on the effectiveness of acupuncture in the treatment of tinnitus.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 212,
+      "text": "These researchers evaluated the methodological quality, reporting quality, and evidence quality of systematic reviews/meta-analyses (SRs/MAs) of acupuncture in the treatment of tinnitus.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 213,
+      "text": "From inception to March 2022, these investigators carried out a detailed and comprehensive search of 8 electronic databases in Chinese and English.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 214,
+      "text": "The AMSTAR-2, the PRISMA checklist, and the GRADE were used to evaluate methodological quality, reporting quality and evidence quality for inclusion in SRs/MAs, respectively.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 215,
+      "text": "A total of 14 published SRs/MAs met the inclusion criteria and were included in the study – 11 studies reported that acupuncture was effective in treating tinnitus, and 3 studies reported that no firm conclusions could be drawn regarding the effectiveness of acupuncture in treating tinnitus.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 216,
+      "text": "The results of the AMSTAR-2 assessment showed that the methodological quality of the included studies was relatively low in general, with 1 being moderate quality and the rest being very low quality.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 217,
+      "text": "The PRISMA checklist evaluation results showed that no studies fully reported checklists, with protocol registration and search strategies being the main reporting weaknesses.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 218,
+      "text": "The GRADE assessment showed that no results were of high-quality evidence, 17 results were moderate-quality evidence, 25 results were low-quality evidence, and 12 results were very low-quality evidence.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 219,
+      "text": "The authors concluded that acupuncture appeared to be a positive and effective treatment for tinnitus; however, the methodological quality and quality of evidence for SRs/MAs in the included studies were generally low, and this result must be viewed with caution.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 220,
+      "text": "These researchers stated that more high-quality, large-scale, multi-center RCTs are needed in the future to verify the effectiveness of acupuncture in the treatment of tinnitus.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 221,
+      "text": "The authors stated that this was the 1st overview of a systematic review of acupuncture for tinnitus and the 1st to provide a comprehensive evidence base for the clinical practice of acupuncture for tinnitus using the AMSTER-2 and GRADE assessment tools.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 222,
+      "text": "However, these investigators acknowledged several drawbacks.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 223,
+      "text": "First, examining the methodological quality and quality of evidence is subjective.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 224,
+      "text": "Even if they evaluated each item of the evaluation system in detail and objectively, guidelines or authoritative 3d parties judged the disputes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 225,
+      "text": "The results may still be partially different.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 226,
+      "text": "Second, these researchers only included studies published in full text in both Chinese and English, which was likely to have a certain degree of risk of bias.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 227,
+      "text": "Third, the authors did not carry out advance review registration on the PROSPERO website, which may have led to the risk of bias.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 228,
+      "text": "Fourth, due to the disease characteristics of tinnitus, the primary outcome measure of the RCTs included in this study was subjective clinical evaluation, which may have an impact on treatment outcomes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 229,
+      "text": "Ji et al (2023) provided evidence for medical management of tinnitus based on an assessment of the evidence concerning the effectiveness of acupuncture as a treatment for tinnitus using network meta-analysis (NMA).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 230,
+      "text": "These investigators carried out a systematic literature review by searching 8 national and international databases (inception to February 2023) for RCTs for tinnitus.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 231,
+      "text": "Only RCTs that recruited participants aged over 18 years and diagnosed with tinnitus, and that evaluated acupuncture or acupuncture in combination with conventional Western medical therapy were included.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 232,
+      "text": "These researchers used response rate and tinnitus handicap inventory (THI) to examine effectiveness.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 233,
+      "text": "They carried out NMA with random effects, and the rate ratio or MD with its 95 % CI was calculated.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 234,
+      "text": "Furthermore, these investigators ranked all treatments via their SUCRA and examined the quality of evidence according to the GRADE criteria.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 235,
+      "text": "A total of 2,575 patients were included in the study.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 236,
+      "text": "The main findings of the current NMA were that acupoint injection combined with warm acupuncture was the most effective for response rate, followed by warm acupuncture and acupoint injection combined with Western medical treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 237,
+      "text": "Acupuncture combined with Western medical treatment was the most effective for THI, followed by electro-acupuncture combined with warm acupuncture and acupuncture combined with moxibustion.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 238,
+      "text": "The authors concluded that acupuncture appeared to be a better trend treatment for tinnitus.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 239,
+      "text": "Moreover, these researchers stated that further rigorous RCTs that include direct comparisons for different acupuncture-related treatments are encouraged to provide the most promising evidence for patients with tinnitus.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 240,
+      "text": "The authors stated that this review had several drawbacks.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 241,
+      "text": "First, this NMA may have been under-powered due to the heterogeneity of the participants (e.g., co-morbidities, baseline severity of tinnitus, duration of tinnitus onset, treatment duration in each study, and follow-up duration).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 242,
+      "text": "Second, tinnitus is a subjective symptom and there is no objective measurement to measure its severity or determine the effectiveness of its treatment; effectiveness of tinnitus therapy was assessed using a subjective questionnaire, which may have resulted in heterogeneity of the reported results, which was an unavoidable limitation of any NMA examining subjective outcomes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 243,
+      "text": "Objective measures of tinnitus are also being researched, and the results of these studies may lead to a major break-through in the diagnosis and management of tinnitus.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 244,
+      "text": "Furthermore, the specificity and complexity of the acupuncture-related treatment limited the application of the blinding of participants and intervenors, which may have some impact on the effectiveness, as tinnitus is a condition closely related to psychological factors, and psychological comfort could not be excluded.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 245,
+      "text": "Third, given the relatively small number of patients and RCTs, the key findings of this study should probably be conservatively applied to clinical practice.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 246,
+      "text": "Fourth, these researchers did not examine AEs, because there were too few studies providing data on AEs to form a network.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 247,
+      "text": "Additionally, to further clarify the better treatments to the tinnitus patients, more rigorous RCTs with high-grade evidence and greater sample sizes that include direct comparisons for different acupuncture-related treatments are needed.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 248,
+      "text": "The authors stated that they still need to update the literature to incorporate higher quality studies in the future to find more effective interventions for tinnitus.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 249,
+      "text": "Vascular Dementia In a systematic review protocol, Ye and colleagues (2017) provided the methods used to evaluate the safety and effectiveness of acupuncture in the treatment of vascular dementia (VaD).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 250,
+      "text": "The following 8 databases will be searched from inception to July 2017: Cochrane Central Register of Controlled Trials, PubMed, Medline, Embase, China National Knowledge Infrastructure, Chinese Biomedical Literature Database, VIP Database and Wanfang Database.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 251,
+      "text": "All RCTs in English or Chinese related to acupuncture for vascular dementia will be included.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 252,
+      "text": "Outcomes will include change in cognitive function and ADL.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 253,
+      "text": "The incidence of AEs will be assessed for safety evaluation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 254,
+      "text": "Study inclusion, data extraction and quality assessment will be performed independently by 2 reviewers.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 255,
+      "text": "Assessment of risk of bias and data synthesis will be performed using Review Manager software.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 256,
+      "text": "The authors stated that this systematic review will provide an assessment of the current state of acupuncture treatment for VaD. Conclusions drawn from this review may benefit patients with VaD, clinicians and policy makers.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 257,
+      "text": "The process of conducting this review will be divided into 4r parts: I. identification, II. study inclusion, III. data extraction, and IV. data synthesis.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 258,
+      "text": "This review has 2 main potential limitations: I. various forms of acupuncture may cause considerable heterogeneity, and II.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 259,
+      "text": "the quality of included reports might be poor, which will limit the ability to generate conclusions based on high confidence.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 260,
+      "text": "The findings of this systematic review will be disseminated through peer-reviewed publication or conference presentations.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 261,
+      "text": "Dry Needling Dry needling is considered by many professional societies and organizations as a type of acupuncture, both involving insertion of solid filiform needles into parts of the body to treat various health conditions.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 262,
+      "text": "However, there are differences between the two methods based on the theory, technique for how and where the needles are placed, and professional training. \"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 263,
+      "text": "It’s important to note dry needling is not the same as acupuncture.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 264,
+      "text": "It uses similar tools, but that’s where the similarities end.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 265,
+      "text": "Dry needling is performed by different practitioners with different training\" (Mayo Clinic, 2017).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 266,
+      "text": "Acupuncture has been around for the past 2000 years and is based on the philosophy of traditional Chinese medicine (TCM).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 267,
+      "text": "Acupuncture follows the principles of energy flow as a guide to where the needles will be inserted into points along meridian lines (energy-carrying channels).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 268,
+      "text": "During acupuncture, very thin needles are placed in the skin at various acupoints which is usually left in place for 15 to 30 minutes.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 269,
+      "text": "This technique is permformed by an acupuncturist who is appropriately trained and credentialed in order to practice acupuncture in the United States.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 270,
+      "text": "Credentialing requirements vary based on state and institution regulations.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 271,
+      "text": "Dry needling (also known as intramuscular manual stimulation, or intramuscular needling) is considered by many as a relatively newer teatment modality which is no longer based on TCM concepts and belongs to a subcategory of western medical acupuncture (Hu et al, 2018). \"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 272,
+      "text": "Dry Needling (DN) referred originally to a hypodermic needle on an empty syringe, inserted into the body without injection,\" has now expanded to include filiform needles as used in acupuncture (McIntyre, 2016).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 273,
+      "text": "Dry needling involves needles that are inserted directly into a myofascial trigger point, in an attempt to inactivate it, thereby decreasing the associated pain.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 274,
+      "text": "Dry needling or trigger point needling is typically performed by physical therapists to help patients with acute or chronic pain.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 275,
+      "text": "Dommerholt (2011) states that \"Although various needling approaches are commonly referred to as ‘dry needling’, it is important to realize that there are significant differences between schools of dry needling, their specific needling techniques, underlying philosophy or rationale, and duration of training programs.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 276,
+      "text": "Each approach appears to address particular aspects of the total picture.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 277,
+      "text": "Different dry needling techniques have been promoted to treat various forms of soft tissue dysfunction\".",
+      "label": "PREMISE"
+    },
+    {
+      "id": 278,
+      "text": "An increasing number of clinical trials have been performed to explore the efficacy of dry needling for treating pain; however, the conclusions were conflicting.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 279,
+      "text": "The real effectiveness of dry needling remains controversial (Hu et al, 2018).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 280,
+      "text": "Several dry needling models have been developed including a radiculopathy model, myofascial trigger point (MTrP) model, a neurological model, and superficial dry needling model.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 281,
+      "text": "Superficial dry needling involves inserting a needle at a depth up to 10 mm or into the subcutaneous tissue and may be combined with manipulation of the needle while in situ.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 282,
+      "text": "Deep needle penetration involves inserting a needle through the skin, beyond subcutaneous tissue, and into muscular or other connective tissue structures and can be combined with needle manipulation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 283,
+      "text": "The majority of dry needling studies involve deep needling into MTrP for pain relief; however, deep needle penetration has not consistently demonstrated superior results compared to superficial needle insertion (Griswold et al, 2019).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 284,
+      "text": "Position statements of professional organizations (not an all-inclusive list) regarding the practice of “dry needling”: National Certification Commission for Acupuncture and Oriental Medicine (NCCAOM) states that dry needling is considered acupuncture. \"",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 285,
+      "text": "Dry needling is a recently coined name for an acupuncture technique that involves the insertion of acupuncture needles directly into muscles and “trigger points” for the relief of musculoskeletal pain\". \"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 286,
+      "text": "Some physical therapists and other healthcare providers have claimed that “dry needling” is “new” and “not acupuncture”, because the point locations and needling style are based on anatomical structures and physiological function rather than on traditional Chinese medicine acupuncture theory.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 287,
+      "text": "In fact, licensed acupuncturists receive training in the application of both traditional foundations of acupuncture and modern biomedical theories and have done so since long before the term “dry needling” was invented\".",
+      "label": "PREMISE"
+    },
+    {
+      "id": 288,
+      "text": "American Academy of Medical Acupuncture (AAMA) state, \"Dry needling, like acupuncture, involves the use of solid needles (contrasted with the use of hollow hypodermic needles that are used for injections) to treat muscle pain by stimulating and breaking muscular knots and bands.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 289,
+      "text": "Unlike trigger point injections used by physicians and licensed acupuncturists for the same purpose, no anesthetics are used in dry needling.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 290,
+      "text": "There is controversy regarding the definition of dry needling.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 291,
+      "text": "Licensed medical physicians and licensed acupuncturists consider dry needling as Western Style Acupuncture or Trigger Point Acupuncture whereby the insertion sites are determined by tender painful areas and tight muscles.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 292,
+      "text": "These sites may be treated alone or in combination with known acupuncture points.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 293,
+      "text": "Other practitioners take the position that dry needling is different from acupuncture in that it is not an holistic procedure and does not use meridians or other Eastern medicine paradigms to determine the insertion sites.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 294,
+      "text": "Regardless of the theory, it is incontrovertible that dry needling is an invasive procedure.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 295,
+      "text": "Needle length can range up to 4 inches in order to reach the affected muscles.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 296,
+      "text": "It is critical to understand that dry needling, in the hands of minimally educated practitioners can cause extreme harm.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 297,
+      "text": "Any invasive procedure has associated and potentially serious medical risks and is safe only if performed by a properly educated, trained and experienced health professional.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 298,
+      "text": "The technique of dry needling frequently involves needling of muscular structures that may be deep and/or hidden under layers of other muscles and tissues and close to sensitive structures and organs including blood vessels, nerves and organs as, for example, the lungs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 299,
+      "text": "The patient can develop painful bruises after the procedure and adverse sequelae may include hematoma, pneumothorax, nerve injury, vascular injury and infection.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 300,
+      "text": "Angle the needle incorrectly and, for example, the lung may be punctured.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 301,
+      "text": "Post procedure analgesic medications may be necessary (usually over the counter medications are sufficient).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 302,
+      "text": "In the worse case scenario, vital organs can be pierced, resulting in complex medical situations or even death\". \"",
+      "label": "CLAIM"
+    },
+    {
+      "id": 303,
+      "text": "The AAMA strongly believes that, for the health and safety of the public, this procedure should be performed only by practitioners with extensive training and familiarity with routine use of needles in their practice and who are duly licensed to perform these procedures, such as licensed medical physicians or licensed acupuncturists.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 304,
+      "text": "In our experience and medical opinion, it is inadvisable legally to expand the scope of physical therapists to include dry needling as part of their practice\" (NCCAOM, 2016).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 305,
+      "text": "American Academy of Physical Medicine and Rehabiliation (AAPM&R, 2012) \"recognizes dry needling as an invasive procedure using acupuncture needles that has associated medical risks.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 306,
+      "text": "Therefore, the AAPMR maintains that this procedure should only be performed by practitioners with standard training and familiarity with routine use of needles in their practice, such as licensed acupuncturists or licensed medical physicians\".",
+      "label": "CLAIM"
+    },
+    {
+      "id": 307,
+      "text": "American Association of Acupuncture and Oriental Medicine (AAAOM) \"has determined that dry needling and any of its alternate designations, including intramuscular manual therapy, trigger point needling, functional dry needling, intramuscular stimulation or any other method by which a needle is inserted to effect therapeutic change, is, by definition, the practice of acupuncture\".",
+      "label": "CLAIM"
+    },
+    {
+      "id": 308,
+      "text": "American Medical Association (AMA, 2016) recognizes dry needling as an invasive procedure and maintains that dry needling should only be performed by practitioners with standard training and familiarity with routine use of needles in their practice, such as licensed medical physicians and licensed acupuncturists.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 309,
+      "text": "Dry needling, even though it targets a trigger point, differs from a trigger point injection, as there is no injection of medication or fluid.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 310,
+      "text": "Dry Needling and Myofascial Trigger Points Trigger points have been treated with dry needling.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 311,
+      "text": "A myofascial trigger point is a discrete focal tenderness, 2-5 mm in diameter that is located in distinct tight bands or knots of skeletal muscle (AHFMR, 2002).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 312,
+      "text": "When palpated, these hyper-irritable areas cause pain in distant areas, or referred pain zones, which are specific for each trigger point.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 313,
+      "text": "Trigger point injection, or direct wet needling, involves injection of fluid directly into the trigger point located in the taut muscle band.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 314,
+      "text": "The main objective of trigger point injection is fast pain relief and elimination of muscle spasm in order to break the pain cycle.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 315,
+      "text": "This facilitates physical therapy aimed at reducing muscle contracture and increasing range of motion.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 316,
+      "text": "Trigger point injection is rarely used in isolation but is generally part of a multi-disciplinary approach aimed at treating both the trigger points and reducing all contributing factors (Scott and Guo, 2005; AHFMR, 2002; Sanders et al, 1999).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 317,
+      "text": "Thus, treatment may also include patient education, psychosocial support, oral medications, and physical therapy to improve the strength and flexibility of the affected musculoskeletal systems.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 318,
+      "text": "An assessment conducted by the Alberta Heritage Foundation for Medical Research (Scott and Guo, 2005) found that the evidence for the effectiveness of trigger point injections when used as the sole treatment for patients with chronic head, neck, and shoulder pain and whiplash syndrome was inconclusive, regardless of whether sterile water, saline, or botulinum toxin is injected.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 319,
+      "text": "The assessment found that the combined use of dry needling and trigger point injection with procaine offers no obvious clinical benefit in the treatment of chronic craniofacial pain, while the effectiveness of trigger point injection for the treatment of cervicogenic headache is unknown.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 320,
+      "text": "In contrast, the assessment found that trigger point injection with lidocaine may be useful in the treatment of joint pain caused by osteoarthritis (Scott and Guo, 2005).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 321,
+      "text": "The assessment found no proof that triggers point injection is more effective than other less invasive treatments, such as physical therapy and ultrasound, in achieving pain relief, and there is some suggestion that the only advantage of injecting anesthetic into trigger points is that it reduces the pain of the needling process (Scott and Guo, 2005).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 322,
+      "text": "Usually, approximately 3 treatments are necessary to abolish a trigger point completely (AHFMR, 2002).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 323,
+      "text": "A number of trigger points may be injected in 1 session, but rarely more than 5.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 324,
+      "text": "Repeated injections in a particular muscle are not recommended if 2 or 3 previous attempts have been unsuccessful (Alvarez and Rockwell, 2002; Sanders et al, 1999).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 325,
+      "text": "The pain relief may last for the duration of the anesthetic to many months, depending on the chronicity and severity of the trigger points and the concomitant treatment of perpetuating factors.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 326,
+      "text": "According to available guidelines, use of trigger point injections should be short-term and part of a comprehensive rehabilitation program.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 327,
+      "text": "Available guidelines indicate that, while there are a number of uncontrolled case studies using trigger point injections in more acute pain presentations, there is virtually no consistent evidence for its application with chronic non-malignant pain syndrome patients to date (Sanders et al, 1999; AHFMR, 2002).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 328,
+      "text": "Kietrys et al (2013) state that dry needling involves inserting an acupuncture-like needle into a myofascial trigger point, with the goal of reducing pain and restoring range of motion in persons with myofascial pain syndrome (MPS).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 329,
+      "text": "The authors explored the evidence regarding the effectiveness of dry needling to reduce pain in patients with MPS of the upper quarter.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 330,
+      "text": "An electronic literature search was performed using the key word dry needling.",
+      "label": "NON_ARGUMENTATIVE"
+    }
+  ]
+}
