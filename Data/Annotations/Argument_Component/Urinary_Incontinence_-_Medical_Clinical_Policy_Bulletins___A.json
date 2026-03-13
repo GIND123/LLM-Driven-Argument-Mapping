@@ -1,0 +1,1502 @@
+{
+  "document_id": "Urinary_Incontinence_-_Medical_Clinical_Policy_Bulletins___A",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Urinary Incontinence Number: 0223 Applicable CPT / HCPCS / ICD-10 Codes Scope of Policy This Clinical Policy Bulletin addresses urinary incontinence.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 2,
+      "text": "I. Medical Necessity Aetna considers multi-channel urodynamic studies medically necessary when the member has both symptoms and physical findings of urinary incontinence/voiding dysfunctions (such as stress incontinence, overactive bladder, lower urinary tract symptoms) and there is consideration by the provider to perform invasive, potentially morbid or irreversible treatments after conservative management has been tried and failed.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "Aetna considers the following urinary incontinence interventions medically necessary when criteria are met: A. Artificial Urinary Sphincter Aetna considers the implantation of an artificial urinary sphincter (AUS) medically necessary for the treatment of urinary incontinence (UI) due to intrinsic urethral sphincter deficiency (IUSD) for members with any of the following indications: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Children with intractable UI due to IUSD who are refractory to behavioral or pharmacological therapies and are unsuitable candidates for other types of surgical procedures for correction of UI; or 2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 5,
+      "text": "Members who are 6 or more months post-prostatectomy who have had no improvement in the severity of UI despite trials of behavioral and/or pharmacological therapies; or 3.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 6,
+      "text": "Members with epispadias-exstrophy in whom bladder neck reconstruction has failed; or 4.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 7,
+      "text": "Women with intractable UI who have failed behavioral or pharmacological, and other surgical treatments.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 8,
+      "text": "Aetna considers the artificial urinary sphincter experimental, investigational, or unproven for all other indications because its effectiveness for indications other than the ones listed above has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "B. Peri-Urethral Injections of Bulking Agents Aetna considers peri-urethral injections of bulking agents that are cleared by the Food and Drug Administration (FDA) for UI (e.g., Bulkamid (polyacrylamide hydrogel), Coaptite [calcium hydroxylapatite], Contigen [glutaraldehyde crossed-linked collagen], Durasphere [carbon-coated spheres/beads], Macroplastique [polydimethylsiloxane], Uryx [ethylene vinyl alcohol copolymer]) medically necessary for the management of members with UI resulting from intrinsic sphincter deficiency that is refractory to conservative management (e.g., Kegel exercises, biofeedback, electrical stimulation, and/or pharmacotherapies).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Members whose incontinence does not improve after 3 treatments with bulking agents are considered treatment failures and are not likely to respond to this therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 11,
+      "text": "In such cases, further treatment with bulking agents is not considered medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "Aetna considers injection of peri-urethral bulking agents for UI experimental, investigational, or unproven for neurogenic bladder and all other indications.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "C. Implantable Sacral Nerve Stimulators (e.g., Axonics and InterStim) Aetna considers permanent implantation (Stage 2) of FDA-approved implantable sacral nerve stimulators (e.g., Axonics and InterStim) medically necessary for the treatment of urge UI or symptoms of urge-frequency when all of the following criteria are met: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "The member has experienced urge UI or symptoms of urge-frequency for at least 6 months and the condition has resulted in significant disability (the frequency and/or severity of symptoms are limiting the member's ability to participate in daily activities); and 2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 15,
+      "text": "Pharmacotherapies (i.e., at least 2 different anti-cholinergic drugs or an anti-cholinergic and a beta-3 adrenergic receptor agonist (mirabegron)) as well as behavioral treatments (e.g., pelvic floor exercise, biofeedback, timed voids, and fluid management) have failed; and 3.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 16,
+      "text": "Test stimulation (Stage 1) provides at least 50 % decrease in symptoms.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 17,
+      "text": "A test stimulation (Stage 1) of the device is considered medically necessary for members who meet selection criteria a and b above.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 18,
+      "text": "Aetna also considers permanent implantation (Stage 2) of a sacral nerve stimulator medically necessary for the treatment of non-obstructive urinary retention when all of the following criteria are met: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "The member has experienced urinary retention for at least 6 months and the condition has resulted in significant disability (the frequency and/or severity of symptoms are limiting the member's ability to participate in daily activities); and 2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 20,
+      "text": "Pharmacotherapies (e.g., alpha blockers and antibiotics for urinary tract infections) as well as intermittent catheterization have failed or are not well-tolerated; and 3.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 21,
+      "text": "A test stimulation (Stage 1) of the device has provided at least 50 % decrease in residual urine volume.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 22,
+      "text": "Aetna considers test stimulation (Stage 1) of the right and left sides (where leads are placed bilaterally; and each side is tested sequentially during a single visit) medically necessary for members who meet selection criteria a and b above for treatment of urgent incontinence and non-obstructive urinary retention.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "No more than 6 total test stimulations (Stage 1) are considered medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 24,
+      "text": "Aetna considers bilateral implantation of a permanent sacral nerve stimulator experimental, investigational, or unproven for the treatment of UI and non- obstructive urinary retention because the effectiveness of bilateral implantation of a permanent sacral nerve stimulator has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 25,
+      "text": "Aetna considers removal of an implantable sacral nerve stimulator medically necessary even where the initial implantation of the implantable sacral nerve stimulator was not indicated.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 26,
+      "text": "Aetna considers the use of implantable sacral nerve stimulator experimental, investigational, or unproven for all other indications because its effectiveness for indications other than the ones listed above has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 27,
+      "text": "According to the product labeling, implantable sacral nerve stimulator is contraindicated and has no proven value for individuals who have not demonstrated an appropriate response to test stimulation (Stage 1) or are unable to operate the neurostimulator.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 28,
+      "text": "Exclusions Implantable sacral nerve stimulator has no proven value for individuals with mechanical obstruction such as benign prostatic hypertrophy, or urethral stricture; persons with stress incontinence; and individuals with neurologic disease origins, such as multiple sclerosis or diabetes with peripheral nerve involvement.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 29,
+      "text": "Implantable sacral nerve stimulator has not been shown to be effective for urinary retention, urinary frequency-urgency syndrome or urge urinary incontinence due to these causes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 30,
+      "text": "D. Vaginal Cones Aetna considers weighted vaginal cones (vaginal weights) medically necessary DME when they are used in combination with a structured pelvic floor muscle exercise (Kegel's exercise) program for the treatment of simple (pure) stress UI.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 31,
+      "text": "Aetna considers vaginal cones experimental, investigational, or unproven for other indications because their effectiveness for indications other than the ones listed above has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 32,
+      "text": "E. Pessary (Bladder Neck Support Prosthesis) Aetna considers a pessary, a plastic device that fits into the vagina to help support the uterus and bladder, medically necessary DME for the treatment of women with stress or mixed UI, and for the treatment of pelvic organ (uterine) prolapse.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 33,
+      "text": "Aetna considers a pessary experimental, investigational, or unproven for other indications because its effectiveness for indications other than the ones listed above has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 34,
+      "text": "F. Tension-Free Vaginal Tape Procedure Aetna considers the tension-free vaginal tape (TVT) procedure medically necessary for the treatment of stress UI when women with intractable UI have failed behavioral and/or pharmacological treatments.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 35,
+      "text": "Aetna considers the TVT procedure experimental, investigational, or unproven for other indications (except for the treatment of pelvic organ prolapse complicated by stress UI - see CPB 0858 - Organ Prolapse: Selected Procedures) because its effectiveness for indications other than the one listed above has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 36,
+      "text": "G. Transobturator Tape Procedure Aetna considers the transobturator tape (TOT) procedure medically necessary for the treatment of stress UI when women with intractable stress UI have failed behavioral and/or pharmacological treatments.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 37,
+      "text": "Aetna considers the TOT procedure experimental, investigational, or unproven for urge urinary incontinence and other indications because its effectiveness for indications other than the one listed above has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 38,
+      "text": "H. Colposuspension and Sling Procedures Aetna considers colposuspension and conventional sub-urethral sling procedures (e.g., the Solyx single-incision sling) medically necessary for persons with stress UI that is refractory to conservative management (e.g., pelvic floor muscle training, electrical stimulation, and biofeedback).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 39,
+      "text": "Aetna considers the colposuspension and sub-urethral sling procedures experimental, investigational, or unproven for other indications because their effectiveness for indications other than the one listed above has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 40,
+      "text": "I. Biofeedback For biofeedback for UI, see CPB 0132 - Biofeedback.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 41,
+      "text": "J. Percutaneous Tibial Nerve Stimulation Aetna considers percutaneous tibial nerve stimulation (PTNS) (e.g., the NURO Percutaneous Tibial Neuromodulation System (Medtronic, Minneapolis MN), and the Urgent PC Neuromodulation System (Uroplasty, Inc., Minneapolis, MN)) medically necessary for the treatment of members with idiopathic overactive bladder (urge UI or urge-frequency) when they meet the first 2 criteria listed for Implantable Sacral Nerve Stimulators (e.g., Axonics and InterStim) (policy section I.B.3a and I.B.3b for the treatment of urge urinary incontinence or symptoms of urge-frequency).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 42,
+      "text": "In general, 12 treatments (once-weekly) with PTNS are needed for symptom relief.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 43,
+      "text": "If the member fails to improve after 12 PTNS treatments, continued treatment is considered not medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 44,
+      "text": "If the member improves after 12 PTNS treatments, continued monthly treatments are considered medically necessary as long as the member’s symptoms remain improved.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 45,
+      "text": "Aetna considers percutaneous tibial nerve stimulation experimental, investigational, or unproven when criteria are not met.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 46,
+      "text": "K. Transurethral Radiofrequency Therapy (Renessa Procedure) Aetna considers transurethral radiofrequency therapy (Renessa procedure) medically necessary for the treatment of stress UI in non-pregnant women who are either not able or not willing to undergo surgery for their condition.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 47,
+      "text": "L. Urethral Inserts Aetna considers urethral inserts medically necessary for the treatment of female stress UI.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 48,
+      "text": "Aetna considers urethral inserts experimental, investigational, or unproven for other indications because their effectiveness for indications other than the one listed above has not been established.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 49,
+      "text": "M. Cunningham Clamp Aetna considers the Cunningham clamp medically necessary for the treatment of post- prostatectomy urinary incontinence in men with stress incontinence and good bladder storage function.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 50,
+      "text": "N. Intravaginal Electrical Stimulation Aetna considers intravaginal electrical stimulation of the pelvic floor medically necessary for women with stress, urgency or mixed urinary incontinence. II.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 51,
+      "text": "Experimental, Investigational, or Unproven A. Aetna considers the following UI interventions/managements experimental, investigational, or unproven because the effectiveness of the treatment has not been established: Adjustable retropubic sub-urethral sling in the treatment of stress urinary incontinence Adjustable Trans-obturator Male System for the treatment of stress urinary incontinence (SUI) Autologous myoblast transplantation Autologous muscle-derived cell therapy Bariatric surgery as a treatment of urinary incontinence in persons who would otherwise not meet medical necessity criteria for obesity surgery in CPB 0157 - Obesity Surgery Collagen porcine dermis mesh Dynamometry for quantification of pelvic floor muscle strength in female urinary incontinence Electro-acupuncture for the treatment of neurogenic bladder Flyte System (mechanotherapy) for the treatment of SUI Genetic testing for stress urinary incontinence High-intensity focused electromagnetic therapy for the treatment of stress urinary incontinence Implantable sacral nerve stimulator for the treatment of neurogenic bladder Laser Therapy: The Genityte Procedure (laser therapy) and FemiLift (CO2 laser) Magnetically controlled endo-urethral artificial urinary sphincter Magnetic stimulation for the treatment of women with SUI Micro-ablative radiofrequency for the treatment of over-active bladder Moxibustion for the treatment of post-stroke UI and SUI Neocontrol System, which uses extracorporeal magnetic innervation (ExMI) Platelet-rich plasma Protect PNS System (wireless microtechnology neuromodulation of the posterior tibial nerve) for the treatment of overactive bladder and the associated symptoms of urinary urgency, urinary frequency, and urge incontinence Pudendal nerve stimulation Radiofrequency micro-remodeling with the SURx System (paraurethral or transvaginal) Subcutaneous and subfascial tibial nerve stimulation (INTIBIA (Coloplast, Humlebaek, Denmark)) Subcutaneous tibial nerve stimulation (e.g., the eCoin Peripheral Neurostimulator System (Valencia Technologies, Valencia, CA); Altaviva Implantable Tibial Neuromodulation Device (ITNM) (Medtronic, Minneapolis, MN)) Subfascial tibial nerve stimulation (e.g., BlueWind Revi) for the treatment of overactive bladder syndrome, and urge urinary incontinence Stem cell therapy (including mesenchymal stem/stromal cells) Transcutaneous electrical nerve stimulation (TENS) in the treatment of overactive bladder Transcutaneous tibial nerve stimulation (e.g., the Vivally System, and ZIDA Wearable Neuromodulation System) for the treatment of overactive bladder (OAB) and the associated symptoms of urinary urgency, urinary frequency, and urge incontinence Transperineal implantation of permanent adjustable balloon continence device (e.g., ACT, ProACT Therapy System, Uromedica, Inc.) Vibratory perineal stimulation Peri-urethral injections of bulking agents for any of the following circumstances: Members undergoing or planning to undergo desensitization injections to meat products; or Members with an acute condition involving cystitis, urethritis, or infection; or Members with severe allergies manifested by a history of anaphylaxis, or history or presence of multiple severe allergies; or Previous pelvic radiation therapy; or Unstable or noncompliant bladder III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 52,
+      "text": "Policy Limitations and Exclusions Pelvic Muscle Trainers Note: Aetna does not cover the Athena pelvic muscle trainer, Gyneflex, Kegelmaster, or similar devices for the treatment of UI because these devices are considered exercise machines, and they do not meet Aetna's definition of covered durable medical equipment (DME).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 53,
+      "text": "Most Aetna plans exclude coverage of exercise devices.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 54,
+      "text": "Please check benefit plan descriptions for details.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 55,
+      "text": "In addition, such exercise devices do not meet Aetna's definition of covered DME because they are not primarily medical in nature and/or are normally of use to persons who do not have an illness or injury. IV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 56,
+      "text": "Related Policies CPB 0132 - Biofeedback CPB 0157 - Obesity Surgery CPB 0858 - Organ Prolapse: Selected Procedures Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description Multi-channel Urodynamic Studies: CPT codes covered if selection criteria are met: 51726 Complex cystometrogram (ie, calibrated electronic equipment) with urethral pressure profile studies (ie, urethral closure pressure profile), any 51727 technique 51728 with voiding pressure studies (ie, bladder voiding pressure), any technique with voiding pressure studies (ie, bladder voiding pressure) and urethral pressure 51729 profile studies (ie, urethral closure pressure profile), any technique 51741 Complex uroflowmetry (eg, calibrated electronic equipment) Code Code Description Electromyography studies (EMG) of anal or urethral sphincter, other than needle, any 51784 technique 51785 Needle electromyography studies (EMG) of anal or urethral sphincter, any technique 51792 Stimulus evoked response (eg, measurement of bulbocavernosus reflex latency time) Voiding pressure studies, intra-abdominal (ie, rectal, gastric, intraperitoneal) (List 51797 separately in addition to code for primary procedure) Measurement of post-voiding residual urine and/or bladder capacity by ultrasound, 51798 non-imaging ICD-10 codes covered if selection criteria are met: N32.0 - N32.9 Other disorders of bladder N39.3 - N39.9 Urinary incontinence R32 Unspecified urinary incontinence R39.81 - R39.89 Other symptoms and signs involving the genitourinary system Genetic Testing: CPT codes not covered for indications listed in this CPB: Genetic testing for stress urinary incontinence - no specific code: ICD-10 codes not covered for indications listed in the CPB: N39.3 Stress incontinence (female) (male) N39.46 Mixed incontinence Artificial Urinary Sphincter [Not covered for magnetically controlled endourethral artificial urinary sphincter]: CPT codes covered if selection criteria are met: 53444 Insertion of tandem cuff (dual cuff) Insertion of inflatable urethral/bladder neck sphincter, including placement of pump, 53445 reservoir, and cuff Removal of inflatable urethral/bladder neck sphincter, including pump, reservoir, and 53446 cuff Removal and replacement of inflatable urethral/bladder neck sphincter including, 53447 pump, reservoir, and cuff at the same operative session Repair of inflatable urethral/bladder neck sphincter, including pump, reservoir, and 53449 cuff HCPCS codes covered if selection criteria are met: Code Code Description C1815 Prosthesis, urinary sphincter (implantable) ICD-10 codes covered if selection criteria are met: N36.42 Intrinsic sphincter deficiency (ISD) N39.3 - N39.9, Urinary incontinence R32 Q64.0 Epispadias Q64.10 - Q64.19 Exstrophy of urinary bladder Q62.5, Q64.5 - Other specified anomalies of bladder and urethra Q64.9 Z85.46 Personal history of malignant neoplasm of prostate Periurethral Injections of Bulking Agents: CPT codes covered if selection criteria are met: 11950 Subcutaneous injection of filling material (e.g., collagen); 1 cc or less 11951 1.1 to 5.0 cc 11952 5.1 to 10.0 cc 11954 over 10.0 cc Endoscopic injection of implant material into the submucosal tissues of the urethra 51715 and/or bladder neck HCPCS codes covered if selection criteria are met: Injectable bulking agent, collagen implant, urinary tract, 2.5 ml syringe, includes L8603 shipping and necessary supplies Injectable bulking agent, dextranomer/hyaluronic acid copolymer implant, urinary L8604 tract, 1 ml, includes shipping and necessary supplies Injectable bulking agent, synthetic implant, urinary tract, 1 ml syringe, includes L8606 shipping and necessary supplies Q3031 Collagen skin test ICD-10 codes covered if selection criteria are met: N36.42 - N36.43 Intrinsic (urethral) sphincter deficiency (ISD) N39.3 - N39.9, Urinary incontinence R32 ICD-10 codes not covered for indications listed in the CPB: Code Code Description N30.00 - N30.91 Cystitis N31.9 Neuromuscular dysfunction of bladder, unspecified [Neurogenic bladder] N34.0 - N34.2 Urethritis N35.010 - N35.92 Urethral stricture N39.0 Urinary tract infection, site not specified Z92.3 Personal history of irradiation InterStim Continence Control Therapy/Sacral Nerve Stimulation [not covered for bilateral sacral nerve stimulation for urinary incontinence]: CPT codes covered if selection criteria are met: Percutaneous implantation of neurostimulator electrode array; sacral nerve 64561 (transforaminal placement) including image guidance, if performed Incision for implantation of neurostimulator electrode array; sacral nerve 64581 (transforaminal placement) 64585 Revision or removal of peripheral neurostimulator electrode array Insertion or replacement of peripheral or gastric neurostimulator pulse generator or 64590 receiver, direct or inductive coupling Revision or removal of peripheral or gastric neurostimulator pulse generator or 64595 receiver Electronic analysis of implanted neurostimulator pulse generator system (e.g., rate, pulse amplitude and duration, configuration of wave form, battery status, electrode selectability, output modulation, cycling, impedance and patient compliance 95970 measurements); simple or complex brain, spinal cord, or peripheral (i.e., cranial nerve, peripheral nerve, sacral nerve, neuromuscular) neurostimulator pulse generator/transmitter, without reprogramming simple spinal cord, or peripheral (i.e., peripheral nerve, sacral nerve, 95971 neuromuscular) neurostimulator pulse generator/transmitter, with intraoperative or subsequent programming complex spinal cord, or peripheral (ie, peripheral nerve, sacral nerve, 95972 neuromuscular) (except cranial nerve) neurostimulator pulse generator/transmitter, with intraoperative or subsequent programming HCPCS codes covered if selection criteria are met: A4290 Sacral nerve stimulation test lead, each C1767 Generator, neurostimulator (implantable), non-rechargeable C1778 Lead, neurostimulator (implantable) C1787 Patient programmer, neurostimulator C1816 Receiver and/or transmitter, neurostimulator (implantable) Generator, neurostimulator (implantable), with rechargeable battery and charging C1820 system C1883 Adaptor/extension, pacing lead or neurostimulator lead (implantable) C1897 Lead, neurostimulator test kit (implantable) E0745 Neuromuscular stimulator, electronic shock unit L8679 Implantable neurostimulator, pulse generator, any type L8680 Implantable neurostimulator electrode, each Code Code Description Patient programmer (external) for use with implantable programmable L8681 neurostimulator pulse generator, replacement only L8682 Implantable neurostimulator radiofrequency receiver Radiofrequency transmitter (external) for use with implantable neurostimulator L8683 radiofrequency receiver Radiofrequency transmitter (external) for use with implantable sacral root L8684 neurostimulator receiver for bowel and bladder management, replacement Implantable neurostimulator pulse generator, single array, rechargeable, includes L8685 extension Implantable neurostimulator pulse generator, single array, non-rechargeable, includes L8686 extension Implantable neurostimulator pulse generator, dual array, rechargeable, includes L8687 extension Implantable neurostimulator pulse generator, dual array, non-rechargeable, includes L8688 extension External recharging system for battery (internal) for use with implantable L8689 neurostimulator, replacement only External recharging system for battery (external) for use with implantable L8695 neurostimulator, replacement only ICD-10 codes covered if selection criteria are met: N39.41 Urge incontinence R33.8 - R33.9 Other and unspecified retention of urine R35.0 Frequency of micturition R39.14 Feeling of incomplete bladder emptying R39.15 Urgency of urination ICD-10 codes not covered for indications listed in the CPB (not all-inclusive): E11.40 – E11.49 Type 2 diabetes mellitus with neurological complications E75.21 - E75.29 Disorders of sphingolipid metabolism and other lipid storage disorders E75.4, E75.6 G10 - G32.89 Systemic atrophies primarily affecting the central nervous system G35.A - G47.9 Demyelinating diseases of CNS and episodic and paroxysmal disorders G50.0 - G59 Disorders of the peripheral nervous system G90.01 - G91.9 Disorders of autonomic nervous system N13.9 Urinary obstruction N31.0 - N31.1, Neurogenic bladder N31.9 N32.0 Bladder neck obstruction N35.010 - N35.92 Urethral stricture N39.3 Stress incontinence, (female) (male) N39.46 Mixed incontinence (female) (male) Code Code Description N40.0 Enlarged prostate without lower urinary tract symptoms Vaginal Cones (no specific codes): Other HCPCS codes related to the CPB: A4335 Incontinence supply; miscellaneous Pessary (Bladder Neck Support Prosthesis): CPT codes covered if selection criteria are met: 57160 Fitting and insertion of pessary or other intravaginal support device HCPCS codes covered if selection criteria are met: A4561 Pessary, rubber, any type A4562 Pessary, non-rubber, any type A4564 Pessary, disposable, any type ICD-10 codes covered if selection criteria are met: N39.3 - N39.9 Urinary incontinence N39.46 Mixed incontinence (female) (male) N81.0 - N81.9 Female genital prolapse Tension-Free Vaginal Tape Procedures (no specific codes): Other CPT codes related to the CPB: 51992 Laparoscopy, surgical; sling operation for stress incontinence (e.g., fascia or synthetic) 57288 Sling operation for stress incontinence (e.g., fascia or synthetic) Other HCPCS codes related to the CPB: C1771 Repair device, urinary, incontinence, with sling graft C2631 Repair device, urinary, incontinence, without sling graft ICD-10 codes covered if selection criteria are met: N39.3 - N39.9 Urinary incontinence N39.46 Mixed incontinence (female) (male) Code Code Description Colposuspension and Sling Procedures [Not covered for adjustable retropubic subureathral sling]: CPT codes covered if selection criteria are met: 51990 Laparoscopy, surgical; urethral suspension for stress incontinence 51992 sling operation for stress incontinence (e.g., fascia or synthetic) 53440 Sling operation for correction of male urinary incontinence (e.g., fascia or synthetic) 53442 Removal or revision of sling for male urinary incontinence (e.g., fascia or synthetic) 57287 Removal or revision of sling for stress incontinence (e.g., fascia or synthetic) 57288 Sling operation for stress incontinence (e.g., fascia or synthetic) HCPCS codes covered if selection criteria are met: C1771 Repair device, urinary, incontinence, with sling graft C2631 Repair device, urinary, incontinence, without sling graft ICD-10 codes covered if selection criteria are met: N39.3 - N39.9 Urinary incontinence N39.46 Mixed incontinence (female) (male) Biofeedback: CPT codes covered if selection criteria are met: Biofeedback training, perineal muscles, anorectal or urethral sphincter, including 90912 EMG and/or manometry, when performed; initial 15 minutes of one-on-one physician or other qualified health care professional contact with the patient Biofeedback training, perineal muscles, anorectal or urethral sphincter, including EMG and/or manometry, when performed; each additional 15 minutes of one-on-one 90913 physician or other qualified health care professional contact with the patient (List separately in addition to code for primary procedure) HCPCS codes covered if selection criteria are met: E0746 Electromyography (EMG), biofeedback device ICD-10 codes covered if selection criteria are met: N39.3 - N39.9 Urinary incontinence N39.41 - Urinary incontinence N39.498, R32 Code Code Description Percutaneous Tibial Nerve Stimulation: CPT codes covered if selection criteria are met: Posterior tibial neurostimulation, percutaneous needle electrode, single treatment, 64566 includes programming HCPCS codes covered if selection criteria are met: Supplies and accessories for external tibial nerve stimulator (e.g., socks, gel pads, A4545 electrodes, etc.),",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 57,
+      "text": "needed for one month E0745 Neuromuscular stimulator, electronic shock unit ICD-10 codes covered if selection criteria are met: N32.81 Overactive bladder [idiopathic] N39.41 Urge incontinence R35.0 Frequency of micturition Transurethral Radiofrequency Therapy (Renessa Procedure), Micro-ablative radiofrequency: CPT codes covered if selection criteria are met: Transurethral, radiofrequency micro-remodeling of the female bladder neck and 53860 proximal urethra for stress urinary incontinence[Not covered for Micro-ablative radiofrequency for the treatment of over-active bladder] ICD-10 codes covered if selection criteria are met: N39.3 - N39.9 Urinary incontinence ICD-10 codes not covered for indications listed in the CPB:: N32.81 Overactive bladder Urethral inserts: HCPCS codes covered if selection criteria are met: A4336 Incontinence supply, urethral insert, any type, each ICD-10 codes covered if selection criteria are met: Code Code Description N39.3 - N39.9 Urinary incontinence Cunningham Clamp: HCPCS codes covered if selection criteria are met: External urethral clamp or compression device (not to be used for catheter clamp), A4356 each [Cunningham Clamp] ICD-10 codes covered if selection criteria are met: N39.3 - N39.9, Urinary incontinence [post-prostatectomy urinary incontinence] R32 Macroplastique (polydimethysiolxane)-no specific code: HCPCS codes covered if selection criteria are met: Injectable bulking agent, synthetic implant, urinary tract, 1 ml syringe, includes L8606 shipping and necessary supplies Neocontrol System-no specific code: Radiofrequency Micro-Remodeling with the SURs System (paraurethral or transvaginal) - no specific code: ICD-10 codes not covered for indications listed in the CPB: N39.3 - N39.9.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 59,
+      "text": "needed for one month E0736 Transcutaneous tibial nerve stimulator [ZIDA Wearable Neuromodulation System] Transcutaneous tibial nerve stimulator, controlled by phone application [Vivally E0737 System] Code Code Description ICD-10 codes not covered for indications listed in the CPB: N32.81 Overactive bladder N39.41 Urge incontinence R35.0 Frequency of micturition R39.15 Urgency of urination Urinary incontinence (UI) is the inability to voluntarily control voiding of urine from the bladder.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 60,
+      "text": "It affects people of all ages especially elderly women.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 61,
+      "text": "Urinary incontinence is not part of the normal aging process; however, age-related changes in the functioning of the lower urinary tract make the elderly more susceptible to this malady.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 62,
+      "text": "There are 4 prevalent types of UI in adults: I. stress incontinence, II. urge incontinence, III. overflow incontinence, and IV. mixed stress and urge incontinence. I. stress incontinence, II. urge incontinence, III. overflow incontinence, and IV. mixed stress and urge incontinence.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 63,
+      "text": "Stress incontinence is more common but less difficult to control than urge incontinence.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 64,
+      "text": "Mixed incontinence is more prevalent than urge incontinence in women while the latter is more commonly seen in men.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 65,
+      "text": "In women, stress incontinence (SI) is generally caused by an incompetent urethral mechanism which arises from damage to the urethral sphincter or weakening of the bladder neck support that typically occurred during childbirth.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 66,
+      "text": "Some women develop SI as a consequence of multiple anti-incontinence procedures resulting in a condition known as intrinsic urethral sphincter deficiency.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 67,
+      "text": "In men, SI is usually a consequence of operations for benign prostatic hypertrophy or prostatic carcinoma.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 68,
+      "text": "The mechanisms of post- prostatectomy UI may involve bladder dysfunction, sphincter incompetence, and mixed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 69,
+      "text": "Urge incontinence occurs when one senses the urge to void, but is unable to prevent leakage of urine before reaching the bathroom.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 70,
+      "text": "It is usually associated with an overactivity of the detrusor muscle.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 71,
+      "text": "Overflow incontinence is the result of the bladder's inability to empty normally.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 72,
+      "text": "It may be due to an underactive detrusor muscle or obstruction of the urethra resulting in the overdistension of the bladder and therefore overflow of urine.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 73,
+      "text": "Multi-channel urodynamics studies are not indicated in the first-line assessment of patients with urinary incontinence/voiding dysfunctions.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 74,
+      "text": "Guidelines from the American Urological Association (2012), the European Association of Urology (2013) and the National Institute for Health and Care Excellence (2013) are useful in determining when multi-channel urodynamics studies should be performed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "American Urological Association guidelines on adult (Winters et al, 2012) provided the following recommendations: Stress Urinary Incontinence (SUI) / Prolapse Clinicians may perform multi-channel urodynamics in patients with both symptoms and physical findings of stress incontinence who are considering invasive, potentially morbid or irreversible treatments. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 76,
+      "text": "Option; Evidence Strength: Grade C) Clinicians should perform stress testing with reduction of the prolapse in women with high grade pelvic organ prolapse (POP) but without the symptom of SUI.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 77,
+      "text": "Multi-channel urodynamics with prolapse reduction may be used to assess for occult stress incontinence and detrusor dysfunction in these women with associated lower urinary tract symptoms (LUTS). (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 78,
+      "text": "Option; Evidence Strength: Grade C) Overactive Bladder (OAB), Urgency Urinary Incontinence (UUI), Mixed Incontinence Clinicians may perform multi-channel filling cystometry when it is important to determine if altered compliance, detrusor overactivity (DO) or other urodynamic abnormalities are present (or not) in patients with urgency incontinence in whom invasive, potentially morbid or irreversible treatments are considered. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 79,
+      "text": "Option; Evidence Strength: Grade C) LUTS (Lower Urinary Tract Symptoms) Clinicians may perform multi-channel filling cystometry when it is important to determine if DO or other abnormalities of bladder filling/urine storage are present in patients with LUTS, particularly when invasive, potentially morbid or irreversible treatments are considered. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 80,
+      "text": "Expert Opinion) European Association of Urology guidelines on urinary incontinence (EAU, 2013) stated that “'urodynamics is generally used as a collective term for all tests of bladder and urethral function.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 81,
+      "text": "These guidelines will review both non-invasive estimation of urine flow, i.e., uroflowmetry, and invasive tests, including multichannel cystometry, ambulatory monitoring and video-urodynamics, and different tests of urethral function, such as urethral pressure profilometry, Valsalva leak point pressure estimation and retrograde urethral resistance measurement.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 82,
+      "text": "Multichannel cystometry, ambulatory monitoring and video-urodynamics aim to observe the effects on intra-vesical and intra-abdominal pressures while reproducing a patient's symptoms.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 83,
+      "text": "Bladder filling may be artificial or physiological and voiding is prompted.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 84,
+      "text": "Any incontinence observed may be categorized as SUI, detrusor overactivity (DO) incontinence, a mixture of SUI/DO incontinence, or, rarely, urethral relaxation incontinence.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 85,
+      "text": "A test may fail to reproduce a patient's symptoms because of poor diagnostic accuracy or because the symptoms are not directly attributable to a urodynamically measurable phenomenon.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 86,
+      "text": "Urodynamic testing is widely used as an adjunct to clinical diagnosis, to direct decisions about treatment and to provide prognostic information.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 87,
+      "text": "When clinical diagnosis is difficult because of an unclear history or inconclusive examination, urodynamics may provide the only 'diagnosis' available.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 88,
+      "text": "Although it is unlikely that carrying out a test, in itself, would alter the outcome of treatment, it remains possible that the test results would influence treatment decisions to such an extent that better outcomes would be achieved.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 89,
+      "text": "This has been the rationale for using urodynamics prior to surgery.\"",
+      "label": "PREMISE"
+    },
+    {
+      "id": 90,
+      "text": "National Institute for Health and Care Excellence guideline Urinary Incontinence: The Management of Urinary Incontinence in Women (NICE, 2013) provided the following recommendations regarding urodynamic testing: Do not perform multi-channel cystometry, ambulatory urodynamics, or video-urodynamics before starting conservative management. [",
+      "label": "CLAIM"
+    },
+    {
+      "id": 91,
+      "text": "2006, amended 2013] After undertaking a detailed clinical history and examination, perform multi-channel filling and voiding cystometry before surgery in women who have: Symptoms of over-active bladder leading to a clinical suspicion of detrusor over-activity, or Symptoms suggestive of voiding dysfunction or anterior compartment prolapse, or Had previous surgery for stress incontinence [2006, amended 2013] Do not perform multi-channel filling and voiding cystometry in the small group of women where pure SUI is diagnosed based on a detailed clinical history and examination. [",
+      "label": "CLAIM"
+    },
+    {
+      "id": 92,
+      "text": "2006, amended 2013] Consider ambulatory urodynamics or videourodynamics if the diagnosis is unclear after conventional urodynamics. [",
+      "label": "CLAIM"
+    },
+    {
+      "id": 93,
+      "text": "2006, amended 2013] Treatments for UI include pelvic muscle exercises (Kegel exercise), behavioral therapies such as bladder training and/or biofeedback, pharmacotherapies (e.g., anti-cholinergic agents, musculo-tropic relaxants, calcium channel blockers, tricyclic anti-depressants, or a combination of anti-cholinergic, anti-spasmodic medications and tricyclic anti-depressants), and a variety of surgical procedures including intra-urethral injection of collagen, and implantation of an artificial urinary sphincter.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 94,
+      "text": "Specifically, urge incontinence is more effectively managed with peripherally acting receptor agonists or antagonists while stress incontinence is better controlled by pelvic muscle exercises, behavioral therapies, or corrective surgery.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 95,
+      "text": "Electrical stimulation has also been employed in the treatment of UI, especially in Europe.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 96,
+      "text": "The mechanism of action of electrostimulation is still unclear, but it probably serves to provide a kind of muscular training similar to that of pelvic floor exercise.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 97,
+      "text": "In this regard, Green and Laycock (1990) demonstrated that interferential currents produce increases in muscle activity as indicated by pressure probes at the peri-vaginal and abdominal areas.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 98,
+      "text": "It is also conceivable that electrical stimulation may improve re-innervation of partially damaged pelvic floor muscles by enhancing the sprouting of sensory motor axons.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 99,
+      "text": "Additionally, repeated stimulation of the pelvic floor musculature may also help to strengthen the supporting ligaments.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 100,
+      "text": "Examples of electrical stimulation devices include the Innova and Minnova systems (Empi, Inc., St. Paul, MN).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 101,
+      "text": "An assessment of nonsurgical treatments for urinary incontinence prepared for the Agency for Healthcare Research and Quality (AHRQ) (Shamliyan, et al.,",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 102,
+      "text": "2012) found that intravaginal electrical stimulation increased continence rates and improved stress urinary incontinence more often than sham stimulation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 103,
+      "text": "The AHRQ assessment stated that a high level of evidence suggests increased continence rates and improvement in UI with electrical stimulation.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 104,
+      "text": "This conclusion was based upon nine studies that examined intravaginal electrical stimulation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 105,
+      "text": "The studies included women with predominant urgency UI, clinical or urodynamic stress UI, or urodynamic mixed UI.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 106,
+      "text": "Electrical stimulation was described with different levels of detail and had variable stimulation parameters, depending on the UI type being treated, including the use of 4 Hz, 10 Hz, 20 Hz, or 50 Hz frequency for 4 weeks, 7 to 8 weeks, 12 weeks, or 15 weeks.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 107,
+      "text": "Peri-urethral injection of bulking agents has been shown to be safe and effective for the treatment of UI resulting from intrinsic sphincter deficiency.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 108,
+      "text": "One of the first bulking agents available on the market is Contigen (Bard, Canada), which is a sterile, injectable gel composed of highly purified bovine collagen that has been minimally cross-linked with 0.0075 % glutaraldehyde.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 109,
+      "text": "All patients are required to undergo a pre- treatment skin test.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 110,
+      "text": "Patients who exhibit local hypersensitivity will not be considered for treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 111,
+      "text": "Intra- urethral injections of glutaraldehyde crossed-linked (GAX) collagen are performed under local or general anesthesia.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 112,
+      "text": "In men, the procedure is usually carried out trans-urethrally.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 113,
+      "text": "The urethra and bladder are monitored by means of a 21F cystoscope, and the bladder filled with fluid cystoscopically.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 114,
+      "text": "A percutaneous 10F or 12F suprapubic catheter is inserted into the bladder and its location verified.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 115,
+      "text": "This catheter drains the bladder during the implantation procedure.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 116,
+      "text": "Aliquots of GAX collagen are injected in a circumferential manner around the sphincter.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 117,
+      "text": "In patients in whom no sphincter could be seen or in whom no sphincter existed (after radical prostatectomy), GAX collagen is injected circumferentially around the bladder neck.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 118,
+      "text": "Once the lumen is occluded with the water running through the cystoscope, the injections are terminated, and the cystoscope is not inserted past the area of injection again.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 119,
+      "text": "In women, intra-urethral injections of GAX collagen are performed transurethrally or periurethrally.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 120,
+      "text": "In the latter approach, the proximal urethra and bladder neck are visualized under direct cystoscopy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 121,
+      "text": "A 22G spinal needle is advanced parallel to the urethra in the peri-urethral tissue up to the bladder neck, and its position is confirmed by cystoscopy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 122,
+      "text": "Aliquots of collagen are then injected cystoscopically into the peri-urethral tissues to occlude the urethra.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 123,
+      "text": "If intraluminal extravasation occurs, the injection is stopped, and another injection site is chosen.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 124,
+      "text": "At the end of the procedure performed under local anesthetics, the patient is asked to cough or strain while in the supine position and then in the upright position.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 125,
+      "text": "If leakage still occurs, more collagen is injected.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 126,
+      "text": "If no leakage occurs, and there is no urinary retention, the patient is discharged from the hospital.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 127,
+      "text": "When the procedure is performed under general anesthesia and the bladder is filled, an 8F feeding tube is inserted to empty the bladder and then removed.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 128,
+      "text": "All patients receive perioperative antibiotics.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 129,
+      "text": "If patients remain incontinent after treatment, re-injections of collagen are performed.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 130,
+      "text": "Satisfactory results are usually obtained within 3 treatment sessions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 131,
+      "text": "Angioli and colleagues (2008) stated that in recent years they used a lot of bulking agents including bovine collagen, Macroplastique (polydimethylsiloxane), calcium hydroxylapatite, ethylene vinyl alcohol copolymer, dextranomer in the treatment of urinary incontinence.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 132,
+      "text": "Urethral injection have success in 40 % to 90 %.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 133,
+      "text": "These investigators asserted that Macroplastique is the most effective and safe on the basis of literature data and of their experience.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 134,
+      "text": "This surgical procedure, in fact, has good percentage of success in accurately selected patients.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 135,
+      "text": "In the authors' experience, Macroplastique can also be used in oncological patients, in elderly women, in patients with important co-morbidity and with high surgical risk with good objective and subjective results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 136,
+      "text": "In a prospective, randomized, controlled trial, Ter Meulen and associates (2009) evaluated the effectiveness of Macroplastique (MPQ) Implantation System (MIS) in women with urodynamic stress UI (SUI) and urethral hypermobility after an unsuccessful conservative treatment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 137,
+      "text": "These subjects had no prior incontinence surgery.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 138,
+      "text": "A total of 24 women received MPQ; 21 controls underwent a pelvic floor muscle exercises home program.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 139,
+      "text": "Follow-up was at 3 months and the MPQ group also at 12 months.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 140,
+      "text": "At 3 months, pad usage decreased significantly more in the MPQ group than in the control group (p = 0.015).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 141,
+      "text": "According to physician and patient self-assessment, respectively, 71 % and 63 % women in the MPQ group were considered cured or markedly improved.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 142,
+      "text": "This was significantly higher compared to controls.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 143,
+      "text": "There was a significant higher increase of Incontinence Quality-of-Life questionnaire score in the MPQ group compared to controls (p = 0.017).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 144,
+      "text": "Improvements in MPQ group at 3 months are sustained to 12 months. Adverse events were mild and transient.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 145,
+      "text": "The authors concluded that the Macroplastique Implantation System is an acceptable option for women with SUI and urethral hypermobility.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 146,
+      "text": "Plotti et al (2009) prospectively investigated the effectiveness and complications of Macroplastique transurethral implantation in cervical cancer patients affected by SUI after radical hysterectomy (RH).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 147,
+      "text": "Patients affected by de novo SUI post type 3 RH were considered for eligibility in this study.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 148,
+      "text": "Pre-operative and post-operative assessment included a standardized urogynecological history, urogynecological and neurological physical examination, evaluation of severity of SUI symptoms, a 3-day voiding diary, urine culture and urodynamic assessment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 149,
+      "text": "All patients underwent transurethral implantation using the MIS.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 150,
+      "text": "Patient follow-up was performed 6 and 12 months after surgery.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 151,
+      "text": "A total of 24 consecutive patients were enrolled.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 152,
+      "text": "At the 12 month follow-up SUI cure rate was 42 % (10 of 24 patients), the improvement rate was 42 % (10 of 24) and the failure rate was 16 % (4 of 24).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 153,
+      "text": "The overall success rate was 84 % (10 patients cured and 10 improved).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 154,
+      "text": "No intra-operative or post-operative early complications were found.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 155,
+      "text": "The 4 patients in whom treatment was not successful had pre-operative urethral hypermobility.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 156,
+      "text": "Subjective patient perception of SUI symptom severity showed significant improvement (mean severity of urinary loss perception 6.6 +/- 1.8 versus 2.3 +/- 3.3, p 11 mm (90 % sensitivity, 98 % specificity).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 157,
+      "text": "The authors concluded that TPUS was a practical, reliable, non-invasive and comfortable method for evaluation of SUI.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 158,
+      "text": "It has the advantage of dynamic evaluation during the Valsalva maneuver.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 159,
+      "text": "Rotation angles and BND exhibited high sensitivity and specificity for detection of SUI.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 160,
+      "text": "Moreover, these researchers noted that the change in α angle with Valsalva (Rα) could be used as an alternative to Q-tip test.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 161,
+      "text": "The authors stated that this study had several drawbacks.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 162,
+      "text": "First, the lack of urodynamic proof for SUI.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 163,
+      "text": "SUI patients were all surgery candidates with observed SUI with cough test.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 164,
+      "text": "These investigators were strict about not including patients with pelvic organ prolapse to both groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 165,
+      "text": "They also excluded complicated SUI patients who require urodynamic study according to ACOG guideline such as those with prior pelvic surgery, urgency, post-void residual volume of greater than 150 cc, Q-tip test of less than 30.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 166,
+      "text": "Second, the lack of standardization of the Valsalva maneuver, which was the case in majority of the studies since measurement of intra-abdominal pressure is not easily done and can require rectal probes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 167,
+      "text": "Third, these researchers did not examine levator ani muscle (LAM) injury that is better observed with three dimensional (3D) US.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 168,
+      "text": "LAM injury is important in the pathogenesis of bladder neck mobility.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 169,
+      "text": "Fourth, the usage of the vaginal probe instead of the convex probe since majority of the related literature used the latter.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 170,
+      "text": "The authors chose to use the vaginal probe with curved array tip since they observed the exact same anatomical structures in the same plane with a clearer view.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 171,
+      "text": "In a systematic review and meta-analysis, Chen et al (2023) examined the diagnostic value of TPUS in patients with SUI using evidence-based methods.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 172,
+      "text": "These investigators carried out a comprehensive search of the studies on the diagnosis of SUI by TPUS in PubMed, Embase, Medline, Cochrane library, Medicine, Web of Science, and clinicaltrials.gov databases on August 1, 2022.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 173,
+      "text": "Studies were included if they met the inclusion criteria and were evaluated by different quality evaluation methods according to study types.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 174,
+      "text": "Various US parameters were collected and counted to analyze and judge the diagnostic value of TPUS in patients with SUI.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 175,
+      "text": "A total of 13 studies with 1,563 subjects were finally included.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 176,
+      "text": "The combined statistics showed no significant difference in age and parity among the included patients, and the BMI of the SUI group was slightly higher than that of the normal population (MD 1.20, 95 % CI: 0.68 to 1.72).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 177,
+      "text": "The results indicated that compared with the normal population, the α angle (MD 15.56, 95 % CI: 9.93 to 21.90), β angle (at rest: MD 10.02 mm, 95 % CI: 1.95 to 18.09; at Valsalva: MD 22.40 mm, 95 % CI: 13.79 to 31.01), BND (MD 6.82 mm, 95 % CI: 4.49 to 9.14), area of hiatus (MD 2.83 cm2, 95 % CI: 0.71 to 4.94) and bladder neck funneling (RR 4.71, 95 % CI: 1.08 to 20.62) of SUI patients were significantly different, which showed the potential value of TPUS in the diagnosis of SUI.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 178,
+      "text": "The authors concluded that evidence-based medicine was employed to statistically analyze published studies on the diagnostic value of TPUS in patients with SUI.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 179,
+      "text": "The results suggested that TPUS had application value in the diagnosis of SUI and had the potential to become a routine examination method to aid in clinical decision-making.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 180,
+      "text": "Platelet-Rich Plasma for the Treatment of Stress Urinary Incontinence Dankova et al (2023) stated that there is no clear clinical evidence that platelet-rich plasma (PRP) injections improve female sexual dysfunction (FSD) and SUI.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 181,
+      "text": "In a systematic review, these researchers examined the safety and effectiveness of PRP injections in women with FSD and SUI; and explored the optimal dosing, frequency, as well as area of injections, and duration of treatment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 182,
+      "text": "They carried out a systematic search on PubMed, Embase, and the Cochrane Library database, as well as sources of grey literature from the date of database or source creation to January 2023.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 183,
+      "text": "After title/abstract and full-text screening, clinical studies on humans examining the effectiveness of PRP in gynecological disorders using standardized tools were included.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 184,
+      "text": "Risk of bias was undertaken with RoB-2 for RCT and the Newcastle-Ottawa Scale (NOS) for observational studies.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 185,
+      "text": "A total of 4 prospective and 1 retrospective study examined FSD, while 6 prospective and 1 RCT examined SUI.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 186,
+      "text": "A total of 327 women with a mean age of 51 ± 12 years were included.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 187,
+      "text": "For FSD, PRP significantly improved the Female Sexual Function Index (FSFI), the Vaginal Health Index (VHI), and the Female Sexual Distress score (FSDS).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 188,
+      "text": "For SUI, PRP resulted in a significant improvement in the ICIQ- Short Form (ICIQ-SF) and the UDI-6.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 189,
+      "text": "The identified RCT reported a significantly higher mean score of ICIQ-SF (p 0.05).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 190,
+      "text": "Compared with the traditional treatment group, the electro-acupuncture group showed significant improvements in urodynamic parameters such as maximum cytometric capacity (MCC), detrusor pressure at maximum capacity, post-void residual (PVR) volume, bladder compliance, Qmax, and average flow rate, and the differences were significant between groups (p < 0.05).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 191,
+      "text": "The electro-acupuncture treatment group showed a significant reduction in bladder symptoms such as frequency of micturition and incontinence episodes (p < 0.001) and a significant improvement in cognitive function and social return function (p < 0.05).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 192,
+      "text": "The incidence rates of UTI, hematuria, skin allergy and treatment discontinuation in the electro- acupuncture treatment group (6.12 %, 2.04 %, 4.08 %, and 12.24 %, respectively) were significantly lower than those in the traditional treatment group (23.53 %, 27.45 %, 29.41 %, and 35.29 %, respectively) (p < 0.05).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 193,
+      "text": "The patient satisfaction score in the electro-acupuncture treatment group (97.96 %) was significantly higher than that in the traditional treatment group (70.58 %) (p < 0.001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 194,
+      "text": "The authors concluded that electro- acupuncture exhibited certain clinical value and holds promise as an adjunctive treatment for the treatment of neurogenic bladder dysfunction in stroke patients.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 195,
+      "text": "Well-designed studies are needed to validate these preliminary findings.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 196,
+      "text": "High-Intensity Focused Electromagnetic Therapy in the Treatment of Stress Urinary Incontinence In a single-center study, Long et al (2024) examined the effectiveness of high-intensity focused electromagnetic (HIFEM) technology in the treatment of female SUI.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 197,
+      "text": "A total of 20 women with SUI received a treatment course with HIFEM technology.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 198,
+      "text": "Patients attended 6 therapies scheduled twice-weekly.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 199,
+      "text": "Validated questionnaires were assessed, including the OABSS, UDI-6, incontinence impact questionnaire-7 (IIQ-7), ICIQ, and valued living questionnaire (VLQ).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 200,
+      "text": "Some urodynamic parameters, such as Qmax, residual urine (RU), and bladder volume at 1st sensation to void (Vfst).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 201,
+      "text": "Bladder neck mobility in ultrasound (US) topography was also collected pre- and post-treatment at 1- and 6-month follow-up visits.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 202,
+      "text": "HIFEM treatment significantly improved SUI symptoms on pad tests from 4.2 ± 5.5 to 0.6 ± 1.3 and patients' self- assessment in the 6-month follow-up.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 203,
+      "text": "Furthermore, the data from urinary-related questionnaires, including OABSS (5.3 ± 3.9 to 3.9 ± 3.6), UDI-6 (35.7 ± 22.3 to 15.2 ± 10.6), IIQ-7 (33.1 ± 28.7 to 14.3 ± 17.2), and ICIQ (9.4 ± 5.0 to 5.4 ± 3.6), all showed a significant reduction.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 204,
+      "text": "Then, the analysis of the urodynamic study showed that only maximum urethral closure pressure (MUCP) (46.4 ± 25.2 to 58.1 ± 21.2) and urethral closure angle (UCA) (705.3 ± 302.3 to 990.0 ± 439.6) significantly increased after the 6 sessions of HIFEM treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 205,
+      "text": "The urethral and vaginal topography were carried out and found that HIFEM mainly worked on PFM and enhanced their function and integrity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 206,
+      "text": "The authors concluded that the findings of this study suggested that HIFEM technology was an effective therapy for the treatment of SUI.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 207,
+      "text": "Moreover, these investigators noted that future studies should examine several areas to strengthen the clinical implications of HIFEM technology in the treatment of SUI.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 208,
+      "text": "The longer follow-up periods should be included, and the observation period should be extended to 1 or more years, which could provide more robust data regarding the long-term effectiveness of HIFEM treatment effects.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 209,
+      "text": "Furthermore, a comparative study could also be conducted with other non-invasive or minimally invasive treatments, such as fractional CO2 laser therapy or PRP, which could contextualize its relative benefits as well as limitations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 210,
+      "text": "Lastly, the investigation of the accurate molecular and cellular mechanisms by HIFEM on PFM might be beneficial to its application on other pelvic floor disorders.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 211,
+      "text": "The authors stated that this trial had several drawbacks.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 212,
+      "text": "First, the small sample size (n = 20) might reduce the statistical power and might not represent the whole population of SUI patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 213,
+      "text": "Second, the lack of a control group might limit the attributed observed improvements solely to the HIFEM treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 214,
+      "text": "Third, the short observation period (up to 6 months).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 215,
+      "text": "Fourth, the study was carried out in a single center, which may have introduced selection bias and limited the generalizability of findings to other settings.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 216,
+      "text": "Leonardo et al (2025) noted that many treatments have been employed to treat UI; however, all these therapeutic approaches have limitations.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 217,
+      "text": "Recently, a new non-invasive treatment for PFM using a HIFEM field was unveiled.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 218,
+      "text": "In a systematic review and meta-analysis, these investigators examined the available evidence on the safety and effectiveness of HIFEM.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 219,
+      "text": "The databases used were PubMed, Cochrane, Embase, and SCOPUS.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 220,
+      "text": "The literature search was performed using strategic keywords (women) AND ((High Intensity Electromagnetic Field) OR (Electromagnetic Stimulation)) AND ((urinary incontinence) OR (overactive bladder) OR (pelvic floor dysfunction)).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 221,
+      "text": "Studies that meet the inclusion and exclusion criteria were then analyzed.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 222,
+      "text": "A total of 7 studies were included in this review, most of the studies concluded that the usage of HIFEM could reduce the symptoms related to UI significantly and improve QOL.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 223,
+      "text": "There was higher decrease of UI episodes (MD: -4.10, 95 % CI: -7.34 to -0.85, p = 0.01) and improvement of ICIQ-UI SF score (MD: -3.03, 95 % CI: -3.27 to -2.79, p = < 0.00001) in HIFEM group compared to control.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 224,
+      "text": "Sub-group analyses showed better QOL parameter (MD -3.40; p = 0.01, MD -0.70; p = 0.04) compared to control, albeit statistically comparable overall (p = 0.09).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 225,
+      "text": "However, both pooled analyses for contraction and resting tone changes showed that there were no significant differences between the 2 groups (SMD: 0.98, 95 % CI: -0.70 to 2.660, p = 0.25; and SMD: 0.20, 95 % CI: -0.18 to 0.58, p = 0.30, respectively).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 226,
+      "text": "Lastly, there was no safety issue highlighted in most of the studies included.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 227,
+      "text": "The authors concluded that available evidence suggested that HIFEM may be a safe and effective non-invasive treatment for female UI by promoting QOL.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 228,
+      "text": "Moreover, these researchers stated that as a consequence of high heterogeneity and possible bias, future well- designed studies with proper blinding and standardized outcomes are needed to ascertain the applicability of HIFEM for the treatment of UI.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 229,
+      "text": "Implantable Sacral Nerve Stimulators for the Treatment of Neurogenic Bladder In a meta-analysis, Sun and Song (2025) examined the safety and effectiveness of SNM in the treatment of neurogenic bladder (NB) and neurogenic bowel dysfunction (NBD).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 230,
+      "text": "These investigators carried out a systematic literature search using PubMed and Web of Science up to August 2024, focusing on studies related to SNM treatment for NB or NBD.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 231,
+      "text": "After assessing the quality of the studies, data were extracted and analyzed using Review Manager 5.3.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 232,
+      "text": "A total of 15 studies involving 573 patients were included.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 233,
+      "text": "After SNM treatment, the patients showed significant improvements in key outcome measures, including voiding frequency per 24 hours (V24) (weighted mean difference [WMD] -4.08; 95 % CI: -6.80 to -1.35; p = 0.003), mean urine volume per micturition (MUV) (WMD 123.60; 95 % CI: 93.17 to 154.03; p < 0.001), number of leakage episodes per 24 hours (L24) (WMD -4.27; 95 % CI: -5.79 to -2.74; p < 0.001), number of nocturia (WMD -2.48; 95 % CI: -2.62 to -2.35; p < 0.001), clean intermittent self-catheterization per 24 hours (WMD -2.35; 95 % CI: -2.98 to -1.71; p < 0.001), bladder compliance (WMD 9.09; 95 % CI: 2.31 to 15.87; p = 0.009), maximum detrusor pressure (MDP) during storage phase (WMD -14.76; 95 % CI: -18.63 to -10.88; p < 0.001), maximum urine flow rate (Qmax) (WMD 6.50; 95 % CI: 4.21 to 8.80; p < 0.001), MCC (WMD 66.28; 95 % CI: 2.83 to 129.73; p = 0.04), Wexner score (WMD -9.98; 95 % CI: -13.65 to -6.31; p < 0.001), and NBD score (WMD -6.31; 95 % CI: -6.89 to -5.73; p < 0.001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 234,
+      "text": "The authors concluded that these findings indicated that SNM was safe and effective in treating NB or NBD.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 235,
+      "text": "In a meta-analysis, Yu et al (2025) examined available evidence of non-invasive or minimally invasive neuromodulation therapies in improving urodynamic outcomes, voiding diaries, and quality of life (QOL) in patients with neurogenic lower urinary tract dysfunction (NLUTD) after spinal cord injury (SCI).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 236,
+      "text": "These researchers carried out a comprehensive search of 10 data-bases from inception until August 30, 2023.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 237,
+      "text": "Randomized controlled trials (RCTs) examining the effects of conventional treatment (CT) and CT combined with sham stimulation (SS), transcranial magnetic stimulation (TMS), sacral nerve magnetic stimulation (SNMS), TMS+SNMS, sacral pulsed electromagnetic field therapy (SPEMFT), sacral transcutaneous electrical nerve stimulation (STENS), sacral dermatomal transcutaneous electrical nerve stimulation (SDTENS), bladder & sacral transcutaneous electrical nerve stimulation (B&STENS), transcutaneous tibial nerve stimulation (TTNS), transcutaneous electrical acupoint stimulation (TEAS), pelvic floor electrical stimulation (PFES), or pelvic floor biofeedback therapy (PFBFBT) on PVR volume, MCC, V24, MUV, Qmax, MDP, maximum voiding volume (MVV), L24, lower urinary tract symptoms (LUTS) score, and spinal cord injury-QOL (SCI-QOL)score in patients with NLUTD after SCI were included.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 238,
+      "text": "Two researchers independently extracted data on study characteristics and outcomes following the PRISMA statement.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 239,
+      "text": "The Cochrane risk of bias tool (2.0) was used to assess the quality of RCTs.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 240,
+      "text": "A total of 52 RCTs with 2,884 participants were included.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 241,
+      "text": "CT+TMS was able to remarkably decrease PVR (mean difference [MD], -132.14; 95 % CI: -230.97 to -33.31) and increase MUV (MD, 147.79; 95 % CI: 64.51 to 231.06).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 242,
+      "text": "CT+SNMS ranked high in improving V24 (MD, 2.76; 95 % CI: 1.26 to 4.25) and reducing L24 (MD, -2.73; 95 % CI: -4.46 to -1.01); CT+TMS+SNMS maximized the reduction of SCI-QOL scores (MD, -1.52; 95 % CI: -2.97 to -0.25) and ranked 2nd in both reducing PVR and improving MCC; CT+SPEMFT had a significant advantage in improving MCC (MD, 83.31; 95 % CI: 39.73 to 126.88) and increasing Qmax (MD, 5.91; 95 % CI: 2.99 to 8.84); improvement in MDP was highly ranked by CT+TTNS (MD, 9.46; 95 % CI: 2.15 to 16.76).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 243,
+      "text": "The authors concluded that CT combined with magnetic stimulation therapy provided more benefits than its combination with electrical stimulation.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 244,
+      "text": "These researchers stated that TMS+SNMS appeared to be a promising non-invasive neuromodulation technique in managing NLUTD after SCI.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 245,
+      "text": "Moreover, these researchers stated that high-quality RCTs are needed to validate these findings.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 246,
+      "text": "Buford et al (2024) stated that NLUTD is highly prevalent among patients with neurologic disorders.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 247,
+      "text": "Some studies have reported that implantable neuromodulation could improve symptoms of NLUTD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 248,
+      "text": "In a retrospective, single-center study, these investigators described their experience with sacral and pudendal neuromodulation in patients with NLUTD.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 249,
+      "text": "They carried out a retrospective chart review of patients with \"neurogenic bladder\" ICD-9/10 (International Classification of Diseases, 9th Revision/10th Revision) code was carried out at a single institution.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 250,
+      "text": "This included patients from 2008 to 2020 who underwent stage 1 neuromodulation trial.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 251,
+      "text": "Demographic and clinical information was collected, including neurologic diagnosis, the character of patients' voiding symptoms, the presence or absence of fecal incontinence, the need for intermittent catheterization, and whether patients had sufficient (greater than 50 %) improvement in their symptoms to undergo stage 2 IPG placement.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 252,
+      "text": "These researchers identified 82 patients with neurologic diagnoses who underwent stage 1 neuromodulation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 253,
+      "text": "The most common diagnoses were diabetic cystopathy (17.07 %), spinal surgery (17.07 %), and SCI (12.20 %).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 254,
+      "text": "The most commonly reported symptoms were urinary urgency, and urge urinary incontinence.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 255,
+      "text": "Overall, 59 patients (71.95 %) advanced to stage 2 IPG placement including 72 % of patients with sacral leads and 76 % with pudendal leads.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 256,
+      "text": "The authors concluded that neuromodulation was feasible and effective in the treatment of NLUTD.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 257,
+      "text": "Moreover, these researchers stated that further investigations into its utilization are needed.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 258,
+      "text": "The authors stated that drawbacks of this trial included its retrospective design; thus, they could not examine potential causality, delve deeply into patient history, and standardize data collection.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 259,
+      "text": "The small sample size (n = 82 subjects; 10 patients with SCI) limited the generalizability of the findings.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 260,
+      "text": "However, the sample size was on par with similar studies that examined neuromodulation for the management of NLUTD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 261,
+      "text": "Furthermore, the study was carried out at a single-single trial, which may have restricted the diversity of the patient population.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 262,
+      "text": "These investigators also stated that it was important to acknowledge that due to the focus of this study on the short trial phase, long-term effectiveness and AEs were not specifically recorded or analyzed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 263,
+      "text": "In a subsequent meta-analysis that included SNM for non-neurogenic voiding symptoms, the incidence of AEs was comparable to those reported in the van Ophoven meta-analysis; thus, it was reasonable to assume potential long-term AEs would be consistent with other studies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 264,
+      "text": "This highlighted the need for future research with prospective designs, larger sample sizes, multi-center collaborations, validated questionnaires, and longer follow-up periods to provide more robust and comprehensive evidence.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 265,
+      "text": "Furthermore, an UpToDate review on “Chronic complications of spinal cord injury and disease” (Abrams and Wakasa, 2024) states that “Studies of implanted sacral nerve modulators show promise as a treatment for urinary iոϲοոtiոеոcе following SСΙ.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 266,
+      "text": "For patients with unsatisfactory response to medical and catheter management, other treatments, bladder augmentation, urinary diversion, sphincterotomy, urethral stent, and electrical implantation devices can be considered in selected cases, although there is limited evidence of their comparative efficacy”.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 267,
+      "text": "Micro-Ablative Radiofrequency for the Treatment of Over-Active Bladder Slongo et al (2025) stated that energy therapies have been suggested as potential treatments for OAB; however, there are few studies examining their effectiveness.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 268,
+      "text": "In a pilot study, these researchers compared the effects of fractional micro-ablative RF to sham treatment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 269,
+      "text": "This trial was carried out with 77 women diagnosed with OAB, randomized into 2 groups: one receiving 3 monthly sessions of fractional micro- ablative RF and the other receiving sham treatment, both combined with behavioral therapy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 270,
+      "text": "Assessments were carried out at baseline and 30 days after therapy using validated questionnaires for urinary symptoms (ICIQ-Short Form, ICIQ-OAB, and ICIQ-QOL), as well as vaginal and sexual function, and pelvic floor muscle functionality.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 271,
+      "text": "Both treatment groups showed significant improvements in all validated questionnaires evaluating urinary and vaginal symptoms (p < 0.001), with no significant differences between them.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 272,
+      "text": "The ICIQ-OAB scores improved significantly in both the RF group (-4.5 points; p < 0.001) and the sham group (-4.5 points; p < 0.001), with no significant differences between the groups (p = 0.812).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 273,
+      "text": "Furthermore, there were no improvements noted in sexual function or vaginal trophism in the RF group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 274,
+      "text": "However, assessments of endurance, resistance, and fast contractions of the pelvic floor muscles revealed improvement only in the RF group, with no changes observed in power or perineometer measurements.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 275,
+      "text": "The authors concluded that micro-ablative RF treatment combined with behavioral therapy did not show benefits over sham treatment with behavioral therapy for the treatment of OAB symptoms.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 276,
+      "text": "Percutaneous Tibial Nerve Stimulation (PTNS) for the Treatment of Idiopathic Overactive Bladder Jericevic et al (2024) stated that OAB patients who do not achieve satisfactory results with 2nd-line OAB medications should be offered 3rd-line therapies (e.g., BTX-A, PTNS, and SNM).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 277,
+      "text": "These researchers determined which clinical factors affect progression from 2nd- to 3rd-line OAB therapy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 278,
+      "text": "Between 2014 and 2020, the American Urological Association (AUA) Quality Registry was queried for adult patients with idiopathic OAB.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 279,
+      "text": "For the primary outcome, patient and provider factors associated with increased odds of progression from 2nd- to 3rd-line therapy were assessed.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 280,
+      "text": "Secondary outcomes included median time for progression to 3rd-line therapy and 3d-line therapy utilization across subgroups.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 281,
+      "text": "A total of 641,122 patients met inclusion criteria and were included in analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 282,
+      "text": "Of these, only 7,487 (1.2 %) received 3rd-line therapy after receiving 2nd-line therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 283,
+      "text": "On multi-variate analysis, patients aged 65 to 79, women, White race, history of dual anti-cholinergic and β3 agonist therapy, metropolitan area, government insurance, as well as single specialty practice had the greatest odds of progressing to 3rd-line therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 284,
+      "text": "Black and Asian race, male gender, and rural setting had lower odds of progressing to 3rd-line therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 285,
+      "text": "BTX-A was the most common therapy overall (40 % BTX-A, 32 % SNM, 28 % PTNS).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 286,
+      "text": "The median time of progression from 2nd- to 3rd- line therapy was 15.4 months (IQR 5.9 to 32.4).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 287,
+      "text": "Patients less than 50 years old and women progressed fastest to 3rd-line therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 288,
+      "text": "The authors concluded that very few patients received 3rd-line therapies, and the time to progression from 2nd- to 3rd-line therapies was greater than 1 year.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 289,
+      "text": "These researchers stated that the findings of this study high-lighted a potential need to improve 3rd-line therapy implementation.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 290,
+      "text": "Furthermore, the American Urological Association/Society of Urodynamics, Female Pelvic Medicine & Urogenital Reconstruction (AUA/SUFU)’s guideline on “Diagnosis and treatment of idiopathic overactive bladder” (Cameron et al, 2024) provided the following recommendation: In patients with OAB who have an inadequate response to, or have experienced intolerable side effects from, pharmacotherapy or behavioral therapy, clinicians should offer SNM PTNS, and/or intra- detrusor BTX injection. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 291,
+      "text": "Moderate Recommendation; Evidence Level: Grade A) Jefferson et al (2025) stated that procedural therapies for OAB most often include intra-detrusor BTX injections, SNM, and PTNS.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 292,
+      "text": "Despite their proven effectiveness, real-world data regarding therapy continuation and cross-over rates between these modalities remain limited.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 293,
+      "text": "In a retrospective, multi-center study, these investigators examined longitudinal patterns of treatment continuation and therapy cross-over among women receiving procedural OAB treatments.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 294,
+      "text": "This trial enrolled women with idiopathic OAB who underwent index BTX, SNM, or PTNS between 2014 and 2022.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 295,
+      "text": "Subjects were identified using electronic medical records, and follow-up data were collected through December 31, 2023.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 296,
+      "text": "The primary outcomes included duration of maintenance treatments and cross-over to another procedural therapy for OAB.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 297,
+      "text": "Kaplan- Meier survival analysis estimated rates of continued treatment, and a log-rank test examined differences in cross-over rates among treatment groups.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 298,
+      "text": "A total of 506 women met inclusion criteria: 266 (52.6 %) received BTX, 114 (22.5 %) underwent SNM, and 126 (24.9 %) received PTNS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 299,
+      "text": "Ongoing treatment rates were lowest for PTNS, with only 17.1 % maintaining therapy between 3 and 5 years and 26.1 % crossing over to another procedure within 3 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 300,
+      "text": "Among BTX patients, 65.2 % underwent repeat treatment within 3 years, and 9.5 % of patients crossed-over to another procedure within 3 years.",
+      "label": "PREMISE"
+    }
+  ]
+}
