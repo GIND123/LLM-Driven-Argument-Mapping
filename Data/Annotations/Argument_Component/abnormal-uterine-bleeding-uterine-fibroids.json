@@ -1,0 +1,392 @@
+{
+  "document_id": "abnormal-uterine-bleeding-uterine-fibroids",
+  "source": "Uhc",
+  "dataset": "uhc",
+  "sentences": [
+    {
+      "id": 2,
+      "text": "UnitedHealthcare Individual Exchange This Medical Policy applies to Individual Exchange benefit plans.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "Coverage Rationale  See Benefit Considerations Endometrial Ablation Endometrial ablation is proven and medically necessary for treating abnormal uterine bleeding in premenopausal individuals.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Levonorgestrel-Releasing Intrauterine Device Levonorgestrel-releasing intrauterine devices (LNG-IUD) (e.g., Mirena®, Skyla®, Liletta®, or Kyleena™) are proven and medically necessary for treating menorrhagia.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Uterine Fibroids Uterine artery embolization (UAE) is proven and medically necessary for treating symptomatic uterine fibroids, postpartum or post hysterectomy bleeding, or uterine arteriovenous malformation (AVM).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "Copyright 2026 United HealthCare Services, Inc. UAE is unproven and not medically necessary for the purpose of preserving childbearing potential for individuals with symptomatic uterine fibroids due to insufficient evidence of efficacy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "Magnetic resonance-guided focused ultrasound ablation (MRgFUS) is unproven and not medically necessary for treating uterine fibroids due to insufficient evidence of efficacy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "Medical Records Documentation Used for Reviews Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "Medical records documentation may be required to assess whether the member meets the clinical criteria for coverage but does not guarantee coverage of the service requested; refer to the guidelines titled Medical Records Documentation Used for Reviews.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 18,
+      "text": "Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 19,
+      "text": "The inclusion of a code does not imply any right to reimbursement or guarantee claim payment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 21,
+      "text": "CPT Code Description Uterine Fibroids 0071T Focused ultrasound ablation of uterine leiomyomata, including MR guidance; total leiomyomata volume less than 200 cc of tissue 0072T Focused ultrasound ablation of uterine leiomyomata, including MR guidance; total leiomyomata volume greater or equal to 200 cc of tissue 37243 Vascular embolization or occlusion, inclusive of all radiological supervision and interpretation, intraprocedural roadmapping, and imaging guidance necessary to complete the intervention; for tumors, organ ischemia, or infarction 58563 Hysteroscopy, surgical; with endometrial ablation (e.g., endometrial resection, electrosurgical ablation, thermoablation) CPT® is a registered trademark of the American Medical Association HCPCS Code Description Levonorgestrel-Releasing Intrauterine Device J7296 Levonorgestrel-releasing intrauterine contraceptive system, (Kyleena), 19.5 mg J7297 Levonorgestrel-releasing intrauterine contraceptive system (Liletta), 52 mg J7298 Levonorgestrel-releasing intrauterine contraceptive system (Mirena), 52 mg J7301 Levonorgestrel-releasing intrauterine contraceptive system (Skyla), 13.5 mg J7306 Levonorgestrel (contraceptive) implant system, including implants and supplies S4981 Insertion of levonorgestrel-releasing intrauterine system Description of Services Abnormal uterine bleeding (AUB) in women of childbearing age is defined as any change in menstrual period frequency or duration, a change in amount of flow or any bleeding between cycles.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 22,
+      "text": "In postmenopausal women, AUB includes vaginal bleeding 12 months or more after the cessation of menstruation, or unpredictable bleeding in those who have been receiving hormone therapy for 12 months or more.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 23,
+      "text": "AUB terms include oligomenorrhea (bleeding occurs at intervals of more than 35 days), polymenorrhea (bleeding occurs at intervals of less than 21 days), menorrhagia (bleeding occurs at normal intervals but with heavy flow or duration of more than 7 days), menometrorrhagia (bleeding occurs at irregular, noncyclic intervals and with heavy flow or duration more than 7 days), and metrorrhagia (irregular bleeding occurs between ovulatory cycles).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 24,
+      "text": "Menorrhagia can be idiopathic or can be associated with underlying uterine lesions such as fibroids or polyps, pelvic pathology, anatomical abnormalities, systemic illness, hormonal imbalance, or certain medications.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 25,
+      "text": "Idiopathic menorrhagia that is not related to a specific underlying condition is considered AUB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 26,
+      "text": "All these Abnormal Uterine Bleeding and Uterine Fibroids Page 2 of 15 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 27,
+      "text": "Copyright 2026 United HealthCare Services, Inc. conditions associated with menorrhagia can be referred to as AUB, although it is also possible to have some conditions such as fibroids or an anatomical abnormality with normal menses.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 28,
+      "text": "The focus in this policy is on treatment options when the bleeding pattern is abnormal.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 29,
+      "text": "Conservative management of AUB includes watchful waiting and pharmacological therapy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 30,
+      "text": "Hormone therapy may cause the fibroids to shrink; however, they will quickly return to their original mass once therapy has been discontinued.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 31,
+      "text": "Another treatment option is dilation and curettage.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 32,
+      "text": "Hysterectomy is available when symptoms cannot be controlled by conservative treatment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 33,
+      "text": "According to the American College of Obstetricians and Gynecologist (ACOG), fibroids are most commonly found in women aged 30-40 years but can occur at any age.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 34,
+      "text": "Uterine fibroids (also known as leiomyomata) are benign tumors of the uterus.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 35,
+      "text": "They have a rich blood supply and may cause excessive uterine bleeding, uterine enlargement and mass, or bulk related symptoms such as pelvic pain and pressure, urinary frequency, and abdominal distension.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 36,
+      "text": "Uterine fibroid embolization (UFE) is indicated for individuals with clinically documented fibroids and fibroid-related symptoms and a viable alternative to hysterectomy surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 37,
+      "text": "Recommendations prior to UFE treatment include an endometrial biopsy to rule out malignancy or hyperplasia (Bradley et al., 2019).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 38,
+      "text": "Alternate minimally invasive procedures such as UFE are performed in an outpatient setting resulting in shorter recovery times, less complications, and elimination of overnight hospital stays.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 39,
+      "text": "Levonorgestrel-Releasing Intrauterine Device (LNG-IUD) The local administration of the progestin levonorgestrel is delivered via an intrauterine device (IUD).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 40,
+      "text": "The local delivery of this hormone causes the endometrium to become insensitive to ovarian estradiol leading to atrophy of the endometrial glands, inactivation of the endometrial epithelium, and suppression of endometrial growth and activity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 41,
+      "text": "Uterine Artery Embolization (UAE) This procedure injects particles via the uterine arteries to block blood supply to uterine fibroids, causing them to shrink.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 42,
+      "text": "Magnetic Resonance-Guided Focused Ultrasound (MRgFUS) This procedure combines real-time MR-guidance with high-intensity focused ultrasound for the noninvasive thermal ablation of uterine fibroids.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 43,
+      "text": "Tumor ablation is performed by focusing a collection of ultrasonic beams to increase sonic beam intensity at a point deep within the tissue to cause thermal coagulation while sparing normal tissues.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 44,
+      "text": "Benefit Considerations Levonorgestrel-Releasing Intrauterine Device (LNG-IUD) Certain intrauterine devices are included in the preventive care services benefit.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 47,
+      "text": "In these plan documents, coverage for intrauterine devices (IUD), including the LNG-IUD, is excluded when used for contraceptive purposes.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 48,
+      "text": "However, in these plan documents, coverage exists for the LNG-IUD when used for a non-contraceptive purpose, including treatment of abnormal uterine bleeding.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 51,
+      "text": "2025 conducted a systematic review and meta-analysis including 28 studies, of which 9 were randomized controlled trials (RCT) and 19 were non-RCTs to summarize the evidence on the efficacy and safety of the levonorgestrel- releasing intrauterine system (LNG-IUD) in managing adenomyosis (AM), both as a monotherapy and in combination with other therapies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 52,
+      "text": "The primary outcome measured was dysmenorrhea, menstrual bleeding, uterine volume, endometrial thickness, and quality of life.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 54,
+      "text": "The results of the review showed that compared with etonogestrel, LNG-IUS was more effective in reducing uterine volume and associated with a lower risk of weight gain but showed no significant difference in reducing dysmenorrhea and endometrial thickness.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 55,
+      "text": "Comparing LNG-IUS with mifepristone, there was no significant difference in terms of quality of life.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 56,
+      "text": "The combination of LNG-IUS with Gonadotropin-releasing hormone agonists (GnRH-a) was more effective than LNG-IUS alone, providing benefits in reducing dysmenorrhea, menstrual bleeding, uterine volume, endometrial thickness, and adverse events.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 57,
+      "text": "The combination of LNG-IUS with surgical excision was more effective than surgical excision alone, providing benefits in reducing dysmenorrhea, menstrual bleeding at 12 months, reducing uterine volume at 6, 12 and 24 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 59,
+      "text": "Copyright 2026 United HealthCare Services, Inc. combination of LNG-IUS with focused ultrasound ablation (FUA) was more effective than FUA alone, providing benefits in reducing dysmenorrhea, menstrual bleeding.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 60,
+      "text": "The authors concluded that for single-drug therapy intended on improving pain and quality of life, current evidence does not support a conclusive recommendation for a favored treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 62,
+      "text": "Concerning surgical interventions, the addition of postoperative LNG-IUS offers benefits in reducing long-term pain and menstrual bleeding, the authors speculated that younger individuals or those experiencing significant pain and bleeding might benefit from this combined therapy with LNG-IUS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 63,
+      "text": "Moreover, in the context of combined FUA, LNG-IUS has shown advantages in managing short-term pain and menstrual bleeding, but the long-term superiority remains unclear.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 64,
+      "text": "It is advised that those presenting with severe symptoms receive LNG-IUS as soon as possible following the intervention.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 65,
+      "text": "Though, more research with high quality is needed to further evaluate the effect and safety in more than 12 months.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 67,
+      "text": "2024) sought to assess the long-term differences in the reintervention risk and menstrual blood loss for women with the symptoms of heavy menstrual bleeding (HMB) treated according to a strategy starting with a 52-mg LNG-IUS or radiofrequency nonresectoscopic endometrial ablation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 68,
+      "text": "The participants of the trial were separated into two groups: those receiving 52-mg LNG-IUD (n = 132) or radiofrequency on resectoscopic endometrial ablation (n = 138).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 69,
+      "text": "The outcomes measured were the reintervention rate, menstrual bleeding, quality of life (QOL), sexual function, and patient satisfaction.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 70,
+      "text": "The results of the trial showed that from the 270 women who were randomized in the original trial, 196 (52-mg LNG-IUS group: n = 94; radiofrequency nonresectoscopic endometrial ablation group: n = 102) took part in this long-term follow-up study.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 71,
+      "text": "The cumulative reintervention rate (including both medical and surgical reinterventions) was 40.0% (34/85) in the 52-mg LNG-IUS group and 28.7% (27/94) in the radiofrequency nonresectoscopic endometrial ablation group [relative risk, 1.39; 95% confidence interval (CI), 0.92-2.10].",
+      "label": "CLAIM"
+    },
+    {
+      "id": 72,
+      "text": "The cumulative rate of surgical reinterventions was only significantly higher among those with a treatment strategy starting with a 52-mg LNG-IUS compared with radiofrequency nonresectoscopic endometrial ablation [35.3% (30/85) vs 19.1% (18/94); relative risk, 1.84; 95% CI, 1.11-3.10].",
+      "label": "CLAIM"
+    },
+    {
+      "id": 73,
+      "text": "However, the hysterectomy rate was similar [11.8% (10/94) in the 52-mg LNG-IUS group and 18.1% (17/102) in the radiofrequency nonresectoscopic endometrial ablation group; relative risk, 0.65; 95% CI, 0.32-1.34].",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 75,
+      "text": "A total of 171 Pictorial Blood Loss Assessment Chart scores showed a median bleeding score of 0.0.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 76,
+      "text": "No clinically relevant differences were found regarding QOL, sexual function, and patient satisfaction.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 77,
+      "text": "The limitation of the study is the possibility that the responders to the long-term follow-up may only represent part of the original study population.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 79,
+      "text": "Lastly, a natural consequence of the long-term follow-up is that participants became postmenopausal during this period, given that the average age at baseline was approximately 45 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 80,
+      "text": "The high proportion of postmenopausal women is another limitation of the current study, given that postmenopausal status could be conflated with optimal treatment effect.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 81,
+      "text": "The authors concluded that the overall risk of reintervention after long-term follow- up was not different between women treated according to a treatment strategy starting with a 52-mg LNG-IUS and those treated using a strategy starting with radiofrequency nonresectoscopic endometrial ablation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 82,
+      "text": "However, women given a treatment strategy starting with a 52-mg LNG-IUS had a higher risk of surgical reintervention, which was driven by an increase in later endometrial ablation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 84,
+      "text": "The results of this long-term follow-up study can support physicians in improving the counseling of women with HMB, thus promoting informed decision-making regarding the choice of treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 85,
+      "text": "In a 2024 systematic review and single-arm meta-analysis, Oliveira and associates examined the LNG-IUS in women with inherited bleeding disorders and HMB.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 87,
+      "text": "The results of the review showed that LNG-IUS use in those with inherited bleeding disorders and HMB was associated with amenorrhea in 60% of people and a significant increase of 1.40 g/dL in hemoglobin and 19.75 ng/mL in ferritin levels when comparing post- and pre-treatment levels.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 88,
+      "text": "The post-treatment mean hemoglobin was 13.32 g/dL, and the mean ferritin was 43.22 ng/dL. The rate of IUD expulsion or removal due to malposition was low (13%), as was the need for IUD removal due to lack of efficacy (14%).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 89,
+      "text": "The limitations include the need for more of a control group, the small number of studies, and the lack of individual patient-level data, which precludes a more robust analysis of personal factors that may be associated with better or worse efficacy of LNG-IUS in this group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 90,
+      "text": "The authors concluded that the LNG-IUS may improve bleeding patterns and QOL in those with inherited bleeding disorders and HMB. Lee et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 92,
+      "text": "The outcomes measured were the treatment efficacy rate of dysmenorrhea, the effective rate of menorrhagia severity, and the reduction rate of AM lesion. Adverse events were also assessed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 93,
+      "text": "The results uncovered that HIFU plus LNG-IUS showed lower dysmenorrhea [within six months: risk ratio (RR) 0.88, 95% CI 0.83-0.93, p 40 years of age.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 94,
+      "text": "The rates of live births for UAE, HIFU, and TFA were similar at 70.8%, 73.5%, and 70%, respectively.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 95,
+      "text": "Miscarriage rate was the greatest in the UAE group which accounted for 19.2%.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 96,
+      "text": "Overall, the delivery rate by cesarean section was greater in these minimally invasive procedures when compared to that for the general population rate (31.8%); this was most likely due to the greater risks associated with women with UFs.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 97,
+      "text": "Upon analysis, the authors found the estimation of pregnancy was found to be higher after UAE and HIFU when compared to TFA.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 98,
+      "text": "The evidence confirmed that minimally invasive uterine-sparing treatment options for UFs, such as UAE, HIFU, and TFA, are a good approach for those wishing to preserve their fertility.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 99,
+      "text": "Future studies should include additional robust studies to help identify which subpopulation would benefit most from receiving one technique versus another.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 100,
+      "text": "Limitations included retrospective design, low total number of pregnancies after TFA available for analysis, and lack of data around the size, location and number of fibroids which are known to influence treatment. Mailli et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    }
+  ]
+}
