@@ -1,0 +1,1752 @@
+{
+  "document_id": "Tuberculosis_Testing_-_Medical_Clinical_Policy_Bulletins___A",
+  "source": "Aetna",
+  "dataset": "aetna",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Tuberculosis Testing Number: 0471 Applicable CPT / HCPCS / ICD-10 Codes Scope of Policy This Clinical Policy Bulletin addresses tuberculosis testing.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 2,
+      "text": "I. Medical Necessity A. Aetna considers the Mantoux tuberculin skin-test a medically necessary preventive service, according to guidelines from the Advisory Council for the Elimination of Tuberculosis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 3,
+      "text": "The selection criteria are listed below.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 4,
+      "text": "Based on published reports in the medical literature and Centers for Disease Control and Prevention (CDC) surveillance data, the Advisory Council for the Elimination of Tuberculosis recommends that the following groups be screened for tuberculosis (TB) and TB infection: 1.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 5,
+      "text": "Any person who is suspected of having active TB; 2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 6,
+      "text": "Close contacts (i.e., those sharing the same household or other enclosed environments) of persons known or suspected to have TB; 3.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 7,
+      "text": "Foreign-born persons, including children, recently arrived (within 5 years) from countries that have a high TB incidence or prevalence (e.g., Africa, Asia, Latin America, Middle East, Oceania, and the Caribbean); 4.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 8,
+      "text": "Health-care workers who serve high-risk clients; 5.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 9,
+      "text": "High-risk racial or ethnic minority populations, as defined locally (refer to State Department of Health); 6.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 10,
+      "text": "Individuals planning to receive or receiving tumor necrosis factor (TNF) alpha inhibitors (e.g. infliximab); 7.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 11,
+      "text": "Infants, children, and adolescents exposed to adults in high-risk categories; 8.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 12,
+      "text": "Persons who inject illicit drugs or other locally identified high-risk substance users (e.g., crack cocaine users); 9.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 13,
+      "text": "Residents and employees of high-risk congregate settings (e.g., correctional institutions, mental institutions, nursing homes, other long-term residential facilities, and shelters for the homeless); 10.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 14,
+      "text": "Some medically under-served, low-income populations; and 11.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 15,
+      "text": "Persons who have any of the following medical risk factors known to increase the risk for disease if infection occurs: a. Chronic renal failure b. Conditions requiring prolonged high-dose corticosteroid therapy and other immunosuppressive therapy (including bone marrow and organ transplantation) c. Diabetes mellitus d. Gastrectomy e. Human immunodeficiency virus (HIV) infection f. Jejuno-ileal bypass g. Other specific malignancies (e.g., carcinoma of the head or neck) h. Persons who have an abnormal chest radiograph showing fibrotic lesions consistent with old, healed TB i. Silicosis j. Some hematological disorders (e.g., leukemias and lymphomas) k. Weight 10 % or more below ideal body weight; B. Based on guidelines from the CDC, Aetna considers QuantiFERON-TB Gold test (QFT-G) a medically necessary preventive service in place of (and not in addition to) the Mantoux tuberculin skin-test.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 16,
+      "text": "According to the CDC, the QFT-G can be used in all circumstances in which the Mantoux tuberculin skin-test is used, including contact investigations, evaluation of recent immigrants who have had bacillus calmette-guerin (BCG) vaccination, and sequential- testing surveillance programs for M. tuberculosis infection (e.g., health-care workers and others undergoing serial evaluation); C. Based on guidelines from the CDC, Aetna considers the QuantiFERON-TB test (QFT) or the T- SPOT TB test a medically necessary preventive service for latent TBs infection (LTBI) screening in any of the following: 1.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 17,
+      "text": "Initial and serial testing of persons with an increased risk for LTBI (e.g., injection-drug users, recent immigrants, and residents and employeesFootnote1* of prisons and jails); or 2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 18,
+      "text": "Initial and serial testing of persons who are, by history, at low-risk for LTBI but whose future activity might place them at increased risk for exposure, and others eligible for LTBI surveillance programs (e.g., health-care workersFootnote1* and military personnelFootnote1*); or 3.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 19,
+      "text": "Testing of persons for whom LTBI screening is performed but who are not considered to have an increased probability of infection (e.g., entrance requirements for certain schoolsFootnote1* and workplacesFootnote1*); D. PCR testing for rifampin resistance for the detection of rifampin-resistant tuberculosis; E. Rapid molecular testing (e.g., GeneXpert MTB/RIF, MTBDRplus, and MTBDRs) is considered medically necessary for the detection of multi-drug resistant TB; F. Urine-based lipoarabinomannan antigen testing (FujiLAM) is considered medically necessary for the diagnosis of TB in individuals with HIV. II.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 20,
+      "text": "Experimental, Investigational, or Unproven The following tests are considered experimental, investigational, or unproven because the effectiveness of these approaches has not been established: Artificial intelligence for tuberculosis screening; Biomarker-based non-sputum tests for the diagnosis of TB; Breath tests (e.g., electronic-nose [eNose]) for the diagnosis of TB; Measurement of serum cytokine for identification of tuberculosis in HIV-positive individuals; Molecular stool tests (e.g., stool Xpert MTB/RIF, and TruTip workstation) for the detection of pulmonary tuberculosis in children; Multiple puncture TB skin tests (e.g., tine test) because they are less specific than the Mantoux test; NanoDetect-TB Assay (nanopore biosensing) for diagnosis of tuberculosis; Use of upper respiratory tract samples (laryngeal swabs, nasopharyngeal aspirate, oral swabs, saliva, mouth wash, nasal swabs, plaque samples, and nasopharyngeal swabs) for diagnosis of pulmonary tuberculosis (lower respiratory tract samples should be obtained); Whole genome sequencing of mycobacterium tuberculosis for detection of drug resistance. III.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 21,
+      "text": "Policy Limitations and Exclusions Footnote1* Some Aetna plans exclude coverage of services required by third parties, including diagnostic services in connection with obtaining or continuing employment, travel, and school admissions or attendance. Please check benefit plan descriptions.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 22,
+      "text": "Some Aetna plans exclude coverage of preventive services. Please check benefit plan descriptions.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 23,
+      "text": "Table: CPT Codes / HCPCS Codes / ICD-10 Codes Code Code Description CPT codes covered if selection criteria are met: Stool Xpert MTB/RIF, , urine-based lipoarabinomannan antigen testing (FujiLAM) – no specific code: Tuberculosis test, cell mediated immunity antigen response measurement; gamma 86480 interferon 86481 enumeration of gamma interferon-producing T-cells in cell suspension 86580 Skin test; tuberculosis, intradermal [Mantoux] Infectious agent detection by nucleic acid (DNA or RNA); Mycobacteria tuberculosis, 87556 amplified probe technique [GeneXpert MTB/RIF] Infectious agent detection by nucleic acid (DNA or RNA); Mycobacterium 87564 tuberculosis, rifampin resistance, amplified probe technique Infectious agent detection by nucleic acid (DNA or RNA), not otherwise specified; 87798 amplified probe technique, each organism [GeneXpert MTB/RIF] CPT codes not covered for indications listed in the CPB: Biomarker-based non-sputum tests and electronic nose breath test, Molecular stool test,measurement of serum cytokine, the use of upper respiratory tract samples (laryngeal swabs, nasopharyngeal aspirate, oral swabs, saliva, mouth wash, nasal swabs, plaque samples, and nasopharyngeal swabs), artificial intelligence for tuberculosis screening - no specific code Mycobacterium tuberculosis, culture filtrate protein–10-kDa (CFP-10), serum or 0574U plasma, liquid chromatography mass spectrometry (LC-MS) Genome (eg, unexplained constitutional or heritable disorder or syndrome); sequence 81425 analysis Code Code Description Genome (eg, unexplained constitutional or heritable disorder or syndrome); sequence 81426 analysis, each comparator genome (eg, parents, siblings( (List separately in addition to code for primary procedure) Genome (eg, unexplained constitutional or heritable disorder or syndrome); re- 81427 evaluation of previously obtained genome sequence (eg, updated knowledge or unrelated condition/syndrome) Other CPT codes related to the CPB: 71045 - 71048 Radiologic examination, chest Culture, tubercle or other acid-fast bacilli (e.g., TB, AFB, mycobacterial) any source, 87116 with isolation and presumptive identification of isolates 90585 Bacillus Calmette-Guerin vaccine (BCG) for tuberculosis, live, for percutaneous use Other HCPCS codes related to the CPB: J0139 Injection, adalimumab, 1 mg Injection, etanercept, 25 mg (code may be used for Medicare when drug administered J1438 under the direct supervision of a physician, not for use when drug is self- administered) J1745 Injection, infliximab, 10 mg Q5103 Injection, infliximab-dyyb, biosimilar, (Inflectra), 10 mg Q5104 Injection, infliximab-abda, biosimilar, (Renflexis), 10 mg Q5109 Injection, infliximab-qbtx, biosimilar, (Ixifi), 10 mg Q5140 Injection, adalimumab-fkjp, biosimilar, 1 mg Q5141 Injection, adalimumab-aaty, biosimilar, 1 mg Q5142 Injection, adalimumab-ryvk biosimilar, 1 mg Q5143 Injection, adalimumab-adbm, biosimilar, 1 mg Q5144 Injection, adalimumab-aacf (idacio), biosimilar, 1 mg Q5145 Injection, adalimumab-afzb (abrilada), biosimilar, 1 mg Home infusion therapy, antitumor necrosis factor intravenous therapy; (e.g., Infliximab); administrative services, professional pharmacy services, care S9359 coordination, and all necessary supplies and equipment (drugs and nursing visits codes separately), per diem ICD-10 codes covered if selection criteria are met: A15.0 - A19.9 Tuberculosis B20 Human immunodeficiency virus [HIV] disease B90.0 - B90.9 Sequelae of tuberculosis C00.0 - C15.9 Malignant neoplasm of lip, oral cavity, pharynx and esophagus Malignant neoplasm nasal cavities, middle ear, and accessory sinuses, larynx, and C30.0 - C33 trachea C41.0 - C41.1 Malignant neoplasm of bones of skull and face, and mandible Malignant melanoma of skin of lip, eyelid, including canthus, ear and external C43.0 - C43.4 auditory canal, other and unspecified parts of face, and scalp and neck Other malignant neoplasm of skin of lip, eyelid, including canthus, ear and external C44.00 - C44.49 auditory canal, other and unspecified parts of face, and scalp and neck C49.0 Malignant neoplasm of connective and soft tissue of head, face and neck Code Code Description C69.00 - C71.9 Malignant neoplasm of eye, brain, cranial nerves, and cerebral meninges Malignant neoplasm of thyroid gland, parathyroid gland, pituitary gland and C73 - C75.9 craniopharyngeal duct, pineal gland, and carotid body C76.0 Malignant neoplasm of the head, face, and neck C81.00 - C96.9 Malignant neoplasm of lymphoid, hematopoietic and related tissue D00.00 - D00.1 Carcinoma in situ of lip, oral cavity, and pharynx, and esophagus D02.0 - D02.1 Carcinoma in situ of larynx and trachea Carcinoma in situ of lip, eyelid, including canthus, ear and external auditory canal, D03.0 - D03.4 skin of other and unspecified parts of face, and scalp and skin of neck D09.20 - D09.22 Carcinoma in situ of eye E10.10 - E11.9 Diabetes mellitus F10.10 - F10.120, Alcohol abuse F10.129 F11.10 - F11.129, Opioid abuse F11.20 - F11.90 F12.10, F12.20 Cannabis abuse - F12.93 F13.10 - F13.120, Sedative, hypnotic or anxiolytic-related abuse F13.20 - F13.90 F14.10 - F14.120, Cocaine abuse F14.20 - F14.90 F15.10 - F15.120, Other stimulant abuse F15.20 - F15.90 F16.10 - F16.120, hallucinogen abuse F16.20 - F16.90 Nicotene dependence F17.200 - F17.201, Code Code Description F17.210 - F17.211 F17.220 - F17.221, F17.290 - F17.291 F18.10 - F18.120, Inhalant abuse F18.20 - F18.90 F19.10 - F19.120, Other psychoactive substance abuse F19.20 - F19.90 F55.0 - F55.8 Abuse of non-psychoactive substances J62.0 - J62.8 Pneumoconiosis due to talc dust and other dust containing silica [silicosis] J63.0 - J63.6 Pneumoconiosis due to other inorganic dust J84.10 Pulmonary fibrosis, unspecified K50.00 - K50.919 Crohn's diseae [regional enteritis] L40.0 - L40.9 Psoriasis M05.00 - M06.9 Rheumatoid arthritis with rheumatoid factor and other rheumatoid arthritis M08.00 - M08.09 Juvenile arthritis M08.20 - M08.99 M08.1 Juvenile ankylosing spondylitis M45.0 - M45.AB Ankylosing spondylitis N18.1 - N18.9 Chronic kidney disease (CKD) N50.82 Scrotal pain P35.0 - P35.9 Congenital viral diseases P37.0 Congenital tuberculosis R76.11 Nonspecific reaction to tuberculin skin test without active tuberculosis Abnormal findings on diagnostic imaging of lung [abnormal chest radiograph R91.1 - R91.8 showing fibrotic lesions consistent with old, healed tuberculosis] Z11.1 Encounter for screening for respiratory tuberculosis Z11.7 Encounter for testing for latent tuberculosis infection Resistance to single antimycobacterial drug [detection of rifampin-resistant Z16.341 tuberculosis] Z20.1 Contact with and (suspected) exposure to tuberculosis Z22.7 Latent tuberculosis Z59.00 - Z59.02 Homelessness Problems related to living in residential institution [correctional institutions, nursing Z59.3 homes, mental institutions, other long-term residential facilities, homeless shelters] Z59.5 Extreme poverty Code Code Description Z59.6 Low income Z59.71 - Z59.72 Insufficient social insurance and welfare support Z68.1 Body mass index [BMI] 19 or less, adult Z90.3 Acquired absence of stomach [part of] [status post gastrectomy] Z94.0 - Z94.89 Transplanted organ and tissue status Z95.3 Presence of xenograpgic heart valve Z98.0 Intestinal bypass or anastamosis status [jejuno-ileal bypass] Tuberculosis (TB) is caused by mycobacteria (Mycobacterium tuberculosis complex, which includes M. tuberculosis, M. Bovis, and M. Africanum) transmitted from an infectious source to susceptible persons primarily through the air (e.g., through coughing).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 24,
+      "text": "Most individuals who are infected are usually asymptomatic and non-infectious; the only indication of infection may be a reaction to a tuberculin skin test.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 25,
+      "text": "Infection and risk for developing clinical TB can persist for years, especially if the immune system becomes impaired.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 26,
+      "text": "The estimated number of persons having latent TB infection in the United States ranges from 10 million to 15 million.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 27,
+      "text": "The incidence of TB may be even higher among certain groups who are at risk.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 28,
+      "text": "Screening and preventive therapy programs are important for persons in these high-risk groups.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 29,
+      "text": "Despite efforts by the U.S. Department of Health and Human Services to eliminate TB, several complex social and medical factors caused TB morbidity to increase by 14 % in the U.S. from 1985 through 1993.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 30,
+      "text": "This increase has been attributed to several factors, including the human immunodeficiency virus (HIV) epidemic, the occurrence of TB in foreign-born persons from countries that have a high prevalence of TB, and the transmission of M. tuberculosis in congregate settings (e.g., health-care facilities, correctional facilities, drug-treatment centers, and homeless shelters).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 31,
+      "text": "Tuberculin skin testing (TST) is the standard method for identifying persons infected with M. tuberculosis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 32,
+      "text": "The Mantoux test (i.e., the intra-cutaneous administration of 5 units of purified protein derivative [PPD] tuberculin) best detects infection.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 33,
+      "text": "According to available guidelines, multiple puncture devices (e.g., tine test) should not be used to screen high-risk populations because they are less specific than the Mantoux test.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 34,
+      "text": "In the multiple-puncture test, the amount of tuberculin that actually enters the skin can not be measured and thus this test technique results in inadequate sensitivity and specificity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 35,
+      "text": "The need for repeat skin testing should be determined by the likelihood of continued exposure to infectious TB.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 36,
+      "text": "All tuberculin-negative persons should be re-tested if they are exposed to an infectious person.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 37,
+      "text": "In some institutional and group-living environments (e.g., hospitals, prisons, nursing homes, and shelters for the homeless), the risk of exposure is enough to justify repeat testing at regular intervals.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 38,
+      "text": "The frequency of repeat testing depends on the degree of risk of exposure, as determined by locally generated data.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 39,
+      "text": "In-vitro cytokine-based immunoassays for the detection of M. tuberculosis infection have been the focus of ® intense research and development and in 2001, QuantiFERON - TB or QFT (Cellestis Limited, Carnegie, Victoria, Australia) was approved by the U.S. Food and Drug Administration (FDA).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 40,
+      "text": "A subsequently developed version, QuantiFERON-TB Gold or QFT-G (Cellestis Limited, Carnegie, Victoria, Australia), received final approval from the FDA on May 2, 2005.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 41,
+      "text": "According to the Centers for Disease Control and Prevention (CDC) guidelines, QFT-G is intended to replace QFT and can be used in all circumstances in which the TST is currently used, including contact investigations, evaluation of recent immigrants who have had bacillus calmette Guerin (BCG) vaccination, and TB screening of health-care workers and others undergoing serial evaluation for M. tuberculosis infection.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 42,
+      "text": "The CDC guidelines state that QFT-G can be used in place of (and not in addition to) the TST.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 43,
+      "text": "Each of the 3 tests (TST, QFT, and QFT-G) relies on a different immune response and differs in its relative measures of sensitivity and specificity.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 44,
+      "text": "The TST assesses in-vivo delayed-type hypersensitivity (Type IV), whereas QFT and QFT-G measure in-vitro release of IFN-g. The TST and QFT measure response to PPD, a polyvalent antigenic mixture, whereas QFT-G measures response to a mixture of synthetic peptides simulating 2 specific antigenic proteins that are present in PPD.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 45,
+      "text": "The agreement between TST and QFT in persons at increased risk for latent tuberculosis infection (LTBI) facilitated approval and acceptance of QFT.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 46,
+      "text": "Results of similar studies using QFT-G testing for persons at increased risk have not been published, but less agreement between TST and QFT-G is predictable because fewer and more specific antigens are used in QFT-G. QFT-G is not affected by prior BCG vaccination and is expected to be less influenced by previous infection with non-tuberculous mycobacteria.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 47,
+      "text": "TSTs are variably affected by these factors.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 48,
+      "text": "QFT-G does not trigger an anamnestic response (i.e., boosting) because it does not expose persons to antigen.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 49,
+      "text": "Injection of PPD for the TST can boost subsequent TST responses whereas QFT-G might be less affected by boosting from a previous TST.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 50,
+      "text": "In direct comparisons, the sensitivity of QFT-G was statistically similar to that of the TST for detecting infection in persons with untreated culture-confirmed TB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 51,
+      "text": "Morie et al (2004) reported a specificity of 98.1 % in 216 BCG-vaccinated individuals who were at low-risk for M. tuberculosis infection, and a sensitivity of 89.0 % in 118 patients with culture-confirmed TB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 52,
+      "text": "However, QFT-G results were derived slightly differently from the methods approved by FDA. Kang, et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 53,
+      "text": "2005) compared QFT-G with TST by using 2 tuberculin units of RT-23.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 54,
+      "text": "In a group of 99 healthy, BCG-vaccinated individuals, the specificity of QFT-G was 96 %, compared with 49 % for the TST.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 55,
+      "text": "Among 54 patients with pulmonary TB disease, the sensitivity of the QFT- G was 81 %, compared with 78 % for the TST.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 56,
+      "text": "Ferrara et al (2005) compared QFT-G and the TST in an unselected population of 318 hospitalized patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 57,
+      "text": "QFT-G had greater sensitivity for TB disease (67 %) than did TST (33 %), but indeterminate QFT-G responses were common (21 %) among patients with negative TST results, the majority of whom were thought to be immunocompromised or immunosuppressed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 58,
+      "text": "QFT-G might represent a cost-effective alternative to the TST in testing programs which are part of the TB infection control program in institutions such as health care settings, correctional facilities, or homeless shelters.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 59,
+      "text": "In these settings, false-positive reactions to the TST pose a problem.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 60,
+      "text": "This problem is compounded in settings with BCG-vaccinated persons born in countries where TB is prevalent.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 61,
+      "text": "The greater specificity of the QFT-G and the requirement for only 1 visit are viewed as potential advantages.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 62,
+      "text": "QFT can aid in detecting M. tuberculosis infections among certain populations who are at increased risk for LTBI; however, data are insufficient to demonstrate the accuracy of QFT test for testing contacts, and the CDC does not recommended QFT for this situation.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 63,
+      "text": "Fietta et al (2003) compared the QFT assay with the TST in patients with newly diagnosed culture-proven TB and healthy volunteers with high- or low-risk of latent M. tuberculosis infection and to identify factors associated with discordance between tests.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 64,
+      "text": "A total of 258 subjects underwent both assays.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 65,
+      "text": "All participants completed a detailed questionnaire, and data from TB patients' medical records were collected.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 66,
+      "text": "In the entire study population, agreement between tests was moderate and the correlation between the magnitude of QFT response and the TST induration diameter was significant.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 67,
+      "text": "In volunteers with no known risk of exposure to M. tuberculosis, the specificity of the assays was comparable.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 68,
+      "text": "However, in subjects with active TB or those vaccinated with BCG, the QFT assay detected more reactors than did the TST.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 69,
+      "text": "In these individuals, agreement between assays was poor and no correlation or only a weak correlation was found between the diameter of TST induration and the magnitude of the interferon-gamma responses.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 70,
+      "text": "The authors concluded that the sensitivity of the QFT assay is greater than that of the TST in patients with active TB before the initiation of anti-TB chemotherapy, but its specificity is influenced more by BCG vaccination.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 71,
+      "text": "The QFT assay may provide an improvement over the current practice of the use of the TST to support diagnosis of active M. tuberculosis infection in the clinic; however, QFT can not be considered an adequate replacement for the TST in the screening for latent infection.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 72,
+      "text": "The Centers for Disease Control and Prevention (CDC) provided the following guidelines for using the QFT test for LTBI screening: 1.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 73,
+      "text": "Initial and serial testing of persons with an increased risk for LTBI (e.g., recent immigrants, injection- drug users, and residents and employees of prisons and jails); or 2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 74,
+      "text": "Initial and serial testing of persons who are, by history, at low-risk for LTBI but whose future activity might place them at increased risk for exposure, and others eligible for LTBI surveillance programs (e.g., health-care workers and military personnel); or 3.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "Testing of persons for whom LTBI screening is performed but who are not considered to have an increased probability of infection (e.g., entrance requirements for certain schools and workplaces).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 76,
+      "text": "The CDC has stated that the utility of QFT in predicting the progression to active tuberculosis has not been evaluated.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 77,
+      "text": "Confirmation of QFT results with tuberculin skin testing (TST) is possible because performance of QFT does not affect subsequent QFT or TST results.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 78,
+      "text": "The probability of LTBI is greatest when both the QFT and TST are positive.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 79,
+      "text": "Considerations for confirmation are as follows: When the probability of LTBI is low, confirmation of a positive QFT result with TST is recommended before initiation of LTBI treatment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 80,
+      "text": "LTBI therapy is not recommended for persons at low-risk who are QFT-negative or who are QFT-positive but TST-negative.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 81,
+      "text": "TST can also be used to confirm a positive QFT for persons at increased risk for LTBI.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 82,
+      "text": "However, the need for LTBI treatment when QFT is positive and the subsequent TST is negative should be based on clinical judgment and perceived risk.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 83,
+      "text": "Negative QFT results do not require confirmation, but results can be confirmed with either a repeat QFT or TST if the accuracy of the initial test is in question.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 84,
+      "text": "Because of insufficient data on which to base recommendations, the CDC has concluded that QFT is not recommended for the following indications: Assessment of contacts of persons with infectious tuberculosis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 85,
+      "text": "The CDC explained that rates of conversion of QFT and TST after a known exposure to M. tuberculosis have not been compared, and concordance of QFT and TST after exposure and with serial LTBI screening have not been studied. Confirmation of TST results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 86,
+      "text": "The CDC explains that injection of PPD for TST might affect subsequent QFT results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 87,
+      "text": "Although QFT is not recommended for confirmation of TST results, QFT can be used for surveillance less than 12 months after a negative TST, if the initial QFT is negative.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 88,
+      "text": "Detection of LTBI after suspected exposure (i.e., contact investigation after a resident or employee is diagnosed with active TB or a laboratory spill of M. tuberculosis) of persons participating in longitudinal LTBI surveillance programs.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 89,
+      "text": "The approach of using QFT for initial screening, followed by QFT and TST 3 months after the end of the suspected exposure, has not been evaluated.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 90,
+      "text": "Diagnosis of M. avium complex disease Evaluation of persons with suspected tuberculosis.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 91,
+      "text": "Active TB is associated with suppressed interferon responses, and in prior studies, fewer persons with active TB had positive QFT results than TST results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 92,
+      "text": "The degree of suppression appears to be related to the severity of disease and the duration of therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 93,
+      "text": "The CDC notes that studies are under way to compare the sensitivity of QFT and TST among persons with untreated active TB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 94,
+      "text": "Screening of children aged less than 17 years, pregnant women, or for persons with clinical conditions that increase the risk for progression of LTBI to active TB (e.g., HIV infection).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 95,
+      "text": "The CDC states that further studies are needed to define the appropriate use of QFT among these persons.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 96,
+      "text": "Gupta et al (2008) stated that tumor necrosis factor (TNF)-alpha inhibitors such as infliximab are becoming more widely used for the treatment of patients with Crohn's disease, rheumatoid arthritis, and other inflammatory disorders.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 97,
+      "text": "These biological agents increase the risk of serious infections, including TB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 98,
+      "text": "Screening for and treatment of LTBI before infliximab therapy reduces the risk of developing active TB.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 99,
+      "text": "Theis and Rhodes (2008) noted that TNF-alpha inhibitors are a major advance in the management of inflammatory bowel disease but increase the risk for TB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 100,
+      "text": "These investigators examined the reasons for the increase in the risk for TB and the strategies to reduce it.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 101,
+      "text": "Increased susceptibility to TB, often with extra- pulmonary or disseminated disease, occurs following treatment with all anti-TNF-alpha biologics and amounts to a 4- to 20-fold increased risk with infliximab.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 102,
+      "text": "Tuberculosis usually occurs shortly after anti- TNF-alpha initiation suggesting re-activation of latent infection.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 103,
+      "text": "Animal studies show that TNF-alpha inhibition impairs inflammatory cell trafficking and granuloma formation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 104,
+      "text": "Currently recommended screening for latent TB typically entail risk assessment, tuberculin skin testing and chest radiograph prior to anti-TNF-alpha treatment, which can reduce TB rates by up to 90 % but newer screening interferon gamma assays may enhance screening efficacy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 105,
+      "text": "Patients positive on screening who are treated with isoniazid and subsequently receive anti-TNF-alpha treatment still have approximately 19 % risk for TB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 107,
+      "text": "Screening reduces the risk substantially but does not completely eliminate it.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 108,
+      "text": "The National Psoriasis Foundation's consensus statement on screening for LTBI in patients with psoriasis treated with systemic and biologic agents (Doherty et al, 2008) stated that it is important to screen all patients for LTBI before initiating any immunologic therapy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 109,
+      "text": "Delaying immunologic therapy until LTBI prophylaxis is completed is preferable.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 110,
+      "text": "However, if the patient is adhering to his prophylactic regimen and is appropriately tolerating the regimen, therapy may be started after 1 to 2 months if the clinical condition requires.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 111,
+      "text": "Rangaka et al (2012) examined if interferon-γ release assays (IGRAs) can predict the development of active TB and whether the predictive ability of these tests is better than that of the TST.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 112,
+      "text": "Longitudinal studies of the predictive value for active TB of in-house or commercial IGRAs were identified through searches of PubMed, Embase, Biosis, and Web of Science and complementary manual searches up to June 30, 2011.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 113,
+      "text": "Eligible studies included adults or children, with or without HIV, who were free of active TB at study baseline.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 114,
+      "text": "These investigators summarized incidence rates in forest plots and pooled data with random-effects models when appropriate.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 115,
+      "text": "They calculated incidence rate ratios (IRR) for rates of disease progression in IGRA-positive versus IGRA-negative individuals.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 116,
+      "text": "A total of 15 studies had a combined sample size of 26,680 participants.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 117,
+      "text": "Incidence of tuberculosis during a median follow-up of 4 years (IQR 2 to 6), even in IGRA-positive individuals, was 4 to 48 cases per 1,000 person-years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 118,
+      "text": "Seven studies with no possibility of incorporation bias and reporting baseline stratification on the basis of IGRA results showed a moderate association between positive results and subsequent tuberculosis (pooled unadjusted IRR 2.10, 95 % confidence interval [CI]: 1.42 to 3.08).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 119,
+      "text": "Compared with test-negative results, IGRA-positive and TST- positive results were much the same with regard to the risk of tuberculosis (pooled IRR in the 5 studies that used both was 2.11 [95 % CI: 1.29 to 3.46] for IGRA versus 1.60 [0.94 to 2.72] for TST at the 10 mm cut- off).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 120,
+      "text": "However, the proportion of IGRA-positive individuals in 7 of 11 studies that assessed both IGRAs and TST was generally lower than TST-positive individuals.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 121,
+      "text": "The authors concluded that neither IGRAs nor the TST have high accuracy for the prediction of active TB, although use of IGRAs in some populations might reduce the number of people considered for preventive treatment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 122,
+      "text": "Until more predictive biomarkers are identified, existing tests for LTBI should be chosen on the basis of relative specificity in different populations, logistics, cost, and patients' preferences rather than on predictive ability alone.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 123,
+      "text": "Fong et al (2012) stated that clinical data with use of serial IGRA testing in U.S. health-care workers (HCWs) are limited.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 124,
+      "text": "These investigators performed a single-center, retrospective chart review from 2007 to 2010 of HCWs who underwent pre-employment QuantiFERON-TB Gold In-Tube testing.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 125,
+      "text": "Demographic data, bacille Calmette-Guérin history, prior TST result if done, and baseline and serial IGRA values were obtained.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 126,
+      "text": "The number of IGRA converters and reverters and their subsequent management by infectious disease physicians were reviewed.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 127,
+      "text": "Quantitative IGRA-negative values were not available.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 128,
+      "text": "A total of 7,374 IGRAs were performed on newly hired HCWs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 129,
+      "text": "Of these tests, 486 (6.6 %) were positive at baseline, 305 (4.1 %) were indeterminate, and 6,583 (89.3 %) were negative.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 130,
+      "text": "From 2007 to 2010, 52 of 1,857 HCWs (2.8 %) with serial IGRA tests were identified as converters, with a serial IGRA median value of 0.63 IU/ml.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 131,
+      "text": "Seventy-one percent of HCWs with IGRA conversion had values less than or equal to 1 IU/ml.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 132,
+      "text": "None of the converters had active TB or were part of an outbreak investigation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 133,
+      "text": "The authors concluded that clinical significance of most QuantiFERON-TB Gold In-Tube conversions in serial testing remains a challenging task for clinicians.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 134,
+      "text": "The use of a single cut-off point criterion for IGRA may lead to over-diagnosis of new TB infections.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 135,
+      "text": "Clinical assessment and evaluation may help to prevent unnecessary therapy in these cases.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 136,
+      "text": "The criteria for defining conversions and reversions by establishing new cut-offs needs to be evaluated further, especially in HCWs.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 137,
+      "text": "Ringshausen et al (2012) noted that IGRAs are increasingly used in the TB screening of HCWs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 138,
+      "text": "However, comparatively high rates of conversions and reversion as well as growing evidence of substantial within- subject variability of interferon-gamma responses complicate their interpretation in the serial testing of HCWs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 139,
+      "text": "These researchers conducted a systematic review on the repeat use of the 2 commercial IGRAs, the QuantiFERON-TB Gold or In-Tube version (QFT) and the T-SPOT.TB (T-SPOT), in the serial testing and its with-subject variability among HCWs in order to provide guidance on how to interpret serial testing results in the context of the periodic screening of subjects with an increased occupational risk of LTBI in countries with low and intermediate TB incidence rates.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 140,
+      "text": "The Medline, Embase, and Cochrane databases were searched without restrictions.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 141,
+      "text": "Retrieved articles were complemented by additional hand searched records.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 142,
+      "text": "Only studies that used commercial IGRAs among HCWs apart from contact and outbreak investigations and those fulfilling further predefined criteria were included.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 143,
+      "text": "Overall, 20 studies, 5 using the T-SPOT and 19 using the QFT assay, were included.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 144,
+      "text": "Fifteen studies met eligibility criteria for serial testing and 5 studies for within- subject variability.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 145,
+      "text": "Irrespective of TB incidence rates in the study's country of origin, reversion rates were consistently higher than conversion rates (range of 22 to 71 % versus 1 to 14 %).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 146,
+      "text": "Subjects with baseline results around the diagnostic threshold were more likely to show inconsistent results on retesting.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 147,
+      "text": "The within-subject variability of interferon-gamma responses was considerable across all studies systematically assessing it.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 148,
+      "text": "The authors concluded that on the basis of reviewed studies they advocate using a borderline zone from 0.2 to 0.7 IU/ml for the interpretation of repeat QFT results in the routine screening of HCWs with an increased LTBI risk.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 149,
+      "text": "Subjects with QFT results within this borderline zone, with suspected fresh infection, and those who are considered for preventive chemotherapy should be re-tested with the QFT within a period of about 4 weeks before preventive chemotherapy is recommended.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 150,
+      "text": "However, the available data regarding the use of the T-SPOT in the serial testing of HCWs is remarkably limited and warrants further research.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 151,
+      "text": "Rapid Molecular Testing for the Detection of Multi-Drug Resistant Tuberculosis Drobniewsk et al (2015) noted that drug-resistant TB, especially multidrug-resistant (MDR, resistance to rifampicin and isoniazid) disease, is associated with a worse patient outcome.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 152,
+      "text": "Drug resistance diagnosed using microbiological culture takes days to weeks, as TB bacteria grow slowly.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 153,
+      "text": "Rapid molecular tests for drug resistance detection (1 day) are commercially available and may promote faster initiation of appropriate treatment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 154,
+      "text": "These researchers I. conducted a systematic review of evidence regarding diagnostic accuracy of molecular genetic tests for drug resistance, II.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 155,
+      "text": "conducted a health-economic evaluation of screening and diagnostic strategies, including comparison of alternative models of service provision and assessment of the value of targeting rapid testing at high-risk subgroups, and III.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 156,
+      "text": "constructed a transmission-dynamic mathematical model that translates the estimates of diagnostic accuracy into estimates of clinical impact.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 157,
+      "text": "I. conducted a systematic review of evidence regarding diagnostic accuracy of molecular genetic tests for drug resistance, II.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 158,
+      "text": "conducted a health-economic evaluation of screening and diagnostic strategies, including comparison of alternative models of service provision and assessment of the value of targeting rapid testing at high-risk subgroups, and III.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 159,
+      "text": "constructed a transmission-dynamic mathematical model that translates the estimates of diagnostic accuracy into estimates of clinical impact.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 160,
+      "text": "A standardized search strategy identified relevant studies from EMBASE, PubMed, MEDLINE, Bioscience Information Service (BIOSIS), System for Information on Grey Literature in Europe Social Policy & Practice (SIGLE) and Web of Science, published between January 1, 2000 and August 15, 2013.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 161,
+      "text": "Additional “grey” sources were included.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 162,
+      "text": "Quality was assessed using quality assessment of diagnostic accuracy studies version 2 (QUADAS-2).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 163,
+      "text": "For each diagnostic strategy and population subgroup, a care pathway was constructed to specify which medical treatments and health services that individuals would receive from presentation to the point where they either did or did not complete TB treatment successfully.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 164,
+      "text": "A total cost was estimated from a health service perspective for each care pathway, and the health impact was estimated in terms of the mean discounted quality-adjusted life-years (QALYs) lost as a result of disease and treatment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 165,
+      "text": "Costs and QALYs were both discounted at 3.5 % per year.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 166,
+      "text": "An integrated transmission-dynamic and economic model was used to evaluate the cost-effectiveness of introducing rapid molecular testing (in addition to culture and drug sensitivity testing).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 167,
+      "text": "Probabilistic sensitivity analysis was performed to evaluate the impact on cost-effectiveness of diagnostic and treatment time delays, diagnosis and treatment costs, and associated QALYs.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 168,
+      "text": "A total of 8,922 titles and abstracts were identified, with 557 papers being potentially eligible.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 169,
+      "text": "Of these, 56 studies contained sufficient test information for analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 170,
+      "text": "All 3 commercial tests performed well when detecting drug resistance in clinical samples, although with evidence of heterogeneity between studies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 171,
+      "text": "Pooled sensitivity for GenoType MTBDRplus (Hain Lifescience, Nehren, Germany) (isoniazid and rifampicin resistance), INNO-LiPA Rif.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 172,
+      "text": "TB (Fujirebio Europe, Ghent, Belgium) (rifampicin resistance) and Xpert MTB/RIF (Cepheid Inc., Sunnyvale, CA) (rifampicin resistance) was 83.4 %, 94.6 %, 95.4 % and 96.8 %, respectively; equivalent pooled specificity was 99.6 %, 98.2 %, 99.7 % and 98.4 %, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 173,
+      "text": "Results of the transmission model suggested that all of the rapid assays considered here, if added to the current diagnostic pathway, would be cost-saving and achieved a reduction in expected QALY loss compared with current practice.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 174,
+      "text": "GenoType MTBDRplus appeared to be the most cost-effective of the rapid tests in the South Asian population, although results were similar for GeneXpert.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 175,
+      "text": "In all other scenarios GeneXpert appeared to be the most cost-effective strategy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 176,
+      "text": "The authors concluded that rapid molecular tests for rifampicin and isoniazid resistance were sensitive and specific.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 177,
+      "text": "They may also be cost-effective when added to culture drug susceptibility testing in the UK.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 178,
+      "text": "They stated that there is global interest in point-of- care testing and further work is needed to review the performance of emerging tests and the wider health- economic impact of decentralized testing in clinics and primary care, as well as non-health-care settings, such as shelters and prisons.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 179,
+      "text": "Bai and colleagues (2016) stated that there is an urgent demand for rapid and accurate drug-susceptibility testing for the detection of MDR tuberculosis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 180,
+      "text": "The GenoType MTBDRplus assay is a promising molecular kit designed for rapid identification of resistance to first-line anti-tuberculosis drugs, isoniazid and rifampicin.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 181,
+      "text": "In a meta-analysis, these researchers evaluated the diagnostic accuracy of GenoType MTBDRplus in detecting drug resistance to isoniazid and rifampicin in comparison with the conventional drug susceptibility tests.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 182,
+      "text": "They searched PubMed, EMBASE, and Cochrane Library databases to identify studies according to pre-determined criteria.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 183,
+      "text": "A total of 40 studies were included in the meta-analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 184,
+      "text": "QUADAS-2 was used to assess the quality of included studies with RevMan 5.2.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 185,
+      "text": "STATA 13.0 software was used to analyze the tests for sensitivity, specificity, positive likelihood ratio, negative likelihood ratio, diagnostic odds ratio, and area under the summary receiver operating characteristic curves.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 186,
+      "text": "Heterogeneity in accuracy measures was tested with Spearman correlation coefficient and Chi-square.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 187,
+      "text": "Patient selection bias was observed in most studies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 188,
+      "text": "The pooled sensitivity (95 % CIs were 0.91 (0.88 to 0.94) for isoniazid, 0.96 (0.95 to 0.97) for rifampicin, and 0.91(0.86 to 0.94) for MDR.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 189,
+      "text": "The pooled specificity (95 % CI) was 0.99 (0.98 to 0.99) for isoniazid, 0.98 (0.97 to 0.99) for rifampicin and 0.99 (0.99 to 1.00) for MDR, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 190,
+      "text": "The area under the summary receiver operating characteristic curves ranged from 0.99 to 1.00.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 191,
+      "text": "The authors concluded that this meta-analysis determined that GenoType MTBDRplus had good accuracy for rapid detection of drug resistance to isoniazid and/or rifampicin of M. tuberculosis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 192,
+      "text": "They stated that the MTBDRplus method might be a good alternative to conventional drug susceptibility tests in clinical practice.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 193,
+      "text": "An UpToDate review on “Diagnosis, treatment, and prevention of drug-resistant tuberculosis” (Schluger, 2016) states that “Rapid testing using molecular techniques (e.g., GeneXpert MTB/RIF, MTBDRplus, and MTBDRs) can speed the diagnosis and control of multidrug-resistant TB (MDR-TB) infection ….",
+      "label": "CLAIM"
+    },
+    {
+      "id": 194,
+      "text": "These assays hold promise for the early and rapid detection of drug resistance.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 195,
+      "text": "Limitations include cost, identification of only rifampin or isoniazid resistance, and inability to identify which patients are 'sputum smear positive' for infection control and treatment monitoring purposes”.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 196,
+      "text": "Guidance from the Centers for Disease Control and Prevention (2013) stated that the Xpert MTB/RIF assay aids in the prompt diagnosis of TB and RMP-resistant disease.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 197,
+      "text": "The CDC notes that RMP resistance most often coexists with isoniazid (INH) resistance; TB that is resistant to both drugs is multidrug-resistant (MDR) TB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 198,
+      "text": "The CDC explained that, because the prevalence of RMP resistance is low in the United States (about 1.8 % of TB cases), a positive result indicating a mutation in the rpoB gene of MTBC should be confirmed by rapid DNA sequencing for prompt reassessment of the treatment regimen and followed by growth-based drug susceptibility testing (DST).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 199,
+      "text": "The CDC also stated that although an Xpert MTB/RIF assay result positive for MTBC and negative for RMP resistance has high negative predictive value for ruling out RMP resistance, growth-based DST to first-line TB drugs is still necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 200,
+      "text": "The CDC offers these services free of charge.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 201,
+      "text": "The statement notes that the World Health Organization has published guidance on use of the Xpert MTB/RIF assay aimed primarily at settings where the prevalence of TB and drug-resistant disease is much higher than in the United States.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 202,
+      "text": "Whole Genome Sequencing of Mycobacterium Tuberculosis for Detection of Drug Resistance Phelan and associates (2016) stated that the emergence of resistance to anti-tuberculosis drugs is a serious and growing threat to public health.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 203,
+      "text": "Whole genome sequencing (WGS) is rapidly gaining traction as a diagnostic tool for investigating drug resistance in M. tuberculosis to aid treatment decisions.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 204,
+      "text": "However, there are few data regarding the precision of such sequencing for assigning resistance profiles.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 205,
+      "text": "These researchers examined 2 sequencing platforms (Illumina MiSeq, Ion Torrent PGM) and 2 rapid analytic pipelines (TBProfiler, Mykrobe predictor) using a well-characterized reference strain (H37Rv) and clinical isolates from patients with tuberculosis resistant to up to 13 drugs.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 206,
+      "text": "Results were compared to phenotypic drug susceptibility testing to assess analytical robustness individual DNA samples were subjected to repeated sequencing.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 207,
+      "text": "The MiSeq and Ion PGM systems accurately predicted drug-resistance profiles and there was high reproducibility between biological and technical sample replicates.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 208,
+      "text": "Estimated variant error rates were low (MiSeq 1 per 77 kbp, Ion PGM 1 per 41 kbp) and genomic coverage high (MiSeq 51-fold, Ion PGM 53- fold).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 209,
+      "text": "MiSeq provided superior coverage in GC-rich regions, which translated into incremental detection of putative genotypic drug-specific resistance, including for resistance to para-amino-salicylic acid and pyrazinamide.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 210,
+      "text": "The TBProfiler bioinformatics pipeline was concordant with reported phenotypic susceptibility for all drugs tested except pyrazinamide and para-amino-salicylic acid, with an overall concordance of 95.3 %.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 211,
+      "text": "When using the Mykrobe predictor concordance with phenotypic testing was 73.6 %.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 212,
+      "text": "The authors concluded that sequencing platforms are becoming more accessible and economical; and their work suggested that they are capable of delivering high quality data regarding resistance to anti-TB drugs but do not all perform to the same standard and quality monitoring is advisable.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 213,
+      "text": "They stated that further studies are needed to evaluate these analytical tools, which as yet do not have regulatory approval for clinical use.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 214,
+      "text": "It is expected that drug-resistance profiling using next-generation sequencing will gain accuracy and reliability with the gathering of improved knowledge of the drug-target genes and resistance-causing mutations, including for the new drugs recently approved for the treatment of MDR-TB and extensively drug-resistant (XDR)-TB Papaventsis and colleagues (2017) conducted a systematic review to determine the diagnostic accuracy of WGS of M. tuberculosis for detecting resistance to 1st- and 2nd-line anti-TB drugs.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 215,
+      "text": "The study was conducted according to the criteria of the Preferred Reporting Items for Systematic Reviews group.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 216,
+      "text": "A total of 20 publications were included.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 217,
+      "text": "The sensitivity, specificity, positive-predictive value (PPV) and negative- predictive value (NPV) of WGS using phenotypic drug susceptibility testing methods as a reference standard were determined.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 218,
+      "text": "Anti-TB agents tested included all 1st-line drugs, a variety of reserve drugs, as well as new drugs.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 219,
+      "text": "Polymorphisms in a total of 53 genes were tested for associations with drug resistance.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 220,
+      "text": "Pooled sensitivity and specificity values for detection of resistance to selected 1st-line drugs were 0.98 (95 % CI: 0.93 to 0.98) and 0.98 (95 % CI: 0.98 to 1.00) for rifampicin and 0.97 (95 % CI: 0.94 to 0.99) and 0.93 (95 % CI: 0.91 to 0.96) for isoniazid, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 221,
+      "text": "Due to high heterogeneity in study designs, lack of data, knowledge of resistance mechanisms and clarity on exclusion of phylogenetic markers, there was a significant variation in analytical performance of WGS for the remaining 1st-line, reserved drugs and new drugs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 222,
+      "text": "The authors concluded that WGS could be considered a promising alternative to existing phenotypic and molecular drug susceptibility testing methods for rifampicin and isoniazid pending standardization of analytical pipelines.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 223,
+      "text": "They stated that to ensure clinical relevance of WGS for detection of M. tuberculosis complex drug resistance, future studies should include information on clinical outcomes.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 224,
+      "text": "Molecular Stool Tests (e.g., Stool Xpert MTB/RIF, and TruTip Workstation) for the Detection of Pulmonary Tuberculosis in Children Orikiriza and associates (2018) stated that the Xpert MTB/RIF assay is a major advance for diagnosis TB in high-burden countries but is limited in children by their difficulty to produce sputum.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 225,
+      "text": "These investigators examined TB in sputum and stool from children with the aim of improving pediatric TB diagnosis.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 226,
+      "text": "A prospective cohort of children with presumptive TB, provided 2 sputum or induced sputum at enrolment in a regional referral hospital in Uganda.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 227,
+      "text": "Stool was collected from those started on TB treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 228,
+      "text": "All specimen were tested for Xpert MTB/RIF, mycobacteria growth indicator tube (MGIT), Lowenstein Jensen cultures and microscopy (except stool).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 229,
+      "text": "These investigators compared TB detection between age categories and assessed the performance of Xpert MTB/RIF in sputum and stool.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 230,
+      "text": "Of the 392 children enrolled, 357 (91.1 %) produced at least 1 sputum sample.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 231,
+      "text": "Sputum culture yield was 13/357 (3.6 %): 3/109 (2.6 %), 3/89 (3.2 %), 3/101 (2.6 %) and 4/44 (8.2 %) among children of less than 2, 2 to 5, greater than or equal to 5 to 10 and greater than 10 years, respectively (p = 0.599).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 232,
+      "text": "Xpert MTB/RIF yield was 14/350 (4.0 %): 3/104 (2.9 %), 4/92 (4.3 %), 3/88 (2.9 %) and 4/50 (8.0 %), respectively (p = 0.283).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 233,
+      "text": "Sensitivity and specificity of Xpert MTB/RIF in sputum against sputum culture were 90.9 % (95 % CI: 58.7 to 99.8) and 99.1 % (99.1 to 99.8).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 234,
+      "text": "In stool, it was 55.6 % (21.2 to 86.3) and 98.2 % (98.2 to 100) against Xpert MTB/RIF and culture in sputum.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 235,
+      "text": "Only a minority of children had microbiologically confirmed TB with a higher proportion in children above 10 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 236,
+      "text": "The authors concluded that although sensitivity of Xpert MTB/RIF in stool was low, with good optimization, it might be a good alternative to sputum in children.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 237,
+      "text": "MacLean and colleagues (2019) noted that invasive collection methods are often needed to obtain samples for the microbiologic evaluation of children with presumptive pulmonary TB (PTB).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 238,
+      "text": "Nucleic-acid amplification testing of easier to collect stool samples could be a non-invasive method of diagnosing PTB.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 239,
+      "text": "These researchers conducted a systematic review and meta-analysis to examine the diagnostic accuracy of testing stool with the Xpert MTB/RIF assay (“stool Xpert”) for childhood PTB; 4 databases were searched for publications from January 2008 to June 2018.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 240,
+      "text": "Studies assessing the diagnostic accuracy among children of stool Xpert compared to a microbiological reference standard of conventional specimens tested by mycobacterial culture or Xpert were eligible.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 241,
+      "text": "Bi-variate random-effects meta-analyses were performed to calculate pooled sensitivity and specificity of stool Xpert against the reference standard.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 242,
+      "text": "From 1,589 citations, 9 studies (n = 1,681) were included.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 243,
+      "text": "Median participant ages ranged from 1.3 to 10.6 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 244,
+      "text": "Protocols for stool processing and testing varied substantially, with differences in reagents and methods of homogenization and filtering.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 245,
+      "text": "Against the microbiological reference standard, pooled sensitivity and specificity of stool Xpert were 67 % (95 %CI: 52 to 79) and 99 % (95 % CI: 98 to 99), respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 246,
+      "text": "Sensitivity was higher among children with HIV (79 %; 95 % CI: 68 to 87; versus 60 %; 95 % CI: 44 to 74 among HIV-uninfected). Heterogeneity was high.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 247,
+      "text": "Data were insufficient for subgroup analyses amongst children under age 5, the most relevant target population.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 248,
+      "text": "The authors concluded that stool Xpert could be a non-invasive method of ruling-in PTB in children, especially those with HIV.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 249,
+      "text": "However, studies focused on children under 5 are needed, and generalizability of the evidence is limited by the lack of a standardized stool preparation and testing protocol.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 250,
+      "text": "An UpToDate review on “Tuberculosis disease in children” (Adams and Starke, 2019) states that “The Xpert MTB/RIF assay is an automated nucleic acid amplification test that can simultaneously identify M. tuberculosis and detect rifampin resistance.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 251,
+      "text": "This test performs substantially better than smear microscopy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 252,
+      "text": "In a randomized trial including 452 children in South Africa with suspected pulmonary TB, 6 % had a positive sputum smear, 16 % had a positive sputum culture, and 13 % had a positive sputum Xpert MTB/RIF result.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 253,
+      "text": "The initial Xpert MTB/RIF test detected 100 % of culture-positive cases that were smear positive but only 33 % of those that were smear negative; a second Xpert MTB/RIF test improved the detection of smear- negative cases to 61 %.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 254,
+      "text": "Overall, with induced sputum specimens, the sensitivity and specificity were 59 and 99 %, respectively, for one Xpert MTB/RIF test and 76 and 99 % for two Xpert MTB/RIF tests.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 255,
+      "text": "Test performance was unaffected by patient HIV status.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 256,
+      "text": "Results for Xpert MTB/RIF were available within a median of one day (versus 12 days for culture).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 257,
+      "text": "Detection of rifampin resistance was less promising: 1 of 3 rifampin-resistant isolates was not detected, and 4 of 74 rifampin-sensitive isolates had an \"indeterminate\" result.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 258,
+      "text": "A multi-country study found that Xpert MTB/RIF testing of both a nasopharyngeal aspirate and stool sample had a high yield (sensitivity of 75 % and specificity > 97 %) in HIV-infected children and poses a promising alternative”.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 259,
+      "text": "Mesman and colleagues (2019a) noted that stool is a promising specimen option to diagnose pediatric TB, however, studies have reported a wide range of test sensitivities.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 260,
+      "text": "In a meta-analysis , these researchers examined the accuracy of Xpert MTB/RIF or “in-house” molecular tests on stool samples against culture or Xpert MTB/RIF on respiratory samples or clinically-diagnosed unconfirmed TB and aimed to identify factors that contribute to the heterogeneity of reported sensitivity.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 261,
+      "text": "They searched Embase and PubMed databases and conference abstract books for studies reporting molecular stool testing against a clinical or microbiological reference standard among children.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 262,
+      "text": "These investigators identified 16 studies that included 2,481 children in stool test analyses.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 263,
+      "text": "Pooled specificity was 98 % [95 % CI: 96 to 99], pooled sensitivity was 57 % [95 % CI: 40 to 72] against culture and 3 % [95 % CI: 2 to 6] among children with clinically- diagnosed, unconfirmed TB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 264,
+      "text": "There was much heterogeneity; sensitivity was higher among children with a smear-positive sputum test.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 265,
+      "text": "Rifampin resistance in stool was reported in 2 studies and detected in 5/14 children (36 %).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 266,
+      "text": "The authors concluded that these findings indicated that stool is a promising sample type for a rule-in TB test in children.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 267,
+      "text": "Moreover, these researchers stated that standardization of testing procedures and rigorous study design will be important to overcome or understand heterogeneity in sensitivity outcomes and develop a valuable molecular test.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 268,
+      "text": "The authors stated that the major drawback of this study reflected that of the existing body of evidence related to the molecular detection of Mycobacterium tuberculosis (Mtb) in stool: a limited number of studies coupled with heterogeneous patient populations, testing procedures, and protocols; these factors limited the ability to examine the key factors that drive assay sensitivity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 269,
+      "text": "These investigators were unable to account for all variation in stool sample collection and processing methods that could impact sensitivity and specificity, or could influence the percentage of invalid test outcomes due to clogging of Xpert MTB/RIF cartridges.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 270,
+      "text": "For example, these results suggested a possible association between stool sample volume and invalid test results, which was supported by the reduction of invalid results after decreasing the sample volume from 1,200 to 600 mg.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 271,
+      "text": "However, in many studies volume varied among participants and was not recorded, which prevented a participant-level sub-analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 272,
+      "text": "Furthermore, these researchers conducted analyses by-child and did not stratify for the number of index or reference samples or the type(s) of reference sample, because these individual patient data were in not available in multiple studies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 273,
+      "text": "Mesman and colleagues (2019b) stated that rapid and accurate diagnosis of childhood TB is challenging because children are often unable to produce the sputum sample needed for conventional tests.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 274,
+      "text": "Stool is an alternative sample type that is easy to collect from children, and studies examining the use of stool for molecular detection of Mtb have led to promising results.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 275,
+      "text": "These researchers examined stool as an alternative specimen to sputum for Mtb detection in children.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 276,
+      "text": "They used the TruTip workstation (Akonni Biosystems), a novel automated lysis and extraction platform.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 277,
+      "text": "These investigators tested stool samples from 259 children aged 0 to 14 years, in Lima, Peru who presented with TB symptoms.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 278,
+      "text": "Following extraction with TruTip, these researchers detected the presence of Mtb DNA by IS6110 real-time polymerase chain reaction (PCR).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 279,
+      "text": "They calculated assay sensitivity in 2 groups: children with culture confirmed TB (n = 22); and children with clinically-diagnosed unconfirmed TB (n = 84).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 280,
+      "text": "They calculated specificity among children in whom TB was ruled out (n = 153).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 281,
+      "text": "Among children who were diagnosed with TB, these investigators examined factors associated with a positive stool test.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 282,
+      "text": "Assay sensitivity was 59 % (95 % CI: 39 to 80 %) and 1.2 % (95 % CI: 0.0 to 6.5 %) in children with culture-confirmed and clinically-diagnosed unconfirmed TB, respectively, and specificity was 97 % (95 % CI: 93 to 99 %).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 283,
+      "text": "The assay detected Mtb in stool of 7/7 children with smear- positive TB (100 % sensitivity; 95 % CI: 59 to 100 %), and in 6/15 of children with smear-negative, culture- confirmed TB (40 % sensitivity; 95 % CI: 16 to 68 %).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 284,
+      "text": "Older age, smear positivity, culture positivity, ability to produce sputum and cavitary disease were associated with a positive stool result.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 285,
+      "text": "The authors concluded that testing of stool samples with the TruTip workstation and IS6110 amplification yielded sensitivity and specificity estimates comparable to other tests such as Xpert.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 286,
+      "text": "Moreover, these researchers stated that future work should include detection of resistance using the TruTip closed amplification system and assay optimization to improve sensitivity in children with low bacillary loads.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 287,
+      "text": "The authors stated that a drawback of this study was that they lacked follow-up data on the clinical evolution of children, a key criterion for classifying pediatric cases of clinically-diagnosed, unconfirmed TB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 288,
+      "text": "To the extent that unconfirmed clinical TB was over-diagnosed, sensitivity will be under-estimated in this group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 289,
+      "text": "Similarly, missed TB diagnoses among children in whom TB was ruled out could lead to an under-estimate of assay specificity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 290,
+      "text": "The influence of these potential biases appeared limited given the very low sensitivity among children with clinically-diagnosed unconfirmed clinical TB and a high overall specificity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 291,
+      "text": "A second drawback was the absence of children living with HIV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 292,
+      "text": "Studies have shown that sensitivity of stool assays may be higher in children living with HIV, in particular with severe immunosuppression, thus, these findings may not be generalizable to children living with HIV.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 293,
+      "text": "Biomarker-Based Non-Sputum Tests for Diagnosis of Tuberculosis Drain and colleagues (2019) stated that the World Health Organization (WHO)’s \"End TB\" strategy calls for development and implementation of novel TB diagnostics.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 294,
+      "text": "Sputum-based diagnostics are challenging to implement and often less sensitive in high-priority populations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 295,
+      "text": "Non-sputum, biomarker-based tests may facilitate TB testing at lower levels of the healthcare system, accelerate treatment initiation, and improve outcomes.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 296,
+      "text": "These investigators provided guidance on the design of diagnostic accuracy studies evaluating non-sputum, biomarker-based tests within the context of WHO's target product profile for such tests.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 297,
+      "text": "Study designs should account for the intended use when choosing the study population, setting, and reference standards.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 298,
+      "text": "Although adults with respiratory symptoms may be an initial target population, other high-priority populations regardless of symptoms -- including people living with HIV, those unable to produce sputum samples or with extra-pulmonary TB, household contacts, and children -- should be considered.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 299,
+      "text": "Studies beyond diagnostic accuracy that evaluate feasibility and population-level impacts are also needed.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 300,
+      "text": "The authors concluded that a biomarker-based diagnostic may be critical to ending the TB epidemic, but needs appropriate validation before implementation.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 301,
+      "text": "They stated that researchers need to carefully consider population, setting, and reference standards when designing diagnostic accuracy studies of biomarker-based tests, and ideally also assess feasibility and cost, aligning each with the scope and target of the diagnostic test.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 302,
+      "text": "Gunasekaran et al (2025) noted that infection with Mycobacterium tuberculosis (Mtb) triggers an autoimmune-like response in the host resulting in further complications.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 303,
+      "text": "One of the major concerns in eliminating TB is identifying individuals with LTBI who serve as major reservoirs of Mtb making them the important target group for TB eradication.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 304,
+      "text": "Since no gold standard tests are available for detecting LTBI, the global burden of LTBI could not be precisely determined.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 305,
+      "text": "Since LTBI poses several challenges to healthcare globally, managing LTBI must be the principal priority to achieve a TB-free status.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 306,
+      "text": "The inflammatory mediators play an important role in determining the outcome of the Mtb infection and also their levels appeared to change according to the disease severity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 307,
+      "text": "Identification of inflammatory mediators and using them as diagnostic biomarkers for detecting the various stages of TB disease might aid in identifying the reservoirs of Mtb infection even before they become symptomatic so that preventative treatment can be started early.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 308,
+      "text": "The authors focused on examining different inflammatory markers along the course of the Mtb infection.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 309,
+      "text": "Identifying LTBI-specific biomarkers aided in identifying individuals who are at higher risk of developing TB and preparing them to adhere to preventive therapy; thus, minimizing the global burden of TB.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 310,
+      "text": "These researchers stated that while this review provided a thorough examination of the circulating markers, certain limitations must be acknowledged.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 311,
+      "text": "First, these circulating inflammatory markers are also implicated in other inflammatory conditions like rheumatoid arthritis and other diseases, their varying expression levels may not be exclusive to TB; therefore, affecting the specificity percentage.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 312,
+      "text": "Second, the variability could also stem from various other confounding factors such as sample size, technical disparities, ethnicity, individual inflammatory levels, as well as dietary and lifestyle patterns.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 313,
+      "text": "Third, the scarcity of longitudinal studies limited the ability to evaluate long-term outcomes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 314,
+      "text": "Fourth, while authors made a concerted effort to identify superior candidates studied across various stages of TB disease; however, these candidates required further validation across multiple cohorts using a multi-centric approach to ensure their suitability for clinical application.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 315,
+      "text": "Breath Tests (e.g., Electronic-Nose (eNose)) for Diagnosis of Tuberculosis Saktiawati and colleagues (2019) stated that breath tests may diagnose TB through detecting specific volatile organic compounds produced by Mtb or the infected host.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 316,
+      "text": "These researchers examined the diagnostic accuracy of breath test with electronic-nose and other devices against culture or other tests for TB.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 317,
+      "text": "They screened multiple databases until January 6, 2019.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 318,
+      "text": "These investigators included 14 studies, with 1,715 subjects in the analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 319,
+      "text": "The pooled sensitivity and specificity of electronic-nose were 0.93 (95 % CI: 0.82 to 0.97) and 0.93 (95 % CI: 0.82 to 0.97), respectively, and no heterogeneity was found.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 320,
+      "text": "The sensitivity and specificity of other breath test devices ranged from 0.62 to 1.00, and 0.11 to 0.84, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 321,
+      "text": "The authors concluded that the low-to-moderate evidence of these studies showed that breath tests have the potential for screening TB, however, to give a real-time test result, additional development is needed.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 322,
+      "text": "These investigators stated that research should also focus on sputum smear negative TB children, and the positioning of breath testing in the diagnostic work flow.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 323,
+      "text": "Coronel Teixeira et al (2021) stated that to end the TB epidemic, efficient diagnostic tools are needed .",
+      "label": "CLAIM"
+    },
+    {
+      "id": 324,
+      "text": "In a previous calibration study, a portable “point of care” (POC) electronic nose device (Aeonose) proved to be a promising tool in a hospital setting.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 325,
+      "text": "These researchers examined this technology to detect TB in an indigenous population in Paraguay. A total of 131 subjects were enrolled.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 326,
+      "text": "eNose results were compared with anamnesis, physical examinations, chest X-ray and mycobacterial cultures in individuals with signs and symptoms compatible with TB.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 327,
+      "text": "The eNose analysis was carried out in 2 stages: first, the training with a combination of a previous study population plus 47 subjects from the new cohort (total n = 153), and second, the “blind prediction” of 84 subjects.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 328,
+      "text": "A total of 21 % of all subjects (n = 131) showed symptoms and/or chest X-ray abnormalities suspicious of TB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 329,
+      "text": "No sputum samples resulted culture positive for Mycobacterium tuberculosis complex.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 330,
+      "text": "Only 1 subject had a positive smell print analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 331,
+      "text": "In the training model, the specificity was 92 % (95 % CI: 85 % to 96 %) and the NPV was 95 %.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 332,
+      "text": "In the blind prediction model, the specificity and the NPV were 99 % (95 % CI: 93 % to 99 %) and 100 %, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 333,
+      "text": "Although the sensitivity and PPV of the eNose could not be evaluated in this cohort due to the small sample size, no active TB cases were found during a 1-year of follow-up period.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 334,
+      "text": "The authors concluded that the eNose showed promising specificity and NPV and thus, might be developed as a rule-out test for TB in vulnerable populations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 335,
+      "text": "Moreover, these researchers stated that a study in a high incidence setting with a much larger sample size is needed to assure enough confirmed TB cases to examine the sensitivity and PPV to evaluate the eNose as a POC diagnostic test for TB.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 336,
+      "text": "The authors stated that this study had several drawbacks.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 337,
+      "text": "First, there were no active TB cases detected in this small and isolated indigenous community; thus, the sensitivity and the PPV of the eNose could not be established.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 338,
+      "text": "Given the TB incidence of 245/100,000 inhabitants for indigenous communities (data of PNCT), these researchers should have sampled at least a few thousand individuals to detect enough positive TB cases to examine its accuracy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 339,
+      "text": "Amplifying the sample size with indigenous people from other communities would have introduced a potential bias as these investigators were not informed whether for example differences in genetics or food habits may influence a persons’ breath signal.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 340,
+      "text": "Second, these researchers did not procure sputum specimens of all subjects to exclude active TB disease.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 341,
+      "text": "As the sensitivity of mycobacterial sputum culture is very low in asymptomatic individuals and also the fact that during the follow‐up period of 1 year, no new TB diagnoses were established, the authors assumed that the NPV of the eNose in this cohort was adequate.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 342,
+      "text": "Coronel Teixeira et al (2023) examined the performance of the eNose device in patients referred to the Paraguayan National Reference Center for respiratory diseases and TB (INERAM).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 343,
+      "text": "Patients aged 15 years or older were included.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 344,
+      "text": "A history, physical examination, chest X-ray (CRX) and microbiological evaluation of a sputum sample were carried out in all participants, as well as a 5-min breath test with the eNose.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 345,
+      "text": "TB diagnosis was preferably established by the gold standard and compared to the eNose predictions.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 346,
+      "text": "Uni- variate and multi-variate logistic regression analyses were carried out to examine potential risk factors for erroneous classification results by the eNose.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 347,
+      "text": "A total of 107 subjects with signs and symptoms of TB were enrolled of which 91 (85.0 %) were diagnosed with TB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 348,
+      "text": "The blind eNose predictions resulted in an accuracy of 50 %; a sensitivity of 52.3 % (95 % CI: 39.6 % to 64.7 %) and a specificity of 36.4 % (95 % CI: 12.4 % to 68.4 %).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 349,
+      "text": "Risk factors for erroneous classifications by the eNose were older age (multi-variate analysis: odds ratio [OR] 1.55, 95 % CI: 1.10 to 2.18, p = 0.012) and antibiotic use (multi-variate analysis: OR 3.19, 95 % CI: 1.06 to 9.66, p = 0.040).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 350,
+      "text": "The authors concluded that the accuracy of the eNose to diagnose TB in a tertiary referral hospital was only 50 %.",
+      "label": "CLAIM"
+    }
+  ]
+}
