@@ -1,7 +1,7 @@
 document_id,source,component_json,relation_json,component_record_count,component_claim_count,component_premise_count,component_non_argumentative_count,relation_record_count,relation_support_count,relation_attack_count,relation_none_count
 ablative-treatment-spinal-pain,uhc,ablative-treatment-spinal-pain.json,ablative-treatment-spinal-pain.json,126,25,84,17,252,91,70,91
 abnormal-uterine-bleeding-uterine-fibroids,uhc,abnormal-uterine-bleeding-uterine-fibroids.json,abnormal-uterine-bleeding-uterine-fibroids.json,77,20,33,24,98,23,7,68
-Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle,aetna,Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle.json,Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle.json,330,97,151,82,453,244,103,106
+Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle,aetna,Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle.json,,330,97,151,82,,,,
 Alzheimer's_Disease_Tests_-_Medical_Clinical_Policy_Bulletin,aetna,Alzheimer_Disease_Tests_Medical_Clinical_Policy_Bulletin.json,Alzheimer's_Disease_Tests_-_Medical_Clinical_Policy_Bulletin.json,146,10,99,37,297,171,42,84
 antiemetics-oncology,uhc,antiemetics-oncology.json,antiemetics-oncology.json,47,19,18,10,54,24,0,30
 Back_Pain_-_Invasive_Procedures_-_Medical_Clinical_Policy_Bu,aetna,Back_Pain_Invasive_Procedures_Medical_Clinical_Policy.json,Back_Pain_-_Invasive_Procedures_-_Medical_Clinical_Policy_Bu.json,206,90,98,18,249,167,41,41
@@ -35,8 +35,8 @@ Quantitative_EEG_(Brain_Mapping)_-_Medical_Clinical_Policy_B,aetna,Quantitative_
 Rhinometry_and_Rhinomanometry_-_Medical_Clinical_Policy_Bull,aetna,Rhinometry_and_Rhinomanometry_-_Medical_Clinical_Policy_Bull.json,Rhinometry_and_Rhinomanometry_-_Medical_Clinical_Policy_Bull.json,70,10,60,0,180,144,6,30
 Smell_and_Taste_Disorders__Diagnosis_-_Medical_Clinical_Poli,aetna,Smell_and_Taste_Disorders__Diagnosis_-_Medical_Clinical_Poli.json,Smell_and_Taste_Disorders__Diagnosis_-_Medical_Clinical_Poli.json,50,15,27,8,76,50,3,23
 spinal-fusion-decompression,uhc,spinal-fusion-decompression.json,spinal-fusion-decompression.json,72,26,19,27,42,16,0,26
-Thalamotomy_-_Medical_Clinical_Policy_Bulletins___Aetna.html,aetna,Thalamotomy_-_Medical_Clinical_Policy_Bulletins___Aetna.html.json,Thalamotomy_-_Medical_Clinical_Policy_Bulletins___Aetna.html.json,319,77,168,74,504,257,144,103
-Tuberculosis_Testing_-_Medical_Clinical_Policy_Bulletins___A,aetna,Tuberculosis_Testing_-_Medical_Clinical_Policy_Bulletins___A.json,Tuberculosis_Testing_-_Medical_Clinical_Policy_Bulletins___A.json,349,94,176,79,528,220,186,122
-Urinary_Incontinence_-_Medical_Clinical_Policy_Bulletins___A,aetna,Urinary_Incontinence_-_Medical_Clinical_Policy_Bulletins___A.json,Urinary_Incontinence_-_Medical_Clinical_Policy_Bulletins___A.json,299,78,132,89,396,181,85,130
-Varicose_Veins_-_Medical_Clinical_Policy_Bulletins___Aetna.h,aetna,Varicose_Veins_-_Medical_Clinical_Policy_Bulletins___Aetna.h.json,Varicose_Veins_-_Medical_Clinical_Policy_Bulletins___Aetna.h.json,304,116,97,91,291,117,98,76
+Thalamotomy_-_Medical_Clinical_Policy_Bulletins___Aetna.html,aetna,Thalamotomy_-_Medical_Clinical_Policy_Bulletins___Aetna.html.json,,319,77,168,74,,,,
+Tuberculosis_Testing_-_Medical_Clinical_Policy_Bulletins___A,aetna,Tuberculosis_Testing_-_Medical_Clinical_Policy_Bulletins___A.json,,349,94,176,79,,,,
+Urinary_Incontinence_-_Medical_Clinical_Policy_Bulletins___A,aetna,Urinary_Incontinence_-_Medical_Clinical_Policy_Bulletins___A.json,,299,78,132,89,,,,
+Varicose_Veins_-_Medical_Clinical_Policy_Bulletins___Aetna.h,aetna,,Varicose_Veins_-_Medical_Clinical_Policy_Bulletins___Aetna.h.json,,,,,291,117,98,76
 Voice_Therapy_-_Medical_Clinical_Policy_Bulletins___Aetna.ht,aetna,Voice_Therapy_Medical_Clinical_Policy_Bulletins_Aetna.json,Voice_Therapy_-_Medical_Clinical_Policy_Bulletins___Aetna.ht.json,23,13,6,4,18,6,0,12
