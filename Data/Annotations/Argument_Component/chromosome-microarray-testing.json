@@ -1,0 +1,777 @@
+{
+  "document_id": "chromosome-microarray-testing",
+  "source": "Uhc",
+  "dataset": "uhc",
+  "sentences": [
+    {
+      "id": 3,
+      "text": "Coverage Rationale Pre-test genetic counseling is strongly recommended in order to inform persons being tested about the advantages and limitations of the test as applied to a unique person.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Chromosome microarray testing using array comparative genomic hybridization (aCGH) and/or single-nucleotide polymorphism (SNP) array is proven and medically necessary for the following: Evaluation of an embryo/fetus in the following cases: o Intrauterine Fetal Demise or Stillbirth o Testing the products of conception following pregnancy loss o Individuals undergoing invasive prenatal testing (i.e., amniocentesis, chorionic villus sampling, or fetal tissue sampling) Chromosome Microarray Testing (Non-Oncology Conditions) Page 1 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Evaluation of individuals with one or more of the following: o Autism spectrum disorder (ASD) o Isolated severe congenital heart disease o Multiple anomalies that are not specific to a Well-Delineated Genetic Syndrome and cannot be identified by a clinical evaluation alone o Developmental Delay/Intellectual Disability where a specific syndrome is not suspected Evaluation of biological parent or sibling of a fetus or child with an abnormal or equivocal finding on chromosome microarray testing results Chromosome microarray testing using aCGH or SNP array is unproven and not medically necessary for all other populations and conditions due to insufficient evidence of efficacy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Note: Preimplantation genetic testing (PGT) is addressed in the Medical Policy titled Preimplantation Genetic Testing and Related Services.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Medical Records Documentation Used for Reviews Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Medical records documentation may be required to assess whether the member meets the clinical criteria for coverage but does not guarantee coverage of the service requested; refer to the guidelines titled Medical Records Documentation Used for Reviews.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "Definitions Developmental Delay: Developmental Delay may be used to describe children younger than 5 years of age who present with delays in the attainment of developmental milestones at the expected age (Moeschler and Shevell, 2014, reaffirmed 2019).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Intellectual Disability: A condition diagnosed before age 18 that includes below-average intellectual function and a lack of skills necessary for daily living (MedlinePlus, 2020).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "Intrauterine Fetal Demise or Stillbirth: Fetal death at or after 20 weeks’ gestation [American College of Obstetricians and Gynecologists (ACOG), Society of Maternal Fetal Medicine (SMFM), 2020, reaffirmed 2021].",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "Prenatal Diagnosis: A laboratory test performed on fetal deoxyribonucleic acid (DNA) or chromosomes before birth to determine if a fetus has a genetic or chromosomal disorder (ACOG, 2016a, reaffirmed 2023).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "Well-Delineated Genetic Syndrome: A syndrome is a collection of recognizable traits or abnormalities that tend to occur together and are associated with a specific disease.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "Distinguishing characteristics, such as specific facial features or other physical traits, lab tests, or family history can be used to identify a genetic syndrome. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 16,
+      "text": "Examples of Well-Delineated Genetic Syndromes include but are not limited to: Down syndrome, Klinefelter syndrome, Marfan syndrome, neurofibromatosis type 1, osteogenesis imperfecta, Prader-Willi syndrome, Rett syndrome, trisomy 13 (Patau syndrome), Trisomy 18 (Edwards syndrome), Turner syndrome, and Williams syndrome.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 22,
+      "text": "CPT Code Description 0156U Copy number (e.g., intellectual disability, dysmorphology), sequence analysis 0209U Cytogenomic constitutional (genome-wide) analysis, interrogation of genomic regions for copy number, structural changes and areas of homozygosity for chromosomal abnormalities Chromosome Microarray Testing (Non-Oncology Conditions) Page 2 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "Copyright 2026 United HealthCare Services, Inc. CPT Code Description 81228 Cytogenomic (genome-wide) analysis for constitutional chromosomal abnormalities; interrogation of genomic regions for copy number variants, comparative genomic hybridization [CGH] microarray analysis 81229 Cytogenomic (genome-wide) analysis for constitutional chromosomal abnormalities; interrogation of genomic regions for copy number and single nucleotide polymorphism (SNP) variants, comparative genomic hybridization (CGH) microarray analysis 81349 Cytogenomic (genome-wide) analysis for constitutional chromosomal abnormalities; interrogation of genomic regions for copy number and loss-of-heterozygosity variants, low-pass sequencing analysis 81479 Unlisted molecular pathology procedure CPT® is a registered trademark of the American Medical Association HCPCS Code Description S3870 Comparative genomic hybridization (CGH) microarray testing for developmental delay, autism spectrum disorder and/or intellectual disability Diagnosis Code Description F70 Mild intellectual disabilities F71 Moderate intellectual disabilities F72 Severe intellectual disabilities F73 Profound intellectual disabilities F78.A1 SYNGAP1-related intellectual disability F78.A9 Other genetic related intellectual disability F79 Unspecified intellectual disabilities F80.0 Phonological disorder F80.1 Expressive language disorder F80.2 Mixed receptive-expressive language disorder F80.4 Speech and language development delay due to hearing loss F80.81 Childhood onset fluency disorder F80.82 Social pragmatic communication disorder F80.89 Other developmental disorders of speech and language F80.9 Developmental disorder of speech and language, unspecified F81.0 Specific reading disorder F81.2 Mathematics disorder F81.81 Disorder of written expression F81.89 Other developmental disorders of scholastic skills F81.9 Developmental disorder of scholastic skills, unspecified F82 Specific developmental disorder of motor function F84.0 Autistic disorder F84.3 Other childhood disintegrative disorder F84.5 Asperger's syndrome F84.8 Other pervasive developmental disorders F84.9 Pervasive developmental disorder, unspecified F88 Other disorders of psychological development F89 Unspecified disorder of psychological development H93.25 Central auditory processing disorder N96 Recurrent pregnancy loss O02.1 Missed abortion Chromosome Microarray Testing (Non-Oncology Conditions) Page 3 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 24,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Diagnosis Code Description O02.89 Other abnormal products of conception O03.4 Incomplete spontaneous abortion without complication O03.9 Complete or unspecified spontaneous abortion without complication O09.511 Supervision of elderly primigravida, first trimester O09.512 Supervision of elderly primigravida, second trimester O09.513 Supervision of elderly primigravida, third trimester O09.519 Supervision of elderly primigravida, unspecified trimester O09.521 Supervision of elderly multigravida, first trimester O09.522 Supervision of elderly multigravida, second trimester O09.523 Supervision of elderly multigravida, third trimester O09.529 Supervision of elderly multigravida, unspecified trimester O26.20 Pregnancy care for patient with recurrent pregnancy loss, unspecified trimester O26.21 Pregnancy care for patient with recurrent pregnancy loss, first trimester O26.22 Pregnancy care for patient with recurrent pregnancy loss, second trimester O26.23 Pregnancy care for patient with recurrent pregnancy loss, third trimester O28.0 Abnormal hematological finding on antenatal screening of mother O28.1 Abnormal biochemical finding on antenatal screening of mother O28.2 Abnormal cytological finding on antenatal screening of mother O28.3 Abnormal ultrasonic finding on antenatal screening of mother O28.4 Abnormal radiological finding on antenatal screening of mother O28.5 Abnormal chromosomal and genetic finding on antenatal screening of mother O28.8 Other abnormal findings on antenatal screening of mother O28.9 Unspecified abnormal findings on antenatal screening of mother O35.00X0 Maternal care for (suspected) central nervous system malformation or damage in fetus, unspecified, not applicable or unspecified O35.00X1 Maternal care for (suspected) central nervous system malformation or damage in fetus, unspecified, fetus 1 O35.00X2 Maternal care for (suspected) central nervous system malformation or damage in fetus, unspecified, fetus 2 O35.00X3 Maternal care for (suspected) central nervous system malformation or damage in fetus, unspecified, fetus 3 O35.00X4 Maternal care for (suspected) central nervous system malformation or damage in fetus, unspecified, fetus 4 O35.00X5 Maternal care for (suspected) central nervous system malformation or damage in fetus, unspecified, fetus 5 O35.00X9 Maternal care for (suspected) central nervous system malformation or damage in fetus, unspecified, other fetus O35.01X0 Maternal care for (suspected) central nervous system malformation or damage in fetus, agenesis of the corpus callosum, not applicable or unspecified O35.01X1 Maternal care for (suspected) central nervous system malformation or damage in fetus, agenesis of the corpus callosum, fetus 1 O35.01X2 Maternal care for (suspected) central nervous system malformation or damage in fetus, agenesis of the corpus callosum, fetus 2 O35.01X3 Maternal care for (suspected) central nervous system malformation or damage in fetus, agenesis of the corpus callosum, fetus 3 O35.01X4 Maternal care for (suspected) central nervous system malformation or damage in fetus, agenesis of the corpus callosum, fetus 4 Chromosome Microarray Testing (Non-Oncology Conditions) Page 4 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 25,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Diagnosis Code Description O35.01X5 Maternal care for (suspected) central nervous system malformation or damage in fetus, agenesis of the corpus callosum, fetus 5 O35.01X9 Maternal care for (suspected) central nervous system malformation or damage in fetus, agenesis of the corpus callosum, other fetus O35.02X0 Maternal care for (suspected) central nervous system malformation or damage in fetus, anencephaly, not applicable or unspecified O35.02X1 Maternal care for (suspected) central nervous system malformation or damage in fetus, anencephaly, fetus 1 O35.02X2 Maternal care for (suspected) central nervous system malformation or damage in fetus, anencephaly, fetus 2 O35.02X3 Maternal care for (suspected) central nervous system malformation or damage in fetus, anencephaly, fetus 3 O35.02X4 Maternal care for (suspected) central nervous system malformation or damage in fetus, anencephaly, fetus 4 O35.02X5 Maternal care for (suspected) central nervous system malformation or damage in fetus, anencephaly, fetus 5 O35.02X9 Maternal care for (suspected) central nervous system malformation or damage in fetus, anencephaly, other fetus O35.03X0 Maternal care for (suspected) central nervous system malformation or damage in fetus, choroid plexus cysts, not applicable or unspecified O35.03X1 Maternal care for (suspected) central nervous system malformation or damage in fetus, choroid plexus cysts, fetus 1 O35.03X2 Maternal care for (suspected) central nervous system malformation or damage in fetus, choroid plexus cysts, fetus 2 O35.03X3 Maternal care for (suspected) central nervous system malformation or damage in fetus, choroid plexus cysts, fetus 3 O35.03X4 Maternal care for (suspected) central nervous system malformation or damage in fetus, choroid plexus cysts, fetus 4 O35.03X5 Maternal care for (suspected) central nervous system malformation or damage in fetus, choroid plexus cysts, fetus 5 O35.03X9 Maternal care for (suspected) central nervous system malformation or damage in fetus, choroid plexus cysts, other fetus O35.04X0 Maternal care for (suspected) central nervous system malformation or damage in fetus, encephalocele, not applicable or unspecified O35.04X1 Maternal care for (suspected) central nervous system malformation or damage in fetus, encephalocele, fetus 1 O35.04X2 Maternal care for (suspected) central nervous system malformation or damage in fetus, encephalocele, fetus 2 O35.04X3 Maternal care for (suspected) central nervous system malformation or damage in fetus, encephalocele, fetus 3 O35.04X4 Maternal care for (suspected) central nervous system malformation or damage in fetus, encephalocele, fetus 4 O35.04X5 Maternal care for (suspected) central nervous system malformation or damage in fetus, encephalocele, fetus 5 O35.04X9 Maternal care for (suspected) central nervous system malformation or damage in fetus, encephalocele, other fetus O35.05X0 Maternal care for (suspected) central nervous system malformation or damage in fetus, holoprosencephaly, not applicable or unspecified O35.05X1 Maternal care for (suspected) central nervous system malformation or damage in fetus, holoprosencephaly, fetus 1 Chromosome Microarray Testing (Non-Oncology Conditions) Page 5 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 26,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Diagnosis Code Description O35.05X2 Maternal care for (suspected) central nervous system malformation or damage in fetus, holoprosencephaly, fetus 2 O35.05X3 Maternal care for (suspected) central nervous system malformation or damage in fetus, holoprosencephaly, fetus 3 O35.05X4 Maternal care for (suspected) central nervous system malformation or damage in fetus, holoprosencephaly, fetus 4 O35.05X5 Maternal care for (suspected) central nervous system malformation or damage in fetus, holoprosencephaly, fetus 5 O35.05X9 Maternal care for (suspected) central nervous system malformation or damage in fetus, holoprosencephaly, other fetus O35.06X0 Maternal care for (suspected) central nervous system malformation or damage in fetus, hydrocephaly, not applicable or unspecified O35.06X1 Maternal care for (suspected) central nervous system malformation or damage in fetus, hydrocephaly, fetus 1 O35.06X2 Maternal care for (suspected) central nervous system malformation or damage in fetus, hydrocephaly, fetus 2 O35.06X3 Maternal care for (suspected) central nervous system malformation or damage in fetus, hydrocephaly, fetus 3 O35.06X4 Maternal care for (suspected) central nervous system malformation or damage in fetus, hydrocephaly, fetus 4 O35.06X5 Maternal care for (suspected) central nervous system malformation or damage in fetus, hydrocephaly, fetus 5 O35.06X9 Maternal care for (suspected) central nervous system malformation or damage in fetus, hydrocephaly, other fetus O35.07X0 Maternal care for (suspected) central nervous system malformation or damage in fetus, microcephaly, not applicable or unspecified O35.07X1 Maternal care for (suspected) central nervous system malformation or damage in fetus, microcephaly, fetus 1 O35.07X2 Maternal care for (suspected) central nervous system malformation or damage in fetus, microcephaly, fetus 2 O35.07X3 Maternal care for (suspected) central nervous system malformation or damage in fetus, microcephaly, fetus 3 O35.07X4 Maternal care for (suspected) central nervous system malformation or damage in fetus, microcephaly, fetus 4 O35.07X5 Maternal care for (suspected) central nervous system malformation or damage in fetus, microcephaly, fetus 5 O35.07X9 Maternal care for (suspected) central nervous system malformation or damage in fetus, microcephaly, other fetus O35.08X0 Maternal care for (suspected) central nervous system malformation or damage in fetus, spina bifida, not applicable or unspecified O35.08X1 Maternal care for (suspected) central nervous system malformation or damage in fetus, spina bifida, fetus 1 O35.08X2 Maternal care for (suspected) central nervous system malformation or damage in fetus, spina bifida, fetus 2 O35.08X3 Maternal care for (suspected) central nervous system malformation or damage in fetus, spina bifida, fetus 3 O35.08X4 Maternal care for (suspected) central nervous system malformation or damage in fetus, spina bifida, fetus 4 O35.08X5 Maternal care for (suspected) central nervous system malformation or damage in fetus, spina bifida, fetus 5 Chromosome Microarray Testing (Non-Oncology Conditions) Page 6 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 27,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Diagnosis Code Description O35.08X9 Maternal care for (suspected) central nervous system malformation or damage in fetus, spina bifida, other fetus O35.09X0 Maternal care for (suspected) other central nervous system malformation or damage in fetus, not applicable or unspecified O35.09X1 Maternal care for (suspected) other central nervous system malformation or damage in fetus, fetus 1 O35.09X2 Maternal care for (suspected) other central nervous system malformation or damage in fetus, fetus 2 O35.09X3 Maternal care for (suspected) other central nervous system malformation or damage in fetus, fetus 3 O35.09X4 Maternal care for (suspected) other central nervous system malformation or damage in fetus, fetus 4 O35.09X5 Maternal care for (suspected) other central nervous system malformation or damage in fetus, fetus 5 O35.09X9 Maternal care for (suspected) other central nervous system malformation or damage in fetus, other fetus O35.10X0 Maternal care for (suspected) chromosomal abnormality in fetus, unspecified, not applicable or unspecified O35.10X1 Maternal care for (suspected) chromosomal abnormality in fetus, unspecified, fetus 1 O35.10X2 Maternal care for (suspected) chromosomal abnormality in fetus, unspecified, fetus 2 O35.10X3 Maternal care for (suspected) chromosomal abnormality in fetus, unspecified, fetus 3 O35.10X4 Maternal care for (suspected) chromosomal abnormality in fetus, unspecified, fetus 4 O35.10X5 Maternal care for (suspected) chromosomal abnormality in fetus, unspecified, fetus 5 O35.10X9 Maternal care for (suspected) chromosomal abnormality in fetus, unspecified, other fetus O35.11X0 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 13, not applicable or unspecified O35.11X1 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 13, fetus 1 O35.11X2 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 13, fetus 2 O35.11X3 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 13, fetus 3 O35.11X4 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 13, fetus 4 O35.11X5 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 13, fetus 5 O35.11X9 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 13, other fetus O35.12X0 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 18, not applicable or unspecified O35.12X1 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 18, fetus 1 O35.12X2 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 18, fetus 2 O35.12X3 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 18, fetus 3 O35.12X4 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 18, fetus 4 O35.12X5 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 18, fetus 5 O35.12X9 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 18, other fetus O35.13X0 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 21, not applicable or unspecified O35.13X1 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 21, fetus 1 O35.13X2 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 21, fetus 2 O35.13X3 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 21, fetus 3 O35.13X4 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 21, fetus 4 O35.13X5 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 21, fetus 5 O35.13X9 Maternal care for (suspected) chromosomal abnormality in fetus, Trisomy 21, other fetus Chromosome Microarray Testing (Non-Oncology Conditions) Page 7 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 28,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Diagnosis Code Description O35.14X0 Maternal care for (suspected) chromosomal abnormality in fetus, Turner Syndrome, not applicable or unspecified O35.14X1 Maternal care for (suspected) chromosomal abnormality in fetus, Turner Syndrome, fetus 1 O35.14X2 Maternal care for (suspected) chromosomal abnormality in fetus, Turner Syndrome, fetus 2 O35.14X3 Maternal care for (suspected) chromosomal abnormality in fetus, Turner Syndrome, fetus 3 O35.14X4 Maternal care for (suspected) chromosomal abnormality in fetus, Turner Syndrome, fetus 4 O35.14X5 Maternal care for (suspected) chromosomal abnormality in fetus, Turner Syndrome, fetus 5 O35.14X9 Maternal care for (suspected) chromosomal abnormality in fetus, Turner Syndrome, other fetus O35.15X0 Maternal care for (suspected) chromosomal abnormality in fetus, sex chromosome abnormality, not applicable or unspecified O35.15X1 Maternal care for (suspected) chromosomal abnormality in fetus, sex chromosome abnormality, fetus 1 O35.15X2 Maternal care for (suspected) chromosomal abnormality in fetus, sex chromosome abnormality, fetus 2 O35.15X3 Maternal care for (suspected) chromosomal abnormality in fetus, sex chromosome abnormality, fetus 3 O35.15X4 Maternal care for (suspected) chromosomal abnormality in fetus, sex chromosome abnormality, fetus 4 O35.15X5 Maternal care for (suspected) chromosomal abnormality in fetus, sex chromosome abnormality, fetus 5 O35.15X9 Maternal care for (suspected) chromosomal abnormality in fetus, sex chromosome abnormality, other fetus O35.19X0 Maternal care for (suspected) chromosomal abnormality in fetus, other chromosomal abnormality, not applicable or unspecified O35.19X1 Maternal care for (suspected) chromosomal abnormality in fetus, other chromosomal abnormality, fetus 1 O35.19X2 Maternal care for (suspected) chromosomal abnormality in fetus, other chromosomal abnormality, fetus 2 O35.19X3 Maternal care for (suspected) chromosomal abnormality in fetus, other chromosomal abnormality, fetus 3 O35.19X4 Maternal care for (suspected) chromosomal abnormality in fetus, other chromosomal abnormality, fetus 4 O35.19X5 Maternal care for (suspected) chromosomal abnormality in fetus, other chromosomal abnormality, fetus 5 O35.19X9 Maternal care for (suspected) chromosomal abnormality in fetus, other chromosomal abnormality, other fetus O35.2XX0 Maternal care for (suspected) hereditary disease in fetus, not applicable or unspecified O35.2XX1 Maternal care for (suspected) hereditary disease in fetus, fetus 1 O35.2XX2 Maternal care for (suspected) hereditary disease in fetus, fetus 2 O35.2XX3 Maternal care for (suspected) hereditary disease in fetus, fetus 3 O35.2XX4 Maternal care for (suspected) hereditary disease in fetus, fetus 4 O35.2XX5 Maternal care for (suspected) hereditary disease in fetus, fetus 5 O35.2XX9 Maternal care for (suspected) hereditary disease in fetus, other fetus O35.8XX0 Maternal care for other (suspected) fetal abnormality and damage, not applicable or unspecified O35.8XX1 Maternal care for other (suspected) fetal abnormality and damage, fetus 1 O35.8XX2 Maternal care for other (suspected) fetal abnormality and damage, fetus 2 O35.8XX3 Maternal care for other (suspected) fetal abnormality and damage, fetus 3 O35.8XX4 Maternal care for other (suspected) fetal abnormality and damage, fetus 4 O35.8XX5 Maternal care for other (suspected) fetal abnormality and damage, fetus 5 Chromosome Microarray Testing (Non-Oncology Conditions) Page 8 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 29,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Diagnosis Code Description O35.8XX9 Maternal care for other (suspected) fetal abnormality and damage, other fetus O35.AXX0 Maternal care for other (suspected) fetal abnormality and damage, fetal facial anomalies, not applicable or unspecified O35.AXX1 Maternal care for other (suspected) fetal abnormality and damage, fetal facial anomalies, fetus 1 O35.AXX2 Maternal care for other (suspected) fetal abnormality and damage, fetal facial anomalies, fetus 2 O35.AXX3 Maternal care for other (suspected) fetal abnormality and damage, fetal facial anomalies, fetus 3 O35.AXX4 Maternal care for other (suspected) fetal abnormality and damage, fetal facial anomalies, fetus 4 O35.AXX5 Maternal care for other (suspected) fetal abnormality and damage, fetal facial anomalies, fetus 5 O35.AXX9 Maternal care for other (suspected) fetal abnormality and damage, fetal facial anomalies, other fetus O35.BXX0 Maternal care for other (suspected) fetal abnormality and damage, fetal cardiac anomalies, not applicable or unspecified O35.BXX1 Maternal care for other (suspected) fetal abnormality and damage, fetal cardiac anomalies, fetus 1 O35.BXX2 Maternal care for other (suspected) fetal abnormality and damage, fetal cardiac anomalies, fetus 2 O35.BXX3 Maternal care for other (suspected) fetal abnormality and damage, fetal cardiac anomalies, fetus 3 O35.BXX4 Maternal care for other (suspected) fetal abnormality and damage, fetal cardiac anomalies, fetus 4 O35.BXX5 Maternal care for other (suspected) fetal abnormality and damage, fetal cardiac anomalies, fetus 5 O35.BXX9 Maternal care for other (suspected) fetal abnormality and damage, fetal cardiac anomalies, other fetus O35.CXX0 Maternal care for other (suspected) fetal abnormality and damage, fetal pulmonary anomalies, not applicable or unspecified O35.CXX1 Maternal care for other (suspected) fetal abnormality and damage, fetal pulmonary anomalies, fetus 1 O35.CXX2 Maternal care for other (suspected) fetal abnormality and damage, fetal pulmonary anomalies, fetus 2 O35.CXX3 Maternal care for other (suspected) fetal abnormality and damage, fetal pulmonary anomalies, fetus 3 O35.CXX4 Maternal care for other (suspected) fetal abnormality and damage, fetal pulmonary anomalies, fetus 4 O35.CXX5 Maternal care for other (suspected) fetal abnormality and damage, fetal pulmonary anomalies, fetus 5 O35.CXX9 Maternal care for other (suspected) fetal abnormality and damage, fetal pulmonary anomalies, other fetus O35.DXX0 Maternal care for other (suspected) fetal abnormality and damage, fetal gastrointestinal anomalies, not applicable or unspecified O35.DXX1 Maternal care for other (suspected) fetal abnormality and damage, fetal gastrointestinal anomalies, fetus 1 O35.DXX2 Maternal care for other (suspected) fetal abnormality and damage, fetal gastrointestinal anomalies, fetus 2 O35.DXX3 Maternal care for other (suspected) fetal abnormality and damage, fetal gastrointestinal anomalies, fetus 3 O35.DXX4 Maternal care for other (suspected) fetal abnormality and damage, fetal gastrointestinal anomalies, fetus 4 O35.DXX5 Maternal care for other (suspected) fetal abnormality and damage, fetal gastrointestinal anomalies, fetus 5 O35.DXX9 Maternal care for other (suspected) fetal abnormality and damage, fetal gastrointestinal anomalies, other fetus O35.EXX0 Maternal care for other (suspected) fetal abnormality and damage, fetal genitourinary anomalies, not applicable or unspecified O35.EXX1 Maternal care for other (suspected) fetal abnormality and damage, fetal genitourinary anomalies, fetus 1 Chromosome Microarray Testing (Non-Oncology Conditions) Page 9 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 30,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Diagnosis Code Description O35.EXX2 Maternal care for other (suspected) fetal abnormality and damage, fetal genitourinary anomalies, fetus 2 O35.EXX3 Maternal care for other (suspected) fetal abnormality and damage, fetal genitourinary anomalies, fetus 3 O35.EXX4 Maternal care for other (suspected) fetal abnormality and damage, fetal genitourinary anomalies, fetus 4 O35.EXX5 Maternal care for other (suspected) fetal abnormality and damage, fetal genitourinary anomalies, fetus 5 O35.EXX9 Maternal care for other (suspected) fetal abnormality and damage, fetal genitourinary anomalies, other fetus O35.FXX0 Maternal care for other (suspected) fetal abnormality and damage, fetal musculoskeletal anomalies of trunk, not applicable or unspecified O35.FXX1 Maternal care for other (suspected) fetal abnormality and damage, fetal musculoskeletal anomalies of trunk, fetus 1 O35.FXX2 Maternal care for other (suspected) fetal abnormality and damage, fetal musculoskeletal anomalies of trunk, fetus 2 O35.FXX3 Maternal care for other (suspected) fetal abnormality and damage, fetal musculoskeletal anomalies of trunk, fetus 3 O35.FXX4 Maternal care for other (suspected) fetal abnormality and damage, fetal musculoskeletal anomalies of trunk, fetus 4 O35.FXX5 Maternal care for other (suspected) fetal abnormality and damage, fetal musculoskeletal anomalies of trunk, fetus 5 O35.FXX9 Maternal care for other (suspected) fetal abnormality and damage, fetal musculoskeletal anomalies of trunk, other fetus O35.GXX0 Maternal care for other (suspected) fetal abnormality and damage, fetal upper extremities anomalies, not applicable or unspecified O35.GXX1 Maternal care for other (suspected) fetal abnormality and damage, fetal upper extremities anomalies, fetus 1 O35.GXX2 Maternal care for other (suspected) fetal abnormality and damage, fetal upper extremities anomalies, fetus 2 O35.GXX3 Maternal care for other (suspected) fetal abnormality and damage, fetal upper extremities anomalies, fetus 3 O35.GXX4 Maternal care for other (suspected) fetal abnormality and damage, fetal upper extremities anomalies, fetus 4 O35.GXX5 Maternal care for other (suspected) fetal abnormality and damage, fetal upper extremities anomalies, fetus 5 O35.GXX9 Maternal care for other (suspected) fetal abnormality and damage, fetal upper extremities anomalies, other fetus O35.HXX0 Maternal care for other (suspected) fetal abnormality and damage, fetal lower extremities anomalies, not applicable or unspecified O35.HXX1 Maternal care for other (suspected) fetal abnormality and damage, fetal lower extremities anomalies, fetus 1 O35.HXX2 Maternal care for other (suspected) fetal abnormality and damage, fetal lower extremities anomalies, fetus 2 O35.HXX3 Maternal care for other (suspected) fetal abnormality and damage, fetal lower extremities anomalies, fetus 3 O35.HXX4 Maternal care for other (suspected) fetal abnormality and damage, fetal lower extremities anomalies, fetus 4 O35.HXX5 Maternal care for other (suspected) fetal abnormality and damage, fetal lower extremities anomalies, fetus 5 Chromosome Microarray Testing (Non-Oncology Conditions) Page 10 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 31,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Diagnosis Code Description O35.HXX9 Maternal care for other (suspected) fetal abnormality and damage, fetal lower extremities anomalies, other fetus O36.4XX0 Maternal care for intrauterine death, not applicable or unspecified O36.4XX1 Maternal care for intrauterine death, fetus 1 O36.4XX2 Maternal care for intrauterine death, fetus 2 O36.4XX3 Maternal care for intrauterine death, fetus 3 O36.4XX4 Maternal care for intrauterine death, fetus 4 O36.4XX5 Maternal care for intrauterine death, fetus 5 O36.4XX9 Maternal care for intrauterine death, other fetus P02.9 Newborn affected by abnormality of membranes, unspecified P95 Stillbirth QA0.0159 Neurodevelopmental disorder, related to other genes associated with transcription and gene expression QA0.8 Other neurodevelopmental disorders related to pathogenic variants in other specific genes Q20.1 Double outlet right ventricle Q20.2 Double outlet left ventricle Q20.3 Discordant ventriculoarterial connection Q20.4 Double inlet ventricle Q20.5 Discordant atrioventricular connection Q20.6 Isomerism of atrial appendages Q20.8 Other congenital malformations of cardiac chambers and connections Q20.9 Congenital malformation of cardiac chambers and connections, unspecified Q21.0 Ventricular septal defect Q21.3 Tetralogy of Fallot Q21.4 Aortopulmonary septal defect Q21.8 Other congenital malformations of cardiac septa Q21.9 Congenital malformation of cardiac septum, unspecified Q21.10 Atrial septal defect, unspecified Q21.11 Secundum atrial septal defect Q21.12 Patent foramen ovale Q21.13 Coronary sinus atrial septal defect Q21.14 Superior sinus venosus atrial septal defect Q21.15 Inferior sinus venosus atrial septal defect Q21.16 Sinus venosus atrial septal defect, unspecified Q21.19 Other specified atrial septal defect Q21.20 Atrioventricular septal defect, unspecified as to partial or complete Q21.21 Partial atrioventricular septal defect Q21.22 Transitional atrioventricular septal defect Q21.23 Complete atrioventricular septal defect Q22.0 Pulmonary valve atresia Q22.1 Congenital pulmonary valve stenosis Q22.2 Congenital pulmonary valve insufficiency Q22.3 Other congenital malformations of pulmonary valve Q22.4 Congenital tricuspid stenosis Q22.5 Ebstein's anomaly Q22.6 Hypoplastic right heart syndrome Chromosome Microarray Testing (Non-Oncology Conditions) Page 11 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 32,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Diagnosis Code Description Q22.8 Other congenital malformations of tricuspid valve Q22.9 Congenital malformation of tricuspid valve, unspecified Q23.0 Congenital stenosis of aortic valve Q23.1 Congenital insufficiency of aortic valve Q23.2 Congenital mitral stenosis Q23.3 Congenital mitral insufficiency Q23.4 Hypoplastic left heart syndrome Q23.81 Bicuspid aortic valve Q23.82 Congenital mitral valve cleft leaflet Q23.88 Other congenital malformations of aortic and mitral valves Q23.9 Congenital malformation of aortic and mitral valves, unspecified Q24.0 Dextrocardia Q24.1 Levocardia Q24.2 Cor triatriatum Q24.3 Pulmonary infundibular stenosis Q24.4 Congenital subaortic stenosis Q24.5 Malformation of coronary vessels Q24.6 Congenital heart block Q24.8 Other specified congenital malformations of heart Q24.9 Congenital malformation of heart, unspecified Q87.86 Kleefstra syndrome Q89.7 Multiple congenital malformations, not elsewhere classified Q89.89 Other specified congenital malformations Q89.9 Congenital malformation, unspecified Q90.0 Trisomy 21, nonmosaicism (meiotic nondisjunction) Q90.1 Trisomy 21, mosaicism (mitotic nondisjunction) Q90.2 Trisomy 21, translocation Q90.9 Down syndrome, unspecified Q91.0 Trisomy 18, nonmosaicism (meiotic nondisjunction) Q91.1 Trisomy 18, mosaicism (mitotic nondisjunction) Q91.2 Trisomy 18, translocation Q91.3 Trisomy 18, unspecified Q91.4 Trisomy 13, nonmosaicism (meiotic nondisjunction) Q91.5 Trisomy 13, mosaicism (mitotic nondisjunction) Q91.6 Trisomy 13, translocation Q91.7 Trisomy 13, unspecified Q92.0 Whole chromosome trisomy, nonmosaicism (meiotic nondisjunction) Q92.1 Whole chromosome trisomy, mosaicism (mitotic nondisjunction) Q92.2 Partial trisomy Q92.5 Duplications with other complex rearrangements Q92.61 Marker chromosomes in normal individual Q92.62 Marker chromosomes in abnormal individual Q92.7 Triploidy and polyploidy Q92.8 Other specified trisomies and partial trisomies of autosomes Q92.9 Trisomy and partial trisomy of autosomes, unspecified Chromosome Microarray Testing (Non-Oncology Conditions) Page 12 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 33,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Diagnosis Code Description Q93.0 Whole chromosome monosomy, nonmosaicism (meiotic nondisjunction) Q93.1 Whole chromosome monosomy, mosaicism (mitotic nondisjunction) Q93.2 Chromosome replaced with ring, dicentric or isochromosome Q93.3 Deletion of short arm of chromosome 4 Q93.4 Deletion of short arm of chromosome 5 Q93.7 Deletions with other complex rearrangements Q93.51 Angelman syndrome Q93.52 Phelan-McDermid syndrome Q93.59 Other deletions of part of a chromosome Q93.81 Velo-cardio-facial syndrome Q93.82 Williams syndrome Q93.88 Other microdeletions Q93.89 Other deletions from the autosomes Q93.9 Deletion from autosomes, unspecified Q95.2 Balanced autosomal rearrangement in abnormal individual Q95.3 Balanced sex/autosomal rearrangement in abnormal individual Q99.89 Other specified chromosome abnormalities Q99.9 Chromosomal abnormality, unspecified R48.0 Dyslexia and alexia R62.0 Delayed milestone in childhood R62.50 Unspecified lack of expected normal physiological development in childhood R62.51 Failure to thrive (child) R62.59 Other lack of expected normal physiological development in childhood R89.8 Other abnormal findings in specimens from other organs, systems and tissues Z14.1 Cystic fibrosis carrier Z14.8 Genetic carrier of other disease Z36.0 Encounter for antenatal screening for chromosomal anomalies Z37.1 Single stillbirth Z37.3 Twins, one liveborn and one stillborn Z37.4 Twins, both stillborn Z37.60 Multiple births, unspecified, some liveborn Z37.61 Triplets, some liveborn Z37.62 Quadruplets, some liveborn Z37.63 Quintuplets, some liveborn Z37.64 Sextuplets, some liveborn Z37.69 Other multiple births, some liveborn Z37.7 Other multiple births, all stillborn Z87.74 Personal history of (corrected) congenital malformations of heart and circulatory system Description of Services Genetic counseling is strongly recommended prior to chromosome microarray testing [also called chromosome microarray analysis (CMA)] in order to inform persons being tested about the advantages and limitations of the test as applied to their unique situation.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 34,
+      "text": "CMA includes array comparative genomic hybridization (aCGH) and/or single-nucleotide polymorphism (SNP) array (Levy and Wapner, 2018).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 35,
+      "text": "Chromosome Microarray Testing (Non-Oncology Conditions) Page 13 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 36,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Chromosome abnormalities are a well-established cause of congenital anomalies, dysmorphic features, Developmental Delay (DD), Intellectual Disability (ID), and other neurodevelopmental disorders.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 37,
+      "text": "There are two types of CMA that are used for the detection of chromosomal abnormalities: aCGH and SNP array.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 38,
+      "text": "These tests analyze multiple sequences of deoxyribonucleic acid (DNA) by identifying deletions and duplications across the genome simultaneously.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 39,
+      "text": "The chromosomal microarray may be targeted in nature, assaying certain regions of the genome known to be associated with a specific syndrome or phenotype and/or may be genome-wide (Shaffer et al., 2007).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 40,
+      "text": "Currently, most clinical applications of CMA are being investigated for the diagnosis of chromosomal abnormalities in fetuses and newborns, and in children with developmental disorders.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 41,
+      "text": "For diagnostic prenatal testing, CMA requires an invasive procedure (e.g., amniocentesis or chorionic villous sampling) to collect fetal cells.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 42,
+      "text": "SNP array testing and aCGH are used for the detection of genomic copy number variations (CNVs).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 43,
+      "text": "CNVs are alterations that include deletion and/or duplication of one or more sections of DNA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 44,
+      "text": "This method allows the detection of chromosome imbalances that can provide more information than is detected by conventional chromosome analysis [e.g., standard karyotype or fluorescence in situ hybridization (FISH)].",
+      "label": "PREMISE"
+    },
+    {
+      "id": 45,
+      "text": "The aCGH approach detects CNVs of a DNA sequence in an individual by comparing it to a control.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 46,
+      "text": "The SNP array approach detects CNVs by using DNA probes that are specific to a single base pair site in the genome.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 47,
+      "text": "The copy number is quantified by either hybridization of the individual’s DNA and control DNA (aCGH) or comparison of the individual’s DNA to a control reference DNA sequence (SNP array).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 48,
+      "text": "Areas of unequal hybridization (aCGH) or differences between an individual and reference DNA (SNP array) signify a DNA alteration, such as large deletions or duplications.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 49,
+      "text": "CNVs may be benign, with no effect on clinical phenotype, or may be pathogenic and result in a variety of phenotypic abnormalities (Kearney et al., 2011).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 50,
+      "text": "If a CNV of unknown clinical significance is detected, a genomic database is used to determine if the abnormality has been previously reported and if it has been associated with a benign or proposed pathogenic condition.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 51,
+      "text": "The disadvantages of CMA include the detection of variants of unknown clinical significance, false positive results that will require further testing, and the inability to detect certain chromosomal abnormalities such as balanced rearrangements where there is no net gain or loss of the chromosomal material (Fruhman and Van den Veyver, 2010; Bui et al., 2011).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 56,
+      "text": "Amniocentesis was performed on all participants and both chromosome karyotyping and CMA were completed for each individual.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 57,
+      "text": "In the group of participants with FGR and structural malformations, the researchers found the detection rates of pathogenic copy number variations (pCNVs) to be significantly higher than those found in the group with FGR and abnormal ultrasound soft markers and those with isolated FGR. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 61,
+      "text": "Based on these results, the authors propose that the chromosomal variations associated with FGR plus structural anomalies detected via ultrasound may pose significant risk, especially as the number of organ systems involved increases.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 62,
+      "text": "They recommend standard genetic assessments in cases of FGR occurring after 32 weeks gestation as well as before and propose that submicroscopic imbalances at Xp22.33 and Xq28 may be related to the pathogenesis of FGR.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 64,
+      "text": "The study was limited by its small sample size from only one facility; the authors encourage additional study of the value of CMA in cases of FGR with ultrasound soft marker abnormalities and continue to advocate for the use of CMA as a primary tool for prenatal diagnostics in older pregnant individuals and those with severe FGR despite the findings of this study. Nguyen et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 65,
+      "text": "2025) used single-nucleotide polymorphism (SNP)-based CMA to help identify the genetic variations present in fetuses found to have intrauterine growth restriction (IUGR) with malformations identified on ultrasound.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 66,
+      "text": "This cross-sectional study enrolled 129 individuals aged 18 to 48 whose fetuses were diagnosed with IUGR.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 68,
+      "text": "The majority of malformations were related to the cardiovascular system.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 69,
+      "text": "Of the 75 cases where amniocentesis with karyotyping and SNP array testing were performed, 26 (35%) had genetic abnormalities identified.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 70,
+      "text": "When comparing the findings of SNP array testing and karyotyping, SNP testing detected more than twice the number of total cases, identifying genetic anomalies that may have otherwise been missed by karyotyping.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 71,
+      "text": "Although limited by its small size and observational design, this study’s outcomes led the authors to infer that CMA technology is more effective Chromosome Microarray Testing (Non-Oncology Conditions) Page 14 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 74,
+      "text": "2024) assessed the clinical utility of CMA performed in cases of pregnancies where the fetus was found to have congenital heart defects (CHD) identified through standard ultrasound anatomy scans, then confirmed via echocardiography.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "The prevalence of chromosomal abnormalities in these cases was also ascertained; both standard karyotyping and CMA were performed on all cases.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 77,
+      "text": "The researchers determined that, in this study, the diagnostic yield of CMA for fetuses with CHD was 15.3% (98/642), which was substantially higher than the diagnostic yield of standard karyotyping at 8.3% (53/642).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 78,
+      "text": "Overall, the detection rate of clinically meaningful chromosome anomalies was significantly increased in the group with CHD plus extracardiac structural anomalies when compared with the isolated CHD group (33.1% vs 9.9%, p < 0.0001.)",
+      "label": "PREMISE"
+    },
+    {
+      "id": 79,
+      "text": "Based on their findings, the authors recommend CMA as a first-tier test for fetuses found to have CHD, with special consideration given to cases of CHD with additional structural abnormalities or soft markers.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 80,
+      "text": "The study was limited by the need for individuals to pay for invasive prenatal testing and the refusal of some participants to engage in further testing, leading to selection bias.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 81,
+      "text": "In addition, the majority of participants declined follow-up whole exome sequencing (WES), which could have led to more complete genetic diagnoses.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 82,
+      "text": "Another study assessing the use of SNP-based CMA to identify underlying genetic causes for fetal cardiac ultrasound abnormalities was undertaken by Ye et al. ( 2024).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 83,
+      "text": "This study included 2092 pregnant individuals who were divided into groups based on presence or absence of structural abnormalities identified via ultrasound as well as the specific type of abnormality found.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 85,
+      "text": "above, the authors found that fetuses with non-isolated CHD had the highest frequency of overall chromosome abnormalities when compared to the isolated CHD group, the non-CHD group, and the control group (42.6% vs 14.1%, 14.9%, and 9.4% respectively).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 86,
+      "text": "They suggest that SNP-array based CMA is highly effective in boosting the diagnosis of abnormal copy number variations (CNVs) in fetuses with CHD but also emphasize the complexity of the etiologies of CHD, recommending further research that investigates the underlying mechanisms leading to CHD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 87,
+      "text": "To examine diagnostic yields of genomic disorders and syndromic pCNVs associated with pregnancy loss and to approximate the risk of spontaneous abortion (SAB) by comparing the incidence of genomic disorders and syndromic pCNVs between products of conception (POC) and infants, Peng et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 90,
+      "text": "After further refinement of pCNV categories, diagnostic yield was found to be 0.8% (n = 296) for genomic disorders and syndromic pCNVs, accounting for approximately 31% of the pCNVs detected overall.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 93,
+      "text": "Newborn incidence was estimated from population genetic studies and a case series of 32,587 children with DD where pCNVs were identified in 2312 individuals (Girirajan et al., 2012).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 95,
+      "text": "An additional five genomic disorders and two syndromic pCNVs were also found to have lower incidence in newborns than in POC, but the differences were statistically insignificant.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 97,
+      "text": "The authors calculated the overall risk of SAB for major genomic disorders and syndromic pCNVs to be 38%; this is significantly lower than the overall risk of SAB for chromosomal abnormalities (94%).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 98,
+      "text": "They suggest that their results may assist with evidence-based interpretation of genomic disorders and syndromic pCNVs detected via CMA in prenatal diagnosis and provide better understanding of the relationship between genomic disorders and pCNVs and pregnancy loss.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 191,
+      "text": "CMA provided informative results on 95% of cases compared to 67% with karyotyping, and CMA provided a 2% greater yield of pCNVs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 192,
+      "text": "The authors concluded that CMA resulted in diagnostic information in early pregnancy loss in significantly more cases when compared to conventional chromosome analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 193,
+      "text": "Clinical Practice Guidelines American College of Medical Genetics and Genomics (ACMG) The 2018 ACMG clinical practice report on genetic testing after CMA for the diagnosis of neurodevelopmental disability and congenital anomalies (Waggoner et al.)",
+      "label": "PREMISE"
+    },
+    {
+      "id": 194,
+      "text": "states that “chromosomal microarray (CMA) is recommended as the first-tier test in evaluation of individuals with neurodevelopmental disability and congenital anomalies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 195,
+      "text": "CMA may not detect balanced cytogenomic abnormalities or uniparental disomy (UPD), and deletion/duplications and regions of homozygosity may require additional testing to clarify the mechanism and inform accurate counseling.” The ACMG (Cherry et al.,",
+      "label": "PREMISE"
+    },
+    {
+      "id": 196,
+      "text": "2017) published a practice resource guideline for laboratories addressing diagnostic testing following positive noninvasive prenatal screening (NIPS) which made the following recommendations: CMA on CVS or amniocentesis may be used for confirmatory diagnosis for abnormal NIPS results or as a reflex to normal karyotype analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 197,
+      "text": "CMA testing should be utilized for follow-up when small copy number changes are reported as positive on NIPS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 198,
+      "text": "Testing of POC and/or fetus by karyotype or CMA should be considered on a case basis when prenatal diagnosis is not possible.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 199,
+      "text": "For neonates with abnormal physical findings which are not suggestive of the trisomy suggested by original screening, CMA is recommended.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 200,
+      "text": "CMA is recommended when NIPS sex determination is not concordant with physical examination or other clinical evidence reveals possible disorder of sexual differentiation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 201,
+      "text": "American College of Obstetricians and Gynecologists (ACOG)/Society for Maternal Fetal Medicine (SMFM) In a 2020 (reaffirmed 2021) Obstetric Care Consensus, ACOG and SMFM address microarray analysis as it relates to the management of stillbirth.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 202,
+      "text": "Microarray analysis is noted to be the preferred method for evaluating stillbirth as it not only detects aneuploidy but correspondingly detects CNVs that are not measurable by karyotype.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 203,
+      "text": "Microarray analysis is also more likely to offer a genetic diagnosis due to its success with nonviable tissue, making it particularly valuable in analysis of stillbirths with congenital anomalies or when karyotype outcomes cannot be obtained.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 204,
+      "text": "The consensus document concludes that incorporating microarray analysis into stillbirth work up results in improvements in test success rates and detection of genetic anomalies compared with conventional testing with karyotype.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 205,
+      "text": "In a 2016 Committee Opinion on Microarrays and Next-Generation Sequencing Technology (ACOG, 2016a, reaffirmed 2023), ACOG and SMFM make the following recommendations for the use of chromosomal microarray analysis and newer genetic technologies in prenatal diagnosis: Most genetic changes identified by CMA that typically are not identified on standard karyotype are not associated with increasing maternal age; therefore, the use of this test can be considered for all women, regardless of age, who undergo prenatal diagnostic testing.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 206,
+      "text": "Prenatal CMA is recommended for a patient with a fetus with one or more major structural abnormalities identified on ultrasonographic examination and who is undergoing invasive prenatal diagnosis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 207,
+      "text": "This test typically can replace the need for fetal karyotype.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 208,
+      "text": "In a patient with a structurally normal fetus who is undergoing invasive prenatal diagnostic testing, either fetal karyotyping or a CMA can be performed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 209,
+      "text": "CMA of fetal tissue (i.e., amniotic fluid, placenta, or POC) is recommended in the evaluation of intrauterine fetal death or stillbirth when further cytogenetic analysis is desired because of the test’s increased likelihood of obtaining results and improved detection of causative abnormalities.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 210,
+      "text": "Comprehensive patient pretest and posttest genetic counseling from an obstetrician–gynecologist or other health care provider with genetics expertise regarding the benefits, limitations, and results of chromosomal microarray analysis is essential.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 211,
+      "text": "CMA should not be ordered without informed consent, which should include discussion of the potential to identify findings of uncertain significance, non-paternity, consanguinity, and adult-onset disease.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 214,
+      "text": "CMA should be the primary test (replacing conventional karyotype) for patients undergoing prenatal diagnosis for the indication of a fetal structural abnormality detected by ultrasound (based on good/consistent scientific evidence: Level A).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 215,
+      "text": "Chromosomal microarray analysis may be used to confirm an abnormal FISH test (based on limited or inconsistent scientific evidence: Level B).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 217,
+      "text": "2020): Diagnosis and management of FGR recommends: Pregnant women should be offered fetal diagnostic testing, including CMA, when FGR is detected and a fetal malformation, polyhydramnios, or both are present, regardless of gestational age.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 218,
+      "text": "Pregnant women should be offered prenatal diagnosis testing with CMA when unexplained isolated FGR is diagnosed < 32 weeks of gestation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 219,
+      "text": "In an SMFM Consult Series publication (2016) on the use of CMA for prenatal diagnosis, SMFM makes the following recommendations: CMA should be offered when genetic analysis is performed in cases with fetal structural anomalies and/or stillbirth and replaces the need for fetal karyotype in these cases (GRADE 1A).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 220,
+      "text": "Providers should discuss the benefits and limitations of CMA and conventional karyotype with patients who are considering amniocentesis and chorionic villus sampling (CVS) and that both options be available to women who choose to undergo diagnostic testing (GRADE 1B).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 221,
+      "text": "The use of CMA is not recommended as a first-line test to evaluate first trimester pregnancy losses due to limited data (GRADE 1C).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 222,
+      "text": "Pre- and post-test counseling should be performed by trained genetic counselors, geneticists, or other providers with expertise in the complexities of interpreting CMA results (Best practice).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 224,
+      "text": "The SOGC indicates that genetic consultation and amniocentesis with CMA of fetal DNA and molecular analysis for congenital infections should be offered to pregnant individuals with suspected early-onset FGR, especially if there is evidence of structural abnormalities, polyhydramnios, or multiple soft markers, when there is no indication of a placental basis for FGR. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 225,
+      "text": "Strong recommendation, high quality of evidence) Society of Obstetricians and Gynaecologists of Canada (SOGC)/Canadian College of Medical Geneticists (CCMG) A Joint Clinical Practice Guideline of the SOGC and CCMG recommended offering CMA in cases of multiple congenital anomalies revealed on ultrasound (II-1A) or fetal MRI.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 226,
+      "text": "In addition, CMA was also recommended when single congenital defects in conjunction with other findings (e.g., IUGR, oligohydramnios) are detected.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 227,
+      "text": "Prenatal CMA should be considered for certain malformations that have a high association with abnormal results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 228,
+      "text": "CMA is not recommended for pregnancies that are at low risk for a structural anomaly (Audibert et al., 2017).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 229,
+      "text": "An SOGC/CCMG Practice Guideline for the use of CMA for prenatal diagnosis and assessment of fetal loss in Canada (Armour et al.,",
+      "label": "PREMISE"
+    },
+    {
+      "id": 230,
+      "text": "2018) recommends the following: CMA may be offered following normal aneuploidy screen results when multiple fetal malformations are detected (II- 1A) or NT ≥ 3.5MM (II-2B).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 231,
+      "text": "Genetic counseling should be provided to obtain informed consent; parental decisions for reporting of incidental findings (II-2A); and for post-test results reporting counseling (III-A).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 232,
+      "text": "CMA resolution should be similar to postnatal CMA panels for the detection of small pathogenic variants.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 233,
+      "text": "VUS smaller than 500 Kb deletion or 1 Mb duplication should not be reported in prenatal setting.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 234,
+      "text": "VUS above such cut-offs should only be reported if there is significant evidence that deletion or duplication or the region may be pathogenic (III-B).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 235,
+      "text": "Secondary findings associated with significant childhood onset conditions should be reported; variants associated with adult-onset conditions should only be reported if previously requested by parents or if disclosure could prevent harm to family members (III-A).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 236,
+      "text": "Chromosome Microarray Testing (Non-Oncology Conditions) Page 19 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 238,
+      "text": "The report addresses several types of genetic testing that may be used for the diagnosis of ASD including CMA, which is the most common first-tier test used to help diagnose ASD (Hyman et al., 2020).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 239,
+      "text": "In terms of clinical utility, Hayes found limited evidence from low-quality studies suggesting that genetic testing in individuals diagnosed with ASD may assist with medical management in some individuals, but no studies were found that included outcomes based on long-term follow-up or compared the outcomes of individuals who underwent genetic testing with a group of affected individuals who did not have the testing.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 240,
+      "text": "Hayes concluded that the existing evidence is therefore insufficient to support clinical utility for use in those affected with ASD and their relatives (Hayes 2023; updated 2024). Landis et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 241,
+      "text": "2023) evaluated the association of CHD diagnoses with abnormal CMA findings in a study of 1363 children with CHD from nine pediatric cardiac centers in the U.S. Each participant had both CHD (per abnormal findings on echocardiogram) and at least one abnormal clinical finding on CMA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 242,
+      "text": "Cardiac phenotypes were described in detail and analytically grouped according to their relationship with abnormal CMA results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 267,
+      "text": "The authors concluded that the high percentage of pathogenic structural variations found via CMA in children with GDD/ID lends support to the use of CMA in individuals with a non-specific phenotype. Harris et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 268,
+      "text": "2020) reported on the diagnostic yield of genetic testing in toddlers with a Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, diagnosis of ASD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 273,
+      "text": "The authors concluded that these results confirm the importance of genetic testing in toddlers diagnosed with ASD due to the 12% yield and lack of phenotypic differences between subjects with and without pathogenic findings.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 309,
+      "text": "The authors reported that the diagnostic yields were significantly higher with co-existing CHDs (55%), facial dysmorphism (39%), microcephaly (34%), or hypotonia (35%).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 310,
+      "text": "Co-existing skeletal malformations (26%), brain malformations (24%) or epilepsy (24%) did not affect the diagnostic yield.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 324,
+      "text": "Individual test type have specific benefits and limitations, and the utility of various tests may be different depending on individual circumstances.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 325,
+      "text": "Decisions regarding testing may be influenced by factors including symptoms, turn-around time, insurance coverage, and cost.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 326,
+      "text": "Due to the complex nature of genetic testing and potential implications it may have (e.g., impact on eligibility for life insurance, reproductive decisions, medical decisions), incorporating genetic counseling is encouraged.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 327,
+      "text": "A clinical report addressing the identification of infants/children with DD (Lipkin & Macias, 2020) recommends that children with suspected GDD or ID have genetic testing including chromosomal microarray and fragile-X testing.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 335,
+      "text": "In a 2014 clinical report, the Committee on Genetics for AAP stated that CMA is designated as a first-line test and replaces the standard karyotype and FISH subtelomere tests for the child with ID of unknown etiology.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 336,
+      "text": "The authors recommend that CMA should be performed in all children with ID or GDDs (Moeschler and Shevell, 2014, reaffirmed 2019).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 337,
+      "text": "American Academy of Neurology (AAN) In a model coverage policy for chromosomal microarray analysis for ID, the AAN recommends the following inclusion criteria for microarray testing: In children with DD/ID or ASD according to accepted Diagnostic and Statistical Manual of Mental Disorders-IV criteria.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 344,
+      "text": "The AAN model coverage policy states that the following circumstances limit the value of microarray testing: Absence of an appropriate and informed consent from the patient, a parent (in case of minors) or a guardian (in persons with cognitive impairment) is necessary prior to testing.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 345,
+      "text": "Inadequacy of knowledge about the test and the actions required to address the results of the test.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 348,
+      "text": "Chromosomal microarray analysis would not be considered medically necessary when a diagnosis of a disorder or syndrome is readily apparent based on clinical evaluation alone.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 349,
+      "text": "The AAN model coverage policy further indicates the presence of major and minor congenital malformations and dysmorphic features should be considered evidence that microarray testing will be more likely to yield a diagnosis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 352,
+      "text": "presented a diagnostic genetic testing algorithm for youth with developmental disorders including ASD, ID, or GDD, indicating that if there is a recognized genetic syndrome (e.g., Fragile X syndrome, PTEN hamartoma syndrome, Rett syndrome, tuberous Chromosome Microarray Testing (Non-Oncology Conditions) Page 22 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 354,
+      "text": "If this testing does not yield a diagnosis, CMA and Fragile X testing are indicated.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 358,
+      "text": "state that chromosomal microarray technologies are well accepted and used in evaluation of both constitutional and neoplastic disorders.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 359,
+      "text": "For chromosomal imbalances related to multiple congenital anomalies, autism, and/or ID, CMA (including both array-CGH and SNP array) is considered the first-tier test.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 360,
+      "text": "In the case of individuals where ultrasound has identified major fetal structural abnormalities and invasive prenatal diagnostic testing will be performed, CMA is the recommended test.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 361,
+      "text": "This is also true for further workup of intrauterine fetal demise or stillbirth when parents/providers make the decision to pursue potential genetic diagnosis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 362,
+      "text": "The 2013 ACMG guideline for identifying the etiology of ASD lists chromosomal microarray testing (array-CGH or SNP array) as a first-tier diagnostic test for the evaluation of ASDs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 363,
+      "text": "According to the ACMG, many recognizable syndromes (i.e., Fragile X syndrome, Rett syndrome) have a firmly documented association with ASDs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 366,
+      "text": "The specific recommendations listed in the 2010 guideline are as follows (Manning and Hudgins, 2010, reaffirmed 2020): Cytogenetic microarray (CMA) testing for CNV is recommended as a first-line test in the initial postnatal evaluation of individuals with the following: o Multiple anomalies not specific to a well-delineated genetic syndrome. o Apparently non-syndromic DD/ID. o ASD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 367,
+      "text": "Further determination of the use of CMA testing for the evaluation of the child with growth retardation, speech delay, and other less-well studied indications is recommended, particularly via prospective studies and aftermarket analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 370,
+      "text": "These guidelines also do not specify what type of microarray platform should be used (i.e., microarray based CGH versus SNP microarray), although they do state that any ordering physician should be aware of the information generated and the limitations of the particular test performed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 371,
+      "text": "ACMG Practice Guidelines addressing the interpretation and reporting of microarray results in postnatal clinical settings were published in 2011 and include recommendations regarding how to define the various types of CNVs (pathogenic versus benign versus uncertain significance), the confirmation of abnormal results, the information that should be included in laboratory reports, and how to handle unanticipated or ambiguous results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 372,
+      "text": "Of importance, it is noted that if a CNV is identified that has unknown clinical significance, the parents of the proband should be tested to determine if the CNV is de novo or inherited, which may allow the clinician to determine the clinical significance of the result (Kearney et al., 2011).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 374,
+      "text": "Fragile X testing is advised when family history or clinical symptoms are suggestive of this disorder.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 375,
+      "text": "Further recommendations include the use of WES or comprehensive gene panels as second-tier testing for individuals with GDD/ID.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 376,
+      "text": "The CCMG does not recommend genetic tests for individuals with neurodevelopmental disorders when GDD, ID, or ASD is not present unless the phenotype is suggestive of a syndromic etiology or an inherited metabolic disease (Carter et al., 2023).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 377,
+      "text": "International Standards for Cytogenomic Array (ISCA) Consortium The ISCA reviewed the literature and meta-analyses on the clinical indications and diagnostic utility of chromosomal microarray testing and issued a consensus statement recommending that CMA be the first-tier clinical diagnostic test for individuals with developmental disabilities or congenital anomalies, followed by specific gene testing for the suspected condition(s) if CMA results are negative (Miller et al., 2010).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 378,
+      "text": "Chromosome Microarray Testing (Non-Oncology Conditions) Page 23 of 28 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 381,
+      "text": "Genetic tests are regulated under the Clinical Laboratory Improvement Amendments (CLIA) of 1988.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 383,
+      "text": "Accessed February 20, 2025) Refer to the following website for a list of nucleic acid-based tests/platforms that have been cleared or approved by the FDA’s Center for Devices and Radiological Heath: https://www.fda.gov/medical-devices/in-vitro-diagnostics/nucleic-acid- based-tests. (",
+      "label": "PREMISE"
+    }
+  ]
+}
