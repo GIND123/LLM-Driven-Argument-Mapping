@@ -1,0 +1,1007 @@
+{
+  "document_id": "breast-imaging-screening-diagnosing-cancer",
+  "source": "Uhc",
+  "dataset": "uhc",
+  "sentences": [
+    {
+      "id": 3,
+      "text": "Coverage Rationale  See Benefit Considerations The following are proven and medically necessary: Magnetic resonance imaging (MRI) of the breast for individuals who are high risk for breast cancer as defined as having any of the following: Heterogeneously dense breasts (Category C) or extremely dense breasts (Category D) (screening beginning at o age 40) Prior thoracic radiation therapy between the ages 10 and 30 (screening starting at age 25 or 8 years after o treatment, whichever is later) Lifetime risk estimated at greater than or equal to 20% as defined by models that are largely dependent on family o history (e.g., Gail, Claus, Tyrer-Cuzick, or BRCAPRO) (screening beginning at age 40*) Personal history of breast cancer (not treated with bilateral mastectomy) o Personal history with any of the following: o  ATM (screening beginning at age 30*)  BARD1 (screening beginning at age 40*)  BRCA1 or BRCA2 (screening beginning at age 25)  CDH1 (screening beginning at age 30*)  CHEK2 (screening beginning at age 30*)  NF1 (screening beginning at age 30*)  PALB2 (screening beginning at age 30*)  PTEN gene mutation (Cowden syndrome) (screening beginning at age 30*) Breast Imaging for Screening and Diagnosing Cancer Page 1 of 13 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Copyright 2026 United HealthCare Services, Inc.  RAD51C (screening beginning at age 40*)  RAD51D (screening beginning at age 40*)  STK11 gene mutation (Peutz-Jehgers syndrome) (screening beginning at age 30*)  TP53 gene mutation (Li-Fraumeni syndrome) (screening beginning at age 20) Family history with any of the following: o  At least one first-degree relative who has a BRCA1 or BRCA2 mutation (screening beginning at age 40*)  First-degree relative who carries a genetic mutation in the TP53 or PTEN genes (Li-Fraumeni syndrome, Cowden syndrome, Bannayan-Riley-Ruvalcaba syndrome, or Peutz-Jehgers syndrome)  At least two first-degree relatives with breast or ovarian cancer (screening beginning at age 40*)  One first-degree relative with bilateral breast cancer, or both breast and ovarian cancer (screening beginning at age 40*)  First- or second-degree male relative (father, brother/half-brother, uncle, grandfather) diagnosed with breast cancer (screening beginning at age 40*) *Screening can begin at the listed age or starting 10 years prior to the age of diagnosis of the youngest relative who has been diagnosed with breast cancer (up to third-degree relatives) whichever comes first, but not before age 25.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "The following are unproven and not medically necessary due to insufficient evidence of efficacy: Computer-Aided Tactile Breast Imaging Computed tomography (CT) of the breast Magnetic Resonance Elastography (MRE) MRI of the breast for individuals who do not meet the criteria above Molecular Breast Imaging (e.g., Breast Specific Gamma Imaging, scintimammography, Positron Emission Mammography) Note: For 3D rendering of breast ultrasound, 3D rendering of breast MRI, CT of the breast, or additional indications for MRI of the breast, refer to the Breast Imaging Guidelines section of the Cardiovascular and Radiology Imaging Guidelines.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Medical Records Documentation Used for Reviews Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Medical records documentation may be required to assess whether the member meets the clinical criteria for coverage but does not guarantee coverage of the service requested; refer to the guidelines titled Medical Records Documentation Used for Reviews.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Definitions Breast Composition Categories: Levels of breast tissue density described by American College of Radiology's Breast Imaging Reporting and Data System.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 9,
+      "text": "Category A: Almost entirely fatty Category B: Scattered areas of fibroglandular density Category C: Heterogeneously dense Category D: Extremely dense (Sickles et al.,",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 10,
+      "text": "2013) Breast Specific Gamma Imaging (BSGI): BSGI, also known as scintimammography (SMM) or Molecular Breast Imaging (MBI) is a noninvasive diagnostic technology that detects tissues within the breast that accumulate higher levels of a radioactive tracer that emit gamma radiation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 11,
+      "text": "The test is performed with a gamma camera after intravenous administration of radioactive tracers.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 12,
+      "text": "Scintimammography has been proposed primarily as an adjunct to mammography and physical examination to improve selection for biopsy in patients who have palpable masses or suspicious mammograms (ACS, 2022).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 13,
+      "text": "Computer-Aided Tactile Breast Imaging: Tactile breast imaging includes placing a tactile array sensor in contact with the breast.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 14,
+      "text": "As the clinician gently moves the hand-held sensor across the breast and underarm area, data signals are then processed into multi-dimensional color images that instantly appear on a computer screen in real-time, allowing the clinician to view the size, shape, hardness, and location of suspicious masses immediately (ACS, 2022).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 15,
+      "text": "Magnetic Resonance Elastography (MRE) of the Breast: MRE of the breast is a phase-contrast-based MRI technique that is based upon quantitative differences in the mechanical properties of normal and malignant tissues.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 16,
+      "text": "Specifically, the Breast Imaging for Screening and Diagnosing Cancer Page 2 of 13 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 17,
+      "text": "Copyright 2026 United HealthCare Services, Inc. elastic modulus of breast cancer tissue is approximately 5- to 20-fold higher than that of the surrounding fibroglandular tissue, i.e., breast cancers are usually harder than normal tissues.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 18,
+      "text": "This difference can be measured by applying a known stressor and measuring the resulting deformation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 19,
+      "text": "MRE is performed by a radiologist in an MRI suite equipped with the electromechanical driver and integrated radiofrequency coil unit (ACS, 2022).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 20,
+      "text": "Molecular Breast Imaging (MBI): Procedure that uses a radioactive tracer and special camera to find breast cancer.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 21,
+      "text": "Rather than simply taking a picture of a breast, Molecular Breast Imaging is a type of functional imaging.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 22,
+      "text": "This means that the pictures it creates show differences in the activity of the tissue (ACS, 2022).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 23,
+      "text": "Positron Emission Mammography (PEM): PEM performs high-resolution metabolic imaging for breast cancer using an FDG tracer.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 24,
+      "text": "The PEM detectors are integrated into a conventional mammography system, allowing acquisition of the emission images immediately after the mammogram (ACS, 2022).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 25,
+      "text": "Applicable Codes The following list(s) of procedure and/or diagnosis codes is provided for reference purposes only and may not be all inclusive.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 26,
+      "text": "Listing of a code in this policy does not imply that the service described by the code is a covered or non-covered health service.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 27,
+      "text": "Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 28,
+      "text": "The inclusion of a code does not imply any right to reimbursement or guarantee claim payment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 30,
+      "text": "Coding Clarification: Computer-aided detection (CAD) is included with the MRI breast CPT code 77048 and 77049 procedures.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 31,
+      "text": "If CAD is performed with these codes, there is no additional reimbursement.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 32,
+      "text": "CPT Code Description 0422T Tactile breast imaging by computer-aided tactile sensors, unilateral or bilateral 0633T Computed tomography, breast, including 3D rendering, when performed, unilateral; without contrast material 0634T Computed tomography, breast, including 3D rendering, when performed, unilateral; with contrast material(s) 0635T Computed tomography, breast, including 3D rendering, when performed, unilateral; without contrast, followed by contrast material(s) 0636T Computed tomography, breast, including 3D rendering, when performed, bilateral; without contrast material(s) 0637T Computed tomography, breast, including 3D rendering, when performed, bilateral; with contrast material(s) 0638T Computed tomography, breast, including 3D rendering, when performed, bilateral; without contrast, followed by contrast material(s) 76376 3D rendering with interpretation and reporting of computed tomography, magnetic resonance imaging, ultrasound, or other tomographic modality with image postprocessing under concurrent supervision; not requiring image postprocessing on an independent workstation 76377 3D rendering with interpretation and reporting of computed tomography, magnetic resonance imaging, ultrasound, or other tomographic modality with image postprocessing under concurrent supervision; requiring image postprocessing on an independent workstation 76391 Magnetic resonance (e.g., vibration) elastography 76498 Unlisted magnetic resonance procedure (e.g., diagnostic, interventional) 77046 Magnetic resonance imaging, breast, without contrast material; unilateral 77047 Magnetic resonance imaging, breast, without contrast material; bilateral 77048 Magnetic resonance imaging, breast, without and with contrast material(s), including computer- aided detection (CAD real-time lesion detection, characterization and pharmacokinetic analysis), when performed; unilateral 77049 Magnetic resonance imaging, breast, without and with contrast material(s), including computer- aided detection (CAD real-time lesion detection, characterization and pharmacokinetic analysis), when performed; bilateral CPT® is a registered trademark of the American Medical Association Breast Imaging for Screening and Diagnosing Cancer Page 3 of 13 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 33,
+      "text": "Copyright 2026 United HealthCare Services, Inc. HCPCS Code Description S8080 Scintimammography (radioimmunoscintigraphy of the breast), unilateral, including supply of radiopharmaceutical Description of Services Regular screening is the most reliable method for detecting breast cancer early when treatment is the most effective.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 35,
+      "text": "Current methods of breast screening and diagnosis include breast self-examination, clinical breast exam, ultrasonography, mammography, and magnetic resonance imaging.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 36,
+      "text": "Mammography remains the generally accepted standard for breast cancer screening and diagnosis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 37,
+      "text": "However, efforts to provide new insights regarding the origins of breast disease and to find different approaches for addressing several key challenges in breast cancer, including detecting disease in mammographically dense tissue, distinguishing between malignant and benign lesions, and understanding the impact of neoadjuvant chemotherapies, has led to the investigation of several novel methods of breast imaging for breast cancer management.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 38,
+      "text": "Benefit Considerations Certain breast cancer screenings are included in the Preventive Care Services benefit.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 40,
+      "text": "Clinical Evidence Computer-Aided Tactile Breast Imaging The current evidence consists of very low-quality, uncontrolled studies of the diagnostic efficacy for either tactile breast imaging device.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 41,
+      "text": "The impact of these devices on patient outcomes has not been determined.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 42,
+      "text": "There is significant potential for bias in these studies that could result in hyper-inflated estimates of diagnostic accuracy of tactile breast imaging relative to other screening modalities.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 43,
+      "text": "Limitations to the research include insufficient reporting of the referral process and work-up prior to tactile breast imaging, lack of randomization, unclear blinding, and inconsistent application of the gold standard.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 44,
+      "text": "Future research should include better-designed studies, including comparative, prospective and randomized controlled trials evaluating this technology. Tasoulis et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 45,
+      "text": "2014) unnecessary referrals of patients with breast lumps represent a significant issue, since only a few patients actually have lumps when examined by a breast specialist.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 46,
+      "text": "Tactile imaging (TI) is a novel modality in breast diagnostics armamentarium.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 47,
+      "text": "The aim of this study was to assess TI's diagnostic performance and compare it to clinical breast examination (CBE).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 49,
+      "text": "All patients underwent conventional imaging and tissue sampling if either a radiological or a palpable abnormality was present.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 50,
+      "text": "Sensitivity, specificity and positive and negative predictive values for CBE and TI were calculated.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 51,
+      "text": "Radiological findings and final diagnosis based on histology and/or cytology were used as reference standards.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 53,
+      "text": "Sensitivity and specificity of TI in detecting radiologically proven abnormalities were 85.5% and 35%, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 54,
+      "text": "CBE's sensitivity was 80.3% and specificity 76%.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 55,
+      "text": "In detecting a histopathological entity according to histology/cytology, sensitivity was 88.2% for TI and 81.6% for CBE.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 57,
+      "text": "These results suggest a trend towards higher sensitivity of TI compared to CBE but significantly lower specificity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 58,
+      "text": "Subgroup analysis revealed superior sensitivity of TI in detecting a histological entity in pre-menopausal women.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 59,
+      "text": "However, CBE's overall performance was superior compared to TI's according to ROC curve analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 60,
+      "text": "Although further research is necessary, the use of TI by the primary care physician as a selection tool for referring patients to a breast specialist should be considered especially in pre-menopausal women.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 61,
+      "text": "Computed Tomography of the Breast There is a very low-quality body of evidence aimed at computed tomography of the breast for screening and diagnosis of breast cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 62,
+      "text": "These consist of uncontrolled studies which are insufficient to draw conclusions regarding evidence and patient outcomes in lieu of conventional breast imaging modalities.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 63,
+      "text": "These studies have failed to yield diagnostic accuracy and at high risk of bias due to no controls, retrospective design, and single center focus.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 66,
+      "text": "Eight studies met Breast Imaging for Screening and Diagnosing Cancer Page 4 of 13 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 70,
+      "text": "The diagnostic performance of CBBCT in primary breast cancer was better than that of MG.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 71,
+      "text": "CBBCT sensitivity and specificity in diagnosing primary breast cancer were 0.92 and 0.79 respectively, and the area under the curve (AUC) of the summary receiver operating characteristic (SROC) was 0.93.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 72,
+      "text": "The summary sensitivity and specificity for MG were 0.77 and 0.75, respectively, with an AUC of 0.83.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 73,
+      "text": "The Z-test revealed that the summary sensitivity of CBBCT was significantly higher than that of MG.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "The authors concluded diagnostic performance of CBBCT was better than MG in cases of primary breast cancer.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 77,
+      "text": "Limitations in the study were the small sample size and high heterogeneity impacting data reliability. Komolafe et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 78,
+      "text": "2022) performed a systematic review and meta-analysis to evaluate the comparison of diagnostic accuracy of cone-beam breast computed tomography (CBBCT) and digital breast tomosynthesis (DBT) to characterize breast cancers.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 79,
+      "text": "Two independent reviewers identified screening on diagnostic studies from 1 January 2015 to 30 December 2021, with at least reported sensitivity and specificity for both CBBCT (n = 5) and DBT (n = 17).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 81,
+      "text": "The pooled sensitivity specificity, LR + and LR- and AUC at 95% confidence interval are 86.7% (80.3-91.2), 87.0% (79.9-91.8), 6.28 (4.40-8.96), 0.17 (0.12-0.25) and 0.925 for the 17 included studies in DBT arm, respectively, while 83.7% (54.6-95.7), 71.3% (47.5-87.2), 2.71 (1.39-5.29), 0.20 (0.04-1.05), and 0.831 are the pooled sensitivity specificity, LR + and LR- and AUC for the five studies in the CBBCT arm, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 82,
+      "text": "The authors concluded that Our study demonstrates that DBT shows improved diagnostic performance over CBBCT regarding all estimated diagnostic parameters; with the statistical improvement in the AUC of DBT over CBBCT.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 83,
+      "text": "The CBBCT might be a useful modality for breast cancer detection, thus we recommend more prospective studies on CBBCT application.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 85,
+      "text": "The result of both arms was not extracted from the same studies and compared with a different cohort introducing potential bias.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 86,
+      "text": "The sample size of the CBBCT arm is one- third of that of the DBT arm, thus the CBBCT result is underrepresented.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 87,
+      "text": "In addition, there are no large multicenter prospective or clinical trial studies available.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 88,
+      "text": "The findings of this study need to be validated by well-designed studies.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 89,
+      "text": "Further investigation is needed before clinical usefulness of this procedure is proven.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 90,
+      "text": "In the 2020 ECRI Clinical Evidence Assessment Report, Breast Computed Tomography for Breast Cancer Screening found limited information to support the use of this technology for breast cancer screening.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 91,
+      "text": "The authors concluded that the evidence is inconclusive and has no clinical validity or utility data.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 92,
+      "text": "Uhlig (2019) published a systematic review of the diagnostic accuracy of cone beam breast CT.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 93,
+      "text": "A total of 362 studies were screened, of which 6 with 559 patients were included.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 94,
+      "text": "All studies were conducted between 2015 and 2018 and evaluated female participants.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 95,
+      "text": "Five studies included non-contract cone beam breast computed tomography (NC-CBBCT) and three included contrast-enhanced cone beam breast computed tomography (CE-CBBCT).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 96,
+      "text": "Overall, the study quality was high, except for one study of NC-CBBCT which was presented as a conferenced abstract and was given a lower rating due to lack of complete study design and conduct details.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 97,
+      "text": "There was high between-study heterogeneity among the NC-CBBCT studies (I2 = 98.4%, 95% CI 80.6 to 94.2%).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 98,
+      "text": "Using NC-CBBCT, pooled sensitivity was 0.789 (95% CI 0.66 to 0.89) and pooled specificity was 0.697 (95% CI 0.471 to 0.851).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 99,
+      "text": "The NC-CBBCT partial area under the curve (AUC), calculated from only regions with reported study specificities and standardized to the whole space, was 0.817.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 100,
+      "text": "There was no statistically significant heterogeneity among the three studies that evaluated CE-CBBCT (I2 = 57.3, 95% CI 0 to 84.1%,).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 101,
+      "text": "Protocols for administration of iodinated intravenous contrast media were different in each study.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 102,
+      "text": "The pooled sensitivity was 0.899 (95% CI 0.785 to 0.956) and the pooled specificity was 0.788 (95% CI 0.709 to 0.85).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 104,
+      "text": "The evidence available for CBBCT tends to show superior diagnostic performance for CE-CBBCT over NC-CBBCT regarding sensitivity, specificity, and partial area under the curve (AUC).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 105,
+      "text": "Diagnostic accuracy of CE-CBBCT was numerically comparable to that of breast MRI with meta-analyses reporting sensitivity of 0.9 and specificity of 0.72.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 106,
+      "text": "The authors conclude that the results are encouraging but that additional further large-scale, prospective studies and long-term follow-up studies are required.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 107,
+      "text": "Magnetic Resonance Elastography of the Breast (MRE) Researchers have tested the feasibility of breast elastography and the results confirm the hypothesis that breast elastography can quantitatively depict the elastic properties of breast tissues and reveal high shear elasticity in known breast tumors.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 108,
+      "text": "However, the clinical benefits of elastography imaging are still under evaluation and no clinical diagnosis can be made other than being able to tell whether or not a structure inside the patient is stiffer than another one.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 109,
+      "text": "Further research is needed to evaluate the potential clinical applications of breast elastography, such as detecting breast carcinoma and characterizing suspicious breast lesions.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 112,
+      "text": "2022) conducted a prospective study to quantify biomechanical tissue properties in various breast densities in average risk and high-risk women using MRI/MRE.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 113,
+      "text": "Additionally, to examine the association between breast biomechanical properties and cancer risk based on patient demographics and clinical data.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 116,
+      "text": "All 50 average risk patients had breast stiffness, elasticity, and viscosity data available for both breasts.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 117,
+      "text": "Eighty-six patients met inclusion criteria in the high-risk portion of the study.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 118,
+      "text": "In this group, 82 had breast stiffness, elasticity, and viscosity data available for both breasts, and 4 had these data available for one breast.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 119,
+      "text": "Among patients with dense breasts, mean stiffness, elasticity, and viscosity were significantly higher in high-risk patients (n = 55) compared to average risk patients (n = 34; all p < 0.001).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 120,
+      "text": "Stiffness remained a significant predictor of risk status [OR = 4.26, 95% CI (1.96, 9.25)] even after controlling for breast density, breast parenchymal enhancement, age, and menopausal status.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 122,
+      "text": "The authors concluded, structurally based quantitative biomarker of tissue stiffness obtained from MRE is associated with differences in breast cancer risk in dense breasts.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 123,
+      "text": "Stiffness values could help stratify patients with dense breasts into those who are at elevated risk and would benefit from increased surveillance with supplemental imaging techniques and/or risk reduction measures.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 128,
+      "text": "The authors concluded that combining MRE with MRI increases the diagnostic performance of breast MRI; however, larger studies are needed to validate the results and to identify the patients best suited for a combined procedure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 130,
+      "text": "2024) conducted a systematic review and meta-analysis to identify the best imaging modality that can be used for the testing of women who are recalled following mammography screening.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 131,
+      "text": "The imaging modalities reviewed include digital mammography (DM), digital breast tomosynthesis (DBT), handheld ultrasound (HHUS), contrast-enhanced mammography (CEM), and MRI in screen-recalled lesions.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 132,
+      "text": "A total of 54 studies met the inclusion criteria and examined between one and three imaging modalities.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 133,
+      "text": "The authors pooled results of each imaging modality demonstrated that CEM has the highest sensitivity (95; 95% CI: 90–97) followed by MRI (93; 95% CI: 88–96), DBT (91; 95% CI: 87–94), HHUS (90; 95% CI: 86–93), and DM (85; 95% CI: 78–90).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 135,
+      "text": "The authors concluded that CEM, MRI, DBT, and HHUS demonstrate excellent performance in correctly identifying and classifying cancer lesions referred for diagnostic work-up, but DBT and DM discriminate benign lesions better than CEM, MRI, and ultrasound.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 138,
+      "text": "Additional studies including head-to-head trials embedded in screening pathways are warranted to confirm these findings. A systematic review by Zeng et al. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 139,
+      "text": "2021) was performed to review the published literature to explore the effect of supplemental screening (MRI or breast ultrasound) compared to mammography alone on cancer detection and interval cancer rates.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 140,
+      "text": "A further aim was to identify specific groups where supplemental screening is most effective at reducing the interval cancer rate (ICR).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 141,
+      "text": "This study reviewed the evidence evaluating the effect of supplemental imaging on ICR in women undergoing screening mammography.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 142,
+      "text": "This systematic review included studies that reported both cancer detection rate (CDR) and ICR in women undergoing screening mammography alone compared to those undergoing screening mammography with supplemental imaging.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 144,
+      "text": "These reported on 142,153 women undergoing mammography screening alone or mammography with supplemental imaging (3 ultrasound and 2 MRI studies).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 145,
+      "text": "Two studies included a general screening population and 3 included special populations (young, high genetic risk and/or dense breasts).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 146,
+      "text": "The incremental CDR for supplemental MRI was 14.2 to 16.5/1000 screens and for ultrasound was 0 to 4.4/1000 screens.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 147,
+      "text": "Effect on ICR was variable but evidence of a reduced ICR was more consistent for studies using supplemental MRI (ICR 0.3 to 0.8 per 1000 screens) than those using ultrasound (ICR 0.49 to 1.9 per 1000 screens).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 148,
+      "text": "The higher CDR and lower ICR with supplemental screening were associated with higher recall and biopsy rates particularly with supplemental MRI (9.5%-15.9%, up to 69/1000 screens).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 149,
+      "text": "The authors concluded that cancers detected with supplemental imaging modalities were generally smaller and earlier stage.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 150,
+      "text": "Mammography with supplemental MRI or ultrasound increases detection of cancers (versus mammography only) in some sub-groups but also increases recall and biopsy rates and may have a relatively modest effect in reducing ICR.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 151,
+      "text": "Limitations include a small number of studies and the heterogeneity of the studies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 152,
+      "text": "Molecular Breast Imaging (MBI) The published literature on molecular breast imaging is limited by a number of factors.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 153,
+      "text": "The studies include populations that usually do not represent those encountered in clinical practice and that have mixed indications.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 154,
+      "text": "There are Breast Imaging for Screening and Diagnosing Cancer Page 6 of 13 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 156,
+      "text": "Limited evidence on the diagnostic accuracy of molecular imaging reports that these tests have a relatively high sensitivity and specificity for detecting malignancy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 157,
+      "text": "However, the evidence does not establish that this imaging improves outcomes when used as an adjunct to mammography for breast cancer screening.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 159,
+      "text": "2023) conducted a systematic review and meta-analysis to evaluate the diagnostic test accuracy of different imaging modalities for axillary lymph node metastases (ALNM) in patients with breast cancer.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 160,
+      "text": "The modalities in the analysis included ultrasonography (US), MRI, mammography (MMG), ultrasound elastography (UE), PET, CT, PET/CT, scintimammography (SMM), and PET/MRI.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 162,
+      "text": "On the patient-based level, the authors findings identified UE had the highest superiority index (5.95) with the highest relative sensitivity of 1.13 [95% confidence interval (CI): 0.93–1.29] among all imaging methods when compared to US.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 163,
+      "text": "At lymph node level, MRI had the highest superiority index (6.91) with highest relative sensitivity of 1.13 (95% CI: 1.01–1.23) and highest relative specificity of 1.11 (95% CI: 0.95–1.23) among all imaging methods when compared to US.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 164,
+      "text": "The authors concluded UE and MRI had better diagnostic value than the other imaging modalities for the diagnosis of ALNM in breast cancer patients at the patient level and the lymph node level, respectively.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 165,
+      "text": "Limitations in the study include small sample size, limited data on some of the imaging modalities, lack of standardization of imaging protocols, and patient subgroup analysis of factors such as tumor type or BMI.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 167,
+      "text": "2022) conducted a systematic review to assess if breast-specific gamma imaging (BSGI) is a more valuable choice in detecting breast malignant lesions compared to morphological counterparts such mammography (MMG), ultrasound (US), and magnetic resonance imaging in terms of specificity, sensibility, and positive and negative predictive value.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 169,
+      "text": "BSGI sensitivity was similar to MRI, but specificity was higher.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 170,
+      "text": "Specificity was always higher than MMG and US.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 171,
+      "text": "BSGI had higher positive predictive value and negative predicative value.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 172,
+      "text": "When used for the evaluation of a suspected breast lesion, the overall sensitivity was better than the examined overall sensitivity when BSGI was excluded.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 173,
+      "text": "Risk of bias and applicability concerns domain showed mainly low risk of bias.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 174,
+      "text": "The authors concluded BSGI is a valuable imaging modality with similar sensitivity to MRI but higher specificity, although at the cost of higher radiation burden. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 177,
+      "text": "sought to establish if Tc-99m sestamibi scintimammography is useful in the prediction of neoadjuvant chemotherapy responses in breast cancer.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 178,
+      "text": "Electronic databases were searched for relevant publications in English, and fourteen studies, for a total of 503 individuals, fulfilled the inclusion criteria.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 179,
+      "text": "The results indicated that Tc-99m MIBI scintimammography had acceptable sensitivity in the prediction of neoadjuvant chemotherapy response in breast cancer; however, its relatively low specificity showed that a combination of other imaging modalities would still be needed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 180,
+      "text": "Subgroup analysis indicated that performing early mid-treatment Tc-99m MIBI scintimammography (using the reduction rate of one or two cycles or within the first half-courses of chemotherapy compared with the baseline) was better than carrying out later (after three or more courses) or post-treatment scintimammography in the prediction of neoadjuvant chemotherapy response.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 181,
+      "text": "In the 2013 ECRI Evidence Report, Noninvasive Diagnostic Tests for Breast Abnormalities found that only women with a pre-scintimammography suspicion of malignancy of 5 percent or less will have their post-scintimammography suspicion of malignancy change sufficiently to suggest that a change in patient management may be appropriate.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 182,
+      "text": "A meta-analysis of scintimammography included 5,473 patients from studies performed since 1997.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 183,
+      "text": "The overall sensitivity was 85% and the specificity was 84% for single-site trial studies, and for multi-center trial studies the overall sensitivity was 85% and the specificity was 83%. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 184,
+      "text": "Hussain and Buscombe, 2006) Another meta-analysis evaluating scintimammography included 5,340 patients from studies published between January 1967 and December 1999.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 185,
+      "text": "The aggregated summary estimates of sensitivity and specificity for scintimammography were 85.2% and 86.6%, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 186,
+      "text": "The authors concluded that scintimammography may be used effectively as an adjunct to mammography when additional information is required to reach a definitive diagnosis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 187,
+      "text": "The authors also indicated that the role of scintimammography should be assessed on the basis of large, multi-center studies. ( Liberman et al.,",
+      "label": "CLAIM"
+    },
+    {
+      "id": 188,
+      "text": "2003) Clinical Practice Guidelines American Cancer Society (ACS) The ACS recommendation for breast cancer early detection and diagnosis states that breast ultrasound is useful for looking at some breast changes, such as lumps (especially those that can be felt but not seen on a mammogram).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 189,
+      "text": "Ultrasound can be especially helpful in women with dense breast tissue, which can make it hard to see abnormal areas on Breast Imaging for Screening and Diagnosing Cancer Page 7 of 13 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 191,
+      "text": "It also can be used to get a better look at a suspicious area that was seen on a mammogram.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 192,
+      "text": "Ultrasound is useful because it can often tell the difference between fluid-filled masses like cysts and solid masses (ACS, 2022).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 193,
+      "text": "The ACS guidelines for breast cancer screening states scintimammography, positron emission tomography, and electrical impedance imaging, have received FDA approval as diagnostic adjuncts to mammography.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 194,
+      "text": "None of these new technologies have successfully undergone clinical testing that would justify its use in screening for breast cancer (Oeffinger, 2015).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 195,
+      "text": "The ACS guideline on breast cancer screening for women at average risk specifically recommends against annual MRI screening in women at less than a 15% lifetime risk of breast cancer (Oeffinger, 2015).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 196,
+      "text": "American College of Obstetricians and Gynecologists (ACOG) In 2020 ACOG reaffirmed their recommendation for routine screening with use of digital mammography for women diagnosed with dense breasts.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 197,
+      "text": "They do not recommend routine use of alternative or adjunctive tests to screening mammography in women with dense breasts who are asymptomatic and have no additional risk factors.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 198,
+      "text": "The College strongly supports additional research to identify more effective screening methods that will enhance meaningful improvements in cancer outcomes for women with dense breasts and minimize false-positive screening results.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 199,
+      "text": "ACOG also recommends that health care providers comply with state laws that may require disclosure to women of their breast density as recorded in a mammogram report.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 200,
+      "text": "American College of Radiology (ACR) A 2024 update to the ACR Appropriateness Criteria on supplemental breast cancer screening based on breast density states that supplemental screening may be considered based on the patient’s risk level and breast density.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 201,
+      "text": "ACR’s recommendations include average-risk women with heterogeneously dense tissue, intermediate-risk women with nondense tissue, or intermediate-risk women with heterogeneously dense and extremely dense tissue.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 202,
+      "text": "Breast MRI or abbreviated breast MRI is usually appropriate in all high-risk women, regardless of density (Paulis et al., 2025).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 203,
+      "text": "The 2023 updated ACR recommendations for breast cancer screening for women at higher-than-average risk states the following: All women should undergo risk assessment by age 25, especially Black women and women of Ashkenazi Jewish heritage.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 204,
+      "text": "For most women at higher-than-average risk, the supplemental screening method of choice is breast MRI.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 205,
+      "text": "For those who qualify for but cannot undergo breast MRI, CEM or ultrasound could be considered.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 206,
+      "text": "Women with genetic mutations (and their untested first-degree relatives) or those with a calculated lifetime risk of 20% or more should undergo annual DM, with or without DBT, starting at age 30 and annual MRI starting ages 25 to 30.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 207,
+      "text": "Mutation carriers can delay mammographic screening until age 40 if annual breast MRI is performed as recommended.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 208,
+      "text": "Women exposed to a cumulative chest RT dose of ≥ 10 Gy by age 30 should undergo annual mammography starting at age 25 or 8 years after RT, whichever is later, and annual breast MRI beginning ages 25 to 30.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 209,
+      "text": "Women diagnosed with breast cancer before age 50 or with personal history of breast cancer and dense breasts should undergo annual supplemental screening with breast MRI.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 210,
+      "text": "Others with personal history should strongly consider supplemental screening with MRI, especially if other risk factors are present.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 211,
+      "text": "For women with dense breasts who desire supplemental screening, breast MRI is recommended.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 213,
+      "text": "The ACR appropriateness criteria for breast cancer screening considers MRI for screening high-risk women including women with a BRCA gene mutation and their untested first-degree relatives, women with a history of chest irradiation between 10 to 30 years of age, and women with 20% or greater lifetime risk of breast cancer usually appropriate (Mainiero, 2017).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 214,
+      "text": "According to practice parameter for the performance of molecular breast imaging (MBI) using a dedicated gamma camera, there is insufficient evidence to support the use of breast specific gamma imaging (BSGI).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 215,
+      "text": "Also, the relatively high radiation dose currently associated with BSGI/MBI has prompted the ACR to recommend against the use for screening (ACR, 2017; revised 2022).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 216,
+      "text": "American Society of Breast Surgeons (ASBrS) A consensus guideline by the American Society of Breast Surgeons on diagnostic and screening magnetic resonance imaging of the breast (2017) also supports the use of MRI as a screening technique in women.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 217,
+      "text": "The guideline particularly supports women aged twenty-five or older with a BRCA gene mutation, women with other germline mutations known to Breast Imaging for Screening and Diagnosing Cancer Page 8 of 13 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 218,
+      "text": "Copyright 2026 United HealthCare Services, Inc. predispose to a high risk of breast cancer, women with a history of chest irradiation, and women with a 20%-25% or greater estimated lifetime risk of breast cancer based on models primarily based on family history.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 219,
+      "text": "European Society of Breast Imaging (EUSOBI) Breast density is an independent risk factor for the development of breast cancer and also decreases the sensitivity of mammography for screening.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 220,
+      "text": "Consequently, women with extremely dense breasts face an increased risk of late diagnosis of breast cancer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 222,
+      "text": "The results of recent studies reporting on contrast-enhanced breast MRI as a screening method in women with extremely dense breasts provide compelling evidence that this approach can enable an important reduction in breast cancer mortality for these women and is cost-effective.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 223,
+      "text": "Because there is now a valid option to improve breast cancer screening, the EUSOBI recommends that women should be informed about their breast density.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 224,
+      "text": "EUSOBI thus calls on all providers of mammography screening to share density information with the women being screened.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 225,
+      "text": "Considering the available evidence, in women aged 50 to 70 years with extremely dense breasts, the EUSOBI now recommends offering screening breast MRI every 2 to 4 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 226,
+      "text": "The EUSOBI acknowledges that it may currently not be possible to offer breast MRI immediately and everywhere and underscores that quality assurance procedures need to be established but urges radiological societies and policymakers to act on this now.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 228,
+      "text": "Women should be counselled on the benefits and risks of mammography and MRI-based screening, so that they can make an informed choice about their preferred screening method (Mann, 2022).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 236,
+      "text": "However, the whole-body effective radiation dose with these tests is substantially higher than that of mammography.”",
+      "label": "PREMISE"
+    },
+    {
+      "id": 237,
+      "text": "Society of Breast Imaging (SBI)/American College of Radiology (ACR) The 2010 SBI and ACR recommendation for breast cancer screening with breast ultrasound states the following: Can be considered in high-risk women for whom magnetic resonance imaging (MRI) screening may be appropriate but who cannot have MRI for any reason.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 239,
+      "text": "Society of Nuclear Medicine and Molecular Imaging (SNMMI) SNM published a Procedure Standard (2010) for breast scintigraphy with breast-specific gamma cameras that indicate that further study is needed to determine the population and usefulness most likely to benefit from this procedure.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 240,
+      "text": "This guideline lists potential indications and cites references for each indication but does not provide a systemic review of the literature, including assessment of study quality.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 241,
+      "text": "The guideline is based on consensus, and most of it is devoted to procedures and specifications of the examination, documentation and recording, quality control and radiation safety.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 242,
+      "text": "Society of Nuclear Medicine and Molecular Imaging (SNMMI)/European Association of Nuclear Medicine (EANM) In a 2022 Practice Guideline for Molecular Breast Imaging with Dedicated Gamma-Cameras, the SNMMI and EANM state for breast cancer screening, MBI has been useful in detecting mammographically-occult breast cancer in women with dense breast tissue (heterogeneously or extremely dense on mammography) and in women at elevated risk for breast cancer who are unable to undergo breast MRI screening.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 243,
+      "text": "Breast Imaging for Screening and Diagnosing Cancer Page 9 of 13 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 244,
+      "text": "Copyright 2026 United HealthCare Services, Inc. United States Preventive Services Task Force (USPSTF) The 2024 USPSTF recommendation statement on Screening for Breast Cancer states that the evidence is insufficient to determine the balance of benefits and harms of supplemental screening for breast cancer with breast ultrasonography or MRI in women who have a negative screening mammogram result, regardless of breast density.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 245,
+      "text": "U.S. Food and Drug Administration (FDA) This section is to be used for informational purposes only.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 247,
+      "text": "Mammographic x-ray systems are classified as Class II devices.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 248,
+      "text": "The FDA regulates the marketing of mammography devices and regulates the use of such devices via the Mammography Quality Standards Act (MQSA).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 249,
+      "text": "The FDA has granted pre-market approval to several digital mammography systems (product code MUE) for breast cancer screening and diagnosis.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 250,
+      "text": "Breast Specific Gamma Imaging (BSGI) BSGI for diagnosing breast cancer is a procedure and, therefore, is not subject to FDA regulation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 252,
+      "text": "The cameras used during BSGI are considered Class I radiologic devices.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 253,
+      "text": "A scintillation (gamma) camera is a device intended to image the distribution of radionuclides in the body by means of a photon radiation detector.",
+      "label": "NON_ARGUMENTATIVE"
+    }
+  ]
+}
