@@ -1,0 +1,114 @@
+{
+  "document_id": "breast-reduction-surgery",
+  "source": "Uhc",
+  "relations": [
+    {
+      "source": 3,
+      "target": 20,
+      "type": "SUPPORT",
+      "similarity": 0.7985
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": 0.6112
+    },
+    {
+      "source": 3,
+      "target": 18,
+      "type": "SUPPORT",
+      "similarity": 0.4554
+    },
+    {
+      "source": 17,
+      "target": 20,
+      "type": "SUPPORT",
+      "similarity": 0.5014
+    },
+    {
+      "source": 17,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": 0.447
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "type": "SUPPORT",
+      "similarity": 0.2233
+    },
+    {
+      "source": 21,
+      "target": 20,
+      "type": "SUPPORT",
+      "similarity": 0.7657
+    },
+    {
+      "source": 21,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": 0.6912
+    },
+    {
+      "source": 21,
+      "target": 18,
+      "type": "SUPPORT",
+      "similarity": 0.411
+    },
+    {
+      "source": 29,
+      "target": 20,
+      "type": "NONE",
+      "similarity": 0.3239
+    },
+    {
+      "source": 29,
+      "target": 18,
+      "type": "SUPPORT",
+      "similarity": 0.2562
+    },
+    {
+      "source": 29,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": -0.0223
+    },
+    {
+      "source": 30,
+      "target": 20,
+      "type": "NONE",
+      "similarity": 0.3067
+    },
+    {
+      "source": 30,
+      "target": 18,
+      "type": "SUPPORT",
+      "similarity": 0.2061
+    },
+    {
+      "source": 30,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": -0.0072
+    },
+    {
+      "source": 33,
+      "target": 18,
+      "type": "NONE",
+      "similarity": 0.4014
+    },
+    {
+      "source": 33,
+      "target": 20,
+      "type": "NONE",
+      "similarity": 0.3499
+    },
+    {
+      "source": 33,
+      "target": 5,
+      "type": "NONE",
+      "similarity": 0.2339
+    }
+  ]
+}
