@@ -1,0 +1,107 @@
+{
+  "document_id": "breast-reduction-surgery",
+  "source": "Uhc",
+  "dataset": "uhc",
+  "sentences": [
+    {
+      "id": 2,
+      "text": "UnitedHealthcare Individual Exchange This Medical Policy applies to Individual Exchange benefit plans.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 3,
+      "text": "Coverage Rationale  See Benefit Considerations Most UnitedHealthcare plans have a specific exclusion for breast reduction surgery except as required by the Women's Health and Cancer Rights Act of 1998.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 5,
+      "text": "Breast reduction surgery is considered reconstructive and medically necessary in certain circumstances.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "For medical necessity clinical coverage criteria, refer to the InterQual® CP: Procedures: Reduction Mammaplasty, Female Reduction Mammaplasty, Female, Adolescent Click here to view the InterQual® criteria.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 7,
+      "text": "Note: For reduction mammaplasty related to gynecomastia, refer to the Medical Policy titled Gynecomastia Surgery.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 10,
+      "text": "Breast Reduction Surgery Page 1 of 3 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 11,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Definitions Women's Health and Cancer Rights Act of 1998, 29 U.S.C. § 1185b: “In general - a group health plan, and a health insurance issuer providing health insurance coverage in connection with a group health plan, that provides medical and surgical benefits with respect to a Mastectomy shall provide, in case of a participant or beneficiary who is receiving benefits in connection with a Mastectomy and who elects breast reconstruction in connection with such Mastectomy, coverage for (1) all stages of reconstruction of the breast on which the Mastectomy has been performed; (2) surgery and reconstruction of the other breast to produce symmetrical appearance; and (3) prostheses and physical complications of Mastectomy, including lymphedemas in a manner determined in consultation with the attending physician and the patient.”",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 12,
+      "text": "Applicable Codes The following list(s) of procedure and/or diagnosis codes is provided for reference purposes only and may not be all inclusive.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 13,
+      "text": "Listing of a code in this guideline does not imply that the service described by the code is a covered or non- covered health service.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 14,
+      "text": "Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 15,
+      "text": "The inclusion of a code does not imply any right to reimbursement or guarantee claim payment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 17,
+      "text": "CPT Code Description 19318 Breast reduction CPT® is a registered trademark of the American Medical Association Diagnosis Code Description N62 Hypertrophy of breast N65.1 Disproportion of reconstructed breast Benefit Considerations Most UnitedHealthcare plans have a specific exclusion for breast reduction surgery except as required by the Women's Health and Cancer Rights Act of 1998.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 18,
+      "text": "The exclusion also would not apply to treatment of gender dysphoria, where plans have a gender dysphoria treatment benefit.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 20,
+      "text": "All plans cover breast reduction surgeries that qualify under the Women’s Health and Cancer Rights Act of 1998.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 21,
+      "text": "If a surgery does not qualify under the Women’s Health and Cancer Rights Act of 1998, some plans may allow breast reduction surgery if we determine the surgery will treat a physiologic functional impairment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 24,
+      "text": "For breast surgery for treatment of gender dysphoria, refer to the Medical policy titled Gender Dysphoria Treatment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 29,
+      "text": "When deciding coverage, the member specific benefit plan document must be referenced as the terms of the member specific benefit plan may differ from the standard plan.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 30,
+      "text": "In the event of a conflict, the member specific benefit plan document governs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 33,
+      "text": "This Medical Policy is provided for informational purposes. It does not constitute medical advice.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 37,
+      "text": "UnitedHealthcare Medical Policies are intended to be used in connection with the independent professional medical judgment of a qualified health care provider and do not constitute the practice of medicine or medical advice.",
+      "label": "NON_ARGUMENTATIVE"
+    }
+  ]
+}
