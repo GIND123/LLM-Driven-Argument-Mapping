@@ -1,0 +1,757 @@
+{
+  "document_id": "autologous-cellular-therapy",
+  "source": "Uhc",
+  "dataset": "uhc",
+  "sentences": [
+    {
+      "id": 3,
+      "text": "Coverage Rationale Autologous Cellular Therapy is unproven and not medically necessary for all indications due to insufficient evidence of efficacy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Definitions Adipose-Derived Stem Cells (ASCs): Mesenchymal adult cells, isolated from adipose tissue that can expand in vitro in an undifferentiated state and have the capacity to differentiate into multiple cell lineages. ( Si et al.,",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 5,
+      "text": "2019) Autologous Cellular Therapy: A therapeutic intervention that uses an individual's stem cells, which can be cultured and expanded outside the body, and reintroduced into the donor. ( Si et al.,",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 6,
+      "text": "2019) Autologous Adipose-Derived Regenerative Cellular Therapy: A therapy proposed to treat a wide array of conditions using adult stem cells extracted from an individual fat tissue injected into targeted lesion of the same individual.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 8,
+      "text": "2019) Bone Marrow Mononuclear Stem Cells: A mixed population of blood cells, including stem and progenitor cells, that have been explored in studies of cardiac and vascular repair. ( Baryeh et al.,",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 9,
+      "text": "2021) Regenerative Medicine: The branch of medicine that develops methods to regrow, repair or replace damaged or diseased cells, organs, or tissues.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 10,
+      "text": "Regenerative Medicine includes the generation and use of therapeutic stem cells, tissue engineering and the production of artificial organs. ( Baryeh et al.,",
+      "label": "PREMISE"
+    },
+    {
+      "id": 13,
+      "text": "Listing of a code in this policy does not imply that the service described by the code is a covered or non-covered health service.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "The inclusion of a code does not imply any right to reimbursement or guarantee claim payment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 17,
+      "text": "CPT Code Description 0263T Intramuscular autologous bone marrow cell therapy, with preparation of harvested cells, multiple injections, one leg, including ultrasound guidance, if performed; complete procedure including unilateral or bilateral bone marrow harvest 0264T Intramuscular autologous bone marrow cell therapy, with preparation of harvested cells, multiple injections, one leg, including ultrasound guidance, if performed; complete procedure excluding bone marrow harvest 0265T Intramuscular autologous bone marrow cell therapy, with preparation of harvested cells, multiple injections, one leg, including ultrasound guidance, if performed; unilateral or bilateral bone marrow harvest only for intramuscular autologous bone marrow cell therapy 0489T Autologous adipose-derived regenerative cell therapy for scleroderma in the hands; adipose tissue harvesting, isolation and preparation of harvested cells including incubation with cell dissociation enzymes, removal of non-viable cells and debris, determination of concentration and dilution of regenerative cells 0490T Autologous adipose-derived regenerative cell therapy for scleroderma in the hands; multiple injections in one or both hands 0565T Autologous cellular implant derived from adipose tissue for the treatment of osteoarthritis of the knees; tissue harvesting and cellular implant creation 0566T Autologous cellular implant derived from adipose tissue for the treatment of osteoarthritis of the knees; injection of cellular implant into knee joint including ultrasound guidance, unilateral 0717T Autologous adipose-derived regenerative cell (ADRC) therapy for partial thickness rotator cuff tear; adipose tissue harvesting, isolation and preparation of harvested cells, including incubation with cell dissociation enzymes, filtration, washing and concentration of ADRCs 0718T Autologous adipose-derived regenerative cell (ADRC) therapy for partial thickness rotator cuff tear; injection into supraspinatus tendon including ultrasound guidance, unilateral 0999T Autologous muscle cell therapy, harvesting of muscle progenitor cells, including ultrasound guidance, when performed 1000T Autologous muscle cell therapy, administration of muscle progenitor cells into the urethral sphincter, including cystoscopy and post-void residual ultrasound, when performed 1001T Autologous muscle cell therapy, injection of muscle progenitor cells into the external anal sphincter, including ultrasound guidance, when performed CPT® is a registered trademark of the American Medical Association Description of Services Over the past few decades, since the bioengineering revolution, Autologous Cellular Therapy (ACT) has become a rapidly evolving field.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 18,
+      "text": "Tissue engineering techniques are being developed to improve the efficiency of repair or regeneration of damaged tissues and organs, including musculoskeletal tissues.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 19,
+      "text": "Tissue engineering focuses on the integration of biomaterials with stem cells and/or bioactive molecules such as growth factors.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 20,
+      "text": "Stem cells are multipotent cells that possess the ability to differentiate into various cell types and are being used more frequently in the treatment of orthopedic and/or musculoskeletal conditions.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 21,
+      "text": "There are various types of stem cells which include but are not limited to embryonic, mesenchymal, and hematopoietic.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 22,
+      "text": "Embryonic stem cells are isolated from embryonic tissue, while both mesenchymal and hematopoietic cells are isolated using adult bone marrow.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 23,
+      "text": "While some stem cells are restricted to a few lineages’ others may differentiate into a wide variety of cell types.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 24,
+      "text": "Hematopoietic stem cell transplantation is the only stem cell therapy well-established in clinical practice. ( Gepstein et al.,",
+      "label": "CLAIM"
+    },
+    {
+      "id": 26,
+      "text": "Copyright 2026 United HealthCare Services, Inc. In general, cellular therapies are purported to produce a regenerative effect by promoting growth and differentiation of local cells.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 27,
+      "text": "Repair and regeneration of human tissue has been studied with a variety of potentially regenerative cells from throughout the body.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 28,
+      "text": "For example, Autologous Adipose-Derived Regenerative Cellular Therapy (ADRC) has been introduced as a modality to address scleroderma-related hand dysfunction.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 29,
+      "text": "ADRCs are a mixed population of cells, including adult stem-cells, endothelial progenitor-cells, leukocytes, endothelial cells, and vascular smooth muscle cells.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 30,
+      "text": "New scientific evidence reveals that ADRCs can potentially counteract inflammation, stimulate new blood vessel formation, prevent cell death, and secrete substances needed for repair and regeneration, which could possibly lead to improvement in hand dysfunction.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 31,
+      "text": "Autologous Adipose-Derived Regenerative Cellular Therapy involves the injection of fat-derived cells, either unprocessed or minimally processed, from one part of a person to another part of the same person.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 32,
+      "text": "This treatment method has been proposed as a treatment of a wide variety of indications, including orthopedic injuries.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 33,
+      "text": "One commercially available device used to produce this type of therapeutic product is named Lipogems (Lipogems International, Norcross, GA), which is used to produce “microfractionated minimally manipulated adipose tissue.”",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 34,
+      "text": "Autologous Cellular Therapy has also been proposed as a treatment for peripheral arterial disease (PAD).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 35,
+      "text": "Theoretically, implantation of bone marrow stem cells into the affected limbs could trigger the growth of new blood vessels, increasing blood flow to the extremities and treating the symptoms and complications of PAD.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 36,
+      "text": "Clinical Evidence The body of evidence in the published peer reviewed scientific literature evaluating ACT is mainly in the form of preliminary animal studies, case reports, case series, and a number of systematic reviews/meta-analysis of these studies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 37,
+      "text": "A few nonrandomized comparative trials and randomized controlled trials (RCTs) also exist.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 38,
+      "text": "Although the evidence base has been steadily increasing, authors indicate that the technology is in an early stage of development.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 39,
+      "text": "In order to assess the safety and efficacy of orthopedic, vascular, and rheumatological applications of ACT, high-quality RCTs are required that compare patient-centered health outcomes between these and established therapeutic approaches.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 40,
+      "text": "Additionally, RCTs evaluating long term outcomes are needed to firmly establish safety and efficacy of ACTs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 41,
+      "text": "Some of the more commonly reported conditions under investigation include the following: Knee Osteoarthritis (KOA) The use of autologous adipose-derived regenerative cellular therapy, also referred to as autologous cellular implant derived from adipose tissue, has been proposed for knee osteoarthritis (KOA).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 43,
+      "text": "Although some conclusions support improvement in pain and function for some individuals, limitations such as heterogeneity of inclusion and exclusion criteria, lack of controls, type of cellular therapies which have been applied in different stages of OA, the use of various quantities of these therapies, and lack of long-term outcomes prohibit strong evidence-based conclusions regarding clinical safety and efficacy. Yanke et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 44,
+      "text": "2025) conducted a RCT to evaluate the effects of autologous bone marrow aspirate concentrate (BMAC) on the development and progression of OA in participants undergoing meniscectomy by comparing patient-reported outcomes, specifically IKDC scores between participants who receive BMAC post-meniscectomy and those who receive a saline control injection.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 45,
+      "text": "The study will also compare physical examination, MRI, radiographs, and synovial fluid analysis.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 46,
+      "text": "There were 95 enrolled participants with 83 (87.4%) included for final analysis.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 47,
+      "text": "No significant differences were found between the groups with regard to patient characteristics, intraoperative variables, concomitant procedures, preoperative PROM scores, or preoperative radiographic findings.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 48,
+      "text": "At 1 year postoperatively, the BMAC group failed to demonstrate significantly better IKDC scores (p = .687) or radiographic outcomes (p .05 for all radiographic measures) compared with the control group.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 49,
+      "text": "Secondary PROM scores also did not significantly differ between the groups (p > .05 for all PROMs).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 50,
+      "text": "However, there were higher achievement rates of the minimal clinically important difference for the KOOS Sport (100.0% vs 80.0%, respectively; p = .023) and KOOS Symptoms (92.3% vs 68.0%, respectively; p = .038) at 1 year postoperatively in the BMAC group than in the control group.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 51,
+      "text": "All PROMs, excluding the VR-12 mental score, showed significant improvements compared with baseline at all postoperative time points for both the BMAC and control groups.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 52,
+      "text": "The study's limitations include restrictive inclusion and exclusion criteria, limiting generalizability to broader populations, especially those outside the specified age range or with different comorbidities.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 53,
+      "text": "Since this was study was conducted at a single center, the findings may not apply to other healthcare settings with varying individual demographics and clinical practices.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 54,
+      "text": "The number of eligible individuals who declined participation and their reasons were not recorded.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 55,
+      "text": "The trial protocol was unpublished before the study began, and due to potential risks, a placebo saline injection was not administered, opting for a sham incision at the ASIS for the control group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 56,
+      "text": "Lastly, the follow-up period may not capture Autologous Cellular Therapy Page 3 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 57,
+      "text": "Copyright 2026 United HealthCare Services, Inc. long-term outcomes, crucial for post-meniscectomy individuals, particularly those with preexisting OA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 61,
+      "text": "Additional research is necessary to evaluate the clinical efficacy of BMAC in OA. Lee et al. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 62,
+      "text": "2024) conducted a systematic review evaluating the efficacy and safety of autologous-cultured adipose-derived mesenchymal stem cells (ADMSCs) and stromal vascular fractions (SVFs) in treating KOA.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 63,
+      "text": "By including a broad range of recent studies, it provides a comprehensive analysis of 31 studies involving 1,406 participants, with 19 studies and 958 individuals included in a meta-analysis.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 64,
+      "text": "The review found significant pain reduction with ADMSCs starting at 3 months and with SVF therapy at 12 months.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 65,
+      "text": "Both treatments showed substantial improvement in knee function at 12 months, with no severe adverse events linked to ADMSC therapy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 66,
+      "text": "These findings suggest that ADMSCs may offer faster pain relief, while both ADMSCs and SVF provide long-term benefits in joint function and cartilage regeneration.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 67,
+      "text": "This review identifies several limitations, such as significant heterogeneity in study designs, injection doses, and outcome measures, which complicate the generalization of findings.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 68,
+      "text": "The lack of standardized dosing criteria and variability further hinders effective comparison, highlighting the necessity for dose standardization to optimize ADMSC application in clinical settings.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 69,
+      "text": "Additionally, varied control interventions may have contributed to inconsistencies in reported outcomes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 70,
+      "text": "In conclusion, autologous-cultured ADMSCs and SVFs can significantly enhance knee function, alleviate pain, and promote cartilage repair in knee OA individuals.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 71,
+      "text": "While ADMSCs may offer quicker pain relief, both treatments display strong long-term efficacy in functional improvement and cartilage regeneration.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 72,
+      "text": "The positive safety profile of ADMSCs supports the use in a clinical setting.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 77,
+      "text": "An overall low-quality body of evidence suggests that relative to placebo and hyaluronic acid injection, ADSC treatment of KOA is reasonably safe and can provide limited improvements in knee pain and function; however, these improvements were not usually clinically significant and may have been relatively short lived since only 1 study involved more than 1 year of follow-up.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 78,
+      "text": "Benefits of ADSC therapy were somewhat inconsistent across the studies, which may reflect the low statistical power of smaller studies or the variable effectiveness of divergent protocols for ADSC treatment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 80,
+      "text": "2022) published the results of an RCT assessing intra-articular injection of ADMSC after medial open-wedge high tibial osteotomy (MOWHTO) compared to medial open-wedge high tibial osteotomy (MOWHTO).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 81,
+      "text": "The primary outcome was the serial changes of cartilage defect on periodic magnetic resonance imaging (MRI) evaluation using valid measurements until postoperative 24 months.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 82,
+      "text": "Secondary outcomes included two stage arthroscopic evaluation for macroscopic articular cartilage status and postoperative functional improvements reported by the participants.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 83,
+      "text": "At 24 month follow up both serial MRIs and arthroscopic evaluation demonstrated that the experimental group had significantly better cartilage regeneration compared with the high-tibial osteotomy group.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 84,
+      "text": "The authors concluded that injection of adipose-derived mesenchymal stem cells is a potential disease modifying treatment for the treatment of KOA without any safety issue.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 96,
+      "text": "The sources of bias identified by the authors included the randomization procedures, the adherence to intervention, the measurement tools used to assess outcomes and the risk of bias in selection of the reporting results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 97,
+      "text": "The GRADE summary findings by the authors for all combinations of MSC therapy and control interventions in the included RCTs were evaluated on clinical outcome measures (14/14; 100%), pain score (10/14; 71%) and an MRI scoring system (6/14; 43%).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 99,
+      "text": "The authors indicated that there is a positive effect of autologous MSC therapy in KOA on clinical outcome measures (28/43; 65%) and radiological (MRI) outcome measures (5/6; 83%) with clinical outcome measures 1 year after MSC therapy showing improvement in 19/26 (73%) of cases.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 101,
+      "text": "Limitations of the systematic review included the inability of the authors to do a meta-analysis due to the high clinical heterogeneity among the trials, the inclusion of all grades of KOA, the heterogeneity of the interventions in the studies and the variety of sources for the stem cells from bone marrow, adipose tissue and activated peripheral blood.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 102,
+      "text": "They recommend additional RCTs with long-term follow up to address these areas. Gong et al. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 103,
+      "text": "2021) systematically reviewed the evidence for the efficacy of mesenchymal stem cell (MSC) injections in improving OA-related structural outcomes.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 104,
+      "text": "Ovid Medline and EMBASE were searched from their inceptions to April 2020 using MeSH terms and key words.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 105,
+      "text": "Independent reviewers extracted data and assessed methodological quality.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 107,
+      "text": "Thirteen randomized controlled trials (phase I or II) were identified: 10 in OA populations and 3 in populations at risk of OA, with low (n = 9), moderate (n = 3), or high (n = 1) risk of bias.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 108,
+      "text": "Seven studies used allogeneic MSCs (4 bone marrow, 1 umbilical cord, 1 placenta, 1 adipose tissue) and 6 studies used autologous MSCs (3 adipose tissue, 2 bone marrow, 1 peripheral blood).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 109,
+      "text": "Among the 11 studies examining cartilage outcomes, 10 found a benefit of MSCs on cartilage volume, morphology, quality, regeneration, and repair, assessed by magnetic resonance imaging, arthroscopy, or histology.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 110,
+      "text": "The evidence for subchondral bone was consistent in all 3 studies in populations at risk of OA, showing beneficial effects.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 111,
+      "text": "The authors concluded that the systematic review of early-phase clinical trials demonstrated consistent evidence of a beneficial effect of intraarticular MSC injections on articular cartilage and subchondral bone.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 112,
+      "text": "The authors indicated that due to the heterogeneity of MSCs, modest sample sizes, methodological limitations, and potential for publication bias, further work is needed before this therapy is recommended in the management of OA.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 117,
+      "text": "A total of 13 RCTs were included in the meta-analysis.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 118,
+      "text": "Compared with placebo, there was no significant difference in visual analogue scale (VAS) for pain [mean difference (MD) 1.62, 95% confidence interval (CI -0.60 to 3.85)], WOMAC pain score (MD 1.88, 95% CI -0.21 to 3.98), WOMAC function score (MD -0.67, 95% CI -6.54 to 5.19), or WOMAC stiffness score (MD 0.64, 95% CI -0.86 to 2.14) for MSCs.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 119,
+      "text": "Moreover, the smallest treatment effect of VAS for pain, WOMAC pain score, WOMAC function score, and WOMAC stiffness score did not exceed the minimum clinically important difference (MCID).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 120,
+      "text": "Additionally, there was no significant difference in percentage of individuals crossing the MCID threshold between MSC and placebo groups for VAS for pain [relative risk (RR) 0.93, 95% CI 0.55 to 1.57] or WOMAC total score (RR 0.40, 95% CI 0.13 to 1.21).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 121,
+      "text": "Compared with hyaluronic acid (HA), MSC injection was associated with significantly better improvement in VAS for pain (MD 2.00, 95% CI 0.94 to 3.07), WOMAC pain score (MD 4.58, 95% CI 0.49 to 8.67), WOMAC total score (MD 14.86, 95% CI 10.59 to 19.13), and WOMAC stiffness score (MD 1.85, 95% CI 0.02 to 3.69).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 122,
+      "text": "However, the smallest treatment effect of VAS for pain, WOMAC pain score, WOMAC function score, and WOMAC stiffness score did not exceed the MCID.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 123,
+      "text": "Moreover, there was no significant difference in percentage of individuals crossing the MCID threshold between MSC and HA groups for WOMAC total score (RR 0.57, 95% CI 0.21 to 1.55).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 124,
+      "text": "The authors also found that MSCs did not increase adverse events compared with HA and placebo.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 125,
+      "text": "The authors concluded that intra-articular MSC injection was not found to be superior to placebo in pain relief and functional improvement for individuals with symptomatic knee OA.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 126,
+      "text": "According to the authors, additional direct testing, and combination trials of different types of cells, doses, and number of injections of MSCs are required to further enhance clinical decision making for individuals with symptomatic knee OA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 129,
+      "text": "The authors conducted a PubMed search for human clinical studies using autologous mesenchymal stem cell injections (AMSCI) for the treatment of OA and a second search for placebo arms of injectate OA treatment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 131,
+      "text": "All AMSCI cohorts showed improvement at Autologous Cellular Therapy Page 5 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 138,
+      "text": "The authors concluded that AMSCI is a consistently significantly effective treatment for OA, and it should no longer be stated that data is insufficient to establish AMSCI efficacy for OA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 139,
+      "text": "According to the authors, given its excellent safety profile, AMSCI should be widely used for the treatment of OA.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 140,
+      "text": "The limitations of this review are the limited number of cohorts available for analysis.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 141,
+      "text": "The heterogeneity of the studies also limited the ability to compare treatment types.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 143,
+      "text": "2020) evaluated if participants receiving intra-articular stromal vascular fraction (SVF) would show greater improvement than patients receiving placebo injections.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 144,
+      "text": "Adult patients with symptomatic knee OA were eligible.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 147,
+      "text": "Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) scores and magnetic resonance images were obtained preoperatively and at 6 and 12 months after injection.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 148,
+      "text": "The Wilcoxon rank sum nonparametric test was utilized to assess statistical significance, and the Hodges- Lehmann location shift was used to assess superiority.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 155,
+      "text": "The authors concluded that intra-articular SVF injections can significantly decrease knee OA symptoms and pain for at least 12 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 156,
+      "text": "The authors indicated that the efficacy and safety demonstrated in this placebo-controlled trial support its implementation as a treatment option for symptomatic knee OA.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 157,
+      "text": "According to the authors, the trial had the following limitations: participants were unblinded after 6 months, potentially biasing the 1-year results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 161,
+      "text": "According to ECRI, differences across studies in MSC dose, source, processing methods, number of injections and OA severity prevented them from drawing conclusions about comparative effectiveness.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 166,
+      "text": "The evidence base for the 2022 Hayes assessment included 4 observational small studies (n = 17, 17, 20 and 35) without experimentally designed non-MFAT comparison groups.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 167,
+      "text": "The Lipogems System was the only device specifically noted in the clinical studies reviewed in this report.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 168,
+      "text": "Hayes indicated that the overall quality of the body of evidence for MFAT for KOA remains very low.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 169,
+      "text": "The primary limitation of the evidence is the lack of direct comparative evidence.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 170,
+      "text": "According to Hayes, due to the limited comparative evidence, the evidence base does not sufficiently inform whether MFAT provides better, worse, or equivocal care as any other intervention or sham control (Hayes, 2020; Updated February 2022).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 171,
+      "text": "Hayes also updated their comparative effectiveness review of stem cell therapy for joint pain which involves injection of stem cells into the knee, hip, shoulder, or spinal disc to promote repair of defects in the joint cartilage or the gelatinous material within the spinal disc to reduce or eliminate joint pain.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 172,
+      "text": "The 2021 updated review included six RCTs evaluating stem cell therapy for knee OA and found that they had conflicting results.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 173,
+      "text": "The review indicated that there is low-quality evidence (due to inconsistency and individual study limitations) that suggests some benefits of stem cell therapy compared with alternative therapies for pain and other outcomes in 3 of 6 studies that evaluated autologous or allogeneic Autologous Cellular Therapy Page 6 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 175,
+      "text": "There were no or unclear benefits of stem cell therapy in the remaining 3 studies and a lack of evidence on long-term outcomes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 176,
+      "text": "For stem cell therapy for spinal disc or hip disorders, knee cartilage defects and rotator cuff repair the evidence was low quality and did not support improved outcomes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 178,
+      "text": "Peripheral Arterial Disease Autologous intra-arterial or intra-muscular bone marrow cell transplantation for peripheral PAD and other occlusive conditions is an emerging technology.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 193,
+      "text": "The authors used the Cochrane Collaboration tool to measure the risk of bias for each study and found that most studies were considered to be at low risk of bias in random sequence generation with incomplete outcome data while several studies did not mention the details of the allocation concealment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 195,
+      "text": "The authors determined that ACT therapy may provide benefit for some individuals in limb salvage, limb blood perfusion and rest pain alleviation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 198,
+      "text": "The authors noted that their analysis was limited by the number of included studies and individuals, inclusion of some studies that were deemed to be relatively low quality, the number of studies included in subgroup analyses were too small and the inherent heterogeneity of the included trials due to the diversity of source and dosage of the cell products, route of administration, follow up duration, treatments for the control groups, and the broad spectrum of severity of limb ischemia.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 205,
+      "text": "At 6 months, group B showed more improvements in ABI of > 0.1 [35 of 41 (85.37%) vs 13 of 40 (32.50%); p 15% at the midfoot [35 of 41 (85.37%) vs 17 of 40 (42.50%); p = .0001] and lower foot [37 of 41 (90.24%) vs 19 of 40 (47.50%); p 30% reduction in ulcer size among individuals with CLI or in > 50% Autologous Cellular Therapy Page 7 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 207,
+      "text": "The authors concluded that intraarterial administration of autologous BMSCs results in significantly greater improvement in hemodynamic parameters such as ABI and TcPO2 in individuals with severe PAD.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 209,
+      "text": "The authors indicated that large-scale RCTs addressing these issues would help in the institution of an evidence-based stem cell therapy protocol in the management of individuals with severe PAD.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 226,
+      "text": "Based on the review, the authors concluded that autologous stem cell therapy may have a positive effect on \"no-option\" individuals with PAD but presented no significant improvement in major limb salvage.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 228,
+      "text": "According to the authors, further research of larger, randomized, double-blind, placebo-controlled, and multicenter trials are needed. Rigato et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 233,
+      "text": "The authors concluded that cellular therapy was found to be safe, being associated with mild and mostly transient adverse events related to local implantation/infusion.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 235,
+      "text": "The authors therefore recommend high-quality RCTs to assess the benefit of the intervention.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 246,
+      "text": "The study has several limitations, including a gender Autologous Cellular Therapy Page 8 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 263,
+      "text": "The authors concluded that, within the limitations of their review, tenocytes showed the most promise in the management of epicondylar tendinopathy in that both clinical and imaging scores showed improvement that were maintained at up to 5-year follow-up.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 267,
+      "text": "The authors recommend future RCTs to establish whether cell-based therapies truly result in improved patient outcomes with focus on standardized techniques, cell types and treatment protocols. Kon et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 273,
+      "text": "The authors concluded that current evidence is still lacking sound data to support the use of biological agents. van den Boom et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 285,
+      "text": "The authors concluded that Level 3 evidence is available to support the efficacy of stem cell therapy for tendon disorders.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 286,
+      "text": "According to the authors, the available studies are at considerable risk of bias and evidence-based recommendations for the use of stem cell therapy for tendon disorders in clinical practice cannot be made at this time.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 288,
+      "text": "Scleroderma The available evidence published in the peer-reviewed literature is limited to case series without comparison groups and therefore inadequate to make conclusions about the safety, efficacy, and utilization of autologous adipose-derived Autologous Cellular Therapy Page 9 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 316,
+      "text": "The STAR trial data will help design and select endpoints for a more robust follow-up trial. Escobar-Soto et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 318,
+      "text": "A systematic search was done of the literature in the following databases: Medline/OVID, Lilacs, Embase, and Cochrane/OVID.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 319,
+      "text": "Exclusion criteria included animal models, autologous/allogenic hematopoietic stem cell transplants, narrative reviews, and letters to the editor.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 327,
+      "text": "The authors concluded that there is too little reported data to reach definite conclusions about the use of hMSC in SSc.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 332,
+      "text": "Multiple patient-reported outcomes showed sustained improvement, in comparison with the assessment performed just before surgery: 62.5% in the Cochin Hand Function Scale, 51.1% in the Scleroderma Health Assessment Questionnaire, 33.1% in hand pain, and 88.3% in the Raynaud Condition Score.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 335,
+      "text": "The authors concluded that despite the limits of an open label study, the results are in favor of the long-term safety of the Autologous Cellular Therapy Page 10 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 340,
+      "text": "Not all biologic products require extensive FDA regulation, and in some cases, the FDA has primarily focused on safety concerns and has ceded responsibility for determining the efficacy of these products to the clinician” (AAOS, 2017, Updated September 2020).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 341,
+      "text": "A 2020 guideline from the AAOS on the management of glenohumeral joint osteoarthritis states that injectable biologics such as stem cells cannot be recommended in the treatment glenohumeral joint OA.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 342,
+      "text": "There was consensus from the panel that better standardization and high-quality evidence from clinical trials is needed to provide definitive evidence on the efficacy of biologics in glenohumeral OA (AAOS, 2020).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 344,
+      "text": "Department of Veterans Affairs (VA)/Department of Defense (DoD) The VA/DoD’s evidence-based clinical practice guideline on the non-surgical management of hip and knee osteoarthritis (2020) does not recommend the use of stem cell injections (e.g., mesenchymal, adipose-derived, and bone marrow- derived) for the treatment of osteoarthritis (OA) of the hip or knee.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 359,
+      "text": "2017 ESC Guidelines on the diagnosis and treatment of peripheral arterial diseases, in collaboration with the European Society for Vascular Surgery (ESVS): Autologous Cellular Therapy Page 11 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 393,
+      "text": "Autologous Cellular Therapy Page 12 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 422,
+      "text": "Policy History/Revision Information Date Summary of Changes 01/01/2026 Template Update Created shared policy version to support application to Oxford plan membership Applicable Codes Updated list of applicable CPT codes to reflect annual edits; added 0999T, 1000T, and 1001T Autologous Cellular Therapy Page 13 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 427,
+      "text": "UnitedHealthcare reserves the right to modify its Policies and Guidelines as necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 430,
+      "text": "In the absence of a Medicare National Coverage Determination (NCD), Local Coverage Determination (LCD), or other Medicare coverage guidance, CMS allows a Medicare Advantage Organization (MAO) to create its own coverage determinations, using objective evidence-based rationale relying on authoritative evidence (Medicare IOM Pub. No. 100-16, Ch. 4, §90.5).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 432,
+      "text": "UnitedHealthcare Medical Policies are intended to be used in connection with the independent professional medical judgment of a qualified health care provider and do not constitute the practice of medicine or medical advice.",
+      "label": "CLAIM"
+    }
+  ]
+}
