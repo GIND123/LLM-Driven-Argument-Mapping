@@ -1,0 +1,347 @@
+{
+  "document_id": "electrical-ultrasound-bone-growth-stimulators",
+  "source": "Uhc",
+  "dataset": "uhc",
+  "sentences": [
+    {
+      "id": 3,
+      "text": "Coverage Rationale Electrical Bone Growth Stimulators The use of an Invasive or Non-Invasive spinal Electrical Bone Growth Stimulator is proven and medically necessary as an adjunct to lumbar spinal fusion surgery when the following two criteria are met: • Radiographic evidence of skeletal maturity; and • Increased risk for fusion failure demonstrated by any of the following: Previously failed fusion at the same site, when minimum of six months has elapsed since the last surgical o procedure Spinal fusion performed or to be performed at more than one level as part of a single surgery o Comorbid conditions associated with compromised bone healing (e.g., diabetes, obesity, osteoporosis, current o tobacco use) Spondylolisthesis grade II or greater o The use of an Invasive or Non-Invasive Electrical Bone Growth Stimulator is unproven and not medically necessary for the treatment of all other indications (including stress fractures) due to insufficient evidence of efficacy and/or safety.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Ultrasonic Bone Growth Stimulators The use of Ultrasonic Bone Growth Stimulators is proven and medically necessary for the treatment of Nonunion of long bone fractures when all of the following criteria are met: • Fracture gap is less than or equal to 1 cm • Radiographic evidence of a persistent fracture line without bridging callus is present for 3 months or more Electrical and Ultrasonic Bone Growth Stimulators Page 1 of 10 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 5,
+      "text": "Copyright 2026 United HealthCare Services, Inc. • Fracture reduced and immobilized • Less than 6 months have passed since the date of most recent surgical procedure • Fracture that is not pathological or associated with malignancy • Radiographic evidence of skeletal maturity The use of Ultrasonic Bone Growth Stimulators is unproven and not medically necessary for the treatment of all other indications (including stress fractures) due to insufficient evidence of efficacy and/or safety.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 6,
+      "text": "Medical Records Documentation Used for Reviews Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Medical records documentation may be required to assess whether the member meets the clinical criteria for coverage but does not guarantee coverage of the service requested; refer to the guidelines titled Medical Records Documentation Used for Reviews.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Definitions Delayed Union: A fracture has not healed within the expected time period.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "The fact that a bone is delayed in its union does not mean that it will become a non-union (Mehmood, 2017).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Electrical Bone Growth Stimulator: A device (either implanted into the body or worn externally), that uses an electric field or current to stimulate the growth of bone tissue (Haglin 2017). •",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "Invasive: The implantable current generator is surgically placed in an intramuscular or subcutaneous space, while an electrode is implanted within the fragments of bone graft at the targeted fusion site.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "The implanted device is usually functional for 6 to 9 months at which point the current generator is removed in a second surgical procedure, while the electrodes may or may not be removed.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "Implantable bone growth stimulators are used as an adjunct to spinal fusion surgery and implanted at the time of surgery. •",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "Non-Invasive: An external power source generates a weak electrical current to the target sites using either pulsed electromagnetic fields, capacitive coupling or combined magnetic fields.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "Fracture Union: The point at which the fractured bone has regained sufficient strength and stiffness to function as a weightbearing structure without external support (Morshed, 2014).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 16,
+      "text": "Nonunion Fracture: The result of an arrest in the healing process and is defined by the following three findings (Thomas, 2022): • Motion at the fracture site. •",
+      "label": "CLAIM"
+    },
+    {
+      "id": 17,
+      "text": "Radiographic evidence showing the persistence of the fracture line without bridging callus. •",
+      "label": "CLAIM"
+    },
+    {
+      "id": 18,
+      "text": "Incomplete progression toward radiographic healing in the expected length of time for the given bone and further healing not expected.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 19,
+      "text": "Ultrasonic Bone Growth Stimulator: A Non-Invasive device that emits low intensity, pulsed ultrasound to accelerate bone repair.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 20,
+      "text": "The device is characterized by a main operating unit with an external power supply that is connected to a treatment head module affixed to a mounting fixture and centered over the fracture site.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 21,
+      "text": "This device is specifically programmed to promote accelerated fracture healing (Haglin 2017).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 27,
+      "text": "CPT Code Description Electrical Bone Growth Stimulator: Non-Spinal (Invasive, Non-Invasive) 20974 Electrical stimulation to aid bone healing; noninvasive (nonoperative) 20975 Electrical stimulation to aid bone healing; invasive (operative) Electrical and Ultrasonic Bone Growth Stimulators Page 2 of 10 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 28,
+      "text": "Copyright 2026 United HealthCare Services, Inc. CPT Code Description Ultrasound Bone Growth Stimulator 20979 Low intensity ultrasound stimulation to aid bone healing, noninvasive (nonoperative) CPT® is a registered trademark of the American Medical Association Coding Clarification: Utilize HCPCS code E0748 when reporting bone growth stimulation for all anatomical levels of the spine.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 29,
+      "text": "HCPCS Code Description E0747 Osteogenesis stimulator, electrical, noninvasive, other than spinal applications E0748 Osteogenesis stimulator, electrical, noninvasive, spinal applications E0749 Osteogenesis stimulator, electrical, surgically implanted E0760 Osteogenesis stimulator, low intensity ultrasound, noninvasive Description of Services Bone healing is a complex process dependent on a variety of factors.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 30,
+      "text": "The rate of bone repair and composition of tissue varies depending on type of bone fractured, the extent of the bone and soft tissue damage, the adequacy of the blood supply, and the degree of separation between bone ends.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 31,
+      "text": "The individual's general health and nutritional status also play a significant role in bone healing.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 32,
+      "text": "The presence of infection may adversely affect healing.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 33,
+      "text": "Diminished blood flow to the fracture site will often suppress the healing response.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 34,
+      "text": "Factors that can cause diminished blood flow include heavy smoking, malnutrition, diabetes, alcoholism, peripheral vascular disease, age, and the use of some medications such as steroids.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 35,
+      "text": "Other characteristics such as high-grade trauma, high grade and open fractures, comminution of the fracture, vertical or oblique fracture pattern, and fracture displacement may also contribute to poor healing of bone [Agency for Healthcare Research and Quality (AHRQ), 2005].",
+      "label": "PREMISE"
+    },
+    {
+      "id": 36,
+      "text": "Bone growth stimulation is utilized to promote bone healing in difficult to heal fractures or fusions by applying electrical or ultrasonic current to the fracture/fusion site.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 37,
+      "text": "Ultrasonic stimulation is applied externally, while electrical stimulation can be applied either from the outside of the body (Non-Invasive) or from the inside of the body (Invasive) (ECRI, 2024).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 38,
+      "text": "Bone growth stimulators are only indicated for use in individuals who are skeletally mature.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 39,
+      "text": "A person is said to be skeletally mature when all bone growth is complete; the cartilage cells of the growth plate cease to proliferate, the growth plate becomes thinner, is replaced by bone, and disappears, and the epiphysis is \"closed\" or fused with the shaft [Agency for Healthcare Research and Quality (AHRQ), 2005].",
+      "label": "PREMISE"
+    },
+    {
+      "id": 43,
+      "text": "Based on review of one SR, one retrospective comparison study, and three case series that addressed healing rate, time to healing, the need for surgical treatment, pain, and adverse events, it was determined that noninvasive electrical bone growth stimulators can heal non-union tibia fractures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 46,
+      "text": "A 2023 Hayes Evidence Analysis Research Brief on noninvasive electrical bone growth stimulation for cervical spinal fusion found through a search of peer-reviewed published literature that there was one newly published study since they had archived their Health Technology Assessment (HTA) on this technology.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 47,
+      "text": "The study they found performed two evaluations to compare fusion rates between pulsed electromagnetic field stimulation (PEMF) using a historical control group (160 subjects) from the FDA investigational device exemption (IDE) study with a post hoc analysis of high-risk Electrical and Ultrasonic Bone Growth Stimulators Page 3 of 10 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 59,
+      "text": "The investigators concluded that the data reported in the literature give a solid base for the clinical application of PEMFs; unfortunately, the selected electromagnetic field parameters are very different (frequency, waveform, and amplitude), thus preventing the possibility to carry out accurate analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 62,
+      "text": "The investigators indicted that further biology studies and clinical trials with clear and standardized parameters (intensity, frequency, dose, duration, type of coil) are required to clarify the precise dose-response relationship and to understand the real applications in clinical practice of PEMFs for bone healing. Peng et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 69,
+      "text": "PEMF increased healing rate by the Mantel-Haenszel analysis, relieved pain by the inverse variance analysis, and accelerated healing time by the inverse variance analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 70,
+      "text": "Moderate quality evidence suggested that PEMF increased healing rate and relieved pain of fracture, and very low-quality evidence showed that PEMF accelerated healing time.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 72,
+      "text": "Even for bone healing, different effects may be achieved by PEMF treatments with different parameters (frequency, intensity).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 73,
+      "text": "Though the determination of effective intensity and frequency is important for each clinical application, there was not enough literature to analyze them, and it is difficult to discuss the dose response relationship.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 83,
+      "text": "Electrical stimulation (pulsed electromagnetic fields, direct current, and capacitive coupling) increased the odds of a successful fusion by 2.5-fold relative to control.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 95,
+      "text": "The results related to pain reduction were mainly due to one trial that evaluated electrical stimulation for spinal fusion surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 104,
+      "text": "The investigators found that in patients with a delayed union or nonunion, very low-quality evidence showed that ESTIM, when compared with standard care, had a suggested non statistically significant benefit on union rates at 3 months but no significant effect at 6 months or at 12 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 107,
+      "text": "Delayed union was defined as a failure to heal after at least 16 weeks and not more than 9 months following surgical reduction and fixation of the fracture.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 108,
+      "text": "Patients with fracture nonunion, defined as failure to heal after more than 9 months, were excluded from the study.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 109,
+      "text": "Treatment with 8 hours of pulsed electromagnetic field therapy (PEMF) per day was stopped when no radiographic progression was observed over 3 months or when union was achieved, with union defined as no pain during joint stressing or during motion at the fracture site and callus bridging for 3 out of 4 cortices on blinded assessment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 115,
+      "text": "The authors found support for its use for nonunion fractures, but only based on level of evidence 4 (case series).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 118,
+      "text": "Overall, the studies, although in favor of electrical stimulation application in bone repair, displayed variability in treatment regime, primary outcome measures, follow-up times, and study design, making critical evaluation and assessment difficult (Griffin and Bayat, 2011).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 123,
+      "text": "The authors concluded that although PEMF stimulation appeared to hasten bone healing in this randomized trial, it did not result in a significant advantage in terms of ultimate fusion rates or clinical outcomes for cervical fusion.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 125,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Clinical Practice Guidelines North American Spine Society (NASS) In an updated 2025 coverage policy recommendation, NASS makes the following recommendations for electrical stimulation for bone healing: • Electrical stimulation for spinal fusion healing is indicated for the following with qualifying criteria, when appropriate: For augmentation of spinal fusion in any and all regions of the spine including occipital-cervical, cervical, o cervicothoracic, thoracic, thoracolumbar, lumbar and lumbosacral spinal regions in patients at high-risk for the development of pseudarthrosis (i.e., nonunion) who exhibit one or more of the following:  Are undergoing spinal fusion of 2 or more motion segments (3 vertebrae)  Are undergoing a revision spinal fusion (e.g., repeat surgery for a previously unhealed fusion attempt)  Are smokers who cannot stop smoking in preparation for fusion due to the nature of the underlying condition (e.g., acute traumatic fracture)  Exhibit one or more of the following comorbidities when undergoing primary lumbar fusion: – Diabetes – Inflammatory arthritis (e.g., rheumatoid arthritis) that has required long-term corticosteroid therapy – Immunocompromised (e.g., undergoing chemotherapy and radiation therapy to the spine, hypogammaglobulinemia, granulocytopenia, acquired immune deficiency syndrome, chronic granulomatous disease) – Systemic vascular disease – Osteopenia or osteoporosis • Electrical stimulation of spinal fusion is not indicated in the following clinical scenarios: Primary (index or first-attempt) spinal fusions without additional risk factors listed above o Spinal fusion of 1 motion segment or 2 vertebrae levels without additional risk factors listed above o Presence of malignancy o Presence of infection o • Electrical stimulation for bone healing is conditionally recommended (evidentiary support, but lack of full consensus) as an adjunct for primary bone healing of acute traumatic spinal fracture(s) in patients at high-risk for the development of pseudarthrosis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 126,
+      "text": "This conditional recommendation is for 6 months followed by CT scan imaging to establish effectiveness (specifically osseus union development across site of spinal fracture), and dynamic imaging failing to show translational displacement greater than 2mm and focal segmental angulation > 5° exhibiting one or more high- risk criteria: Acute spinal fracture as defined: o  Acute traumatic spinal fracture (i.e., compression/burst fractures with 50% or greater loss of vertebral height, associated segmental angulation of 5-15°, associated stable translational deformity as demonstrated on dynamic imaging, without neurologic deficits or impending neurologic deficits) in high-risk patients for pseudarthrosis  Acute spondylolysis that is considered symptomatic with or without radiculopathy and without neurologic compression demonstrated on radiographic imaging in high-risk patients  Acute nontraumatic osteoporotic compression fractures associated with significant pain for greater than 6 weeks without neurologic deficits and without evidence for pathologic fracture (i.e., neoplasm or infection) High-Risk Criteria: • Smokers who cannot stop smoking in preparation for fusion due to the nature of the underlying condition (e.g., acute traumatic fracture) • Exhibit one or more of the following comorbidities: Diabetes o Inflammatory arthritis (e.g., rheumatoid arthritis) that has required long-term corticosteroid therapy o Immunocompromised (e.g., undergoing chemotherapy and radiation therapy to the spine, o hypogammaglobulinemia, granulocytopenia, acquired immune deficiency syndrome, chronic granulomatous disease) Systemic vascular disease o Osteopenia or osteoporosis o  Elderly or debilitated patients that surgical remedy carries predictable high risk for complications and morbidity This coverage policy recommendation also states that even in the event of the above qualifying scenarios, the following should be specifically considered: • Pregnancy • Infection Electrical and Ultrasonic Bone Growth Stimulators Page 6 of 10 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 127,
+      "text": "Copyright 2026 United HealthCare Services, Inc. • Individuals with pacemakers or defibrillators • Children • Individuals who will require MRI studies Ultrasonic Bone-Growth Stimulators (UBGS) The evidence in peer-reviewed literature for UBGS is insufficient to evaluate health outcomes as a treatment for all other indications except for the treatment of nonunion of long bone fractures.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 128,
+      "text": "Further evidence from large, controlled trials is needed to demonstrate that the results have significant impact on clinical care and are superior to currently available alternatives.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 129,
+      "text": "The 2018 NICE guideline that address low-intensity pulsed ultrasound for treatment of delayed-union and non-union fractures states, “The evidence for low-intensity pulsed ultrasound to promote healing of delayed-union and non-union fractures raises no major safety concerns.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 130,
+      "text": "The current evidence does not show efficacy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 132,
+      "text": "In 2018, NICE published a guideline on the use of low-intensity pulsed ultrasound to promote healing of fresh fractures at low risk of non-healing.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 133,
+      "text": "The guideline states that this procedure should not be used for this indication due to lack of efficacy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 134,
+      "text": "A 2018 NICE guideline on the use of low-intensity pulsed ultrasound to promote healing of fresh fractures at high risk of non-healing states that evidence is limited in quantity and quality, and that this procedure should only be use in a research environment. Leighton et al. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 142,
+      "text": "Favorable results of LIPUS intervention were obtained when LIPUS was used as an alternative rather than as an adjuvant to surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 143,
+      "text": "An interval without surgery of less than 6 months prior to LIPUS was associated with a more favorable result.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 156,
+      "text": "In this study, patients with small gap sizes and a low NUSS score benefited most from LIPUS treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 159,
+      "text": "The authors concluded that “a gap larger than 1 cm was associated with an increased risk of treatment failure.” Hannemann et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 170,
+      "text": "The study concluded that there is only very low-quality evidence suggesting a potential benefit of low-intensity versus electrical stimulation in improving union rates at six months in fresh-fracture populations (Ebrahim et al., 2014).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 173,
+      "text": "FDA approval alone is not a basis for coverage.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 174,
+      "text": "The FDA regards bone growth stimulators as significant-risk (Class III) devices.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 214,
+      "text": "Policy History/Revision Information Date Summary of Changes 02/01/2026 Title Change • Previously titled Electrical and Ultrasound Bone Growth Stimulators Related Policies • Removed reference link to the Medicare Advantage Medical Policy titled Electrical Stimulators Coverage Rationale Electrical Bone Growth Stimulators • Added language to clarify the use of an Invasive or Non-Invasive Electrical Bone Growth Stimulator is unproven and not medically necessary for the treatment of all other indications [not listed in the policy as proven and medically necessary] (including stress fractures) Ultrasonic Bone Growth Stimulators • Revised coverage criteria for Ultrasonic Bone Growth Stimulators; replaced criterion requiring “less than 6 months have passed since the date of most recent surgical operation” with “less than 6 months have passed since the date of most recent surgical procedure” • Added language to clarify the use of Ultrasonic Bone Growth Stimulators is unproven and not medically necessary for the treatment of all other indications [not listed in the policy as proven and medically necessary] (including stress fractures) Medical Records Documentation Used for Reviews • Updated list of Medical Records Documentation Used for Reviews: Electrical Bone Growth Stimulators • Added:  Condition requiring procedure  Detailed relevant imaging report, including: – Evidence of skeletal maturity – Presence or absence of spondylolisthesis, if present include grade  Physician’s treatment plan • Removed:  List of applicable procedure codes  Current physician prescription or order  Spondylolisthesis (including grade) • Replaced: Electrical and Ultrasonic Bone Growth Stimulators Page 9 of 10 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 02/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 215,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Date Summary of Changes  “Member with comorbid conditions such as diabetes, obesity, osteoporosis, or current tobacco use that could compromise bone healing” with “comorbid conditions that could compromise bone healing”  “If the member has had or will be having a spinal fusion, include the following: date of surgery, either past or future and number of vertebral levels fused; or documentation of failed spinal fusion and date of reoperation of same site” with “history of previous spinal fusion surgery(ies); include date(s) of previous surgery and site and number of previous vertebral levels fused” Ultrasonic Bone Growth Stimulators • Added:  Condition requiring treatment  Relevant surgical history, including dates  Physician’s treatment plan • Removed:  List of applicable procedure codes  Current physician prescription or order • Replaced:  “Diagnostic imaging reports” with “relevant diagnostic imaging reports, including size of fracture gap, if applicable, and evidence of skeletal maturity”  “Treatment of the fracture, including treatment already completed [date of surgery(ies) if applicable] and treatment planned” with “previous treatments of the fracture tried, failed, or contraindicated; include the dates, duration of treatment, and reason for discontinuation” Supporting Information • Updated Description of Services, Clinical Evidence, and References sections to reflect the most current information • Archived previous policy version 2026T0561W Instructions for Use This Medical Policy provides assistance in interpreting UnitedHealthcare standard benefit plans.",
+      "label": "CLAIM"
+    }
+  ]
+}
