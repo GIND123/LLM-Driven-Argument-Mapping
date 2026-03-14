@@ -1,0 +1,240 @@
+{
+  "document_id": "brow-ptosis-eyelid-repair",
+  "source": "Uhc",
+  "relations": [
+    {
+      "source": 10,
+      "target": 4,
+      "type": "SUPPORT",
+      "similarity": 0.5733
+    },
+    {
+      "source": 10,
+      "target": 8,
+      "type": "SUPPORT",
+      "similarity": 0.4868
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "type": "SUPPORT",
+      "similarity": 0.4385
+    },
+    {
+      "source": 21,
+      "target": 52,
+      "type": "SUPPORT",
+      "similarity": 0.398
+    },
+    {
+      "source": 21,
+      "target": 67,
+      "type": "NONE",
+      "similarity": 0.3889
+    },
+    {
+      "source": 21,
+      "target": 8,
+      "type": "SUPPORT",
+      "similarity": 0.3693
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "type": "SUPPORT",
+      "similarity": 0.5132
+    },
+    {
+      "source": 33,
+      "target": 7,
+      "type": "SUPPORT",
+      "similarity": 0.472
+    },
+    {
+      "source": 33,
+      "target": 11,
+      "type": "NONE",
+      "similarity": 0.3907
+    },
+    {
+      "source": 44,
+      "target": 34,
+      "type": "NONE",
+      "similarity": 0.3255
+    },
+    {
+      "source": 44,
+      "target": 11,
+      "type": "NONE",
+      "similarity": 0.1547
+    },
+    {
+      "source": 44,
+      "target": 52,
+      "type": "NONE",
+      "similarity": 0.1354
+    },
+    {
+      "source": 45,
+      "target": 25,
+      "type": "NONE",
+      "similarity": 0.3365
+    },
+    {
+      "source": 45,
+      "target": 34,
+      "type": "NONE",
+      "similarity": 0.3023
+    },
+    {
+      "source": 45,
+      "target": 11,
+      "type": "NONE",
+      "similarity": 0.2744
+    },
+    {
+      "source": 46,
+      "target": 11,
+      "type": "NONE",
+      "similarity": 0.282
+    },
+    {
+      "source": 46,
+      "target": 120,
+      "type": "SUPPORT",
+      "similarity": 0.1933
+    },
+    {
+      "source": 46,
+      "target": 34,
+      "type": "NONE",
+      "similarity": 0.1478
+    },
+    {
+      "source": 48,
+      "target": 47,
+      "type": "SUPPORT",
+      "similarity": 0.3053
+    },
+    {
+      "source": 48,
+      "target": 34,
+      "type": "NONE",
+      "similarity": 0.2556
+    },
+    {
+      "source": 48,
+      "target": 23,
+      "type": "NONE",
+      "similarity": 0.2389
+    },
+    {
+      "source": 62,
+      "target": 34,
+      "type": "NONE",
+      "similarity": 0.3145
+    },
+    {
+      "source": 62,
+      "target": 7,
+      "type": "NONE",
+      "similarity": 0.2658
+    },
+    {
+      "source": 62,
+      "target": 25,
+      "type": "NONE",
+      "similarity": 0.2165
+    },
+    {
+      "source": 69,
+      "target": 52,
+      "type": "SUPPORT",
+      "similarity": 0.4854
+    },
+    {
+      "source": 69,
+      "target": 4,
+      "type": "SUPPORT",
+      "similarity": 0.4602
+    },
+    {
+      "source": 69,
+      "target": 8,
+      "type": "SUPPORT",
+      "similarity": 0.4564
+    },
+    {
+      "source": 70,
+      "target": 34,
+      "type": "NONE",
+      "similarity": 0.2776
+    },
+    {
+      "source": 70,
+      "target": 25,
+      "type": "NONE",
+      "similarity": 0.1976
+    },
+    {
+      "source": 70,
+      "target": 120,
+      "type": "SUPPORT",
+      "similarity": 0.1798
+    },
+    {
+      "source": 71,
+      "target": 4,
+      "type": "SUPPORT",
+      "similarity": 0.6233
+    },
+    {
+      "source": 71,
+      "target": 43,
+      "type": "NONE",
+      "similarity": 0.5908
+    },
+    {
+      "source": 71,
+      "target": 7,
+      "type": "ATTACK",
+      "similarity": 0.4839
+    },
+    {
+      "source": 72,
+      "target": 4,
+      "type": "SUPPORT",
+      "similarity": 0.5496
+    },
+    {
+      "source": 72,
+      "target": 8,
+      "type": "SUPPORT",
+      "similarity": 0.4309
+    },
+    {
+      "source": 72,
+      "target": 52,
+      "type": "SUPPORT",
+      "similarity": 0.3868
+    },
+    {
+      "source": 122,
+      "target": 25,
+      "type": "NONE",
+      "similarity": 0.5812
+    },
+    {
+      "source": 122,
+      "target": 11,
+      "type": "NONE",
+      "similarity": 0.3981
+    },
+    {
+      "source": 122,
+      "target": 120,
+      "type": "NONE",
+      "similarity": 0.2941
+    }
+  ]
+}
