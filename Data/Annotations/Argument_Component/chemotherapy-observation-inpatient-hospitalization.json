@@ -1,0 +1,507 @@
+{
+  "document_id": "chemotherapy-observation-inpatient-hospitalization",
+  "source": "Uhc",
+  "dataset": "uhc",
+  "sentences": [
+    {
+      "id": 4,
+      "text": "Most cancer chemotherapies can be administered safely and effectively in a physician’s office or through home healthcare services.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "However, because of the risk of certain toxicities or individual comorbidities, some cancer chemotherapy may be administered either in a facility observation or inpatient unit.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 6,
+      "text": "An inpatient stay is medically necessary for drug regimens that require inpatient monitoring or complex administration over multiple days: Cancer Factors contributing to the Regimen Drugs Type need for inpatient stay EPOCH, Etoposide 50 mg/m2/day continuous infusion on Lymphoma Coordination of multiple DA-EPOCH, days 1 to 4 infusions or multiple drugs or R- Prednisone over 96 hours EPOCH Vincristine (oncovine) IV days 1-4 Cyclophosphamide 750 mg/m2 IV on day 5 Doxorubicin (hydroxydaunorubicin) 10 mg/m2/day continuous infusion on days 1-4 With or without Rituximab Chemotherapy Observation or Inpatient Hospitalization Page 1 of 6 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Cancer Factors contributing to the Regimen Drugs Type need for inpatient stay ESHAP or Etoposide 40 mg/m2/day continuous infusion on Lymphoma Coordination of multiple R-ESHAP days 1 to 4 infusions or multiple drugs Methylprednisolone (solumedrol) over 96 hours Cytarabine (“high-dose Ara-c”) 2g/m2 Monitor for CNS toxicity with Cisplatin (platinol) 25mg/m2 continuous infusion cytarabine days 1-4 With or without Rituximab Interleukin-2 Interleukin-2 600,000 IU/kg IV every 8 hours for Melanoma, Continuous cardiac infusion up to 14 consecutive doses over 5 days Renal Cell monitoring Cancer Close monitoring of serum electrolytes, creatinine, bilirubin, urine output Vasopressor support with dopamine Proximity to intensive care unit High dose Ifosphamide infusion > 1g/m2/day Sarcoma Close monitoring of serum Ifosphamide electrolytes and urine pH Replacement of electrolytes Alkalinization of urine High dose Methotrexate dose at > 500 mg/m2 Lymphoma, Close monitoring of serum methotrexate Leucovorin 15 mg every 6 hours for eight doses Sarcoma methotrexate levels with beginning 12 hours after the completion of leucovorin methotrexate infusion, and increased to 50 mg rescue IV every 6 hours if methotrexate levels are > 20 µmol/L at 0 hour, are > 1.0 µmol/L at 24 hours, or are > 0.1 µmol/L at 48 hours after the end of methotrexate infusion, until levels are 20 µmol/L at 0 hour, are > 1.0 µmol/L at 24 hours, or are > 0.1 µmol/L at 48 hours after the end of methotrexate infusion, until levels are < 0.1 µmol/L plus Methylprednisolone 50 mg Chemotherapy Observation or Inpatient Hospitalization Page 2 of 6 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 8,
+      "text": "Copyright 2026 United HealthCare Services, Inc. The following are clinical conditions or complications of cancer chemotherapy which may require an observation stay: Known hypersensitivity reactions from previous infusion Congestive heart failure or chronic renal failure requiring high-volume fluid infusions Transcatheter Arterial Chemoembolization (TACE) or intra-arterial chemotherapy infusion The following are clinical conditions which require an inpatient hospital stay: Acute leukemia Intra-arterial infusion of chemotherapy Prophylaxis of tumor lysis syndrome in cases of high-grade lymphoma with large masses Conditions requiring observation or inpatient hospital treatment other than those noted above will be reviewed on a case-by-case basis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "For medical necessity clinical coverage criteria in these instances, refer to the InterQual® LOC: Acute Adult, Hematology/Oncology: Complications or Disease Progression and/or InterQual® LOC: Acute Adult Hematology/Oncology: Treatments.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 11,
+      "text": "Notes: A written protocol will be expected to be followed by the provider administering the chemotherapy drug.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "Any requests for an extension of the inpatient stay beyond the recommended day(s) must be clinically reviewed.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "Definitions TACE (Transcatheter Arterial Chemoembolization): A procedure in which the blood supply to a tumor is blocked after anticancer drugs are given in blood vessels near the tumor. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 14,
+      "text": "NCI, 2022) Description of Services Chemotherapy uses drugs to treat cancer curatively, or before (neoadjuvant) or after (adjuvant) other treatments such as surgery or radiation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 15,
+      "text": "It can also be used to slow cancer growth and relieve symptoms.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 16,
+      "text": "Depending on a number of factors, including but not limited to the drugs being given, the route of administration, and a person’s condition, chemotherapy can be administered at home, in a provider’s office, an outpatient clinic, or in the hospital. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 18,
+      "text": "2024) assessed the efficacy and toxicity of High-Dose 14-day Ifosfamide (14-IFO) in patients with recurrent/refractory (R/R) Osteosarcoma (OS) treated in an outpatient setting.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 19,
+      "text": "The primary endpoint was Progression-Free Survival (PFS), while secondary endpoints included Disease Control Rate (DCR) and the toxicity profile of 14-IFO.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 20,
+      "text": "An additional exploratory endpoint was the estimation of the Growth Modulation Index (GMI).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 21,
+      "text": "From January 2012 to December 2021, 26 patients with R/R OS received at least one complete cycle of 14-IFO.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 22,
+      "text": "Sixteen patients (61%) underwent at least four cycles.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 23,
+      "text": "A total of 101 cycles were administered, all of which were evaluable for toxicity.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 24,
+      "text": "No patient permanently discontinued treatment due to adverse events, though treatment delays occurred in seven patients (27%).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 25,
+      "text": "Dose reductions were necessary for five patients (19%), primarily due to hematological toxicities.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 26,
+      "text": "The authors found patients with relapsed OS exhibited a higher Overall Response Rate (ORR) of 45% and DCR of 82% compared to those with refractory OS, regardless of the number of previous treatment lines.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 27,
+      "text": "Achieving disease control with 14-IFO allowed 27% of patients to receive new local treatments.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 28,
+      "text": "The four-month PFS was 54% for all patients and 82% for the relapsed OS subgroup.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 29,
+      "text": "Additionally, the authors’ reported results highlighted the manageable toxicity profile of the 14-IFO regimen, allowing patients to receive chemotherapy at home with scheduled clinical visits (every three or seven days, depending on local practice) using an external elastomer pump for Ifosfamide and Mesna administration.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 30,
+      "text": "The authors acknowledged that the GMI evaluation remains exploratory and that this study is limited by the small number of patients included in the analysis. Nelles et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 31,
+      "text": "2023) evaluated outcomes of treatment of double-hit lymphoma (DHL) with dose-adjusted etoposide, prednisolone, vincristine, cyclophosphamide, doxorubicin, and rituximab (DA-EPOCH-R) in a retrospective cohort study.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 32,
+      "text": "The authors conducted a retrospective study of 13 consecutive patients with DHL treated with DA-EPOCH-R in an outpatient tertiary center.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 33,
+      "text": "Primary endpoints included complete response (CR), event-free survival (EFS), and overall survival (OS).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 34,
+      "text": "Treatment was given in the outpatient setting where feasible, with admission to the inpatient unit as Chemotherapy Observation or Inpatient Hospitalization Page 3 of 6 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 35,
+      "text": "Copyright 2026 United HealthCare Services, Inc. required for complications such as febrile neutropenia.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 36,
+      "text": "CR rate with DA-EPOCH-R in DHL was 69% in the cohort.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 37,
+      "text": "Median EFS and OS duration was 61 months (95% CI: 41-86 months) and 64 months (95% CI: 42-86 months) respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 38,
+      "text": "One patient discontinued DA-EPOCH-R due to recurrent febrile neutropenia and there were no treatment or infection-related deaths during the study.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 39,
+      "text": "The authors concluded DA-EPOCH-R is a well-tolerated regimen for DHL that can be delivered primarily in an outpatient setting.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 40,
+      "text": "They also noted that patient selection may be required to identify the cohort that is likely to tolerate dose escalation to derive full benefit from the protocol.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 41,
+      "text": "The authors state that further prospective studies are warranted to confirm these findings.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 42,
+      "text": "The study is limited by a small number of participants and variations in adjunctive treatment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 43,
+      "text": "In a retrospective cohort study, Banh et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 45,
+      "text": "The authors performed a single-center retrospective chart review of patients 18 years and older receiving ifosfamide therapy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 46,
+      "text": "The primary endpoint compared and evaluated the side effect profiles of ifosfamide-treated patients in the OP/IP settings.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 47,
+      "text": "The adverse event grading system was characterized using the Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 49,
+      "text": "The secondary endpoint of this study compares the costs of OP/IP therapy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 51,
+      "text": "The predominant OP regimens were doxorubicin-ifosfamide-mesna (AIM) with 43.9% and ifosfamide-etoposide (IE) with 29.8%.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 52,
+      "text": "Grade 4 anemia, thrombocytopenia, and neutropenia were most frequent in IP vs. OP therapies (22.9% IP vs. 4.3% OP, 21.6% IP vs. 9.2% OP, and 22.8% IP vs. 19.6% OP respectively).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 53,
+      "text": "Neutropenic fever (NF) occurred in 20 OP patients which were predominantly treated with AIM or IE and led to an average hospital stay of six days.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 54,
+      "text": "Neurotoxicity, treated with methylene blue occurred in four OP patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 56,
+      "text": "The authors concluded transitioning ifosfamide to the OP setting is feasible for academic and community infusion centers with the OP administration being safe, well-tolerated, and associated with decreased total cost of care.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 57,
+      "text": "This study was limited by a small sample size at a single institution and changes in the electronic medical record during the time period of the study.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 58,
+      "text": "The authors also note that it is possible the patients who received therapy as an inpatient required closer monitoring increasing the number of adverse drug events reported.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 61,
+      "text": "The study included B-cell lymphoma patients who were 18 years or older and who had received DA-EPOCH at Moffitt Cancer Center from April 26, 2017, through August 10, 2019.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 62,
+      "text": "The primary endpoint was hospital admissions during outpatient chemotherapy administration.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 63,
+      "text": "Additional safety endpoints included hospitalizations between cycles, infectious complications, extravasations, drug spills, pump malfunctions, and drug-related adverse events.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 64,
+      "text": "Fifty-six patients received 219 cycles of DA-EPOCH with 193 cycles administered outpatient.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 65,
+      "text": "Zero patients required hospitalization during outpatient administration of DA-EPOCH, resulting in 965 saved hospital days.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 66,
+      "text": "Twenty-three patients (41%) were hospitalized between cycles, most commonly due to neutropenic fever (52%).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 69,
+      "text": "The authors concluded routine outpatient administration of DA-EPOCH is both safe and feasible.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 70,
+      "text": "The study is limited by the lack of a concurrent comparison group. Chen et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 71,
+      "text": "2020) investigated differences in quality of life (QoL) in esophageal squamous cell carcinoma (ESCC) patients who underwent inpatient chemotherapy (IPCT) or outpatient chemotherapy (OPCT) in a prospective cohort study.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 72,
+      "text": "A total of 107 patients with ESCC were enrolled, including 53 patients in the IPCT group and 54 patients in the OPCT group.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 75,
+      "text": "The results of QLQ C-30 analysis showed that mean global QoL scores were similar between IPCT and OPCT groups, as were functional and symptom scales.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 76,
+      "text": "There were no significant differences in the functional and symptom scales in the analysis of QLQ OES18 either.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 77,
+      "text": "Most AEs of chemotherapy were grades 1-2, and the majority of patients tolerated the side effects; no statistically significant difference in AEs between these two groups was noted.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 78,
+      "text": "The authors concluded that the health-related QoL and adverse events in ESCC patients who received IPCT or OPCT are similar and that OPCT is reasonable and safe in clinical practice.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 79,
+      "text": "This study was limited by a small sample size, which may have not allowed to detect clinically significant differences, at a single institution with various chemotherapy interventions.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 82,
+      "text": "The authors retrospectively analyzed 39 patients who underwent consolidation with high-dose cytarabine, between 2009 and 2018, at Ophir Loyola Hospital, in Belém, Brazil.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 83,
+      "text": "Patients treated after 2015 were given high-dose cytarabine as outpatients due to the decision of medical staff.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 84,
+      "text": "Twenty-seven patients received 76 cycles of cytarabine as outpatients; males were 48.14% of the total population, with a median age of approximately 45 years.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 87,
+      "text": "Hospitalization was required in 40.74% of patients during outpatient cycles and 18.51% of blood cultures were positive for pathogens.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 90,
+      "text": "The authors concluded high-dose cytarabine administration on an outpatient basis appeared to be safe and effective in a low-income population in the Brazilian Amazon region, but toxicity seems to be increased for patients older than 50 years.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 91,
+      "text": "This study was limited by a small sample size in a single tertiary hospital. In a case series, Keshvani et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 92,
+      "text": "2019) explored the economic and psychological impacts of transitioning EPOCH (etoposide, prednisone, vincristine, cyclophosphamide, and doxorubicin)-based chemotherapy to an ambulatory infusion model.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 93,
+      "text": "After receiving an initial cycle of chemotherapy in the hospital, study participants received a rituximab infusion at the outpatient infusion center on day one, followed by a combination solution of etoposide, vincristine, and doxorubicin that was replaced every 24 hours on days two to four.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 94,
+      "text": "After 96 hours of continuous infusion, patients received a cyclophosphamide infusion at the clinic and received follow-up blood tests twice per week.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 95,
+      "text": "From January 30, 2017, to January 30, 2018, 18 patients received 61 cycles of EPOCH.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 96,
+      "text": "The patients reported improved QoL and a preference for home chemotherapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 98,
+      "text": "The authors noted the study was limited by a 50% response rate on the patient survey and small sample size in a single center study.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 99,
+      "text": "Clinical Practice Guidelines American Society of Clinical Oncology (ASCO) The ASCO and the Oncology Nursing Society (ONS) assembled a multidisciplinary panel, including representatives from various organizations, to enhance the safety standards for chemotherapy administration.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 100,
+      "text": "These guidelines, initially published in 2009 and updated in 2024, aim to provide a framework for best practices, minimize errors, and enhance efficiency.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 101,
+      "text": "The 2024 updates include a shift in terminology from chemotherapy to antineoplastic therapy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 102,
+      "text": "Since the last major update in 2016, there has been a surge in new drugs and cancer treatment approaches, such as targeted therapies (mainly oral), immunomodulatory agents, bispecific T-cell engagers, and chimeric antigen receptor T-cell therapy, all of which are now included in the standards.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 103,
+      "text": "Additionally, while antineoplastic therapy was traditionally administered in hospitals, physician’s offices, or clinics, it is now increasingly common for treatments to be given at home or in independent centers with no direct affiliation to the prescribing physician.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 104,
+      "text": "These updated standards emphasize the respective responsibilities of all parties involved.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 105,
+      "text": "The 2024 guidelines are divided into the following sections: creating a safe environment; patient consent, and education; ordering, preparing, dispensing, and administering oral and parenteral antineoplastic therapies in a health care facility, organization, or home; and lastly monitoring during and after antineoplastic therapy is administered, including adherence, toxicity, and complications. ( Siegel et al., 2024).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 106,
+      "text": "U.S. Food and Drug Administration (FDA) This section is to be used for informational purposes only.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 107,
+      "text": "FDA approval alone is not a basis for coverage.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 109,
+      "text": "FDA approval occurs once the data has been reviewed by the Center for Drug Evaluation and Research (CDER), and it is determined that the benefit of the drug outweighs the potential risks in the intended population.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 112,
+      "text": "Transitioning ifosfamide chemotherapy regimens to the ambulatory setting: Reviewing cost savings and safety profile. Support Care Cancer. 2022 Mar;30(3):2755-2766. Chen YH, Chen SW, Lu HI, et al.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 113,
+      "text": "Similar quality of life and safety in patients receiving inpatient or outpatient chemotherapy: A focus on esophageal squamous cell carcinoma. Healthcare. 2020 Nov 1;8(4):447. Keshvani N, Hon M, Gupta A, et al.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 114,
+      "text": "Reducing hospitalizations: Institution of outpatient infusional EPOCH-based chemotherapy at a safety net hospital. J Oncol Pract. 2019 Aug;15(8):e644-e651. Li W, Richter KA, Tobon KA, et al.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 123,
+      "text": "Prolonged 14-day continuous infusion of high-dose ifosfamide for patients with relapsed and refractory high-grade osteosarcoma: a retrospective multicentre cohort study. BMC Cancer. 2024 Jun 19;24(1):747.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 124,
+      "text": "Policy History/Revision Information Date Summary of Changes 01/01/2026 Application Commercial Plans Added language to indicate this Medical Policy does not apply to Oxford benefit plans Supporting Information Archived previous policy version MP.02.19 Instructions for Use This Medical Policy provides assistance in interpreting UnitedHealthcare standard benefit plans.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 125,
+      "text": "When deciding coverage, the member specific benefit plan document must be referenced as the terms of the member specific benefit plan may differ from the standard plan.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 126,
+      "text": "In the event of a conflict, the member specific benefit plan document governs.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 127,
+      "text": "Before using this policy, check the member specific benefit plan document and any applicable federal or state mandates.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 128,
+      "text": "UnitedHealthcare reserves the right to modify its Policies and Guidelines as necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 129,
+      "text": "This Medical Policy is provided for informational purposes. It does not constitute medical advice.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 130,
+      "text": "This Medical Policy may also be applied to Medicare Advantage plans in certain instances.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 131,
+      "text": "In the absence of a Medicare National Coverage Determination (NCD), Local Coverage Determination (LCD), or other Medicare coverage guidance, CMS allows a Medicare Advantage Organization (MAO) to create its own coverage determinations, using objective evidence-based rationale relying on authoritative evidence (Medicare IOM Pub. No. 100-16, Ch. 4, §90.5).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 132,
+      "text": "UnitedHealthcare may also use tools developed by third parties, such as the InterQual® criteria, to assist us in administering health benefits.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 133,
+      "text": "UnitedHealthcare Medical Policies are intended to be used in connection with the independent professional medical judgment of a qualified health care provider and do not constitute the practice of medicine or medical advice.",
+      "label": "NON_ARGUMENTATIVE"
+    }
+  ]
+}
