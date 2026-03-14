@@ -1,0 +1,387 @@
+{
+  "document_id": "electric-tumor-treatment-field-therapy",
+  "source": "Uhc",
+  "dataset": "uhc",
+  "sentences": [
+    {
+      "id": 3,
+      "text": "Coverage Rationale The following is proven and medically necessary for treating newly diagnosed histologically confirmed Supratentorial glioblastoma (GBM): • The use of U.S. Food and Drug Administration (FDA) approved devices to generate electric tumor treatment fields (TTF) when used according to FDA labeled indications, contraindications, warnings, and precautions and when all of the following criteria are met: o Debulking surgery has been completed; and o Treatment with radiation therapy has been completed; and o Individual is receiving Temozolomide (TMZ) as the only cancer drug; and o Individual has a Karnofsky Performance Status (KPS) score of ≥ 60 or Eastern Cooperative Oncology Group (ECOG) Performance Status ≤ 2; and o Individual has been counselled that the electric TTF device must be worn at least 18 hours daily When all of the above criteria are met for newly diagnosed GBM (ndGBM), an initial 3 months of electric TTF therapy will be approved.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "The following is proven and medically necessary for treating radiologically confirmed recurrence of GBM (rGBM) in the Supratentorial region of the brain: • The use of FDA approved devices to generate electric TTF after initial chemotherapy when used according to FDA labeled indications, contraindications, warnings, and precautions and when all of the following criteria are met: o The device is used as the only treatment; and o Individual has a KPS score of ≥ 60 or ECOG Performance Status ≤ 2; and o Individual has been counselled that the electric TTF device must be worn at least 18 hours daily Electric Tumor Treatment Field Therapy Page 1 of 13 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Copyright 2026 United HealthCare Services, Inc. When all of the above criteria are met for rGBM, an initial 3 months of electric TTF therapy will be approved.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Subsequent approval(s) for continuation beyond the initial 3 months of electric TTF for treatment of histologically confirmed Supratentorial GBM is based on: • Magnetic resonance imaging (MRI) scan has been performed ≤ 2 months prior to request and documents no evidence of disease progression; and • Individual with ndGBM continues to receive TMZ as the only cancer drug or the device is used as the only treatment for an individual with rGBM; and • KPS score of ≥ 60 or ECOG Performance Status ≤ 2; and • Documentation that the individual has been using the electric TTF device at least 18 hours daily Due to insufficient evidence of efficacy, the use of devices to generate electric TTF is unproven and not medically necessary when the criteria above are not met and for all other indications including but not limited to the following: • Treatment of tumors other than GBM • Use of electric TTF therapy with concurrent medical therapy [e.g., bevacizumab (BEV) or chemotherapy] for treatment of rGBM Medical Records Documentation Used for Reviews Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Medical records documentation may be required to assess whether the member meets the clinical criteria for coverage but does not guarantee coverage of the service requested; refer to the guidelines titled Medical Records Documentation Used for Reviews.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Definitions Eastern Cooperative Oncology Group (ECOG) Scale of Performance Status: A standard criterion for measuring how the disease impacts a person’s level of functioning in terms of their ability to care for themselves, daily activity, and physical ability (e.g., walking, working, etc.) ( ECOG-ACRIN Cancer Research Group).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "Grade ECOG Performance Status 0 Fully active, able to carry on all pre-disease performance without restriction 1 Restricted in physically strenuous activity but ambulatory and able to carry out work of a light or sedentary nature, e.g., light housework, office work 2 Ambulatory and capable of all selfcare but unable to carry out any work activities; up and about more than 50% of waking hours 3 Capable of only limited selfcare; confined to bed or chair more than 50% of waking hours 4 Completely disabled; cannot carry on any selfcare; totally confined to bed or chair 5 Dead Karnofsky Performance Status (KPS): A standard way of measuring the ability of cancer patients to perform ordinary tasks.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "KPS scores range from 0 to 100; a higher score means a person is better able to carry out daily activities.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 11,
+      "text": "For example, a KPS of 60 means a person requires occasional assistance but is able to care for most of their personal needs.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 12,
+      "text": "KPS may be used to determine a patient’s prognosis, to measure changes in a patient’s ability to function, or to decide if a patient could be included in a clinical trial [National Cancer Institute (NCI), 2019; West & Jin, 2015].",
+      "label": "CLAIM"
+    },
+    {
+      "id": 13,
+      "text": "Grade Karnofsky Performance Status (KPS) 100 Normal, no complaints; no evidence of disease 90 Able to carry on normal activity; minor signs or symptoms of disease 80 Normal activity with effort, some signs or symptoms of disease 70 Cares for self but unable to carry on normal activity or to do active work 60 Requires occasional assistance but is able to care for most of personal needs 50 Requires considerable assistance and frequent medical care 40 Disabled; requires special care and assistance Electric Tumor Treatment Field Therapy Page 2 of 13 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Grade Karnofsky Performance Status (KPS) 30 Severely disabled; hospitalization is indicated although death not imminent 20 Very ill; hospitalization and active supportive care necessary 10 Moribund 0 Dead (Table: ECOG-ACRIN Cancer Research Group) Supratentorial: A term used to describe the upper portion of the brain comprised of the cerebrum, ventricles, choroid plexus, hypothalamus, pineal gland, pituitary gland, and optic nerve (NCI, 2019).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "Temozolomide (TMZ): An oral alkylating chemotherapy drug used in the treatment of some brain cancers.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 16,
+      "text": "It is a first-line treatment for glioblastoma (NCI, 2019).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 22,
+      "text": "HCPCS Code Description A4555 Electrode/transducer for use with electrical stimulation device used for cancer treatment, replacement only E0766 Electrical stimulation device used for cancer treatment, includes all accessories, any type E0767 Intrabuccal, systemic delivery of amplitude-modulated, radiofrequency electromagnetic field device, for cancer treatment, includes all accessories Description of Services Electric tumor treatment field (TTF) therapy (also known as tumor-treating fields, TTFields, and ETTFs) is based on the principle that low-intensity, intermediate-frequency electric fields (100 to 300 kHz) disrupt cell division and may destroy proliferating cells in brain tumors (Rulseh et al., 2012).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 23,
+      "text": "Glioblastoma multiforme (GBM) is the most prevalent and primary malignant brain tumor in adults; for those with newly diagnosed glioblastoma (ndGBM), the initial standard treatment consists of debulking surgery (when feasible), followed by radiation and chemotherapy (NCCN, 2025).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 25,
+      "text": "The Optune kit contains the portable electric field generator (Optune device), insulated electrode (INE) transducer arrays, power supply, and additional supplies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 26,
+      "text": "Prior to treatment, transducer arrays are placed on the individual’s scalp according to the tumor’s location, which is then covered by a lightweight white cap that resembles a bandage.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 30,
+      "text": "The individual being treated, or caregiver, must learn to change and recharge depleted device batteries and to connect to an external power supply overnight.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 31,
+      "text": "In addition, the transducer arrays need to be replaced once to twice a week, and the scalp needs to be re-shaved to maintain optimal contact.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 42,
+      "text": "The authors concluded that adding TTFields to standard chemoradiotherapy significantly prolongs OS for those newly diagnosed with Glioblastoma multiforme (GBM) treated in the real world.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 43,
+      "text": "Future studies are essential for investigating the role of TTFields treatment duration for individual’s outcomes and assessing the clinical benefits for high-unmet needs populations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 49,
+      "text": "The authors concluded that TTField therapy is effective for rGBM.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 51,
+      "text": "The risk of rashes caused by long-term wearing of devices should be considered.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 53,
+      "text": "The results of the exploration revealed that the median OS is conspicuously longer in the TTFields group when the dexamethasone is ≤ 4.1 mg, and those whose compliance with TTFields treatment ≥ 75% have a significantly lower OS risk than those compliant with TTFields treatment 18 h/day; TMZ at 120-150 mg for five days per a 28-day cycle. Safety and efficacy were assessed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 56,
+      "text": "In the TTFields/TMZ arm, 30% suffered from skin irritation versus 52% in the entire study population.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 57,
+      "text": "No TTFields-related serious AEs were reported.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 60,
+      "text": "The authors concluded that MOS and 1- and 2-year survival rates were higher with TTFields/TMZ and similar to the entire EF-14 population.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 61,
+      "text": "According to the authors, these results demonstrate the efficacy and safety of TTFields in this population of individuals with ndGBM.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 64,
+      "text": "The safety profile remained consistent among subgroups, suggesting feasibility in multiple populations, including older adults.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 76,
+      "text": "However, TTField enables individuals to avoid chemotherapy-associated AEs (i.e., serious hematologic AEs, diarrhea, nausea, infection, anorexia, muscle weakness) but does result in more skin site reactions and falls than BSC.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 77,
+      "text": "Whether TTFields has clinical value for those with rGBM may depend on which outcomes are most important to the individuals and clinician.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 78,
+      "text": "TTField plus BEV may increase OS in some people more than BSC alone, but additional studies are needed to ensure firm conclusions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 79,
+      "text": "When comparing the Optune Gio with other treatments for rGBM, the evidence is favorable for the Optune Gio, and there is a moderate confidence in the evidence for OS for TTF vs. BSC. Toms et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 87,
+      "text": "The authors concluded that a compliance threshold of 50% with TTFields/TMZ correlated with significantly improved OS and PFS versus TMZ alone.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 88,
+      "text": "People with compliance > 90% showed extended median and 5-year survival rates. Magouliotis et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 93,
+      "text": "TTFields were associated with fewer AEs compared to chemotherapy, along with a similar incidence of skin irritation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 94,
+      "text": "The authors indicated that this review suggests that TTFields are a safe and efficient novel treatment modality. Stupp et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 100,
+      "text": "Mild to moderate skin toxicity underneath the transducer arrays occurred in 52% of those who received TTFields- TMZ vs. no patients who received Electric Tumor Treatment Field Therapy Page 7 of 13 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 120,
+      "text": "The trial’s independent data monitoring committee concluded that the study met its endpoints at its pre-specified interim analysis of the first 315 participants with 18 months or more of follow-up.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 121,
+      "text": "The committee recommended that the trial be terminated early for success and that all control participants be offered TTFields therapy even prior to progression.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 122,
+      "text": "In addition, the authors reported that the trial showed Optune could be safely combined with TMZ.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 123,
+      "text": "There was no significant increase in systemic toxicities from Optune reported in combination with TMZ versus TMZ alone.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 124,
+      "text": "The most common adverse reaction from Optune treatment was mild to moderate skin irritation, which, according to the authors, was easily managed, reversible, and did not result in treatment discontinuation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 142,
+      "text": "The authors concluded that TTFields therapy added to standard therapy significantly improved OS compared with standard therapy alone in metastatic non-small-cell lung cancer after progression on platinum-based therapy without exacerbating systemic toxicities.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 143,
+      "text": "This data suggests that TTFields therapy is efficacious in metastatic non-small-cell lung cancer and should be considered as a treatment option to manage the disease in this setting.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 155,
+      "text": "According to the authors, the trial showed encouraging OS results, with no increase in systemic toxicity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 158,
+      "text": "The authors indicated that further investigation in a randomized trial is warranted.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 161,
+      "text": "This guideline recommends Alternating electric field therapy may be added to adjuvant TMZ in people with newly diagnosed supratentorial glioblastoma, IDH-wildtype, CNS WHO grade 4 who have completed chemoradiation therapy (Type: evidence-based, benefits outweigh harms; Evidence quality: moderate; Strength of recommendation: weak).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 163,
+      "text": "published updated recommendations from the EANO due to the revision of the WHO Classification of Tumors of the Central Nervous System.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 164,
+      "text": "The revisions have led to major changes in how the ESMO routinely diagnoses and treats those with gliomas.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 165,
+      "text": "Recommendations: • The SOC for individuals with IDH-wild-type glioblastoma aged < 70 years and with a KPS ≥ 70 includes resection as feasible, or biopsy followed by involved-field radiotherapy and concomitant radiotherapy and six cycles of maintenance TMZ chemotherapy (EORTC 26981-NCIC CE.3).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 166,
+      "text": "C: I; L: A. • TMZ might only be active in patients with MGMT promoter-methylated tumors, while its activity in those with MGMT promoter-unmethylated tumors is probably marginal.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 167,
+      "text": "C: II; L: B. • Older adults not considered candidates for TMZ chemoradiotherapy should be treated based on MGMT promoter methylation status (NOA-08, Nordic Trial) with radiotherapy (such as 15 × 2.66 Gy) or TMZ (5 out of 28 days) alone.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 168,
+      "text": "C: II; L: B. • At recurrence, standards of care are less well defined.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 169,
+      "text": "Surgery and radiotherapy might be considered.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 170,
+      "text": "Nitrosourea regimens, TMZ rechallenge, and, considering the country-specific label, bevacizumab (BEV) are options for pharmacotherapy, but their impact on OS remains unproven.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 171,
+      "text": "When available, recruitment into appropriate clinical trials should be considered.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 172,
+      "text": "C: II; L: B. Furthermore, the ESMO advocates against using any treatment beyond confirmed progression on that same treatment, including BEV and tumor-treating fields, because the clinical benefit of this practice has not been established.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 173,
+      "text": "Several chemotherapy regimens commonly used to treat other tumor types, including irinotecan and platinum compounds, are known not to be active against gliomas and should, therefore, not be used in this setting.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 176,
+      "text": "For recurrence of GBM (GLIO-12), the guideline considers alternating electric treatment fields therapy for diffuse, multifocal, or local glioblastoma (category 2B).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 177,
+      "text": "The guideline recommends for general high-grade glioma are that follow-up MRI of the brain be done 2 to 8 weeks after RT, then every 2–4 months for three years, then every 3–6 months indefinitely (p. GLIO-11) (NCCN, 2025).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 178,
+      "text": "NCCN clinical practice guidelines for Central Nervous System Cancers (2022; updated 2025) state that based on results of the open-label phase III EF-14 clinical trial, concurrent treatment with adjuvant TMZ and alternating electric fields is FDA approved and recommended for individuals with ndGBM 70 years of age or younger who have good PS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 179,
+      "text": "It should also be considered a reasonable treatment option for patients older than 70 years of age with good PS and ndGBM who are treated with standard focal brain radiation and concurrent daily TMZ (p. MS-18).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 180,
+      "text": "Alternating electric field therapy is also FDA-approved for treating rGBM based on the safety results of this medical device from the EF-11 clinical trial.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 181,
+      "text": "Due to a lack of clear efficacy data, the NCCN panel is divided about recommending it for the treatment of rGBM (p. MS-19).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 183,
+      "text": "NCCN Category 1 recommendations for patients aged 70 years and younger with a good PS, regardless of the tumor’s MGMT methylation status, include standard brain RT plus concurrent and adjuvant TMZ with or without alternating electric field therapy (p. MS-20).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 184,
+      "text": "Category 1 treatment recommendations for those patients older than 70 years with ndGBM, a good PS, and with MGMT unmethylated or indeterminant tumors, hypo-fractionated brain radiation with concurrent and adjuvant TMZ is preferred, but standard brain RT plus concurrent and adjuvant TMZ and alternating electric field therapy is also a reasonable option for those elderly patients who want to be treated as aggressively as possible (p. MS-20).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 185,
+      "text": "National Institute for Health and Care Excellence (NICE) According to the 2018; updated 2021 NICE guidelines titled ‘Brain tumors (primary) and brain metastases in over 16s’ for the Management of newly diagnosed grade IV glioma (glioblastoma) following surgery or if surgery is not possible (or has been declined), the guidelines state: • Do not offer TTField as part of managing a newly diagnosed grade IV glioma (glioblastoma).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 186,
+      "text": "For the Management of recurrent high-grade glioma (recurrent grade III and grade IV glioma) • When deciding on treatment options for people with recurrent high-grade glioma, take into account: o Karnofsky performance status (KPS) o The person's preferences o Time from last treatment o Tumor molecular markers o What their last treatment was • Consider PCV or single agent CCNU (lomustine) as an alternative to temozolomide for people with recurrent high- grade glioma. •",
+      "label": "PREMISE"
+    },
+    {
+      "id": 188,
+      "text": "For people with focally recurrent high-grade glioma, the multidisciplinary team should also consider the treatment options of: o Further surgery o Further radiotherapy • Do not offer bevacizumab, erlotinib or cediranib, either alone or in combination with chemotherapy, as part of management of recurrent high-grade glioma. •",
+      "label": "PREMISE"
+    },
+    {
+      "id": 189,
+      "text": "Do not offer tumor treating fields (TTF) as part of management of recurrent high-grade glioma. •",
+      "label": "PREMISE"
+    },
+    {
+      "id": 190,
+      "text": "If asked, advise people who have recurrent high-grade glioma (and their relatives and carers, as appropriate) that the available evidence does not support the use of: o Cannabis oil o Immunotherapy o Ketogenic diets o Metformin o Statins o Valganciclovir Electric Tumor Treatment Field Therapy Page 10 of 13 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 193,
+      "text": "The Optune Treatment Kit, formerly the NovoTTF-100A System (Novocure), was approved by the FDA in April 2011 as a novel device to treat adults aged 22 years or older with glioblastoma (GBM) that recurs or progresses after receiving chemotherapy and radiation therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 194,
+      "text": "The FDA categorizes the Optune as a stimulator, low electric field, tumor treatment; refer to the following website for the initial Premarket Approval information: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P100034. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 195,
+      "text": "Accessed May 15, 2025) A supplemental FDA premarket approval was received in October 2015 for Optune with Temozolomide in adults with newly diagnosed Supratentorial glioblastoma following maximal debulking surgery and completion of radiation therapy together with concomitant standard-of-care chemotherapy.",
+      "label": "PREMISE"
+    }
+  ]
+}
