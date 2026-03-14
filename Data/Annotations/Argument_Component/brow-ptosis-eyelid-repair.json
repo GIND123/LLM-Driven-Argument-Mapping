@@ -1,0 +1,307 @@
+{
+  "document_id": "brow-ptosis-eyelid-repair",
+  "source": "Uhc",
+  "dataset": "uhc",
+  "sentences": [
+    {
+      "id": 4,
+      "text": "Brow ptosis repair and repair of the eyelid are considered reconstructive and medically necessary in certain circumstances.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Note: If multiple procedures are requested, criteria for each individual procedure must be met.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 7,
+      "text": "Internal Browpexy for any condition is considered cosmetic and not medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Eyelid surgery for correction of Lagophthalmos is considered reconstructive and medically necessary when the upper eyelid is not providing complete closure to the eye, resulting in dryness and other complications.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Lid retraction surgery (CPT code 67911) is considered reconstructive and medically necessary when all of the following criteria are present: • Other causes have been eliminated as the reason for the lid retraction such as use of dilating eye drops, glaucoma medications; and • There is a functional impairment (e.g., dry eyes, pain/discomfort, tearing, blurred vision); and • Tried and failed conservative treatments; and • In cases of thyroid eye disease, two or more Hertel measurements at least 6 months apart with the same base measurements are unchanged Canthoplasty/Canthopexy (CPT codes 21280, 21282, and 67950) are considered reconstructive and medically necessary when all of the following criteria are present: • There is a functional impairment; and • Repair of ectropion or entropion will not correct condition; and • At least one of the following is present: o Epiphora (excess tearing) not resolved by conservative measures; or o Corneal dryness unresponsive to lubricants; or o Corneal ulcer Repair of Floppy Eyelid Syndrome (FES) (CPT codes 67961 and 67966) is considered reconstructive and medically necessary when all of the following are present and have been documented and confirmed by history and examination: • Subjective symptoms must include eyelids spontaneously \"flipping over\" when the member sleeps due to rubbing on the pillow, and one of the following: o Eye pain or discomfort; or o Excess tearing; or o Eye irritation, ocular redness, and discharge • Physical examination that documents all of the following: o Both of the following: ▪ Eyelash ptosis; and ▪ Significant upper eyelid laxity and o One of the following: ▪ Presence of giant papillary conjunctivitis (GPC); or ▪ Corneal findings such as one of the following: – Superficial punctate erosions (SPK); or – Corneal abrasion (documentation of a history of corneal abrasion or recurrent erosion syndrome is considered sufficient); or – Microbial keratitis • Clear, high-quality, clinical photographs that clearly document Floppy Eyelid Syndrome and demonstrate both of the following: o Lids must be everted in the photographs; and o Conjunctival surface (underbelly) of the lids must be clearly visible • Documentation that conservative treatment has been tried and failed; examples may include: o Ocular lubricants both drops (daytime) and ointments (bedtime) o Short trial of antihistamines o Topical steroid drops o Eye shield and/or taping the lids at bedtime • Infections of the eye have been ruled out; examples may include: o Allergic conjunctivitis o Atopic keratoconjunctivitis o Blepharitis o Contact lens (CL) complication [e.g., giant papillary conjunctivitis (GPC)] o Superior limbic keratoconjunctivitis (SLK) Medical Records Documentation Used for Reviews Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 11,
+      "text": "Medical records documentation may be required to assess whether the Brow Ptosis and Eyelid Repair Page 2 of 8 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "Canthopexy: A surgical technique for lid malposition that involves securing the lateral retinaculum to the periosteum of the superolateral orbital rim with a suture (Rizvi 2010).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 16,
+      "text": "Canthoplasty: A procedure that is indicated for a variety of eyelid conditions.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 18,
+      "text": "Floppy Eyelid Syndrome (FES): A frequent eyelid disorder characterized by eyelid laxity that determines a spontaneous eyelid eversion during sleep associated with chronic papillary conjunctivitis and systemic diseases (DeGregorio, 2021).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 19,
+      "text": "Internal Browpexy: A minimally invasive technique to provide stabilization and subtle elevation of the lateral brow (Karimi et al., 2020).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 20,
+      "text": "Lagophthalmos: The inability to close the eyelids completely.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 21,
+      "text": "A portion of the eye remains open during a blink and during sleep and is subject to damage from exposure (AAO Exposure Keratopathy, 2024).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 22,
+      "text": "Marginal Reflex Distance -1 (MRD-1): The measurement in millimeters from the light reflex on the patient’s cornea to the upper eyelid margin with the patient gazing in the primary position.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 23,
+      "text": "MRD1 is used to indicate degree of ptosis or retraction (AAO 2023).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 25,
+      "text": "Listing of a code in this policy does not imply that the service described by the code is a covered or non-covered health service.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 26,
+      "text": "Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 27,
+      "text": "The inclusion of a code does not imply any right to reimbursement or guarantee claim payment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 30,
+      "text": "CPT Code Description Blepharoplasty (Lower and Upper Eyelid) 15820 Blepharoplasty, lower eyelid 15821 Blepharoplasty, lower eyelid; with extensive herniated fat pad 15822 Blepharoplasty, upper eyelid; 15823 Blepharoplasty, upper eyelid; with excessive skin weighting down lid Brow Ptosis Repair 67900 Repair of brow ptosis (supraciliary, mid-forehead or coronal approach) Upper Eyelid Blepharoptosis Repair 67901 Repair of blepharoptosis; frontalis muscle technique with suture or other material (e.g., banked fascia) 67902 Repair of blepharoptosis; frontalis muscle technique with autologous fascial sling (includes obtaining fascia) 67903 Repair of blepharoptosis; (tarso) levator resection or advancement, internal approach 67904 Repair of blepharoptosis; (tarso) levator resection or advancement, external approach 67906 Repair of blepharoptosis; superior rectus technique with fascial sling (includes obtaining fascia) 67908 Repair of blepharoptosis; conjunctivo-tarso-Muller’s muscle-levator resection (e.g., Fasanella-Servat type) Brow Ptosis and Eyelid Repair Page 3 of 8 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 31,
+      "text": "Copyright 2026 United HealthCare Services, Inc. CPT Code Description Upper Eyelid Blepharoptosis Repair 67909 Reduction of overcorrection of ptosis Lid Retraction 67911 Correction of lid retraction Lagophthalmos 67912 Correction of lagophthalmos, with implantation of upper eyelid lid load (e.g., gold weight) Ectropion and Entropion 67914 Repair of ectropion; suture 67915 Repair of ectropion; thermocauterization 67916 Repair of ectropion; excision tarsal wedge 67917 Repair of ectropion; extensive (e.g., tarsal strip operations) 67921 Repair of entropion; suture 67922 Repair of entropion; thermocauterization 67923 Repair of entropion; excision tarsal wedge 67924 Repair of entropion; extensive (e.g., tarsal strip or capsulopalpebral fascia repairs operation) Canthoplasty/Canthopexy 21280 Medial canthopexy (separate procedure) 21282 Lateral canthopexy 67950 Canthoplasty (reconstruction of canthus) 67961 Excision and repair of eyelid, involving lid margin, tarsus, conjunctiva, canthus, or full thickness, may include preparation for skin graft or pedicle flap with adjacent tissue transfer or rearrangement; up to one-fourth of lid margin 67966 Excision and repair of eyelid, involving lid margin, tarsus, conjunctiva, canthus, or full thickness, may include preparation for skin graft or pedicle flap with adjacent tissue transfer or rearrangement; over one-fourth of lid margin Floppy Eyelid Syndrome 67961 Excision and repair of eyelid, involving lid margin, tarsus, conjunctiva, canthus, or full thickness, may include preparation for skin graft or pedicle flap with adjacent tissue transfer or rearrangement; up to one-fourth of lid margin 67966 Excision and repair of eyelid, involving lid margin, tarsus, conjunctiva, canthus, or full thickness, may include preparation for skin graft or pedicle flap with adjacent tissue transfer or rearrangement; over one-fourth of lid margin CPT® is a registered trademark of the American Medical Association Benefit Considerations Some states require benefit coverage for services that UnitedHealthcare considers cosmetic procedures, such as repair of external congenital anomalies in the absence of a functional impairment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 33,
+      "text": "UnitedHealthcare excludes cosmetic procedures from coverage, including but not limited to the following: • Procedures that correct an anatomical congenital anomaly without improving or restoring physiologic function are considered cosmetic procedures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 34,
+      "text": "The fact that a covered person may suffer psychological consequences or socially avoidant behavior as a result of an injury, sickness, or congenital anomaly does not classify surgery (or other procedures done to relieve such consequences or behavior) as a reconstructive procedure.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 39,
+      "text": "retrospectively reviewed the cases of 68 patients, mostly females, who underwent either internal browpexy (39), external browpexy (9) or upper eyelid skin excision alone (20).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 40,
+      "text": "Photographs were taken before, immediately after surgery, then at one week, one- three months, four-six months, and seven-12 months.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 41,
+      "text": "Brow height changes were measured using the ImageJ biological measuring program and compared among the three groups.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 42,
+      "text": "The results showed both internal and external browpexy provided improvement within 3 months of surgery, however outcomes for those treated with an external browpexy had better brow-lift outcomes across the entire brow than internal browpexy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 43,
+      "text": "The authors concluded that external browpexy is a better choice for those with severe whole brow ptosis, and internal browpexy is recommended for patients with mild ptosis.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 44,
+      "text": "This retrospective observational study is limited by a small number of participants and a lack of randomization.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 45,
+      "text": "Furthermore, most patients were lost to follow up so longer term data is not available.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 46,
+      "text": "Further high-quality research is needed to validate these findings.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 47,
+      "text": "Floppy Eyelid Syndrome (FES) There is no diagnostic test for FES.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 48,
+      "text": "It is a clinical diagnosis based on history, symptoms, and as sequelae of systemic conditions such as obstructive sleep apnea (OSA) and morbid obesity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 52,
+      "text": "If there is minimal response to these interventions, surgical procedures such as horizontal eyelid shortening can help to relieve ocular symptoms and provide good functional and cosmetic results.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 57,
+      "text": "The systematic review included 12 studies, nine of which were included in the meta- analysis, with a total of 1109 individuals.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 58,
+      "text": "The analysis of the data determined a significant association between OSA and FES (OR = 1.89, 95% CI = 1.27-2.83, I 2 = 44%).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 59,
+      "text": "Upon further investigation the study determined the more severe the OSA, the higher the risk of developing FES.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 60,
+      "text": "Patients with severe OSA had the highest risk of developing FES (OR = 3.06, 95% CI = 1.62-5.78, I 2 = 0%), followed by moderate OSA (OR = 2.53, 95% CI = 1.29-4.97, I 2 = 0%), and patients with mild OSA had the lowest risk (OR = 1.76, 95% CI = 0.85-3.62, I 2 = 0%).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 62,
+      "text": "Limitations in the study were important covariates such as age, gender and body mass index were not adjusted.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 66,
+      "text": "The presence of FES before and after PAP was 56.9% and 74.5% (p 2 mm, exophthalmos > 3 mm, moderate to severe soft tissue involvement, and presence of diplopia.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 67,
+      "text": "Sight-threatening TAO is defined as the presence of direct optic neuropathy or corneal breakdown.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 69,
+      "text": "The authors concluded that surgical management is required in cases of severe vision-threatening disease that is refractory to medical management, and as restorative treatment when the disease is inactive and clinical measurements are stable.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 70,
+      "text": "Limitations to the study are small sample sizes and non-randomized methodology.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 71,
+      "text": "Medial and Lateral Canthoplasty/Canthopexy Clinical Practice Guidelines American Academy of Ophthalmology (AAO) 2008 • Indications for functional canthoplasty: o Congenital and involutional entropion o Congenital, involutional and cicatricial ectropion o Lid laxity (seen with anophthalmos or enophthalmos, and facial nerve palsy) o Canthal dystopia o Exposure keratopathy o Epiphora o Vertical eyelid retraction [due to trauma, after blepharoplasty, with thyroid eye disease (contraindicated if significant proptosis)] Brow Ptosis and Eyelid Repair Page 6 of 8 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 72,
+      "text": "Copyright 2026 United HealthCare Services, Inc. o Repair after Iatrogenic damage or trauma o In conjunction with blepharoplasty: ▪ To prevent ectropion or eyelid retraction ▪ Festoons o Delayed repair resulting in rounding of the canthus o Telecanthus o Congenital malposition or occlusion of the visual field o Absent naso-orbital valley o With lateral orbitotomy: ▪ In orbital decompression ▪ Removal of orbital tumors U.S. Food and Drug Administration (FDA) This section is to be used for informational purposes only.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 73,
+      "text": "FDA approval alone is not a basis for coverage.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 74,
+      "text": "Brow ptosis repair and eyelid repair are procedures and, therefore, not regulated by the FDA.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 75,
+      "text": "However, devices and instruments used during the surgery may require FDA approval.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 76,
+      "text": "Refer to the following website for additional information: http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 80,
+      "text": "Lax eyelid condition (LEC) and floppy eyelid syndrome (FES) prevalence in obstructive sleep apnea syndrome (OSA) patients: a systematic review and meta-analysis. Graefes Arch Clin Exp Ophthalmol. 2023 Jun;261(6):1505-1514.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 91,
+      "text": "Floppy eyelid syndrome is associated with obstructive sleep apnoea: a prospective study on 127 patients. J Sleep Res. 2012 Jun;21(3):308-15. Cheong AJY, Ho OTW, Wang SKX, et al.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 97,
+      "text": "Floppy eyelid syndrome as a subset of lax eyelid conditions: relationships and clinical relevance (an ASOPRS thesis). Ophthal Plast Reconstr Surg. 2010 May-Jun;26(3):195-204. Hoang TD, Stocker DJ, Chou EL, et al.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 105,
+      "text": "Techniques of eyebrow lifting: a narrative review. J Ophthalmic Vis Res. 2020 Apr 6;15(2):218-235. Nerad JA.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 106,
+      "text": "Techniques in ophthalmic plastic surgery. 2nd ed. Philadelphia: Elsevier; 2021. Periman LM, Sires BS.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 107,
+      "text": "Floppy eyelid syndrome: a modified surgical technique. Ophthal Plast Reconstr Surg.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 115,
+      "text": "In the event of a conflict, the member specific benefit plan document governs.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 116,
+      "text": "Before using this policy, check the member specific benefit plan document and any applicable federal or state mandates.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 117,
+      "text": "UnitedHealthcare reserves the right to modify its Policies and Guidelines, as necessary.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 118,
+      "text": "This Medical Policy is provided for informational purposes. It does not constitute medical advice.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 120,
+      "text": "In the absence of a Medicare National Coverage Determination (NCD), Local Coverage Determination (LCD), or other Medicare coverage guidance, CMS allows a Medicare Advantage Organization (MAO) to create its own coverage determinations, using objective evidence-based rationale relying on authoritative evidence (Medicare IOM Pub. No. 100-16, Ch. 4, §90.5).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 121,
+      "text": "UnitedHealthcare may also use tools developed by third parties, such as the InterQual® criteria, to assist us in administering health benefits.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 122,
+      "text": "UnitedHealthcare Medical Policies are intended to be used in connection with the independent professional medical judgment of a qualified health care provider and do not constitute the practice of medicine or medical advice.",
+      "label": "PREMISE"
+    }
+  ]
+}
