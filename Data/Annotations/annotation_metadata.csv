@@ -4,11 +4,16 @@ abnormal-uterine-bleeding-uterine-fibroids,uhc,abnormal-uterine-bleeding-uterine
 Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle,aetna,Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle.json,Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle.json,330,97,151,82,170,81,20,69
 Alzheimer's_Disease_Tests_-_Medical_Clinical_Policy_Bulletin,aetna,Alzheimer_Disease_Tests_Medical_Clinical_Policy_Bulletin.json,Alzheimer's_Disease_Tests_-_Medical_Clinical_Policy_Bulletin.json,146,10,99,37,297,171,42,84
 antiemetics-oncology,uhc,antiemetics-oncology.json,antiemetics-oncology.json,47,19,18,10,54,24,0,30
+autologous-cellular-therapy,uhc,autologous-cellular-therapy.json,,150,33,44,73,,,,
 Back_Pain_-_Invasive_Procedures_-_Medical_Clinical_Policy_Bu,aetna,Back_Pain_Invasive_Procedures_Medical_Clinical_Policy.json,Back_Pain_-_Invasive_Procedures_-_Medical_Clinical_Policy_Bu.json,206,90,98,18,249,167,41,41
+breast-reduction-surgery,uhc,breast-reduction-surgery.json,,20,3,6,11,,,,
+brow-ptosis-eyelid-repair,uhc,brow-ptosis-eyelid-repair.json,,60,15,13,32,,,,
 Cancer_Vaccines_-_Medical_Clinical_Policy_Bulletins___Aetna.,aetna,Cancer_Vaccines_Medical_Clinical_Policy_Bulletins_Aetna.json,Cancer_Vaccines_-_Medical_Clinical_Policy_Bulletins___Aetna..json,198,10,185,3,95,71,17,7
+chromosome-microarray-testing,uhc,chromosome-microarray-testing.json,,154,28,126,0,,,,
 Chronic_Fatigue_Syndrome_-_Medical_Clinical_Policy_Bulletins,aetna,Chronic_Fatigue_Syndrome_-_Medical_Clinical_Policy_Bulletins.json,Chronic_Fatigue_Syndrome_-_Medical_Clinical_Policy_Bulletins.json,202,48,150,4,105,40,3,62
 Deep_Brain_Stimulation_-_Medical_Clinical_Policy_Bulletins,aetna,Deep_Brain_Stimulation_-_Medical_Clinical_Policy_Bulletins.json,Deep_Brain_Stimulation_-_Medical_Clinical_Policy_Bulletins.json,40,24,14,2,38,35,3,0
-electrical-ultrasound-bone-growth-stimulators,uhc,electrical-ultrasound-bone-growth-stimulators.json,,68,31,37,0,,,,
+electric-tumor-treatment-field-therapy,uhc,electric-tumor-treatment-field-therapy.json,electric-tumor-treatment-field-therapy.json,76,15,61,0,183,159,7,17
+electrical-ultrasound-bone-growth-stimulators,uhc,electrical-ultrasound-bone-growth-stimulators.json,electrical-ultrasound-bone-growth-stimulators.json,68,31,37,0,111,91,10,10
 Epilepsy_Surgery_-_Medical_Clinical_Policy_Bulletins___Aetna,aetna,Epilepsy_Surgery_-_Medical_Clinical_Policy_Bulletins___Aetna.json,Epilepsy_Surgery_-_Medical_Clinical_Policy_Bulletins___Aetna.json,106,26,79,1,129,110,15,4
 Gender_Affirming_Surgery_-_Medical_Clinical_Policy_Bulletins,aetna,Gender_Affirming_Surgery_-_Medical_Clinical_Policy_Bulletins.json,Gender_Affirming_Surgery_-_Medical_Clinical_Policy_Bulletins.json,102,41,60,1,125,108,10,7
 Hematopoietic_Cell_Transplantation_for_Autoimmune_Diseases_a,aetna,Hematopoietic_Cell_Transplantation_for_Autoimmune_Diseases_a.json,Hematopoietic_Cell_Transplantation_for_Autoimmune_Diseases_a.json,41,5,36,0,48,19,8,21
