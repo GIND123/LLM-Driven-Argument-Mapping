@@ -1,52 +1,54 @@
 document_id,source,component_json,relation_json,component_record_count,component_claim_count,component_premise_count,component_non_argumentative_count,relation_record_count,relation_support_count,relation_attack_count,relation_none_count
+Acupuncture and Dry Needling - Medical Clinical Policy Bulle,aetna,Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle.json,Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle.json,330,97,151,82,170,81,20,69
+Alzheimer's Disease Tests - Medical Clinical Policy Bulletin,aetna,Alzheimer_Disease_Tests_Medical_Clinical_Policy_Bulletin.json,Alzheimer's_Disease_Tests_-_Medical_Clinical_Policy_Bulletin.json,146,10,99,37,297,171,42,84
+Back Pain - Invasive Procedures - Medical Clinical Policy Bu,aetna,Back_Pain_Invasive_Procedures_Medical_Clinical_Policy.json,Back_Pain_-_Invasive_Procedures_-_Medical_Clinical_Policy_Bu.json,206,90,98,18,249,167,41,41
+Cancer Vaccines - Medical Clinical Policy Bulletins _ Aetna.,aetna,Cancer_Vaccines_Medical_Clinical_Policy_Bulletins_Aetna.json,Cancer_Vaccines_-_Medical_Clinical_Policy_Bulletins___Aetna..json,198,10,185,3,95,71,17,7
+Chronic Fatigue Syndrome - Medical Clinical Policy Bulletins,aetna,Chronic_Fatigue_Syndrome_-_Medical_Clinical_Policy_Bulletins.json,Chronic_Fatigue_Syndrome_-_Medical_Clinical_Policy_Bulletins.json,202,48,150,4,105,40,3,62
+Deep Brain Stimulation - Medical Clinical Policy Bulletins _,aetna,Deep_Brain_Stimulation_-_Medical_Clinical_Policy_Bulletins.json,Deep_Brain_Stimulation_-_Medical_Clinical_Policy_Bulletins.json,40,24,14,2,38,35,3,0
+Epilepsy Surgery - Medical Clinical Policy Bulletins _ Aetna,aetna,Epilepsy_Surgery_-_Medical_Clinical_Policy_Bulletins___Aetna.json,Epilepsy_Surgery_-_Medical_Clinical_Policy_Bulletins___Aetna.json,106,26,79,1,129,110,15,4
+Gender Affirming Surgery - Medical Clinical Policy Bulletins,aetna,Gender_Affirming_Surgery_-_Medical_Clinical_Policy_Bulletins.json,Gender_Affirming_Surgery_-_Medical_Clinical_Policy_Bulletins.json,102,41,60,1,125,108,10,7
+HIV Drug Susceptibility and Resistance Tests - Medical Clini,aetna,HIV_Drug_Susceptibility_and_Resistance_Tests_-_Medical_Clini.json,HIV_Drug_Susceptibility_and_Resistance_Tests_-_Medical_Clini.json,26,8,18,0,54,15,2,37
+Hematopoietic Cell Transplantation for Autoimmune Diseases a,aetna,Hematopoietic_Cell_Transplantation_for_Autoimmune_Diseases_a.json,Hematopoietic_Cell_Transplantation_for_Autoimmune_Diseases_a.json,41,5,36,0,48,19,8,21
+Infertility - Medical Clinical Policy Bulletins _ Aetna.html,aetna,Infertility_-_Medical_Clinical_Policy_Bulletins___Aetna.html.json,Infertility_-_Medical_Clinical_Policy_Bulletins___Aetna.html.json,42,26,16,0,48,30,4,14
+Kidney Transplantation - Medical Clinical Policy Bulletins _,aetna,Kidney_Transplantation_-_Medical_Clinical_Policy_Bulletins.json,Kidney_Transplantation_-_Medical_Clinical_Policy_Bulletins.json,93,36,57,0,137,48,15,74
+Liver Transplantation - Medical Clinical Policy Bulletins _ -1,aetna,Liver_Transplantation_-_Medical_Clinical_Policy_Bulletins___-1.json,Liver_Transplantation_-_Medical_Clinical_Policy_Bulletins___-1.json,55,15,40,0,120,36,10,74
+Lung Cancer Screening - Medical Clinical Policy Bulletins _ ,aetna,Lung_Cancer_Screening_-_Medical_Clinical_Policy_Bulletins.json,Lung_Cancer_Screening_-_Medical_Clinical_Policy_Bulletins.json,27,5,22,0,57,45,11,1
+Magnetic Resonance Imaging (MRI) and Computed Tomography (CT,aetna,Magnetic_Resonance_Imaging_(MRI)_and_Computed_Tomography_(CT.json,Magnetic_Resonance_Imaging_(MRI)_and_Computed_Tomography_(CT.json,43,9,34,0,102,18,37,47
+Nutritional Support - Medical Clinical Policy Bulletins _ Ae,aetna,Nutritional_Support_-_Medical_Clinical_Policy_Bulletins___Ae.json,Nutritional_Support_-_Medical_Clinical_Policy_Bulletins___Ae.json,61,49,12,0,36,12,4,20
+Obstructive Sleep Apnea in Adults - Medical Clinical Policy ,aetna,Obstructive_Sleep_Apnea_in_Adults_-_Medical_Clinical_Policy.json,Obstructive_Sleep_Apnea_in_Adults_-_Medical_Clinical_Policy.json,134,55,79,0,237,58,37,142
+Positive Pressure Ventilation - Medical Clinical Policy Bull,aetna,Positive_Pressure_Ventilation_-_Medical_Clinical_Policy_Bull.json,Positive_Pressure_Ventilation_-_Medical_Clinical_Policy_Bull.json,51,27,23,1,69,25,8,36
+Prostate Cancer Screening - Medical Clinical Policy Bulletin,aetna,Prostate_Cancer_Screening_-_Medical_Clinical_Policy_Bulletin.json,Prostate_Cancer_Screening_-_Medical_Clinical_Policy_Bulletin.json,63,31,32,0,96,62,28,6
+Quantitative EEG (Brain Mapping) - Medical Clinical Policy B,aetna,Quantitative_EEG_(Brain_Mapping)_-_Medical_Clinical_Policy_B.json,Quantitative_EEG_(Brain_Mapping)_-_Medical_Clinical_Policy_B.json,64,22,42,0,126,62,52,12
+Rhinometry and Rhinomanometry - Medical Clinical Policy Bull,aetna,Rhinometry_and_Rhinomanometry_-_Medical_Clinical_Policy_Bull.json,Rhinometry_and_Rhinomanometry_-_Medical_Clinical_Policy_Bull.json,70,10,60,0,180,144,6,30
+Smell and Taste Disorders_ Diagnosis - Medical Clinical Poli,aetna,Smell_and_Taste_Disorders__Diagnosis_-_Medical_Clinical_Poli.json,Smell_and_Taste_Disorders__Diagnosis_-_Medical_Clinical_Poli.json,50,15,27,8,76,50,3,23
+Thalamotomy - Medical Clinical Policy Bulletins _ Aetna.html,aetna,Thalamotomy_-_Medical_Clinical_Policy_Bulletins___Aetna.html.json,Thalamotomy_-_Medical_Clinical_Policy_Bulletins___Aetna.html.json,319,77,168,74,60,33,0,27
+Tuberculosis Testing - Medical Clinical Policy Bulletins _ A,aetna,Tuberculosis_Testing_-_Medical_Clinical_Policy_Bulletins___A.json,Tuberculosis_Testing_-_Medical_Clinical_Policy_Bulletins___A.json,349,94,176,79,101,78,2,21
+Urinary Incontinence - Medical Clinical Policy Bulletins _ A,aetna,Urinary_Incontinence_-_Medical_Clinical_Policy_Bulletins___A.json,Urinary_Incontinence_-_Medical_Clinical_Policy_Bulletins___A.json,299,78,132,89,106,58,0,48
+Varicose Veins - Medical Clinical Policy Bulletins _ Aetna.h,aetna,Varicose_Veins_-_Medical_Clinical_Policy_Bulletins___Aetna.h.json,Varicose_Veins_-_Medical_Clinical_Policy_Bulletins___Aetna.h.json,104,67,37,0,111,72,22,17
+Vitiligo - Medical Clinical Policy Bulletins _ Aetna.html,aetna,Vitiligo_-_Medical_Clinical_Policy_Bulletins___Aetna.html.json,Vitiligo_-_Medical_Clinical_Policy_Bulletins___Aetna.html.json,72,5,67,0,201,87,23,91
+Voice Therapy - Medical Clinical Policy Bulletins _ Aetna.ht,aetna,Voice_Therapy_Medical_Clinical_Policy_Bulletins_Aetna.json,Voice_Therapy_-_Medical_Clinical_Policy_Bulletins___Aetna.ht.json,23,13,6,4,18,6,0,12
+NCD - Bariatric Surgery for Treatment of Co-Morbid Conditions Related to Morbid Obesity (100.1),cms_ncd,NCD_Bariatric_Surgery_for_Treatment_of_Co-Morbid_Conditions_Related_to_Morbid_Obesity_(100.1).json,NCD_Bariatric_Surgery_for_Treatment_of_Co-Morbid_Conditions_Related_to_Morbid_Obesity_(100.1).json,33,14,6,13,17,8,2,7
+NCD - Colorectal Cancer Screening Tests (210.3),cms_ncd,NCD_Colorectal_Cancer_Screening_Tests_(210.3).json,NCD_Colorectal_Cancer_Screening_Tests_(210.3).json,23,11,6,6,18,2,0,16
+NCD - Computed Tomography (220.1),cms_ncd,NCD_Computed_Tomography_(220.1).json,NCD_Computed_Tomography_(220.1).json,19,5,2,12,6,2,0,4
+NCD - Continuous Positive Airway Pressure (CPAP) Therapy For Obstructive Sleep Apnea (OSA) (240.4),cms_ncd,NCD_Continuous_Positive_Airway_Pressure_(CPAP)_Therapy_For_Obstructive_Sleep_Apnea_(OSA)_(240.4).json,NCD_Continuous_Positive_Airway_Pressure_(CPAP)_Therapy_For_Obstructive_Sleep_Apnea_(OSA)_(240.4).json,26,12,3,11,9,2,0,7
+NCD - Diathermy Treatment (150.5),cms_ncd,NCD_Diathermy_Treatment_(150.5).json,NCD_Diathermy_Treatment_(150.5).json,2,1,1,0,1,1,0,0
+NCD - Digoxin Therapeutic Drug Assay (190.24),cms_ncd,NCD_Digoxin_Therapeutic_Drug_Assay_(190.24).json,NCD_Digoxin_Therapeutic_Drug_Assay_(190.24).json,10,2,2,6,4,2,0,2
+NCD - Magnetic Resonance Imaging (220.2),cms_ncd,NCD_Magnetic_Resonance_Imaging_(220.2).json,NCD_Magnetic_Resonance_Imaging_(220.2).json,63,24,15,24,37,16,0,21
+NCD - Magnetic Resonance Spectroscopy - RETIRED (220.2.1),cms_ncd,NCD_Magnetic_Resonance_Spectroscopy_RETIRED_(220.2.1).json,NCD_-_Magnetic_Resonance_Spectroscopy_-_RETIRED_(220.2.1).json,2,2,0,0,0,0,0,0
+NCD - Prostate Specific Antigen (190.31),cms_ncd,NCD_Prostate_Specific_Antigen_(190.31).json,NCD_Prostate_Specific_Antigen_(190.31).json,12,2,9,1,18,1,0,17
+NCD - Screening for Hepatitis B Virus (HBV) Infection (210.6),cms_ncd,NCD_Screening_for_Hepatitis_B_Virus_(HBV)_Infection_(210.6).json,NCD_Screening_for_Hepatitis_B_Virus_(HBV)_Infection_(210.6).json,19,8,3,8,9,6,0,3
 ablative-treatment-spinal-pain,uhc,ablative-treatment-spinal-pain.json,ablative-treatment-spinal-pain.json,126,25,84,17,252,91,70,91
 abnormal-uterine-bleeding-uterine-fibroids,uhc,abnormal-uterine-bleeding-uterine-fibroids.json,abnormal-uterine-bleeding-uterine-fibroids.json,77,20,33,24,98,23,7,68
-Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle,aetna,Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle.json,Acupuncture_and_Dry_Needling_-_Medical_Clinical_Policy_Bulle.json,330,97,151,82,170,81,20,69
-Alzheimer's_Disease_Tests_-_Medical_Clinical_Policy_Bulletin,aetna,Alzheimer_Disease_Tests_Medical_Clinical_Policy_Bulletin.json,Alzheimer's_Disease_Tests_-_Medical_Clinical_Policy_Bulletin.json,146,10,99,37,297,171,42,84
 antiemetics-oncology,uhc,antiemetics-oncology.json,antiemetics-oncology.json,47,19,18,10,54,24,0,30
 autologous-cellular-therapy,uhc,autologous-cellular-therapy.json,autologous-cellular-therapy.json,150,33,44,73,132,90,10,32
-Back_Pain_-_Invasive_Procedures_-_Medical_Clinical_Policy_Bu,aetna,Back_Pain_Invasive_Procedures_Medical_Clinical_Policy.json,Back_Pain_-_Invasive_Procedures_-_Medical_Clinical_Policy_Bu.json,206,90,98,18,249,167,41,41
-bariatric-surgery,uhc,bariatric-surgery.json,,248,20,142,86,,,,
-breast-imaging-screening-diagnosing-cancer,uhc,breast-imaging-screening-diagnosing-cancer.json,,200,54,74,72,,,,
+bariatric-surgery,uhc,bariatric-surgery.json,bariatric-surgery.json,231,26,205,0,225,103,6,116
+breast-imaging-screening-diagnosing-cancer,uhc,breast-imaging-screening-diagnosing-cancer.json,breast-imaging-screening-diagnosing-cancer.json,200,54,74,72,222,123,29,70
 breast-reduction-surgery,uhc,breast-reduction-surgery.json,breast-reduction-surgery.json,20,3,6,11,18,13,0,5
 brow-ptosis-eyelid-repair,uhc,brow-ptosis-eyelid-repair.json,brow-ptosis-eyelid-repair.json,60,15,13,32,39,17,1,21
-Cancer_Vaccines_-_Medical_Clinical_Policy_Bulletins___Aetna.,aetna,Cancer_Vaccines_Medical_Clinical_Policy_Bulletins_Aetna.json,Cancer_Vaccines_-_Medical_Clinical_Policy_Bulletins___Aetna..json,198,10,185,3,95,71,17,7
-chemotherapy-observation-inpatient-hospitalization,uhc,chemotherapy-observation-inpatient-hospitalization.json,,100,16,29,55,,,,
+cardiovascular-disease-risk-tests,uhc,cardiovascular-disease-risk-tests.json,cardiovascular-disease-risk-tests.json,134,6,128,0,384,382,2,0
+carrier-testing-for-genetic-diseases,uhc,carrier-testing-for-genetic-diseases.json,carrier-testing-for-genetic-diseases.json,190,23,105,62,150,63,6,81
+chemotherapy-observation-inpatient-hospitalization,uhc,chemotherapy-observation-inpatient-hospitalization.json,chemotherapy-observation-inpatient-hospitalization.json,100,16,29,55,87,27,3,57
 chromosome-microarray-testing,uhc,chromosome-microarray-testing.json,chromosome-microarray-testing.json,154,28,126,0,378,310,12,56
-Chronic_Fatigue_Syndrome_-_Medical_Clinical_Policy_Bulletins,aetna,Chronic_Fatigue_Syndrome_-_Medical_Clinical_Policy_Bulletins.json,Chronic_Fatigue_Syndrome_-_Medical_Clinical_Policy_Bulletins.json,202,48,150,4,105,40,3,62
-Deep_Brain_Stimulation_-_Medical_Clinical_Policy_Bulletins,aetna,Deep_Brain_Stimulation_-_Medical_Clinical_Policy_Bulletins.json,Deep_Brain_Stimulation_-_Medical_Clinical_Policy_Bulletins.json,40,24,14,2,38,35,3,0
 electric-tumor-treatment-field-therapy,uhc,electric-tumor-treatment-field-therapy.json,electric-tumor-treatment-field-therapy.json,76,15,61,0,183,159,7,17
 electrical-ultrasound-bone-growth-stimulators,uhc,electrical-ultrasound-bone-growth-stimulators.json,electrical-ultrasound-bone-growth-stimulators.json,68,31,37,0,111,91,10,10
-Epilepsy_Surgery_-_Medical_Clinical_Policy_Bulletins___Aetna,aetna,Epilepsy_Surgery_-_Medical_Clinical_Policy_Bulletins___Aetna.json,Epilepsy_Surgery_-_Medical_Clinical_Policy_Bulletins___Aetna.json,106,26,79,1,129,110,15,4
-Gender_Affirming_Surgery_-_Medical_Clinical_Policy_Bulletins,aetna,Gender_Affirming_Surgery_-_Medical_Clinical_Policy_Bulletins.json,Gender_Affirming_Surgery_-_Medical_Clinical_Policy_Bulletins.json,102,41,60,1,125,108,10,7
-Hematopoietic_Cell_Transplantation_for_Autoimmune_Diseases_a,aetna,Hematopoietic_Cell_Transplantation_for_Autoimmune_Diseases_a.json,Hematopoietic_Cell_Transplantation_for_Autoimmune_Diseases_a.json,41,5,36,0,48,19,8,21
-HIV_Drug_Susceptibility_and_Resistance_Tests_-_Medical_Clini,aetna,HIV_Drug_Susceptibility_and_Resistance_Tests_-_Medical_Clini.json,HIV_Drug_Susceptibility_and_Resistance_Tests_-_Medical_Clini.json,26,8,18,0,54,15,2,37
-Infertility_-_Medical_Clinical_Policy_Bulletins___Aetna.html,aetna,Infertility_-_Medical_Clinical_Policy_Bulletins___Aetna.html.json,Infertility_-_Medical_Clinical_Policy_Bulletins___Aetna.html.json,42,26,16,0,48,30,4,14
-Kidney_Transplantation_-_Medical_Clinical_Policy_Bulletins,aetna,Kidney_Transplantation_-_Medical_Clinical_Policy_Bulletins.json,Kidney_Transplantation_-_Medical_Clinical_Policy_Bulletins.json,93,36,57,0,137,48,15,74
-Liver_Transplantation_-_Medical_Clinical_Policy_Bulletins___-1,aetna,Liver_Transplantation_-_Medical_Clinical_Policy_Bulletins___-1.json,Liver_Transplantation_-_Medical_Clinical_Policy_Bulletins___-1.json,55,15,40,0,120,36,10,74
-Lung_Cancer_Screening_-_Medical_Clinical_Policy_Bulletins,aetna,Lung_Cancer_Screening_-_Medical_Clinical_Policy_Bulletins.json,Lung_Cancer_Screening_-_Medical_Clinical_Policy_Bulletins.json,27,5,22,0,57,45,11,1
-Magnetic_Resonance_Imaging_(MRI)_and_Computed_Tomography_(CT,aetna,Magnetic_Resonance_Imaging_(MRI)_and_Computed_Tomography_(CT.json,Magnetic_Resonance_Imaging_(MRI)_and_Computed_Tomography_(CT.json,43,9,34,0,102,18,37,47
-NCD_-_Bariatric_Surgery_for_Treatment_of_Co-Morbid_Conditions_Related_to_Morbid_Obesity_(100.1),cms_ncd,NCD_Bariatric_Surgery_for_Treatment_of_Co-Morbid_Conditions_Related_to_Morbid_Obesity_(100.1).json,NCD_Bariatric_Surgery_for_Treatment_of_Co-Morbid_Conditions_Related_to_Morbid_Obesity_(100.1).json,33,14,6,13,17,8,2,7
-NCD_-_Colorectal_Cancer_Screening_Tests_(210.3),cms_ncd,NCD_Colorectal_Cancer_Screening_Tests_(210.3).json,NCD_Colorectal_Cancer_Screening_Tests_(210.3).json,23,11,6,6,18,2,0,16
-NCD_-_Computed_Tomography_(220.1),cms_ncd,NCD_Computed_Tomography_(220.1).json,NCD_Computed_Tomography_(220.1).json,19,5,2,12,6,2,0,4
-NCD_-_Continuous_Positive_Airway_Pressure_(CPAP)_Therapy_For_Obstructive_Sleep_Apnea_(OSA)_(240.4),cms_ncd,NCD_Continuous_Positive_Airway_Pressure_(CPAP)_Therapy_For_Obstructive_Sleep_Apnea_(OSA)_(240.4).json,NCD_Continuous_Positive_Airway_Pressure_(CPAP)_Therapy_For_Obstructive_Sleep_Apnea_(OSA)_(240.4).json,26,12,3,11,9,2,0,7
-NCD_-_Diathermy_Treatment_(150.5),cms_ncd,NCD_Diathermy_Treatment_(150.5).json,NCD_Diathermy_Treatment_(150.5).json,2,1,1,0,1,1,0,0
-NCD_-_Digoxin_Therapeutic_Drug_Assay_(190.24),cms_ncd,NCD_Digoxin_Therapeutic_Drug_Assay_(190.24).json,NCD_Digoxin_Therapeutic_Drug_Assay_(190.24).json,10,2,2,6,4,2,0,2
-NCD_-_Magnetic_Resonance_Imaging_(220.2),cms_ncd,NCD_Magnetic_Resonance_Imaging_(220.2).json,NCD_Magnetic_Resonance_Imaging_(220.2).json,63,24,15,24,37,16,0,21
-NCD_-_Magnetic_Resonance_Spectroscopy_-_RETIRED_(220.2.1),cms_ncd,NCD_Magnetic_Resonance_Spectroscopy_RETIRED_(220.2.1).json,NCD_-_Magnetic_Resonance_Spectroscopy_-_RETIRED_(220.2.1).json,2,2,0,0,0,0,0,0
-NCD_-_Prostate_Specific_Antigen_(190.31),cms_ncd,NCD_Prostate_Specific_Antigen_(190.31).json,NCD_Prostate_Specific_Antigen_(190.31).json,12,2,9,1,18,1,0,17
-NCD_-_Screening_for_Hepatitis_B_Virus_(HBV)_Infection_(210.6),cms_ncd,NCD_Screening_for_Hepatitis_B_Virus_(HBV)_Infection_(210.6).json,NCD_Screening_for_Hepatitis_B_Virus_(HBV)_Infection_(210.6).json,19,8,3,8,9,6,0,3
-Nutritional_Support_-_Medical_Clinical_Policy_Bulletins___Ae,aetna,Nutritional_Support_-_Medical_Clinical_Policy_Bulletins___Ae.json,Nutritional_Support_-_Medical_Clinical_Policy_Bulletins___Ae.json,61,49,12,0,36,12,4,20
-Obstructive_Sleep_Apnea_in_Adults_-_Medical_Clinical_Policy,aetna,Obstructive_Sleep_Apnea_in_Adults_-_Medical_Clinical_Policy.json,Obstructive_Sleep_Apnea_in_Adults_-_Medical_Clinical_Policy.json,134,55,79,0,237,58,37,142
-Positive_Pressure_Ventilation_-_Medical_Clinical_Policy_Bull,aetna,Positive_Pressure_Ventilation_-_Medical_Clinical_Policy_Bull.json,Positive_Pressure_Ventilation_-_Medical_Clinical_Policy_Bull.json,51,27,23,1,69,25,8,36
-Prostate_Cancer_Screening_-_Medical_Clinical_Policy_Bulletin,aetna,Prostate_Cancer_Screening_-_Medical_Clinical_Policy_Bulletin.json,Prostate_Cancer_Screening_-_Medical_Clinical_Policy_Bulletin.json,63,31,32,0,96,62,28,6
-Quantitative_EEG_(Brain_Mapping)_-_Medical_Clinical_Policy_B,aetna,Quantitative_EEG_(Brain_Mapping)_-_Medical_Clinical_Policy_B.json,Quantitative_EEG_(Brain_Mapping)_-_Medical_Clinical_Policy_B.json,64,22,42,0,126,62,52,12
-Rhinometry_and_Rhinomanometry_-_Medical_Clinical_Policy_Bull,aetna,Rhinometry_and_Rhinomanometry_-_Medical_Clinical_Policy_Bull.json,Rhinometry_and_Rhinomanometry_-_Medical_Clinical_Policy_Bull.json,70,10,60,0,180,144,6,30
-Smell_and_Taste_Disorders__Diagnosis_-_Medical_Clinical_Poli,aetna,Smell_and_Taste_Disorders__Diagnosis_-_Medical_Clinical_Poli.json,Smell_and_Taste_Disorders__Diagnosis_-_Medical_Clinical_Poli.json,50,15,27,8,76,50,3,23
 spinal-fusion-decompression,uhc,spinal-fusion-decompression.json,spinal-fusion-decompression.json,72,26,19,27,42,16,0,26
-Thalamotomy_-_Medical_Clinical_Policy_Bulletins___Aetna.html,aetna,Thalamotomy_-_Medical_Clinical_Policy_Bulletins___Aetna.html.json,Thalamotomy_-_Medical_Clinical_Policy_Bulletins___Aetna.html.json,319,77,168,74,60,33,0,27
-Tuberculosis_Testing_-_Medical_Clinical_Policy_Bulletins___A,aetna,Tuberculosis_Testing_-_Medical_Clinical_Policy_Bulletins___A.json,Tuberculosis_Testing_-_Medical_Clinical_Policy_Bulletins___A.json,349,94,176,79,101,78,2,21
-Urinary_Incontinence_-_Medical_Clinical_Policy_Bulletins___A,aetna,Urinary_Incontinence_-_Medical_Clinical_Policy_Bulletins___A.json,Urinary_Incontinence_-_Medical_Clinical_Policy_Bulletins___A.json,299,78,132,89,106,58,0,48
-Varicose_Veins_-_Medical_Clinical_Policy_Bulletins___Aetna.h,aetna,Varicose_Veins_-_Medical_Clinical_Policy_Bulletins___Aetna.h.json,Varicose_Veins_-_Medical_Clinical_Policy_Bulletins___Aetna.h.json,104,67,37,0,111,72,22,17
-Vitiligo_-_Medical_Clinical_Policy_Bulletins___Aetna.html,aetna,Vitiligo_-_Medical_Clinical_Policy_Bulletins___Aetna.html.json,Vitiligo_-_Medical_Clinical_Policy_Bulletins___Aetna.html.json,72,5,67,0,201,87,23,91
-Voice_Therapy_-_Medical_Clinical_Policy_Bulletins___Aetna.ht,aetna,Voice_Therapy_Medical_Clinical_Policy_Bulletins_Aetna.json,Voice_Therapy_-_Medical_Clinical_Policy_Bulletins___Aetna.ht.json,23,13,6,4,18,6,0,12
