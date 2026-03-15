@@ -6,6 +6,8 @@ Alzheimer's_Disease_Tests_-_Medical_Clinical_Policy_Bulletin,aetna,Alzheimer_Dis
 antiemetics-oncology,uhc,antiemetics-oncology.json,antiemetics-oncology.json,47,19,18,10,54,24,0,30
 autologous-cellular-therapy,uhc,autologous-cellular-therapy.json,autologous-cellular-therapy.json,150,33,44,73,132,90,10,32
 Back_Pain_-_Invasive_Procedures_-_Medical_Clinical_Policy_Bu,aetna,Back_Pain_Invasive_Procedures_Medical_Clinical_Policy.json,Back_Pain_-_Invasive_Procedures_-_Medical_Clinical_Policy_Bu.json,206,90,98,18,249,167,41,41
+bariatric-surgery,uhc,bariatric-surgery.json,,248,20,142,86,,,,
+breast-imaging-screening-diagnosing-cancer,uhc,breast-imaging-screening-diagnosing-cancer.json,,200,54,74,72,,,,
 breast-reduction-surgery,uhc,breast-reduction-surgery.json,breast-reduction-surgery.json,20,3,6,11,18,13,0,5
 brow-ptosis-eyelid-repair,uhc,brow-ptosis-eyelid-repair.json,brow-ptosis-eyelid-repair.json,60,15,13,32,39,17,1,21
 Cancer_Vaccines_-_Medical_Clinical_Policy_Bulletins___Aetna.,aetna,Cancer_Vaccines_Medical_Clinical_Policy_Bulletins_Aetna.json,Cancer_Vaccines_-_Medical_Clinical_Policy_Bulletins___Aetna..json,198,10,185,3,95,71,17,7
