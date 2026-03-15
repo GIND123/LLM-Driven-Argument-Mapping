@@ -1,0 +1,1247 @@
+{
+  "document_id": "bariatric-surgery",
+  "source": "Uhc",
+  "dataset": "uhc",
+  "sentences": [
+    {
+      "id": 1,
+      "text": "UnitedHealthcare® Commercial and Individual Exchange Medical Policy Bariatric Surgery Policy Number: 2026T0362QQ Effective Date: January 1, 2026  Instructions for Use Table of Contents Page Related Commercial/Individual Exchange Policies Application .......................................................................... 1 • Minimally Invasive Procedures for the Treatment Coverage Rationale ............................................................ 1 of Upper Gastrointestinal Diseases Medical Records Documentation Used for Reviews ............. 3 • Obstructive and Central Sleep Apnea Treatment Definitions ........................................................................... 3 Applicable Codes ................................................................ 4 • Robotic-Assisted Surgery Policy, Professional Description of Services........................................................ 5 Community Plan Policy Benefit Considerations ........................................................ 8 • Bariatric Surgery Clinical Evidence ................................................................. 8 U.S. Food and Drug Administration ................................... 41 References ....................................................................... 42 Policy History/Revision Information ................................... 52 Instructions for Use ........................................................... 53 Application UnitedHealthcare Commercial This Medical Policy applies to UnitedHealthcare Commercial benefit plans.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 2,
+      "text": "UnitedHealthcare Individual Exchange This Medical Policy applies to Individual Exchange benefit plans in all states except for Alabama, Florida, Georgia, Indiana, Kansas, Louisiana, Mississippi, Nebraska, Ohio, Oklahoma, South Carolina, Tennessee, Texas, Virginia, Washington, and Wisconsin.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 3,
+      "text": "Coverage Rationale  See Benefit Considerations The following bariatric surgical procedures are proven and medically necessary for treating obesity: Biliopancreatic diversion/biliopancreatic diversion with duodenal switch Gastric bypass (includes robotic-assisted gastric bypass) Adjustable gastric banding (using open or laparoscopic approaches) for individuals > 18 years of age; refer to the U.S. Food and Drug Administration (FDA) section for additional information Sleeve gastrectomy (vertical sleeve gastrectomy) In adults age 18 years or older, bariatric surgery using one of the procedures identified above for treating obesity is proven and medically necessary when all of the following criteria are met: One of the following BMI ≥ 40 kg/m2 (or BMI ≥ 37.5 kg/m2 in individuals of Asian descent); or o BMI ≥ 35 kg/m2 – 39.9 kg/m2 (or BMI ≥ 32.5 kg/m2 – 37.4 kg/m2 in individuals of Asian descent) in the presence of o one or more of the following co-morbidities:  Insulin resistance or Type 2 diabetes; or  Cardiovascular disease [e.g., history of stroke and/or myocardial infarction, poorly controlled hypertension (systolic blood pressure greater than 140 mm Hg or diastolic blood pressure 90 mm Hg or greater, despite pharmacotherapy), coronary artery disease, hyperlipidemia]; or Bariatric Surgery Page 1 of 53 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 4,
+      "text": "Copyright 2026 United HealthCare Services, Inc.  History of cardiomyopathy; or  Obstructive Sleep Apnea (OSA) confirmed on polysomnography with an AHI or RDI of > 30; or  Evidence of Nonalcoholic Fatty Liver Disease (NAFLD); or  Idiopathic intracranial hypertension (pseudotumor cerebri) and The individual must also meet the following criteria: Both of the following: o  Completion of a preoperative evaluation that includes a detailed weight history along with dietary and physical activity patterns; and  Psychosocial-behavioral evaluation by an individual who is professionally recognized as part of a behavioral health discipline to provide screening and identification of risk factors or potential postoperative challenges that may contribute to a poor postoperative outcome or Participation in a Multidisciplinary surgical preparatory regimen o In adolescents age 12-17 years, the bariatric surgical procedures identified above are proven and medically necessary for treating obesity when all of the following criteria are met: One of the following: Class III obesity; or o Class II obesity in the presence of one or more of the following co-morbidities: o  Insulin resistance or Type 2 diabetes; or  Poorly controlled hypertension (systolic blood pressure greater than 140 mm Hg or diastolic blood pressure 90 mm Hg or greater, despite pharmacotherapy); or  Hyperlipidemia; or  Obstructive Sleep Apnea confirmed on polysomnography with an AHI or RDI of > 30; or  Evidence of Nonalcoholic Fatty Liver Disease (NAFLD); or  Idiopathic intracranial hypertension (pseudotumor cerebri) and The individual must also receive an evaluation at, or in consultation with, a Multidisciplinary center focused on the surgical treatment of severe childhood obesity; this may include Adolescent centers that have received accreditation by the Metabolic and Bariatric Surgery Accreditation and Quality Improvement Program (MBSAQIP) or can demonstrate similar programmatic components A planned two-stage procedure is proven and medically necessary when all of the following criteria are met: Initial BMI ≥ 50 kg/m2 prior to first stage bariatric procedure; and Second stage occurs within 2 years following the primary bariatric surgery procedure; and Individual has been compliant with nutrition and exercise; and Individual meets medical necessity criteria listed above at time of second stage procedure Revisional Bariatric Surgery using one of the procedures identified above is proven and medically necessary when due to a technical failure or major complication from the initial procedure; potential failure/complications include but are not limited to the following: Bowel perforation (including adjustable gastric band erosion) Adjustable gastric band migration (slippage) that cannot be corrected with manipulation or adjustment (records must demonstrate that manipulation or adjustment to correct band slippage has been attempted) Leak Obstruction (confirmed by imaging studies) Staple-line failure Mechanical adjustable gastric band failure Uncontrollable reflux related to sleeve gastrectomy when all the following criteria are met: Maximum nonpharmacological medical management failure (e.g., positional, dietary modification, and behavioral o changes); and Maximum pharmacological medical management failure (e.g., at least one month of double dose PPI, H2 blocker, o and/or sucralfate); and Severe esophagitis (grade C or D) confirmed by endoscopy despite maximum medical management o Removal of adjustable gastric band and all related components which does not result in a revisional surgery is proven and medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Bariatric Surgery Page 2 of 53 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 6,
+      "text": "Copyright 2026 United HealthCare Services, Inc. The following procedures are unproven and not medically necessary for treating obesity due to insufficient evidence of efficacy: Revisional Bariatric Surgery for any other indication than those listed above Bariatric surgery as the primary treatment for any condition other than obesity Bariatric interventions for the treatment of obesity including but not limited to: Bariatric artery embolization (BAE) o Gastric electrical stimulation with an implantable gastric stimulator (IGS) o Intragastric balloon o Laparoscopic greater curvature plication, also known as total gastric vertical plication o Mini-gastric bypass (MGB)/laparoscopic mini-gastric bypass (LMGBP)/one-anastomosis gastric bypass (OAGB) o Single-anastomosis duodenal switch [also known as duodenal switch with single anastomosis or stomach o intestinal pylorus sparing surgery (SIPS)] Stomach aspiration therapy o Transoral endoscopic surgery [includes TransPyloric Shuttle® (TPS®) device, endoscopic sleeve gastroplasty] o Vagus nerve blocking (VBLOC®) o Gastrointestinal liners o Medical Records Documentation Used for Reviews Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 7,
+      "text": "Medical records documentation may be required to assess whether the member meets the clinical criteria for coverage but does not guarantee coverage of the service requested; refer to the guidelines titled Medical Records Documentation Used for Reviews.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 8,
+      "text": "Definitions Asian: Refers to a person having origins from the Far East, Southeast Asia, or the Indian subcontinent (e.g., Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam) (United States Census Bureau, 2012).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 9,
+      "text": "Body Mass Index (BMI): A person's weight in kilograms divided by the square of height in meters.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 10,
+      "text": "BMI can be used as a screening tool but is not diagnostic of the body fatness or health of an individual [Centers for Disease Control and Prevention (CDC), 2017].",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 11,
+      "text": "The National Heart, Lung, and Blood Institute’s (NHLBI) Practical Guide Identification, Evaluation and Treatment of Overweight and Obesity in Adults classifies the ranges of BMI in adults as follows: 40 kg/m2 – Obesity Class III The American Society of Metabolic and Bariatric Surgeons (ASMBS; Pratt et al.,",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 12,
+      "text": "2018), classifies severe obesity in adolescents as follows: Class II obesity – 120% of the 95th percentile height, or an absolute BMI of 35-39.9 kg/m2, whichever is lower* Class III obesity – 140% of the 95th percentile height, or an absolute BMI of > 40 kg/m2, whichever is lower *Also as defined by the American Heart Association (Kelly et al., 2013).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 13,
+      "text": "Los Angeles (LA) Classification of Oesophagitis: Grade A: One (or more) mucosal break no longer than 5 mm that does not extend between the tops of two mucosal folds Grade B: One (or more) mucosal break more than 5 mm long that does not extend between the tops of two mucosal folds Grade C: One (or more) mucosal break that is continuous between the tops of two or more mucosal folds but which involve less than 75% of the circumference Grade D: One (or more) mucosal break which involves at least 75% of the esophageal circumference (Lundell et al.,",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 14,
+      "text": "1999) Bariatric Surgery Page 3 of 53 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 15,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Multidisciplinary: Bariatric center or regimen combining or involving several academic disciplines or professional specializations in an approach to create a well-trained, safe, and effective environment for the complex bariatric patient.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 16,
+      "text": "Building the Multidisciplinary team includes staff such as the bariatric surgeon, obesity medicine specialist, registered dietician, specialized nursing, behavioral health specialist, exercise specialist and support groups [American Society for Metabolic and Bariatric Surgery (ASMBS) textbook of bariatric surgery].",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 17,
+      "text": "Nonalcoholic Fatty Liver Disease (NAFLD): Condition that is evidenced by hepatic steatosis (HS) diagnosed either by imaging or histology without a secondary cause of hepatic fat accumulation such as significant alcohol consumption, long- term use of steatogenic medication, or monogenic hereditary disorders (Chalasani et al., 2018).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 18,
+      "text": "Obstructive Sleep Apnea (OSA): The American Academy of Sleep Medicine (AASM) defines OSA as a sleep related breathing disorder that involves a decrease or complete halt in airflow despite an ongoing effort to breathe.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 19,
+      "text": "OSA severity is defined as: Mild for AHI or RDI ≥ 5 and 30/hour For additional information, refer to the Medical Policy titled Obstructive and Central Sleep Apnea Treatment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 20,
+      "text": "Revisional Bariatric Surgery: Conversion – A second bariatric procedure that changes the bariatric approach from one procedure to a different type of procedure (e.g., sleeve gastrectomy or adjustable gastric band converted to Roux-en-Y [RYGB]).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 21,
+      "text": "Note: This is not the same as an intraoperative conversion (e.g., converting from laparoscopic approach to an open procedure).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 22,
+      "text": "Corrective – A procedure that corrects or modifies anatomy of a previous bariatric procedure to achieve the original desired outcome or correct a complication.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 23,
+      "text": "These procedures also address device manipulation (e.g., gastric pouch resizing, re-sleeve gastrectomy, limb length adjustments in RYGB and gastric band replacement).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 24,
+      "text": "Reversal – A procedure that restores original anatomy (Mirkin et al.,",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 25,
+      "text": "2021) Applicable Codes The following list(s) of procedure and/or diagnosis codes is provided for reference purposes only and may not be all inclusive.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 26,
+      "text": "Listing of a code in this policy does not imply that the service described by the code is a covered or non-covered health service.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 27,
+      "text": "Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 28,
+      "text": "The inclusion of a code does not imply any right to reimbursement or guarantee claim payment.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 29,
+      "text": "Other Policies and Guidelines may apply.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 30,
+      "text": "Coding Clarification: Utilize CPT code 43775 to report laparoscopic sleeve gastrectomy rather than the unlisted CPT code 43659.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 31,
+      "text": "CPT Code Description 0813T Esophagogastroduodenoscopy, flexible, transoral, with volume adjustment of intragastric bariatric balloon 43290 Esophagogastroduodenoscopy, flexible, transoral; with deployment of intragastric bariatric balloon 43291 Esophagogastroduodenoscopy, flexible, transoral; with removal of intragastric bariatric balloon(s) 43644 Laparoscopy, surgical, gastric restrictive procedure; with gastric bypass and Roux-en-Y gastroenterostomy (roux limb 150 cm or less) 43645 Laparoscopy, surgical, gastric restrictive procedure; with gastric bypass and small intestine reconstruction to limit absorption 43647 Laparoscopy, surgical; implantation or replacement of gastric neurostimulator electrodes, antrum 43648 Laparoscopy, surgical; revision or removal of gastric neurostimulator electrodes, antrum 43659 Unlisted laparoscopy procedure, stomach 43770 Laparoscopy, surgical, gastric restrictive procedure; placement of adjustable gastric restrictive device (e.g., gastric band and subcutaneous port components) 43771 Laparoscopy, surgical, gastric restrictive procedure; revision of adjustable gastric restrictive device component only Bariatric Surgery Page 4 of 53 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 32,
+      "text": "Copyright 2026 United HealthCare Services, Inc. CPT Code Description 43772 Laparoscopy, surgical, gastric restrictive procedure; removal of adjustable gastric restrictive device component only 43773 Laparoscopy, surgical, gastric restrictive procedure; removal and replacement of adjustable gastric restrictive device component only 43774 Laparoscopy, surgical, gastric restrictive procedure; removal of adjustable gastric restrictive device and subcutaneous port components 43775 Laparoscopy, surgical, gastric restrictive procedure; longitudinal gastrectomy (i.e., sleeve gastrectomy) 43843 Gastric restrictive procedure, without gastric bypass, for morbid obesity; other than vertical-banded gastroplasty 43845 Gastric restrictive procedure with partial gastrectomy, pylorus-preserving duodenoileostomy and ileoileostomy (50 to 100 cm common channel) to limit absorption (biliopancreatic diversion with duodenal switch) 43846 Gastric restrictive procedure, with gastric bypass for morbid obesity; with short limb (150 cm or less) Roux-en-Y gastroenterostomy 43847 Gastric restrictive procedure, with gastric bypass for morbid obesity; with small intestine reconstruction to limit absorption 43848 Revision, open, of gastric restrictive procedure for morbid obesity, other than adjustable gastric restrictive device (separate procedure) 43860 Revision of gastrojejunal anastomosis (gastrojejunostomy) with reconstruction, with or without partial gastrectomy or intestine resection; without vagotomy 43865 Revision of gastrojejunal anastomosis (gastrojejunostomy) with reconstruction, with or without partial gastrectomy or intestine resection; with vagotomy 43881 Implantation or replacement of gastric neurostimulator electrodes, antrum, open 43882 Revision or removal of gastric neurostimulator electrodes, antrum, open 43886 Gastric restrictive procedure, open; revision of subcutaneous port component only 43887 Gastric restrictive procedure, open; removal of subcutaneous port component only 43888 Gastric restrictive procedure, open; removal and replacement of subcutaneous port component only 43889 Gastric restrictive procedure, transoral, endoscopic sleeve gastroplasty (ESG), including argon plasma coagulation, when performed 43999 Unlisted procedure, stomach 64590 Insertion or replacement of peripheral, sacral, or gastric neurostimulator pulse generator or receiver, requiring pocket creation and connection between electrode array and pulse generator or receiver 64595 Revision or removal of peripheral, sacral, or gastric neurostimulator pulse generator or receiver, with detachable connection to electrode array 64999 Unlisted procedure, nervous system CPT® is a registered trademark of the American Medical Association Description of Services Obesity Obesity is defined clinically using the Body Mass Index (BMI).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 33,
+      "text": "Obesity is a significant health concern due to its high prevalence and associated health risks.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 34,
+      "text": "Health consequences associated with obesity include hypertension, Type II diabetes, hyperlipidemia, atherosclerosis, heart disease, stroke, diseases of the gallbladder, liver disease, osteoarthritis, Obstructive Sleep Apnea, and other respiratory problems.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 35,
+      "text": "In addition, certain cancers are more prevalent in obese individuals, including endometrial, ovarian, breast, prostate, colon cancer, renal cell carcinoma, and non-Hodgkin's lymphoma.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 36,
+      "text": "The U.S. Preventive Services Task Force (USPSTF) recommends screening all adults for obesity.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 37,
+      "text": "Clinicians should offer or refer patients with a BMI of 30 kg/m2 or higher to intensive, multicomponent behavioral interventions (USPSTF, 2012).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 38,
+      "text": "Bariatric Surgery Page 5 of 53 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 39,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Bariatric Surgery in the Adolescent Population For Adolescents, physical development and maturation may be determined utilizing the gender specific growth chart and BMI chart developed by the CDC, National Center for Health Statistics.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 40,
+      "text": "First-Line Treatments for Obesity First-line treatments for obesity include dietary therapy, physical activity, behavior modification, and medication management; all of which have often been unsuccessful in long-term weight management for obese individuals (Lannoo and Dillemans, 2014).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 41,
+      "text": "Bariatric Surgical Procedures The goal of surgical treatment for obesity is to induce significant weight loss and, thereby, reduce the incidence or progression of obesity-related comorbidities, as well as to improve quality of life.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 42,
+      "text": "The purpose of performing bariatric surgery in Adolescent individuals is to reduce the lifelong impact of severe obesity.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 43,
+      "text": "Surgical treatment of obesity offers two main weight-loss approaches: restrictive and malabsorptive.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 44,
+      "text": "Restrictive methods are intended to cause weight loss by restricting the amount of food that can be consumed by reducing the size of the stomach.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 45,
+      "text": "Malabsorptive methods are intended to cause weight loss by limiting the amount of food that is absorbed from the intestines into the body.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 46,
+      "text": "A procedure can have restrictive features, malabsorptive features, or both.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 47,
+      "text": "The surgical approach can be open or laparoscopic.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 48,
+      "text": "The clinical decision on which surgical procedure to use is made based on a medical assessment of the patient's unique situation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 49,
+      "text": "Roux-en-y Bypass (RYGB)/Gastric Bypass The RYGB procedure involves creating a stomach pouch out of a small portion of the stomach and attaching it directly to the small intestine, bypassing a large part of the stomach and duodenum.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 50,
+      "text": "Laparoscopic Adjustable Gastric Banding (LAGB) The laparoscopic adjustable gastric banding procedure involves placing an inflatable silicone band around the upper portion of the stomach.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 51,
+      "text": "The silicone band contains a saline reservoir that can be filled or emptied under fluoroscopic guidance to change the caliber of the gastric opening.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 52,
+      "text": "Vertical Sleeve Gastrectomy (VSG) VSG can be performed as part of a two-staged approach to surgical weight loss or as a stand-alone procedure.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 53,
+      "text": "A VSG involves the removal of 60-75% of the stomach, leaving a narrow gastric “tube” or “sleeve.”",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 54,
+      "text": "This small remaining “tube” cannot hold as much food and produces less of the appetite-regulating hormone ghrelin, lessening a patient’s desire to eat.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 55,
+      "text": "VSG is not a purely malabsorptive procedure, so there is no requirement for lifetime nutritional supplementation (California Technology Assessment Forum, 2015).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 56,
+      "text": "Biliopancreatic Diversion With Duodenal Switch (BPD/DS) (Also Known as the Scopinaro Procedure) BPD is primarily malabsorptive but has a temporary restrictive component.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 57,
+      "text": "As in RYGB, three \"limbs\" of intestine are created: one through which food passes, one that permits emptying of fluids (e.g., bile) from digestive organs, and a common limb through which both food and digestive fluids pass.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 58,
+      "text": "This procedure involves removal of the greater curvature of the stomach instead of the distal portion.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 59,
+      "text": "The two limbs meet in a common channel measuring only 50 to 100 cm, thereby permitting relatively little absorption.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 60,
+      "text": "Robotic-Assisted Surgery Robotic surgery provides surgeons with three-dimensional vision, increased dexterity and precision by downscaling surgeon's movements enabling a fine tissue dissection and filtering out physiological tremor.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 61,
+      "text": "It overcomes the restraint of torque on ports from thick abdominal wall and minimizes port site trauma by remote center technology (Bindal et al., 2015).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 62,
+      "text": "Transoral Endoscopic Surgery Transoral endoscopic surgery is an option being explored for bariatric surgery.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 63,
+      "text": "Natural orifice transluminal endoscopic surgery (NOTES) is performed via a natural orifice (e.g., mouth, vagina, etc.),",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 64,
+      "text": "and in some cases eliminates the need for abdominal incisions.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 65,
+      "text": "This form of surgery is being investigated as an alternative to conventional surgery.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 66,
+      "text": "Bariatric Surgery Page 6 of 53 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 67,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Transoral restorative obesity surgery (ROSE) is another endoscopic procedure.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 68,
+      "text": "The endoscope with four channels is inserted into the esophagus and then the stomach.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 69,
+      "text": "Specialized instruments are placed through the channels to create multiple folds around the existing stoma to reduce the diameter.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 70,
+      "text": "The Transpyloric Shuttle® (TPS®) device is a non-balloon, space occupying device with a 12-month treatment duration that is proposed as a new endoscopic bariatric therapy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 71,
+      "text": "The TPS device is comprised of a spherical silicone bulb connected to a smaller cylindrical silicone bulb by a flexible tether; it is delivered to and removed from the stomach using transluminal endoscopic procedures in the outpatient setting (Marinos, 2014).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 72,
+      "text": "The device was granted FDA premarket approval on April 16, 2019, and was approved for up to 12 months weight loss therapy in individuals with a BMI of 35.0 kg/m2 to 40.0 kg/m2 or a BMI of 30.0 kg/m2 to 34.9 kg/m2 with 1 or more obesity-related comorbid condition.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 73,
+      "text": "The device is intended to be used in conjunction with a diet and behavior modification program (ECRI, 2019).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 74,
+      "text": "Endoscopic Sleeve Gastroplasty (ESG) is a minimally invasive technique through the mouth that uses an endoscopic suturing device (e.g., OverStitch) to reduce gastric capacity by sealing off most of the stomach, forcing ingested food through an open tube of stomach tissue that connects the esophagus to the small intestine.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 75,
+      "text": "ESG is similar to a laparoscopic sleeve gastrectomy in which the stomach is manipulated to create a tube-shape, however no stomach tissue is removed.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 76,
+      "text": "Laparoscopic Mini Gastric Bypass (LMGBP)/One-Anastomosis Gastric Bypass (OAGB) LMGBP/OAGB involves the construction of a gastric tube by dividing the stomach vertically, down to the antrum.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 77,
+      "text": "As in the RYGB, food does not enter the distal stomach.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 78,
+      "text": "However, unlike gastric bypass surgery, digestive enzymes and bile are not diverted away from the stomach after LMGBP/OAGB.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 79,
+      "text": "This can lead to bile reflux gastritis which can cause pain that is difficult to treat.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 80,
+      "text": "Implantable Gastric Stimulator (IGS) IGS is a small, battery-powered device similar to a cardiac pacemaker, in a small pocket, created beneath the skin of the abdomen using laparoscopy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 106,
+      "text": "Prior to revisional surgery, individuals should undergo a thorough Multidisciplinary assessment and consideration of their individual risks and benefits from revisional surgery (Brethauer et al., 2014).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 107,
+      "text": "It is important to determine if the poor response to primary bariatric surgery is due to anatomic causes that led to inadequate weight loss or weight regain or to the patient’s postoperative behavior, such as not following the prescribed diet and lifestyle changes (e.g., consuming large portions, high-calorie foods, and/or snacks between meals; not exercising).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 108,
+      "text": "Uncontrollable reflux may be a complication experienced by some individuals; first-line therapy for individuals who experience GERD after bariatric surgery includes dietary and lifestyle modification, alcohol, and smoking cessation, followed by acid-reducing medications (King et al., 2021).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 116,
+      "text": "Clinical Evidence In a 2022 systematic review and meta-analysis, Alghamdi compared the results of Roux-en-Y gastric bypass (LRYGB) and laparoscopic sleeve gastrectomy (LSG) on the obesity comorbidities of diabetes, hypertension, dyslipidemias, obstructive sleep apnea (OSA) and GERD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 117,
+      "text": "Sixteen randomized controlled trials in adults with a BMI > 27.5 kg/m2 with a follow up of 1-5 years were included (no trials with revision or conversion procedures were included).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 118,
+      "text": "The results showed that for diabetes remission, 14 trials reported no statistically significant differences.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 119,
+      "text": "There were statistically significant differences for hypertension (8 trials) and dyslipidemia (5 trials) remission in favor of LRYGB with substantial heterogeneity for dyslipidemia seen.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 120,
+      "text": "Obstructive sleep apnea was assessed by 4 trials and showed equal efficacy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 121,
+      "text": "Two trials reported on GERD and showed that LRYGB was better for remission but there were no significant differences with regard to new onset GERD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 122,
+      "text": "Surgical complications were assessed and showed that LSG is associated with fewer early and late complications including dumping syndrome and fewer nutritional deficiencies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 123,
+      "text": "There was inconsistent reporting on the effects of the procedures on gut hormones and liver enzymes that contribute to nonalcoholic fatty liver disease.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 124,
+      "text": "Bariatric Surgery Page 8 of 53 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 125,
+      "text": "Copyright 2026 United HealthCare Services, Inc. The authors concluded that the results of the two procedures are similar with LRYGB showing superiority to LSG for GERD, hypertension, and dyslipidemia remission. Khalaj et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 126,
+      "text": "2020) conducted a cohort study comparing gastric bypass (GB) to sleeve gastrectomy (SG) and the effectiveness and safety of these two procedures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 127,
+      "text": "The authors evaluated 2,202 patients that underwent laparoscopic SG and 1,085 patients who underwent laparoscopic GB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 128,
+      "text": "The SG procedure was performed over a 36-F bougie and reinforced with an omental pouch; the GB procedure was performed as either RYGB or one anastomosis (OAGB).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 129,
+      "text": "Evaluation of weight loss included body mass index change, percent of total weight loss, and percentage of excess weight loss.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 130,
+      "text": "Type 2 diabetes mellitus (T2DM), hypertension (HTN), and dyslipidemia, as obesity-associated comorbidities were assessed in all patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 131,
+      "text": "There were no major complications identified which was recognized by a return to the operating room, prolonged hospital stays beyond 7 days, or the need for re-admission.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 132,
+      "text": "Quality of life (QoL) was assessed using the Iranian version of the Short-Form Health Survey which measured physical, social, and mental aspects of health.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 133,
+      "text": "Patient follow up for both types of procedures occurred at 6, 12, and 24 months after surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 134,
+      "text": "The authors found no significant differences between the two surgical groups; patients that underwent SG had a lower FPG and HbA1C when compared to the GB group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 135,
+      "text": "BMI was not significantly different between the two groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 136,
+      "text": "Excess weight loss (EWL)% was 61.9 ±15.7, 74.8 ±19.1, and 75.0 ±21.9 in the SG group and 62.7 ±15.3, 77.5 ±18.4, and 80.1 ±20.8 in the GB group at 6-, 12-, and 24-month follow-ups, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 137,
+      "text": "All patient comorbidities and QoL improved.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 138,
+      "text": "The authors concluded that bariatric surgery is effective and safe for treatment of obesity; while both procedures are effective for weight loss, remission of obesity-associated comorbidities, and QoL, SG is associated with fewer complications and nutritional deficiencies. Jung et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 139,
+      "text": "2020) conducted a systematic review and meta-analysis of 22 studies with 2,141 patients to comprehensively evaluate the efficacy of different endoscopic bariatric procedures compared to lifestyle modification in the treatment of morbid obesity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 140,
+      "text": "Intragastric balloon, duodenal-jejunal bypass liner (DJBL), aspiration therapy, primary obesity surgery endoluminal (POSE) procedure, and botulinum toxin injection to the stomach were included and the meta-analysis determined the percentage of weight loss (%weight loss) and percentage of excess weight loss (%EWL).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 141,
+      "text": "The results showed that the Obalon Balloon system was shown to have efficacy for both %weight loss and %EWL, its efficacy was not proven due to the small number of studies and comparatively low effect size.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 142,
+      "text": "Aspiration therapy demonstrated effectiveness for weight reduction when compared to lifestyle modification.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 143,
+      "text": "Gas-filled balloon and botulinum toxin injection did not show a significant difference in %weight loss or %EWL compared with the control.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 144,
+      "text": "The authors concluded that all bariatric endoscopic procedures, with the exception of a gas filled balloon and botulinum toxin injection show superior short-term efficacy compared with lifestyle modification.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 145,
+      "text": "These findings are limited by lack of long-term efficacy and safety quality data. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 146,
+      "text": "The following publications previously cited in this policy, are included in this systematic review: Abu Dayyeh 2015b, Chang 2014, Courcoulas 2017, Gersin 2010, Schouten 2010, Sullivan 2013, Thompson 2017). O’Brien et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 147,
+      "text": "2019) performed a systematic review and meta-analysis on 33 reports containing ten or more years of follow-up for patients that underwent bariatric surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 148,
+      "text": "The authors evaluated the long-term effectiveness of Roux-en-Y gastric bypass (RYGB), laparoscopic adjustable gastric banding (LAGB), or BPD/DS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 149,
+      "text": "Results for gastric bypass surgery showed a weighted mean % EWL of 56.7% at 10 or more years with a mean of 55.4% EWL.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 150,
+      "text": "Eleven reports addressing BPD/DS showed a mean of 74.1% EWL and two reports for sleeve gastrectomy showed a mean of 57.0% EWL.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 151,
+      "text": "A longitudinal cohort study for the patients receiving LAGB showed patient weight loss reached a peak at the 2-year follow- up and remained relatively stable through the next 18 years with a mean weight loss of 24.8 kg representing 47.2 %EWL.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 152,
+      "text": "The authors concluded that RYGB, LAGB and BPD/DS lead to substantial weight loss which continued for at least 10 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 153,
+      "text": "Due to patient education and lap band design changes, revisional surgery has decreased significantly over the past eleven years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 154,
+      "text": "The findings are limited by lack of direct comparison between techniques and lack of comparison groups not undergoing surgical treatments. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 155,
+      "text": "The following publications previously cited in this policy, are included in this systematic review: Maciejewski 2016, Salminen 2018, Schauer 2017, Sethi 2016, Sheikh 2017, Topart 2017, Vinzens 2017).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 156,
+      "text": "Zhao and Jiao (2019) conducted a systematic review to determine whether LRYGB and LSG are equivalent for mid- and long-term weight loss, resolution of comorbidities and adverse events (AEs).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 157,
+      "text": "Eleven RCTs were included in the meta- analysis and the authors found no significant difference in excess weight loss between LRYGB and LSG nor any significant difference for T2D improvement.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 158,
+      "text": "This analysis did identify more postoperative early complications for LRYGB, but no difference between the two procedures in later postoperative period.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 159,
+      "text": "Future studies should focus on the comparison of complication and comorbidities.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 160,
+      "text": "Limitations included the variation in sample size among the included studies which may have created a bias, variation of patient age and preoperative BMIs which may have led to heterogeneity, and failure of subgroup analysis for reoperation rate.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 161,
+      "text": "Additional studies are needed to determine the relative long-term efficacy of different bariatric surgeries. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 162,
+      "text": "Publication by Salminen 2018, which was previously cited in this policy, is included in this systematic review). Lager et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 163,
+      "text": "2017) retrospectively studied 30-day postoperative complications as well as changes in weight, blood pressure, cholesterol, hemoglobin, hemoglobin A1C, and creatinine from baseline to 2, 6, 12, and 24 months Bariatric Surgery Page 9 of 53 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 164,
+      "text": "Copyright 2026 United HealthCare Services, Inc. postoperatively in 383 patients undergoing RYGB and 336 patients undergoing SG.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 165,
+      "text": "Follow-up rates were 706/719 at 2 months, 566/719 at 6 months, 519/719 at 12 months, and 382/719 at 24 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 166,
+      "text": "Baseline characteristics were similar in both groups except for higher weight and BMI in the SG group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 167,
+      "text": "The RYGB group experienced greater total body weight loss at 6, 12, and 24 months (41.9 vs. 34.6 kg at 24 months, p 0.99), bleed (0% versus 0.3%, p > 0.99), reoperation (1.2% versus .6%, p > .99), or readmission (3% versus 1.2%, p = .45). There were no mortalities.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 168,
+      "text": "After matching for age, sex, and BMI, the authors found no significant differences between BPD/DS and SG with regard to 30-day postoperative rates of leak, bleed, reoperation, readmission, or mortality. Risstad et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 169,
+      "text": "2017) conducted a randomized clinical trial with 60 patients with body mass index 50-60 kg/m2 to investigate bile acid profiles up to 5 years after RYGB and BPD/DS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 170,
+      "text": "Total bile acid concentrations increased substantially over 5 years after both RYGB and BPD/DS, with greater increases in total and primary bile acids after BPD/DS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 171,
+      "text": "Higher levels of total bile acids at 5 years were associated with lower body mass index, greater weight loss, and lower total cholesterol. Xie et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 172,
+      "text": "2016) prospectively evaluated Apnea-Hypopnea Index (AHI) and Functional Outcomes of Sleep Questionnaires Scores (FOSQ) pre- and post-operatively in patients undergoing bariatric surgery. A total of 167 subjects were studied.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 173,
+      "text": "The median age was 46 (14-75) years and BMI 49 (36-69) kg/m2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 174,
+      "text": "Ninety-two (55.0%) patients were diagnosed with OSA preoperatively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 175,
+      "text": "Fifty (54.0%) required positive airway pressure (PAP) therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 176,
+      "text": "The mean reduction in BMI post bariatric surgery was 12.2 ±4.52 kg/m2 at 6.56±2.70 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 177,
+      "text": "Eighty (87.9%) reported improved sleep quality reflected in improved scores in all domains of the FOSQ (p 60 months) to evaluate the safety and long-term benefits of RYGB surgery on obese patients with T2D. Cooper et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 178,
+      "text": "2015) assessed weight loss and occurrence of weight regain among patients (n = 300) at 1 year follow-up who underwent RYGB at a single institution.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 179,
+      "text": "The mean weight regain for all patients was 23.4 % of maximum weight loss.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 180,
+      "text": "Using categorical analysis, mean weight regain in the 35 % weight loss cohorts was 29.1, 21.9, 20.9, and 23.8 %, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 181,
+      "text": "Excessive weight regain, defined as ≥ 25 % of total lost weight, occurred in 37 % of patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 182,
+      "text": "Despite the percentage of weight loss over the first year, all cohort patient groups regained on average between 21 and 29 % of lost weight.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 183,
+      "text": "Excessive weight gain was experienced by over one third of patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 184,
+      "text": "Greater initial absolute weight loss leads to more successful long-term weight outcomes.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 185,
+      "text": "Robotic-Assisted Gastric Bypass Surgery Leang et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 186,
+      "text": "2024) conducted a systematic review and meta-analysis to evaluate the peri-operative outcomes of patients with obesity undergoing robotic gastric bypass versus laparoscopic gastric bypass surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 187,
+      "text": "Twenty-eight studies (1 RCT, 1 prospective study, and 26 retrospective studies) comprised of 82,155 individuals were included.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 188,
+      "text": "Robotic bypass surgery (RBS) was performed on 9051participants versus 73,104 laparoscopic bypass surgery (LBS).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 189,
+      "text": "Outcomes assessed included overall and intraoperative complication rates, anastomotic leak and stricture, surgical site infection, reoperation rates within 30 days.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 190,
+      "text": "Mortality, and hospital length of stay (LOS).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 191,
+      "text": "Secondary outcomes included operative time, estimated blood loss, conversion, and readmission rates.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 192,
+      "text": "The results showed that of the 26 articles reporting overall complications, there were no differences.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 193,
+      "text": "In the 10 that reported intraoperative complications, there were also no differences between the procedures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 194,
+      "text": "There were no significant differences seen in anastomotic leak or stricture, surgical site infection or hospital length of stay.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 195,
+      "text": "Mortality was not statistically different in the 26 articles reporting on this outcome.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 196,
+      "text": "The reoperation rate within 30 days was reported by 16 articles and showed RBS with a higher rate of 4.4% compared to 3.4% for LBS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 197,
+      "text": "Secondary outcomes also showed no significant differences, but there was heterogeneity among reporting this outcome.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 198,
+      "text": "The authors concluded that there are no significant differences in outcomes between the two procedures, with RBS findings at risk of bias.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 199,
+      "text": "Prospective trials to validate the advantages and limitations of robotic bariatric surgery are needed. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 200,
+      "text": "Publication by Ayloo 2016, which was previously cited in this policy, is included in this systematic review). Beckmann et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 201,
+      "text": "2020) conducted a retrospective analysis on 108 laparoscopic RYGB surgeries and 114 robotic RYGB surgeries which were performed between 2016 and 2019.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 202,
+      "text": "Analysis found operation time for the robotic RYGB was significantly shorter, had less complications and fewer revisions were required when robotic surgery was used.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 203,
+      "text": "The authors concluded robotic RYGB surgery is safe and effective.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 204,
+      "text": "Findings are limited by lack of randomization. Ahmad et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 205,
+      "text": "2016) conducted a retrospective review to compare the operative and early peri-operative outcomes between laparoscopic and robotic-assisted RYGB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 206,
+      "text": "There were no statistically significant differences in complication rates, estimated blood loss, or length of stay between the two groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 207,
+      "text": "There was a significant difference between the total operative times (135.30 ±37.60 min for the laparoscopic procedure versus 154.84 ±38.44 min for the robotic procedure, p 35kg/m2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 208,
+      "text": "Patients underwent dual-energy X-ray absorptiometry and serum bone marker analyses preoperatively and annually for 2years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 209,
+      "text": "Differences in body fat and lean mass proportions were observed according to s ex following RYGB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 210,
+      "text": "Mean BMI reduction at 2years was 15.1kg/m2.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 211,
+      "text": "Body composition changes included a reduction in fat mass (51.8% to 39 .6%, p 5 years after surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 212,
+      "text": "RYGB produced better improvements than other surgical procedures.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 213,
+      "text": "The authors concluded that bariatric surgery in adolescents may achieve significant weight loss, and glycemic and lipid control. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 214,
+      "text": "Publications by Manco 2017, Serrano 2016, Inge 2016, Olbers 2017, Shah 2017, Hervieux 2017, and O’Brien 2010, which were previously cited in this policy, are included in this systematic review).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 215,
+      "text": "The Teen-Longitudinal Assessment of Bariatric Surgery (LABS) Study was a prospective, multicenter, observational study, which enrolled 242 adolescents (≤ 19 years of age) who were undergoing bariatric surgery from March 2007 through February 2012 at 5 U.S. adolescent bariatric surgery centers.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 216,
+      "text": "The patients underwent RYGB (n = 161), SG (n = 67), or LAGB (n = 14). Ryder et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 217,
+      "text": "2016) evaluated 2-year outcomes to determine the impact of bariatric surgery on functional mobility and musculoskeletal pain.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 218,
+      "text": "Participants completed a 400-m walk test prior to bariatric surgery (n = 206) and at 6 months (n = 195), 12 months (n = 176), and 24 months (n = 149) after surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 219,
+      "text": "Time to completion, resting heart rate (HR), immediate posttest HR, and HR difference (resting HR minus posttest HR) were measured and musculoskeletal pain concerns, during and after the test, were documented.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 220,
+      "text": "Data were adjusted for age, sex, race/ethnicity, baseline BMI, and surgical center (posttest HR and HR difference were further adjusted for changes in time to completion).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 221,
+      "text": "Compared with the baseline, the post-surgery data showed an improvement in all measurements at all times measured.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 222,
+      "text": "The authors conclude that bariatric surgery in adolescents with extreme obesity is associated with significant improvement in functional mobility and in the reduction of walking-related musculoskeletal pain up to 2 years after surgery.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 223,
+      "text": "Findings are however limited by lack of comparison group.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 224,
+      "text": "Bariatric Artery Embolization (BAE) There is insufficient evidence for bariatric artery embolization and its outcomes for weight loss; additional robust RCTs are warranted for safety and efficacy along with long-term follow up. Reddy et al. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 225,
+      "text": "2020) conducted a single-center, sham controlled, masked RCT to evaluate the efficacy of transcatheter bariatric embolization (TBE) for weight reduction in obesity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 226,
+      "text": "Participants were randomized to either sham procedure (n = 20) or TBE targeting the left gastric artery using embolic beads (n = 20).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 227,
+      "text": "The primary efficacy endpoint was the difference in TBWL between the two groups at 6 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 228,
+      "text": "All patients entered a lifestyle counseling program and follow-up was completed by physicians that were masked to allocated therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 229,
+      "text": "At 6 months, the TBWL for TBE in the intention to treat (ITT) population was 7.4 kg compared to 3.0 kg for sham procedure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 230,
+      "text": "The change in BMI at 6 months for ITT was -2.6 in TBE versus -1.1 in sham.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 231,
+      "text": "The TBE ITT population did maintain the weight loss at 12 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 232,
+      "text": "Patients within the sham group were unblinded at 6 months and permitted to crossover to TBE and then only initial group was followed for 12 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 233,
+      "text": "Limitations included small sample size, single center, no control group after 6 months, and possibility that the efficacy of TBE was related to subject participation in weight management counseling as it is unknown if TBE alone would have an impact on obesity without lifestyle counseling.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 234,
+      "text": "Additionally, four subjects withdrew consent after randomization and another three prior to the 6-month visit.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 235,
+      "text": "Furthermore, the clinical significance of the effect, its long-term sustainability, and safety are unclear. Hafezi-Nejad et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 236,
+      "text": "2019) conducted a systematic review and meta-analysis of case series investigating the safety and efficacy of left gastric artery (LGA) embolization as a bariatric procedure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 237,
+      "text": "Meta-regression was performed to assess associations of age, sex, body mass index, and ghrelin and leptin levels with weight change after LGA embolization were selected.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 238,
+      "text": "Six case series published between January 2014 and April 2019, comprising 47 patients investigating the safety and/or efficacy of LGA embolization for weight loss were included in the meta-analysis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 239,
+      "text": "The results showed a mean weight loss of 8.68 kg (19.14 lbs.)",
+      "label": "PREMISE"
+    },
+    {
+      "id": 240,
+      "text": "after 12 months of follow-up, approximately 8% of baseline total body weight which is superior to weight loss from diet and exercise, and comparable to other more invasive interventions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 241,
+      "text": "Transient superficial mucosal ulcers were common after LGA embolization, and one case of major complications (severe pancreatitis, splenic infarct, and gastric perforation) was identified.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 242,
+      "text": "There were considerable variations in patient age, sex distribution, and baseline characteristics among the studies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 243,
+      "text": "Significant variation was observed in the duration of follow-up, which ranged from 3 months to 20–24 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 244,
+      "text": "Limitations of this study include variations in the indications for LGA embolization, study designs, embolization techniques, follow-up plans, dietary assessments, patient comorbidities, and availability of control subjects, the authors concluded that LGA embolization is an investigative method and not yet proven to be effective management for obesity.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 245,
+      "text": "Larger studies are needed to expand these findings and determine other correlates of weight Bariatric Surgery Page 19 of 53 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 246,
+      "text": "Copyright 2026 United HealthCare Services, Inc. loss after LGA embolization. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 247,
+      "text": "Publications by Bai 2018, Syed 2016, and Weiss 2017, which were previously cited in this policy, are included in this systematic review). Weiss et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 248,
+      "text": "2019) evaluated the safety and efficacy of bariatric artery embolization up to twelve months following surgery in 20 severely obese patients (five of which are identified below in the Weiss et al. ( 2017) case series).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 249,
+      "text": "The primary endpoint was weight loss with additional end points assessed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 250,
+      "text": "Bariatric embolization was performed successfully in all participants.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 251,
+      "text": "Participants experienced mean excess weight loss of 8.2% at one month, 11.5% at 3 months, 12.8% at six months and 11.5% at twelve months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 252,
+      "text": "The mean total weight loss was 7.6kg at twelve months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 253,
+      "text": "As a result of loss to follow- up, 18 participants remained at three months, 16 at six months, and 15 at twelve months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 254,
+      "text": "No major adverse events (AE) were identified and only eleven minor AE occurred in eight participants.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 255,
+      "text": "The authors found bariatric embolization is well tolerated and promotes clinically relevant weight loss in adults with severe obesity.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 256,
+      "text": "Limitations included lack of comparison group, small sample size, insufficient data due to lack of continuous follow up for several participants, required weight management compliance before the embolization procedure on the first five participants only and a large portion of participants were African American thus overrepresenting that population.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 257,
+      "text": "Gastric Electrical Stimulator (GES) While gastric electrical stimulation may provide benefit for obesity, additional well designed RCTs with long-term follow-up are warranted to demonstrate safety and efficacy.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 258,
+      "text": "In this 2020 first-in-human (early feasibility) multicenter, phase 1, open prospective cohort study, (Paulus et al.,",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 259,
+      "text": "2020) the authors assessed the safety of the Exilis™ gastric electrical stimulation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 260,
+      "text": "They also sought to investigate whether the settings can be adjusted for comfortable chronic use in Class II or III obese patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 261,
+      "text": "Meal intake and gastric emptying and motility were also evaluated.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 262,
+      "text": "In this study, 20 obese patients were implanted with the Exilis system and amplitude was individually set during 4 amplitude titration visits.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 263,
+      "text": "Subjects underwent two blinded baseline test days (GES ON vs. OFF), after which long-term, monthly follow-up continued for up to 52 weeks.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 264,
+      "text": "The results suggested that this device is safe and caused no patient discomfort.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 265,
+      "text": "At baseline food intake and satiety were not significantly different when the device was on or off, and significant weight loss occurred at week 26, with EWL of 14% at 52 weeks.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 266,
+      "text": "The authors conclude that the data were comparable with studies of subjects on diet and/or exercise alone, but disappointing when compared to minimally invasive procedures, such as gastric banding or endoscopic gastroplication.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 267,
+      "text": "Furthermore, the authors did not observe changes in plasma glucose and insulin levels which other bariatric procedures are known to improve.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 268,
+      "text": "The authors concluded that considerably more basic research is required before clinical use.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 269,
+      "text": "Limitations included small sample size, lack of control group, and lack of long-term outcomes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 270,
+      "text": "In a in a 12-month prospective multicenter study, Morales-Conde et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 271,
+      "text": "2018) monitored all participants (n = 47) up to 24 months after laparoscopic implantation of a closed-loop GES system (CLGES).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 272,
+      "text": "Weight loss, safety, quality of life (QOL), and cardiac risk factors were analyzed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 273,
+      "text": "Weight regain was limited in the 35 (74%) participants remaining enrolled at 24 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 274,
+      "text": "Mean %TBWL changed by only 1.5% between 12 and 24 months, reported at 14.8% (95% CI 12.3 to 17.3) and 13.3% (95% CI 10.7 to 15.8), respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 275,
+      "text": "The only serious device-/procedure-related AEs were two elective system replacements due to lead failure in the first 12 months, while improvements in QOL and cardiovascular risk factors were stable thru 24 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 276,
+      "text": "The authors conclude that during the 24-month follow-up, CLGES was shown to limit weight regain with strong safety outcomes, including no serious AEs in the second year.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 277,
+      "text": "They hypothesize that CLGES and objective sensor-based behavior data combined to produce behavior change, and in their opinion supports GES as a safe obesity treatment with potential for long-term health benefits.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 278,
+      "text": "Larger well-designed randomized controlled trials are needed to further evaluate the safety and efficacy of GES therapy in the treatment of obesity.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 279,
+      "text": "In a post-implant analysis, Alarcón Del Agua I, et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 280,
+      "text": "2017) evaluated possible preoperative predictors for obtaining clinically meaningful weight loss with GES.",
+      "label": "PREMISE"
+    }
+  ]
+}
