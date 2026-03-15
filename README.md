@@ -35,12 +35,12 @@ The dataset covers health insurance coverage policy documents from three sources
 
 | Statistic | Components | Relations |
 |---|---|---|
-| Documents | 40 | 36 |
-| Total instances | 3,671 | 3,007 |
-| CLAIM / SUPPORT | 1,092 | 1,526 |
-| PREMISE / NONE | 2,017 | 1,046 |
-| NON\_ARG / ATTACK | 562 | 435 |
-| Train / Test | 2,936 / 735 | 2,405 / 602 |
+| Documents | 53 | 52 |
+| Total instances | 5,230 | 5,685 |
+| CLAIM / SUPPORT | 1,414 | 3,313 |
+| PREMISE / NONE | 2,949 | 1,784 |
+| NON\_ARG / ATTACK | 867 | 588 |
+| Train / Test | 4,184 / 1,046 | 4,548 / 1,137 |
 
 Inter-annotator agreement: Cohen's κ = 0.82, Krippendorff's α = 0.79.
 
@@ -143,5 +143,3 @@ See [`Labelling_Tool/README.md`](Labelling_Tool/README.md) for setup and usage i
 ## License
 
 Data and code are released for research use only. Source policy documents are publicly available from Aetna, CMS, and United Healthcare.
-
-
