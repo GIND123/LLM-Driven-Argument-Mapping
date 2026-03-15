@@ -1,0 +1,906 @@
+{
+  "document_id": "carrier-testing-for-genetic-diseases",
+  "source": "Uhc",
+  "relations": [
+    {
+      "source": 3,
+      "target": 65,
+      "type": "NONE",
+      "similarity": 0.5179
+    },
+    {
+      "source": 3,
+      "target": 88,
+      "type": "NONE",
+      "similarity": 0.5123
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": 0.4979
+    },
+    {
+      "source": 19,
+      "target": 64,
+      "type": "NONE",
+      "similarity": 0.3843
+    },
+    {
+      "source": 19,
+      "target": 4,
+      "type": "SUPPORT",
+      "similarity": 0.3769
+    },
+    {
+      "source": 19,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": 0.3672
+    },
+    {
+      "source": 20,
+      "target": 214,
+      "type": "NONE",
+      "similarity": 0.6404
+    },
+    {
+      "source": 20,
+      "target": 4,
+      "type": "SUPPORT",
+      "similarity": 0.6148
+    },
+    {
+      "source": 20,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": 0.6023
+    },
+    {
+      "source": 22,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": 0.5887
+    },
+    {
+      "source": 22,
+      "target": 65,
+      "type": "NONE",
+      "similarity": 0.3858
+    },
+    {
+      "source": 22,
+      "target": 4,
+      "type": "SUPPORT",
+      "similarity": 0.3659
+    },
+    {
+      "source": 23,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": 0.6297
+    },
+    {
+      "source": 23,
+      "target": 87,
+      "type": "NONE",
+      "similarity": 0.4812
+    },
+    {
+      "source": 23,
+      "target": 88,
+      "type": "NONE",
+      "similarity": 0.4627
+    },
+    {
+      "source": 24,
+      "target": 87,
+      "type": "SUPPORT",
+      "similarity": 0.4343
+    },
+    {
+      "source": 24,
+      "target": 64,
+      "type": "NONE",
+      "similarity": 0.2874
+    },
+    {
+      "source": 24,
+      "target": 67,
+      "type": "SUPPORT",
+      "similarity": 0.2586
+    },
+    {
+      "source": 26,
+      "target": 222,
+      "type": "NONE",
+      "similarity": 0.431
+    },
+    {
+      "source": 26,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": 0.3793
+    },
+    {
+      "source": 26,
+      "target": 87,
+      "type": "NONE",
+      "similarity": 0.3427
+    },
+    {
+      "source": 28,
+      "target": 239,
+      "type": "SUPPORT",
+      "similarity": 0.4556
+    },
+    {
+      "source": 28,
+      "target": 222,
+      "type": "NONE",
+      "similarity": 0.4249
+    },
+    {
+      "source": 28,
+      "target": 226,
+      "type": "SUPPORT",
+      "similarity": 0.3696
+    },
+    {
+      "source": 29,
+      "target": 222,
+      "type": "SUPPORT",
+      "similarity": 0.64
+    },
+    {
+      "source": 29,
+      "target": 223,
+      "type": "SUPPORT",
+      "similarity": 0.563
+    },
+    {
+      "source": 29,
+      "target": 226,
+      "type": "SUPPORT",
+      "similarity": 0.5448
+    },
+    {
+      "source": 31,
+      "target": 4,
+      "type": "NONE",
+      "similarity": 0.7092
+    },
+    {
+      "source": 31,
+      "target": 5,
+      "type": "NONE",
+      "similarity": 0.6328
+    },
+    {
+      "source": 31,
+      "target": 88,
+      "type": "NONE",
+      "similarity": 0.6202
+    },
+    {
+      "source": 32,
+      "target": 88,
+      "type": "NONE",
+      "similarity": 0.4948
+    },
+    {
+      "source": 32,
+      "target": 4,
+      "type": "NONE",
+      "similarity": 0.4897
+    },
+    {
+      "source": 32,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": 0.485
+    },
+    {
+      "source": 33,
+      "target": 88,
+      "type": "NONE",
+      "similarity": 0.4658
+    },
+    {
+      "source": 33,
+      "target": 87,
+      "type": "NONE",
+      "similarity": 0.3874
+    },
+    {
+      "source": 33,
+      "target": 5,
+      "type": "NONE",
+      "similarity": 0.3873
+    },
+    {
+      "source": 34,
+      "target": 88,
+      "type": "NONE",
+      "similarity": 0.4807
+    },
+    {
+      "source": 34,
+      "target": 227,
+      "type": "NONE",
+      "similarity": 0.4284
+    },
+    {
+      "source": 34,
+      "target": 4,
+      "type": "NONE",
+      "similarity": 0.4192
+    },
+    {
+      "source": 36,
+      "target": 88,
+      "type": "NONE",
+      "similarity": 0.5088
+    },
+    {
+      "source": 36,
+      "target": 5,
+      "type": "NONE",
+      "similarity": 0.4441
+    },
+    {
+      "source": 36,
+      "target": 4,
+      "type": "NONE",
+      "similarity": 0.3979
+    },
+    {
+      "source": 37,
+      "target": 4,
+      "type": "NONE",
+      "similarity": 0.5323
+    },
+    {
+      "source": 37,
+      "target": 214,
+      "type": "NONE",
+      "similarity": 0.505
+    },
+    {
+      "source": 37,
+      "target": 67,
+      "type": "NONE",
+      "similarity": 0.4999
+    },
+    {
+      "source": 38,
+      "target": 4,
+      "type": "NONE",
+      "similarity": 0.6058
+    },
+    {
+      "source": 38,
+      "target": 88,
+      "type": "NONE",
+      "similarity": 0.5958
+    },
+    {
+      "source": 38,
+      "target": 5,
+      "type": "NONE",
+      "similarity": 0.5952
+    },
+    {
+      "source": 41,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": 0.607
+    },
+    {
+      "source": 41,
+      "target": 88,
+      "type": "NONE",
+      "similarity": 0.567
+    },
+    {
+      "source": 41,
+      "target": 214,
+      "type": "NONE",
+      "similarity": 0.5116
+    },
+    {
+      "source": 42,
+      "target": 5,
+      "type": "NONE",
+      "similarity": 0.4693
+    },
+    {
+      "source": 42,
+      "target": 88,
+      "type": "NONE",
+      "similarity": 0.4672
+    },
+    {
+      "source": 42,
+      "target": 4,
+      "type": "NONE",
+      "similarity": 0.4583
+    },
+    {
+      "source": 43,
+      "target": 88,
+      "type": "NONE",
+      "similarity": 0.5239
+    },
+    {
+      "source": 43,
+      "target": 87,
+      "type": "NONE",
+      "similarity": 0.4738
+    },
+    {
+      "source": 43,
+      "target": 214,
+      "type": "NONE",
+      "similarity": 0.4636
+    },
+    {
+      "source": 44,
+      "target": 86,
+      "type": "NONE",
+      "similarity": 0.616
+    },
+    {
+      "source": 44,
+      "target": 88,
+      "type": "NONE",
+      "similarity": 0.5215
+    },
+    {
+      "source": 44,
+      "target": 214,
+      "type": "SUPPORT",
+      "similarity": 0.4961
+    },
+    {
+      "source": 45,
+      "target": 86,
+      "type": "ATTACK",
+      "similarity": 0.7651
+    },
+    {
+      "source": 45,
+      "target": 214,
+      "type": "SUPPORT",
+      "similarity": 0.4885
+    },
+    {
+      "source": 45,
+      "target": 88,
+      "type": "SUPPORT",
+      "similarity": 0.4377
+    },
+    {
+      "source": 46,
+      "target": 4,
+      "type": "NONE",
+      "similarity": 0.6828
+    },
+    {
+      "source": 46,
+      "target": 5,
+      "type": "ATTACK",
+      "similarity": 0.5974
+    },
+    {
+      "source": 46,
+      "target": 214,
+      "type": "SUPPORT",
+      "similarity": 0.5616
+    },
+    {
+      "source": 51,
+      "target": 87,
+      "type": "SUPPORT",
+      "similarity": 0.4181
+    },
+    {
+      "source": 51,
+      "target": 64,
+      "type": "SUPPORT",
+      "similarity": 0.4123
+    },
+    {
+      "source": 51,
+      "target": 65,
+      "type": "SUPPORT",
+      "similarity": 0.3408
+    },
+    {
+      "source": 52,
+      "target": 87,
+      "type": "SUPPORT",
+      "similarity": 0.6033
+    },
+    {
+      "source": 52,
+      "target": 227,
+      "type": "SUPPORT",
+      "similarity": 0.5474
+    },
+    {
+      "source": 52,
+      "target": 88,
+      "type": "NONE",
+      "similarity": 0.5129
+    },
+    {
+      "source": 53,
+      "target": 223,
+      "type": "NONE",
+      "similarity": 0.425
+    },
+    {
+      "source": 53,
+      "target": 5,
+      "type": "NONE",
+      "similarity": 0.3978
+    },
+    {
+      "source": 53,
+      "target": 4,
+      "type": "NONE",
+      "similarity": 0.3768
+    },
+    {
+      "source": 54,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": 0.5471
+    },
+    {
+      "source": 54,
+      "target": 214,
+      "type": "NONE",
+      "similarity": 0.5324
+    },
+    {
+      "source": 54,
+      "target": 64,
+      "type": "SUPPORT",
+      "similarity": 0.5234
+    },
+    {
+      "source": 58,
+      "target": 4,
+      "type": "NONE",
+      "similarity": 0.5875
+    },
+    {
+      "source": 58,
+      "target": 121,
+      "type": "NONE",
+      "similarity": 0.5866
+    },
+    {
+      "source": 58,
+      "target": 5,
+      "type": "NONE",
+      "similarity": 0.5299
+    },
+    {
+      "source": 59,
+      "target": 87,
+      "type": "NONE",
+      "similarity": 0.5437
+    },
+    {
+      "source": 59,
+      "target": 64,
+      "type": "NONE",
+      "similarity": 0.4516
+    },
+    {
+      "source": 59,
+      "target": 223,
+      "type": "NONE",
+      "similarity": 0.4348
+    },
+    {
+      "source": 66,
+      "target": 65,
+      "type": "NONE",
+      "similarity": 0.5452
+    },
+    {
+      "source": 66,
+      "target": 5,
+      "type": "NONE",
+      "similarity": 0.4986
+    },
+    {
+      "source": 66,
+      "target": 214,
+      "type": "NONE",
+      "similarity": 0.4785
+    },
+    {
+      "source": 68,
+      "target": 121,
+      "type": "SUPPORT",
+      "similarity": 0.6342
+    },
+    {
+      "source": 68,
+      "target": 65,
+      "type": "NONE",
+      "similarity": 0.6071
+    },
+    {
+      "source": 68,
+      "target": 64,
+      "type": "NONE",
+      "similarity": 0.6068
+    },
+    {
+      "source": 69,
+      "target": 64,
+      "type": "NONE",
+      "similarity": 0.536
+    },
+    {
+      "source": 69,
+      "target": 121,
+      "type": "SUPPORT",
+      "similarity": 0.4563
+    },
+    {
+      "source": 69,
+      "target": 67,
+      "type": "NONE",
+      "similarity": 0.3944
+    },
+    {
+      "source": 81,
+      "target": 4,
+      "type": "ATTACK",
+      "similarity": 0.6835
+    },
+    {
+      "source": 81,
+      "target": 5,
+      "type": "ATTACK",
+      "similarity": 0.5882
+    },
+    {
+      "source": 81,
+      "target": 88,
+      "type": "NONE",
+      "similarity": 0.5872
+    },
+    {
+      "source": 85,
+      "target": 226,
+      "type": "NONE",
+      "similarity": 0.5286
+    },
+    {
+      "source": 85,
+      "target": 222,
+      "type": "SUPPORT",
+      "similarity": 0.501
+    },
+    {
+      "source": 85,
+      "target": 223,
+      "type": "SUPPORT",
+      "similarity": 0.4761
+    },
+    {
+      "source": 89,
+      "target": 86,
+      "type": "SUPPORT",
+      "similarity": 0.6108
+    },
+    {
+      "source": 89,
+      "target": 214,
+      "type": "NONE",
+      "similarity": 0.5708
+    },
+    {
+      "source": 89,
+      "target": 88,
+      "type": "SUPPORT",
+      "similarity": 0.5549
+    },
+    {
+      "source": 90,
+      "target": 214,
+      "type": "SUPPORT",
+      "similarity": 0.7089
+    },
+    {
+      "source": 90,
+      "target": 222,
+      "type": "NONE",
+      "similarity": 0.6141
+    },
+    {
+      "source": 90,
+      "target": 88,
+      "type": "SUPPORT",
+      "similarity": 0.6097
+    },
+    {
+      "source": 92,
+      "target": 95,
+      "type": "SUPPORT",
+      "similarity": 0.5655
+    },
+    {
+      "source": 92,
+      "target": 214,
+      "type": "SUPPORT",
+      "similarity": 0.5274
+    },
+    {
+      "source": 92,
+      "target": 88,
+      "type": "SUPPORT",
+      "similarity": 0.5114
+    },
+    {
+      "source": 94,
+      "target": 214,
+      "type": "NONE",
+      "similarity": 0.4094
+    },
+    {
+      "source": 94,
+      "target": 86,
+      "type": "NONE",
+      "similarity": 0.3678
+    },
+    {
+      "source": 94,
+      "target": 88,
+      "type": "ATTACK",
+      "similarity": 0.3075
+    },
+    {
+      "source": 101,
+      "target": 64,
+      "type": "SUPPORT",
+      "similarity": 0.3852
+    },
+    {
+      "source": 101,
+      "target": 226,
+      "type": "NONE",
+      "similarity": 0.371
+    },
+    {
+      "source": 101,
+      "target": 222,
+      "type": "NONE",
+      "similarity": 0.364
+    },
+    {
+      "source": 102,
+      "target": 65,
+      "type": "SUPPORT",
+      "similarity": 0.521
+    },
+    {
+      "source": 102,
+      "target": 4,
+      "type": "NONE",
+      "similarity": 0.4779
+    },
+    {
+      "source": 102,
+      "target": 227,
+      "type": "NONE",
+      "similarity": 0.4616
+    },
+    {
+      "source": 103,
+      "target": 5,
+      "type": "SUPPORT",
+      "similarity": 0.6923
+    },
+    {
+      "source": 103,
+      "target": 214,
+      "type": "SUPPORT",
+      "similarity": 0.5115
+    },
+    {
+      "source": 103,
+      "target": 88,
+      "type": "SUPPORT",
+      "similarity": 0.5063
+    },
+    {
+      "source": 104,
+      "target": 65,
+      "type": "SUPPORT",
+      "similarity": 0.5839
+    },
+    {
+      "source": 104,
+      "target": 67,
+      "type": "SUPPORT",
+      "similarity": 0.5647
+    },
+    {
+      "source": 104,
+      "target": 4,
+      "type": "NONE",
+      "similarity": 0.5545
+    },
+    {
+      "source": 105,
+      "target": 67,
+      "type": "SUPPORT",
+      "similarity": 0.6641
+    },
+    {
+      "source": 105,
+      "target": 65,
+      "type": "SUPPORT",
+      "similarity": 0.5362
+    },
+    {
+      "source": 105,
+      "target": 121,
+      "type": "SUPPORT",
+      "similarity": 0.4243
+    },
+    {
+      "source": 106,
+      "target": 67,
+      "type": "ATTACK",
+      "similarity": 0.4576
+    },
+    {
+      "source": 106,
+      "target": 95,
+      "type": "NONE",
+      "similarity": 0.3074
+    },
+    {
+      "source": 106,
+      "target": 121,
+      "type": "NONE",
+      "similarity": 0.2793
+    },
+    {
+      "source": 107,
+      "target": 67,
+      "type": "SUPPORT",
+      "similarity": 0.5779
+    },
+    {
+      "source": 107,
+      "target": 65,
+      "type": "SUPPORT",
+      "similarity": 0.5225
+    },
+    {
+      "source": 107,
+      "target": 121,
+      "type": "NONE",
+      "similarity": 0.4713
+    },
+    {
+      "source": 108,
+      "target": 121,
+      "type": "SUPPORT",
+      "similarity": 0.5058
+    },
+    {
+      "source": 108,
+      "target": 67,
+      "type": "NONE",
+      "similarity": 0.4881
+    },
+    {
+      "source": 108,
+      "target": 65,
+      "type": "NONE",
+      "similarity": 0.4481
+    },
+    {
+      "source": 109,
+      "target": 67,
+      "type": "SUPPORT",
+      "similarity": 0.3728
+    },
+    {
+      "source": 109,
+      "target": 121,
+      "type": "NONE",
+      "similarity": 0.3715
+    },
+    {
+      "source": 109,
+      "target": 64,
+      "type": "NONE",
+      "similarity": 0.3208
+    },
+    {
+      "source": 110,
+      "target": 223,
+      "type": "SUPPORT",
+      "similarity": 0.5216
+    },
+    {
+      "source": 110,
+      "target": 222,
+      "type": "SUPPORT",
+      "similarity": 0.4342
+    },
+    {
+      "source": 110,
+      "target": 121,
+      "type": "SUPPORT",
+      "similarity": 0.3391
+    },
+    {
+      "source": 111,
+      "target": 223,
+      "type": "SUPPORT",
+      "similarity": 0.5644
+    },
+    {
+      "source": 111,
+      "target": 214,
+      "type": "NONE",
+      "similarity": 0.4581
+    },
+    {
+      "source": 111,
+      "target": 60,
+      "type": "SUPPORT",
+      "similarity": 0.3996
+    },
+    {
+      "source": 112,
+      "target": 121,
+      "type": "SUPPORT",
+      "similarity": 0.3989
+    },
+    {
+      "source": 112,
+      "target": 226,
+      "type": "NONE",
+      "similarity": 0.3108
+    },
+    {
+      "source": 112,
+      "target": 60,
+      "type": "SUPPORT",
+      "similarity": 0.2999
+    },
+    {
+      "source": 119,
+      "target": 121,
+      "type": "SUPPORT",
+      "similarity": 0.5602
+    },
+    {
+      "source": 119,
+      "target": 88,
+      "type": "NONE",
+      "similarity": 0.4563
+    },
+    {
+      "source": 119,
+      "target": 64,
+      "type": "SUPPORT",
+      "similarity": 0.3952
+    }
+  ]
+}
