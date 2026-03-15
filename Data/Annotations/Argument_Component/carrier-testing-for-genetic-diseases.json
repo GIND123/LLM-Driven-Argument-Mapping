@@ -1,0 +1,957 @@
+{
+  "document_id": "carrier-testing-for-genetic-diseases",
+  "source": "Uhc",
+  "dataset": "uhc",
+  "sentences": [
+    {
+      "id": 3,
+      "text": "Coverage Rationale Pre-test genetic counseling is strongly recommended in order to inform persons being tested about the advantages and limitations of the test as applied to a unique person.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 4,
+      "text": "Reproductive Carrier Screening Reproductive Carrier Screening Panels of up to six genes are proven and medically necessary.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 5,
+      "text": "Reproductive Carrier Screening Panels of up to 15 genes are proven and medically necessary when an individual and/or their reproductive partner meet at least one of the following criteria: Ashkenazi Jewish ancestry (individual/reproductive partner has at least one parent or grandparent of Ashkenazi Jewish descent); or A biological First- or Second-Degree Relative has been affected by one or more of the conditions evaluated by the Panel The following are unproven and not medically necessary due to insufficient evidence of efficacy: Reproductive Carrier Screening Panels comprised of 16 or more genes Carrier Screening for all other indications Note: It is strongly recommended that reproductive Carrier Screening Panels include screening for cystic fibrosis (CFTR) and spinal muscular atrophy (SMN1).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 6,
+      "text": "Carrier Testing Panels for Genetic Diseases Page 1 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 7,
+      "text": "Copyright 2026 United HealthCare Services, Inc. Medical Records Documentation Used for Reviews Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 8,
+      "text": "Medical records documentation may be required to assess whether the member meets the clinical criteria for coverage but does not guarantee coverage of the service requested; refer to the guidelines titled Medical Records Documentation Used for Reviews.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "Definitions Carrier Screening: Genetic testing that is performed on an individual who does not have any symptoms of a genetic disorder to determine whether that individual may have a genetic variant associated with a certain disorder that could be passed to biological children [American College of Obstetricians and Gynecologists (ACOG) 2017a, reaffirmed 2023].",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 11,
+      "text": "Gene Panel: Testing panel that looks for genetic changes/variants in more than one gene in the same test (CDC, 2024; MedlinePlus, 2025).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 12,
+      "text": "Second-Degree Relative: Second-Degree Relatives include half-siblings, aunts, uncles, grandparents, grandchildren, and nieces/nephews (NCCN, 2025).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 13,
+      "text": "Applicable Codes The following list(s) of procedure and/or diagnosis codes is provided for reference purposes only and may not be all inclusive.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 14,
+      "text": "Listing of a code in this policy does not imply that the service described by the code is a covered or non-covered health service.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 15,
+      "text": "Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 16,
+      "text": "The inclusion of a code does not imply any right to reimbursement or guarantee claim payment.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 18,
+      "text": "CPT Code Description 0400U Obstetrics (expanded carrier screening), 145 genes by next generation sequencing, fragment analysis and multiplex ligation dependent probe amplification, DNA, reported as carrier positive or negative 81412 Ashkenazi Jewish associated disorders (e.g., Bloom syndrome, Canavan disease, cystic fibrosis, familial dysautonomia, Fanconi anemia group C, Gaucher disease, Tay-Sachs disease), genomic sequence analysis panel, must include sequencing of at least 9 genes, including ASPA, BLM, CFTR, FANCC, GBA, HEXA, IKBKAP, MCOLN1, and SMPD1 81443 Genetic testing for severe inherited conditions (e.g., cystic fibrosis, Ashkenazi Jewish-associated disorders [e.g., Bloom syndrome, Canavan disease, Fanconi anemia type C, mucolipidosis type VI, Gaucher disease, Tay-Sachs disease], beta hemoglobinopathies, phenylketonuria, galactosemia), genomic sequence analysis panel, must include sequencing of at least 15 genes (e.g., ACADM, ARSA, ASPA, ATP7B, BCKDHA, BCKDHB, BLM, CFTR, DHCR7, FANCC, G6PC, GAA, GALT, GBA, GBE1, HBB, HEXA, IKBKAP, MCOLN1, PAH) 81479 Unlisted molecular pathology procedure CPT® is a registered trademark of the American Medical Association Description of Services Carrier Screening is used to identify individuals or reproductive partners who are at risk of having a child with clinically significant autosomal recessive or X-linked conditions; screening results may impact reproductive decision-making.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 19,
+      "text": "The use of modern technology such as next-generation sequencing (NGS) enables the use of Panel tests which analyze multiple genes at the same time (Gregg, 2021).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 20,
+      "text": "In general, Carrier Screening may be performed for conditions that are found in the general population (pan-ethnic), for diseases that are more common in a particular population (ethnic-based) or based on family history.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 22,
+      "text": "Copyright 2026 United HealthCare Services, Inc. cystic fibrosis (CF), spinal muscular atrophy (SMA), and hemoglobinopathies for all women who are considering pregnancy or currently pregnant.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 23,
+      "text": "Carrier Screening for Individuals of Ashkenazi Jewish Descent Certain autosomal recessive conditions are more prevalent in individuals of Ashkenazi Jewish (AJ) descent.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 24,
+      "text": "Some of these disorders are lethal in childhood or are associated with substantial morbidity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 25,
+      "text": "Carrier Screening for individuals of AJ descent is focused on identifying reproductive partners who are at risk of having a child with a disorder that has a higher prevalence in this population.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 26,
+      "text": "The majority of individuals of Jewish ancestry in North America are of AJ descent and therefore have an increased risk of having a child afflicted with one of these disorders (ACOG, 2017b; reaffirmed 2023).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 27,
+      "text": "AJ Carrier Screening Panels may include testing for some or all of the genetic diseases below: Tay Sachs disease Fanconi anemia Glycogen storage disease 1A Canavan disease Niemann-Pick disease Familial hyperinsulinism Cystic fibrosis (CF) Gaucher disease Usher 1F and III Spinal muscular atrophy (SMA) Mucolipidosis IV Familial dysautonomia Maple syrup urine disease Bloom syndrome Joubert syndrome Pan-Ethnic Carrier Screening Panels Historically, Carrier Screening has focused on specific ethnic populations that are known to be at elevated risk of certain clinically significant disorders (e.g., individuals of AJ descent).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 28,
+      "text": "However, it has become progressively more difficult to classify an individual’s true ancestry in today’s multi-racial society.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 29,
+      "text": "As such, the likelihood of being a carrier for a certain disorder may be inconsistent with previous assumptions regarding disease prevalence in the ethnic or racial group with which an individual identifies; this has led to consideration of pan-ethnic screening.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 30,
+      "text": "Pan-ethnic screening offers Panel testing for certain disorders to all individuals who are pregnant or considering pregnancy, irrespective of ethnicity (ACOG, 2017a, reaffirmed 2023).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 31,
+      "text": "Carrier Screening Panels have the capacity to analyze large numbers of genes simultaneously, but there is currently a lack of standardization in conditions screened and Carrier Screening Panel composition.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 32,
+      "text": "Thus, marketed Panels may include many more genes than would be recommended on an individual basis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 33,
+      "text": "Additionally, for every disorder, the gene/mutation/mutation frequency should be known in the population being tested so that negative test results can be translated into an expected residual risk of the disorder (Grody et al., 2013).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 34,
+      "text": "Unfortunately, many laboratories are unable to calculate the residual risk as they lack knowledge of the carrier frequency within the testing population and the proportion of disease-causing mutations on the assay platform.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 36,
+      "text": "The American College of Medical Genetics and Genomics (ACMG)’s 2021 practice resource (Gregg et al.)",
+      "label": "PREMISE"
+    },
+    {
+      "id": 37,
+      "text": "recommends the adoption of a tier-based system built on carrier frequency, with Tier 3 Carrier Screening that includes conditions with carrier frequencies of ≥ 1/200, plus CF, SMA, and risk-based screening, offered to all individuals who are pregnant or planning a pregnancy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 38,
+      "text": "Genetic counseling is strongly recommended prior to Carrier Screening to inform persons being tested about the advantages and limitations of testing as applied to a unique person.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 39,
+      "text": "For information regarding noninvasive prenatal testing (NIPT), refer to the Medical Policy titled Cell-Free Fetal DNA Testing.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 41,
+      "text": "2017) genotyped over 3000 individuals of self-reported Ashkenazi Jewish (AJ) ancestry to analyze the carrier frequency of 29 recessive genetic diseases to determine if additional disorders should be considered as part of routine carrier screening.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 42,
+      "text": "The team reviewed the literature and the internal database at their lab to identify the genes that should be screened, and utilized pre-existing, de-identified samples from research participants.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 43,
+      "text": "There were 2252 AJ individuals tested for 29 recessive disorders, and an additional 1390 AJ and 6813 non-AJ individuals were screened for a subset of 18 recessive disorders.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 44,
+      "text": "The authors identified seven disorders with a carrier frequency of greater than 1 in 100, nine with a carrier frequency between 1 in 100 and 1 in 200, and four between 1 in 200 and 1 in 500.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 45,
+      "text": "Nine conditions had a carrier frequency of less than 1 in 500 or were not found.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 46,
+      "text": "Of the 20 diseases with a carrier frequency higher than 1 in 500, two were eye diseases that the authors felt were not appropriate to be included for reproductive related carrier screening.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 51,
+      "text": "Blood or saliva samples were collected on 506 individuals who underwent NGS for 84 recessive conditions and targeted genotyping.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 52,
+      "text": "Two hundred and eighty-eight individuals were carriers of at least one condition, represented by 434 pathogenic variants, and eight couples were carriers for the same disorder.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 53,
+      "text": "When NGS was compared to traditional screening for the diseases routinely screened for in the AJ population, NGS did not find any additional mutations beyond what would have been found by targeted genotyping.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 54,
+      "text": "However, NGS and the broader panel identified two at-risk carrier couples and 115 (26%) pathogenic variants that would not be found by routine AJ screening.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 56,
+      "text": "Per Hayes, ECS involves testing parents for variants in many genes that can be associated with a variety of recessive disorders.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 57,
+      "text": "The Hayes conclusion was based on a review of six abstracts of publications addressing the clinical utility of ECS for informing clinical or reproductive decisions.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 58,
+      "text": "Four professional guidelines addressing ECS were also identified; these guidelines did not show distinct agreement regarding which genes should be included in ECS but generally recommend limiting testing to genes with known clinical impact in terms of reproductive planning.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 59,
+      "text": "In addition, risks related to ECS, including identification of variants of unknown significance (VUS) and diseases that have a wide range of phenotypic expression, reduced penetrance, or adult onset were identified.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 60,
+      "text": "Of the four guidelines reviewed, only one was based on a formal evidence review process.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 64,
+      "text": "Across these studies, RCS led to identification of one to 24 high-risk couples per 1000 individuals screened.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 65,
+      "text": "Based on pooled estimations, the prenatal diagnosis (PND) rate in pregnant high- risk couples was 0.644 (95% CI = 0.364, 0.9230), the termination rate for affected pregnancies was 0.714 (95% CI = 0.524, 0.904), and the rate of in-vitro fertilization (IVF) with preimplantation genetic testing (PGT) was 0.631 (95% CI = 0.538, 0.725).",
+      "label": "CLAIM"
+    },
+    {
+      "id": 66,
+      "text": "The data analysis revealed a statistically significant reduction in the rate of individuals undergoing PND and termination as the number of conditions in the screening test increased.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 67,
+      "text": "In addition, carriers that were found to have conditions with greater clinical severity were more likely to terminate pregnancy or chose IVF with PGT.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 68,
+      "text": "The authors concluded that while the number of conditions screened and the severity of those conditions appear to impact the reproductive decisions of high-risk couples, additional study is required to more clearly define clinical utility and provide evidence to assist with design of appropriate screening panels.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 69,
+      "text": "The researchers also highlighted the importance of genetic counseling in conjunction with RCS. Publications by Ghiossi et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 72,
+      "text": "In a thorough evaluation of currently marketed carrier screening panels, Wang et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 74,
+      "text": "The number of genes in each panel varied greatly (44 - 2054 per panel).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 76,
+      "text": "Fifteen genes (0.7%) with associated conditions that could be considered “severe” (despite some conditions having only mild or moderate symptoms depending on the specific pathogenic variants in the associated genes) were included in all 22 of the panels.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 81,
+      "text": "The authors highlight the lack of consensus on the design of carrier screening panels, while acknowledging the increasing availability of genomic data and sequencing information contributing to the rapidly developing industry of carrier panel screening.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 82,
+      "text": "They underscore the importance of development of consistent and reliable carrier screening to better service both individuals undergoing testing and the healthcare providers ordering and interpreting the test results.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 83,
+      "text": "In an effort to ascertain a carrier screening panel design which is consistent with existing carrier screening recommendations published by the American College of Obstetricians and Gynecologists (ACOG) (2017b) and the American College of Medical Genetics and Genomics (ACMG) (2021), Johansen Taber et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 84,
+      "text": "2022, included in the 2024 Hayes report) conducted a study of the carrier screening results of 460,608 individuals who had been tested using an NGS panel that screened for up to 176 conditions.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 85,
+      "text": "Individuals with family or personal history of disease or reported consanguinity were excluded, and 11 races/ethnicities were represented.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 86,
+      "text": "Forty conditions had carrier frequencies of ≥ 1 in 100 and 75 conditions had carrier frequencies of ≥ 1 in 200.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 87,
+      "text": "A well-defined phenotype was present for 175 of the conditions and at least one severity criterion and onset early in life were met for 165 conditions.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 88,
+      "text": "Overall, 37 conditions met Carrier Testing Panels for Genetic Diseases Page 4 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 89,
+      "text": "Copyright 2026 United HealthCare Services, Inc. conservative thresholds (including carrier frequency of ≥ 1 in 100) and 74 conditions met more liberal thresholds (including carrier frequency of ≥ 1 in 200).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 90,
+      "text": "In a panel which tests for 37 conditions, all 7 conditions currently recommended by both ACOG and ACMG for screening in at least one race/ethnicity would be included; this panel would detect 63% of carriers and 84.6% of at-risk couples (ARCs) (as compared to a 176-condition panel).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 91,
+      "text": "In a more liberal panel, testing for 74 conditions, 81.4% of carriers and 96.6% of ARCs would be detected.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 92,
+      "text": "The authors concluded that panels including screening for either the 37 conditions based on the conservative threshold or the 74 conditions based on the more liberal threshold would both be consistent with established guidelines.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 93,
+      "text": "A noted limitation is that conditions beyond what was included in this study may meet ACOG or ACMG guideline criteria.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 94,
+      "text": "In addition, although the researchers took steps to ensure accuracy of carrier frequency data, there is potential for over- or under-estimation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 95,
+      "text": "The development of transparent and consistent panel design which aligns with evidence-based guidelines is recommended. Ramdaney et al. (",
+      "label": "CLAIM"
+    },
+    {
+      "id": 96,
+      "text": "2022) conducted a systematic evidence review to evaluate the client and provider experiences for ECS.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 97,
+      "text": "The authors reviewed literature between January 1, 2003, and May 31, 2021, and found 36 articles that fit the inclusion criteria.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 98,
+      "text": "Sixteen of the articles evaluated test outcomes, 10 articles evaluated provider outcomes, and 20 articles evaluated client outcomes.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 99,
+      "text": "For the evaluation of client outcomes, the authors focused on the uptake rates of ECS, the yield of carrier couples, and the influence on reproduction decision-making.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 101,
+      "text": "The uptake of ECS among partners varied between 42% and 77% and the main impacting factors were presence of the partner at the initial appointment, disease severity, and ease of logistical factors.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 102,
+      "text": "The yield of carrier couple rates ranged from 0.1% to 16.9%; however, the specific populations, panels used, and conditions/genes/mutations assessed varied widely.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 103,
+      "text": "When evaluating in silico studies using modeled data for yield of carrier couples, it was noted that screening for only cystic fibrosis (CF) and spinal muscular atrophy (SMA) would have missed at least 881 of 966 (ARCs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 104,
+      "text": "The authors noted that decision-making following actual carrier screening results varied greatly depending on whether the clients were preconception or already pregnant.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 105,
+      "text": "With preconception, most clients elected to pursue or indicated interest in PGT to minimize the risk of an affected pregnancy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 106,
+      "text": "For those clients who received PGT and did not pursue or take direct action given the results, some clients noted benefit from a planning and preparation standpoint.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 107,
+      "text": "For those clients that were already pregnant, ARCs were less likely to alter their reproductive plans than those clients who received results during the preconception period.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 108,
+      "text": "The authors evaluated the provider influence on reproduction decision-making and noted that more than half of the provider groups analyzed did not offer ECS to their clients and many of the studies were conducted before newer guidelines regarding ECS were published.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 109,
+      "text": "It was also noted that the time required for proper education and follow-up were a concern for genetic counselors.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 110,
+      "text": "Limitations included significant inconsistency in methodologies and population which limited the ability to assess the impact of ECS within the United States.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 111,
+      "text": "There was a lack of studies documenting outcomes for minimal guideline-based carrier screening compared to ECS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 112,
+      "text": "Additionally, most of the studies included were observational and the majority were rated poor/very poor quality or had a high risk of bias. Leung et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 113,
+      "text": "2021) developed a method of calculating disease prevalence, ethnic carrier frequency, detection rate (DR), and recurrence risks (RR) metrics across four autosomal recessive conditions (ABCC8, ASPA, GAA and MMUT), using CF as proof of concept.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 114,
+      "text": "A step-by-step approach for calculating DR and RR was based on the sum of disease allele frequencies of pathogenic variants found in literature.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 115,
+      "text": "Following CF guidelines, carrier frequencies for five ethnicities were gathered from published studies and public databases.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 116,
+      "text": "If no specific carrier frequency was available, they were derived from the Hardy-Weinberg equation.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 117,
+      "text": "If neither were available, a default carrier frequency of 1 in 500 was used.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 118,
+      "text": "The disease allele frequencies of the four genes were compared among three laboratories and possible reasons of discrepancy were explored.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 119,
+      "text": "The study revealed that multiple laboratories testing the same genes demonstrated a wide range of DR and RR.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 120,
+      "text": "Possible explanations for this discrepancy include differences in calculation method for DR, differences in definitions for DR or laboratories calculating a DR that is more consistent with the definition of analytical sensitivity (which may increase RR), known technical challenges of NGS that may limit detection of variants, and timing of publications that may also lead to frequency reporting discrepancies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 121,
+      "text": "The authors emphasized that accurate DR and RR statistics are critical for reproductive decision-making and stated that there is a need for professional societies to offer official recommendations to avoid laboratories using disparate criteria in setting their preferred lowest DR.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 122,
+      "text": "To address concerns regarding the impact of ECS on health care utilization, Kauffman et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 123,
+      "text": "2021) conducted a randomized controlled trial examining the effects of disclosing negative (normal) ECS on utilization compared with usual care (UC).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 124,
+      "text": "The authors assessed differences between women randomized to ECS (v = 127) and UC (177) by evaluating utilization of mental health services including outpatient, inpatient, and medication use, utilization of outpatient primary care, outpatient specialty care, and inpatient and outpatient mental health services in the year following randomization, and utilization of pregnancy-related services in the five years prior to and at any point following randomization with a documented pregnancy.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 125,
+      "text": "The authors did not find any evidence of harms on health care utilization in women who had a negative ECS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 126,
+      "text": "There were no significant differences in outpatient mental health service use between study arms in the period between randomization and results disclosure or in the 12-month follow-up period after results disclosure.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 127,
+      "text": "Additionally, there were no significant differences in use of primary care and specialty care services in the year following Carrier Testing Panels for Genetic Diseases Page 5 of 14 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 129,
+      "text": "Of the 304 participants that had data analyzed, there were only 2 cases noted in which ECS led to inappropriate health care utilization: One individual misunderstood the carrier result and sought treatment for hemochromatosis, and one individual attempted to refuse first trimester prenatal screening because she did not understand how it differed from ECS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 130,
+      "text": "Limitations for this study include the possibility of refusals of standard-of-care treatment that were not documented, lack of racial/ethnic and socioeconomic diversity, and exclusion of male partners.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 131,
+      "text": "The authors note that future studies should continue to evaluate the possibility of harms of screening, specifically for non-White and low-income populations. Kaseniit et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 132,
+      "text": "2020) quantitatively examined the efficacy and equity with which ethnicity-based carrier screening captures disease risk for recessive conditions.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 133,
+      "text": "A 96-gene ECS panel was performed on 93,419 individuals; correspondence was assessed among carrier status, self-reported ethnicity, and a dual component genetic ancestry calculated from sequencing data.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 134,
+      "text": "The authors reported that substantial and disproportionate risk for recessive disorders is not detected when carrier screening is based on ethnicity, which leads to inequitable reproductive care.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 135,
+      "text": "This conclusion was made after establishing that self-reported ethnicity was an inaccurate predictor of genetic ancestry, with 9% of individuals having > 50% genetic ancestry from a lineage inconsistent with self-reported ethnicity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 136,
+      "text": "Self-reported ethnicity resulted in missed carriers in at-risk populations; for 10 ECS conditions, individuals with intermediate genetic ancestry backgrounds who did not self-report the associated ethnicity had significantly elevated carrier risk.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 138,
+      "text": "The algorithm from this study can be used across laboratories when considering genes for ECS panel inclusion according to the authors. Arjunan et al. (",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 139,
+      "text": "2020) utilized a published algorithm that stratifies diseases into four classes of severity (mild, moderate, severe, and profound) for 176 genes screened by ECS; objective severity classifications were then assigned.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 140,
+      "text": "Previous reports from ACOG/ACMG have not defined how to interpret severity criteria for genes included in ECS.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 141,
+      "text": "Severity categories based on disease traits were mapped to four severity-related ECS panel criteria from ACOG.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 142,
+      "text": "Four medical geneticists and eight genetic counselors applied the severity algorithm to subsets of 176 genes.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 143,
+      "text": "A group consensus was made on how disease traits mapped to ACOG severity criteria.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 144,
+      "text": "39% (n = 68) of genes were classified as profound, 40% (n = 71) as severe, 20% (n = 36) as moderate, and 1% (n = 1) as mild.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 145,
+      "text": "Of 176 total genes, 170 (96.6%) met at least one of the four criteria, 129 (73.3%) met at least two, 73 (41.5%) met at least three, and 17 (9.7%) met all four.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 146,
+      "text": "The authors noted that the medical geneticists and genetic counselors who reviewed the conditions for this study may not be replicated in practice by clinicians with either similar or different expertise.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 147,
+      "text": "In addition, the medical geneticist reviewers were not blinded to the genetic counselors’ final classifications, so it is possible they were influenced by the genetic counselors’ reviews.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 148,
+      "text": "Lastly, the genes in the study were based on what is available in the current literature, which may skew toward more severe presentation, especially for rare diseases.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 149,
+      "text": "ACOG proposed that disorders included in ECS panels should have a carrier frequency of 1/100 or greater, detrimental impact on quality of life and a well-defined phenotype. Balzotti et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 150,
+      "text": "2020) utilized a ClinGen framework to determine clinical validity of gene-disease relationship for 208 autosomal recessive and X-linked conditions offered in commercially- available ECS panels by Myriad Women’s Health (Foresight) and Baylor Genetics (GeneAware).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 151,
+      "text": "All conditions met the evidence threshold for supporting a gene-disease association.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 152,
+      "text": "Ninety-eight percent of conditions (203/208) reached the strongest (definitive) level of gene-disease association; of the remaining five, four were classified as having moderate evidence and one was classified as having limited evidence.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 153,
+      "text": "Twenty-one gene-disease pairs were curated independently by Myriad and Baylor to determine the level of concordance of classification between the two laboratories.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 154,
+      "text": "The authors surmised that the majority of ECS panel conditions have demonstrable support for gene-disease association, which is a crucial component of ECS clinical validity and ACOG-recommended inclusion criteria for ECS panels.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 155,
+      "text": "Limitations included potential inconsistencies in how conditions were categorized (potentially skewing results), and the possibility of the emergence of new evidence that may change the classifications used. Rosenblum et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 156,
+      "text": "2020) performed a retrospective study to compare the carrier detection rate between a pan‐ethnic panel (87 disorders) and an AJ ethnic‐specific panel (an 18-disorder subset of the pan-ethnic panel) for 2398 individuals who self‐identified as being of AJ descent with no personal or family history of a genetic disorder.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 157,
+      "text": "The pan-ethnic panel, which assessed 434 targeted, pre‐defined variants in 87 genes that cause 87 disorders, was tested in 1150 individuals, and the AJ-specific panel, assessing a subset of 147 variants in 18 genes that cause 18 disorders, was tested in 1248 individuals.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 158,
+      "text": "The pan-ethnic panel identified 431 individuals (37.5%) as carriers of at least one disorder and 87 of these (76%) were carriers of 2 or more disorders.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 159,
+      "text": "For the AJ panel, 319 (25.6%) individuals were determined to be carriers of at least one disorder and 60 (4.8%) of these individuals were carriers for multiple disorders.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 160,
+      "text": "The researchers also re-analyzed the pan- ethnic data for the 18 genes in the AJ-specific panel for those individuals who were found to be a carrier of one of the 87 genes in the pan-ethnic panel.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 161,
+      "text": "The carrier detection rate would have been 24.3% (280/1,150);the researchers state that 151 individuals would have been missed for carrier detection.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 162,
+      "text": "The researchers conclude that this data may contribute to further professional discussion on the clinical utility of ECS.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 166,
+      "text": "The cohort included mostly women (339,739; 89.17%) and various ethnicities: 148,828 (39.06%) Caucasian, 62,626 (16.44%) Hispanic, 52,454 (13.77%) African American, and the remaining 117,106 (30.74%) were either of other races/ethnicities or did not provide information.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 167,
+      "text": "The majority of individuals (374,911) were tested for CF and 14,229 (3.8%) were found to have a pathogenic or likely pathogenic variant yielding a 1/26 carrier frequency.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 168,
+      "text": "For CF, 44.0% (6260/14,229) of carriers identified had a variant not on the standard genotyping panel.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 169,
+      "text": "Similarly, 344,407 individuals were screened for spinal muscular atrophy (SMA) and 14,606 (4.24%, 1/24) were found to be carriers or at-risk silent carriers.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 170,
+      "text": "Out of the 14,606 carriers for SMA, 8763 (2.54%, 1/39) were at risk for being silent carriers which was not detected by standard screening.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 171,
+      "text": "In addition, for AJ disorders, 81.6% of carriers identified did not disclose AJ ancestry.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 172,
+      "text": "For the largest gene panel (274 genes), 60,052 individuals were tested and 38,300 (63.78%) were positive for at least one disorder.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 173,
+      "text": "The researchers also noted the carrier rates for this large 274-gene panel compared to those in the literature.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 174,
+      "text": "Of the 274 genes screened, 117 had a carrier rate that differed from what was expected.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 175,
+      "text": "The researchers concluded that, assuming random pairing across the study population, approximately 1/175 pregnancies would be affected by a disorder in the 274- gene screening panel.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 176,
+      "text": "For the majority of ESC panels, there is no consensus on what genes should be included that would be relevant for multiple ethnic groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 177,
+      "text": "Guo and Gregg (2019) conducted an analysis of exome sequencing data (n = 123,136) to determine the carrier rates for six major ancestries (African/African American, Hispanic, AJ, East Asian, non-Finnish European, and South Asian).",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 178,
+      "text": "The study examined 415 genes that are associated with severe recessive conditions and started with determining the variant carrier rates (VCR) to then be able to estimate the gene carrier rates (GCR).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 179,
+      "text": "Across the ancestries, the highest GCR for a single gene was determined to be for African/African American at 12% for HBB.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 180,
+      "text": "The carrier rates declined for most ancestries; only 30 of the genes in the AJ group had a carrier rate > 1%.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 185,
+      "text": "Females were identified from the database who (1) were found to be carriers of a pathogenic or likely pathogenic variant conferring risk for at least one of 176 autosomal recessive or X-linked conditions currently included in the lab’s ECS panel, (2) were aged 18 years or older, (3) had consented to being contacted about participating in research at the lab, and (4) for those carrying pathogenic or likely pathogenic variants associated with autosomal recessive conditions, had reproductive partners meeting the same eligibility criteria and were confirmed by the lab as being carriers of a pathogenic variant in the same gene.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 187,
+      "text": "The 1701 ARCs invited to complete the survey were geographically dispersed and encompassed 15 ethnicities and more than 9 religions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 188,
+      "text": "The ARCs reported being at-risk for 53 different conditions, with 10% indicating they were at risk for 2 conditions, and 1.8% reporting being at risk for 3 conditions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 189,
+      "text": "The actions taken by the ARCs were broken down into those receiving preconception ECS results and those receiving the results during the prenatal period.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 190,
+      "text": "ECS was performed on 235 preconception ARCs; 77% of these couples indicated they planned or pursued pregnancy management options to avoid having an affected child.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 191,
+      "text": "Of the 154 ARCs who received the ECS results while pregnant, 37% reported pursuing prenatal diagnostic testing (PNDx).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 192,
+      "text": "Of those, 36% had affected pregnancies; 40% of affected pregnancies resulted in termination.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 193,
+      "text": "Of the 63% of cases that did not report PNDx, 75% resulted in live birth; postnatal testing was planned or had been pursued in 62% of those.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 195,
+      "text": "The authors also surveyed the ARCs for actions and outcomes in subsequent pregnancies.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 196,
+      "text": "Of those who pursued PNDx through chorionic villus sampling (CVS) or amniocentesis, 29% had affected fetuses, and 75% of those terminated their pregnancies.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 197,
+      "text": "Limitations of the study included accuracy of participant recollection of actions, possible response bias, and a larger number of ARCs whose current or future pregnancies were at risk for conditions that occur more often in the population, such as CF and fragile X syndrome.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 198,
+      "text": "However, the authors tried to decrease these effects by analyzing results in aggregate and by condition severity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 199,
+      "text": "Overall, this study represents the largest cohort of at-risk and diverse couples screened to date.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 200,
+      "text": "The authors assert that the study’s results indicate that ECS directs changes in pregnancy management that can lead to fewer births of children with clinically significant genetic diseases and suggests that there may be clinical value in screening for diseases that have not traditionally been assessed for in prenatal/preconception screens. Peyser et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 203,
+      "text": "ECS was performed at one genetic testing laboratory for subjects seen between June 2013 and July 2015. Ethnicity was self-reported.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 204,
+      "text": "Carrier rates based on ECS were calculated.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 209,
+      "text": "Carrier rates were calculated for the overall study population and for each ethnic subpopulation, and then compared to determine differences between carrier identification rates by each panel.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 210,
+      "text": "The ECS panel did not screen for α-thalassemia and maple syrup urine disease 1A (MSUD1A), two conditions included in the ACOG-based screening panel.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 211,
+      "text": "Therefore, the carrier rate for the ACOG-based screening was calculated without including these two conditions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 212,
+      "text": "A total of 4232 individuals were tested (2880 females [68.1%]; 1352 males [31.9%]) for carrier status using ECS.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 213,
+      "text": "Applying ethnic-based screening recommendations would have resulted in 359 of 4232 (8.5%) individuals identified as carriers.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 214,
+      "text": "Applying the ACOG-based screening guidelines, 659 of 4232 (15.6%) would have been identified as carriers.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 216,
+      "text": "A large and highly significant difference was found between carrier rates when each panel was applied to the population and then compared to each other.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 222,
+      "text": "In three subpopulations (Hispanic, South Asian, and Middle Eastern), significant differences were observed in ethnic-based screening versus ECS and ACOG-based ethnic screening versus ECS, but not the ethnic-based screening versus ACOG-based screening.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 223,
+      "text": "Ethnic-based screening versus ECS only provided statistical differences in the African or African American population.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 224,
+      "text": "However, in two subethnic populations, East Asian and Southeast Asian, the carrier numbers for each panel were not statistically significant.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 225,
+      "text": "A total of 1206 couples were screened using the ECS panel; 15 (1.2%) were identified as carrier couples.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 226,
+      "text": "In revealing the ethnicity of each partner, 8/15 (53%) would have been recognized through ethnic-based screening guidelines.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 227,
+      "text": "In addition to carrier couples, 73 women were found be carriers of Fragile X, with variation in repeat numbers identified and thus variation in classification of the reproductive risk.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 228,
+      "text": "In conclusion, the authors present data that ECS is superior to ethnic-based genetic screening at identifying genetic disease carriers and carrier couples.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 229,
+      "text": "The authors argue that their study provides additional evidence that ECS provides a larger amount of preconception information.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 230,
+      "text": "The study did have noted limitations; study participants who were seeking ECS due to family history of a specific disorder were included in the analysis, which could have elevated the rate of carrier couples found in the study.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 231,
+      "text": "In addition, learning carrier status for diseases with late onset or variable phenotypes could lead to increased anxiety and confusion for those undergoing ECS. Terhaar et al.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 233,
+      "text": "Panel sizes varied; genes associated with a minimum of three diseases (trio) to a maximum of 218 diseases (global) were analyzed.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 234,
+      "text": "Data was reviewed for 75,036 individuals referred by a healthcare provider in the United States.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 235,
+      "text": "Trio screening was applied to 51,584 samples and 7.2% of those yielded a positive result.",
+      "label": "NON_ARGUMENTATIVE"
+    },
+    {
+      "id": 239,
+      "text": "The authors noted that those that seeking the global panel were more ethnically diverse when compared to the other groups.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 241,
+      "text": "The researchers speculate that although receiving more genomic information can be beneficial to individuals and providers who want a lot of information to inform medical management, this may also place a burden on clinical care.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 242,
+      "text": "Most of the disorders identified were inherited in a recessive manner, requiring the clinicians to provide counseling and screening for a reproductive partner.",
+      "label": "PREMISE"
+    }
+  ]
+}
