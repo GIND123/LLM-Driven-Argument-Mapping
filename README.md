@@ -2,7 +2,7 @@
 
 Code and data for the paper **"LLM Based Argument Graph Extraction for Reasoning in Health Insurance Policy Documents"** — submitted to ArgMining 2026 / ACL Student Research Workshop.
 
-> We present a pipeline for extracting argument graphs from health insurance policy documents. A dataset of 40 documents (3,671 sentences, 3,007 relations) is constructed from Aetna, CMS, and United Healthcare sources. Six classical baselines and three instruction-tuned LLMs are evaluated under zero-shot, few-shot, and chain-of-thought prompting. TF-IDF+SVM achieves 0.709 Macro F1 on component classification and 0.649 on relation extraction, outperforming the best LLM by 12–21 F1 points while being 18× faster.
+> We present a pipeline for extracting argument graphs from health insurance policy documents. A dataset of 53 documents (5,230 sentences, 5,685 relations) is constructed from Aetna, CMS, and United Healthcare sources. Six classical baselines and three instruction-tuned LLMs are evaluated under zero-shot, few-shot, and chain-of-thought prompting. TF-IDF+SVM achieves 0.709 Macro F1 on component classification and 0.649 on relation extraction, outperforming the best LLM by 12–21 F1 points while being 18× faster.
 
 ---
 
