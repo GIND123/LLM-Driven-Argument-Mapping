@@ -1,0 +1,677 @@
+{
+  "document_id": "cardiovascular-disease-risk-tests",
+  "source": "Uhc",
+  "dataset": "uhc",
+  "sentences": [
+    {
+      "id": 3,
+      "text": "Coverage Rationale The following are unproven and not medically necessary due to insufficient evidence of efficacy: Arterial compliance testing, using waveform analysis as a method to determine risk for cardiovascular disease Carotid intima-media thickness (CIMT) measurement as an effective screening tool for the management of cardiovascular disease Advanced lipoprotein analysis [e.g., lipoprotein(a), subfractions or particle size] as method to determine risk for cardiovascular disease Lipoprotein-associated phospholipase A2 (Lp-PLA2) enzyme as a method to determine risk for cardiovascular disease or ischemic stroke Endothelial function assessment using tools such as peripheral arterial tonometry (PAT) or brachial artery pressure ultrasound as a prognostic indicator to determine risk of cardiovascular disease Multi-protein diagnostic biomarker: o Analysis of protein biomarkers by aptamer-based microarray and algorithm o Cardiovascular disease (HDL reverse cholesterol transport), cholesterol efflux capacity, LC-MS/MS, quantitative measurement of 5 distinct HDL-bound apolipoproteins (apolipoproteins A1, C1, C2, C3, and C4), with algorithm and reported as a risk score o 3 proteins [high sensitivity (hs) troponin, adiponectin, and kidney injury molecule-1 (KIM-1)] with algorithm and reported as a risk score o 4 proteins [NT-proBNP, osteopontin, tissue inhibitor of metalloproteinase-1 (TIMP-1), and KIM-1] with algorithm and reported as a risk score o 7 proteins (IL-16, FAS, FASLigand, HGF, CTACK, EOTAXIN, and MCP-3) with algorithm and reported as a risk score Cardiovascular Disease Risk Tests Page 1 of 22 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 9,
+      "text": "CPT Code Description 0019M Cardiovascular disease, plasma, analysis of protein biomarkers by aptamer-based microarray and algorithm reported as 4-year likelihood of coronary event in high-risk populations 0052U Lipoprotein, blood, high resolution fractionation and quantitation of lipoproteins, including all five major lipoprotein classes and subclasses of HDL, LDL, and VLDL by vertical auto profile ultracentrifugation 0308U Cardiology (coronary artery disease [CAD]), analysis of 3 proteins (high sensitivity [hs] troponin, adiponectin, and kidney injury molecule-1 [KIM-1]) with 3 clinical parameters (age, sex, history of cardiac intervention), plasma, algorithm reported as a risk score for obstructive CAD 0309U Cardiology (cardiovascular disease), analysis of 4 proteins (NT-proBNP, osteopontin, tissue inhibitor of metalloproteinase-1 [TIMP-1], and kidney injury molecule-1 [KIM-1]), plasma, algorithm reported as a risk score for major adverse cardiac event 0377U Cardiovascular disease, quantification of advanced serum or plasma lipoprotein profile, by nuclear magnetic resonance (NMR) spectrometry with report of a lipoprotein profile (including 23 variables) 0415U Cardiovascular disease (acute coronary syndrome [ACS]), IL-16, FAS, FASLigand, HGF, CTACK, EOTAXIN, and MCP-3 by immunoassay combined with age, sex, family history, and personal history of diabetes, blood, algorithm reported as a 5-year (deleted risk) score for ACS 0541U Cardiovascular disease (HDL reverse cholesterol transport), cholesterol efflux capacity, LC-MS/MS, quantitative measurement of 5 distinct HDL-bound apolipoproteins (apolipoproteins A1, C1, C2, C3, and C4), serum, algorithm reported as prediction of coronary artery disease (pCAD) score 83695 Lipoprotein (a) 83698 Lipoprotein-associated phospholipase A2 (Lp-PLA2) 83701 Lipoprotein, blood; high resolution fractionation and quantitation of lipoproteins including lipoprotein subclasses when performed (e.g., electrophoresis, ultracentrifugation) 83704 Lipoprotein, blood; quantitation of lipoprotein particle number(s) (e.g., by nuclear magnetic resonance spectroscopy), includes lipoprotein particle subclass(es), when performed 93050 Arterial pressure waveform analysis for assessment of central arterial pressures, includes obtaining waveform(s), digitization and application of nonlinear mathematical transformations to determine central arterial pressures and augmentation index, with interpretation and report, upper extremity artery, non-invasive 93799 Unlisted cardiovascular service or procedure 93895 Quantitative carotid intima media thickness and carotid atheroma evaluation, bilateral 93998 Unlisted noninvasive vascular diagnostic study CPT® is a registered trademark of the American Medical Association Description of Services Cardiovascular diseases (CVD), including coronary artery disease, stroke, and hypertension, are the leading causes of morbidity and mortality in the United States.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 10,
+      "text": "Vascular disease is the major contributor to cardiovascular morbid events and ideally is identified early, before symptoms are detected or irreversible damage has occurred.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 11,
+      "text": "Arterial compliance (elasticity), carotid intima-media thickness (CIMT) and advanced lipoprotein analysis are tests that have been proposed to measure and monitor atherosclerosis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 12,
+      "text": "Arterial endothelial dysfunction and endothelial damage, which play an important role in the atherosclerotic process, may result in reduced arterial compliance (elasticity), or increased arterial stiffness, especially in the smaller arteries.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 13,
+      "text": "Arterial compliance can be measured by several techniques, many of which are invasive or clinically inappropriate.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 14,
+      "text": "Direct methods include magnetic resonance imaging and ultrasound.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 15,
+      "text": "Indirect methods include pulse wave velocity and Cardiovascular Disease Risk Tests Page 2 of 22 UnitedHealthcare Commercial and Individual Exchange Medical Policy Effective 01/01/2026 Proprietary Information of UnitedHealthcare.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 17,
+      "text": "At this time, there is no gold standard for arterial compliance measurement.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 18,
+      "text": "Cardiovascular profiling using blood pressure waveform analysis (the rate at which pressure rises and falls during the cardiac cycle), provides a noninvasive assessment of arterial compliance.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 19,
+      "text": "It is used for both large and small arteries by calculating pulse pressure, body surface area (BSA), and body mass index (BMI) to determine arterial compliance indices.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 20,
+      "text": "These indices have been proposed as early indicators of CVD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 21,
+      "text": "Other noninvasive prognostic tools to assess endothelial functioning have been introduced as adjuncts to standard cardiovascular disease risk assessments (Roman et al., 2006).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 22,
+      "text": "Specifically, these tools attempt to further stratify the risk of cardiovascular morbidity, while refining disease prevention measures.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 23,
+      "text": "Two such assessment approaches involve the use of artery ultrasound testing and peripheral arterial tonometry using a fingertip pulse amplitude tonometry (PAT) device.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 24,
+      "text": "Brachial artery ultrasound uses high-resolution ultrasound to assess changes in vascular dimensions, while the PAT records finger arterial pulse wave amplitude in response to reactive hyperemia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 25,
+      "text": "Increased finger pulse amplitude is posited to be a complex response to ischemia and reflects changes in digital flow and digital vessel dilation (Kuvin et al., 2007; Hamburg et al., 2008).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 26,
+      "text": "Measurement of carotid intima-media thickness (CIMT) for screening or management of cardiovascular diseases is based on the theory that the extent of carotid atherosclerosis correlates positively with the severity of coronary atherosclerosis.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 27,
+      "text": "CIMT is a noninvasive test using ultrasound to capture images of the carotid artery and computer software to analyze the measurements.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 28,
+      "text": "Cholesterol is a fat-like substance (lipid) that is present in cell membranes, and travels in the blood in distinct particles containing both lipid and proteins (lipoproteins).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 29,
+      "text": "Three major classes of lipoproteins are found in the serum of a fasting individual: low density lipoproteins (LDL), high density lipoproteins (HDL), and very low-density lipoproteins (VLDL).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 30,
+      "text": "LDL cholesterol typically makes up 60 - 70 percent of the total serum cholesterol and contains a single apolipoprotein, namely apo B-100 (apo B).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 31,
+      "text": "HDL cholesterol normally makes up 20-30 percent of the total serum cholesterol.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 32,
+      "text": "The major apolipoproteins of HDL are apo A-I and apo A-II.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 34,
+      "text": "Apolipoprotein, lipoprotein(a) and lipoprotein-associated phospholipase A2 are risk factors being evaluated for their ability to predict cardiovascular disease or ischemic stroke (NHLBI, 2002).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 35,
+      "text": "Lipoprotein-associated phospholipase A2 (Lp-PLA2), a vascular inflammatory enzyme, has been investigated as a surrogate biomarker of increased coronary heart disease and stroke risk.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 36,
+      "text": "Lp-PLA2 testing has been used as an adjunct to conventional risk assessment in healthy or asymptomatic adults to determine who might benefit from specific risk- reducing interventions, such as pharmacological therapies and behavior modification strategies (Holmes et al. 2013).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 37,
+      "text": "The HART CADhs® is a multi-protein diagnostic test for determining whether a patient has heart disease and may be at imminent risk of a heart attack.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 38,
+      "text": "HART CVE® is a multi-protein risk test for a patient’s one-year risk of heart attack, stroke, or cardiac death.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 39,
+      "text": "Artificial intelligence is employed to interrogate well-characterized clinical data sets to produce novel, multi-protein, algorithmically-scored tests (Prevencio, 2022).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 40,
+      "text": "Clinical Evidence Arterial Compliance There is insufficient evidence to conclude that noninvasive arterial compliance testing is clinically effective for the management of cardiovascular disease (CVD).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 41,
+      "text": "There is inadequate clinical evidence from prospective studies that the use of this technology alters patient management and improves clinical outcomes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 45,
+      "text": "Pulse wave velocity (PWV) analysis measure arterial distensibility.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 47,
+      "text": "Arterial stiffness was analyzed through Sphygmocor XCEL Central Blood Pressure Measurement System and Sphygmocor XCEL PWV Measurement System.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 48,
+      "text": "There were found to be statistically significant differences between NL and HP cohorts in nearly all age brackets.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 49,
+      "text": "Central aortic blood pressure systolic (CABPS) seemed to be a determining factor.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 50,
+      "text": "In conclusion, a significant determining factor in problems of arterial stiffness appears to be CABPS.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 51,
+      "text": "Pulse wave analysis and PWV are important measures in the evaluation and measurement of arterial hypertension but do not yield definitive results.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 53,
+      "text": "Additionally, medication therapy was not a contra-indication for study inclusion although certain medications such as beta blockers, ACE inhibitors, and statins could influence pulse wave analysis measurements.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 54,
+      "text": "The findings are limited by the cross-sectional design and lack of assessment of the clinical utility of the test.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 57,
+      "text": "2021) performed a cross-section study, single-center evaluation of ankle-brachial index (ABI), mean carotid- femoral pulse wave velocity (cfPWV) and pulse wave analysis (PWA) parameters. Data was obtained in a two-year period.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 59,
+      "text": "Ankle- brachial index (ABI) was measured, and arterial stiffness parameters were derived with applanation tonometry of the radial, carotid, and femoral artery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 61,
+      "text": "There was no difference in ABI among different degrees of CAD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 65,
+      "text": "Multiple regression analysis confirmed an association between cfPWV and ABI, cfPWV and mean arterial pressure, cfPWV and age and between cfPWV and body mass index, but not with arterial hypertension, dyslipidemia, diabetes mellitus or smoking status.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 66,
+      "text": "SEVR was not statistically significantly associated with ABI using the same multiple regression model.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 67,
+      "text": "The authors concluded that reduced ABI was associated with increased cfPWV, but not with advanced CAD or decreased SEVR.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 70,
+      "text": "2020) sought to estimate PWV and carotid femoral PWV performance predicting cardiovascular and all-cause mortality.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 71,
+      "text": "In addition, the authors compared the results of cfPWV thresholds with already established values to increase its validity.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 75,
+      "text": "The area under the hierarchical summary receiver operating characteristic (HSROC) curve for cfPWV was 0.75 (95% CI, 0.69–0.81) for cardiovascular mortality and 0.78 (95% CI, 0.74–0.83) for all-cause mortality, where the closest cut-off point to the summary point was 10.7 and 11.5, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 76,
+      "text": "The authors concluded that cfPWV is a useful cardiovascular and all-cause mortality predictor and it is a feasible, non-invasive, and replicable method for estimating risk, and applicable in high-risk populations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 78,
+      "text": "Additionally, the incremental value and clinical utility of this test were not reported.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 79,
+      "text": "Hitsumoto (2017) conducted a study evaluating the impact of arterial velocity pulse index (AVI) as a novel marker of atherosclerosis using pulse wave analysis on high-sensitivity troponin T (hs-cTnT) in individuals with hypertension.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 82,
+      "text": "AVI was significantly higher in study participants with detectable hs-cTnT than in those without.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 83,
+      "text": "In individuals with detectable hs-cTnT, there was a significant positive correlation between AVI and hs-cTnT. The authors concluded that the significant relationship between AVI and hs-cTnT, as determined by multivariate analysis, indicated that arterial wave reflection is an important factor for the progression of subclinical myocardial damage in hypertensive individuals. They identified some study limitations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 84,
+      "text": "First, treatment with antihypertensive drugs was stopped 24 hours or more before measurement to avoid influencing AVI.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 85,
+      "text": "This time was not sufficient to mitigate the effects of long-acting drugs.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 86,
+      "text": "Second, ultrasonic echocardiography, coronary angiography, and computed tomography angiography were not performed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 87,
+      "text": "Cardiovascular diseases such as heart failure or coronary artery disease may have gone undetected.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 91,
+      "text": "2016) evaluated the prognostic value and clinical utilities of pulse wave analysis (PWA) derived mechanical biomarkers in two independent population-based cohorts.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 92,
+      "text": "PWA on central arterial pressure waveforms were obtained from subjects without a prior history of cardiovascular diseases.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 94,
+      "text": "In the Kinmen study, right carotid artery pressure waveforms, which have been demonstrated to closely resemble central aortic pressure waveforms, were registered noninvasively with a tonometer.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 95,
+      "text": "In the CVDFACTS study, central aortic pressure waveforms were obtained with a SphygmoCor device using radial arterial pressure waveforms.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 96,
+      "text": "The associations between all mechanical biomarkers derived from pulse wave analysis and cardiovascular mortality were then examined in the multivariate Cox proportional hazards models that took into account cardiovascular risk factors including age, sex, systolic BP, body mass index, fasting glucose, triglycerides, low-density-lipoprotein cholesterol, and high-density-lipoprotein cholesterol, and smoking.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 102,
+      "text": "Increased brachial systolic BP, pulse pressure, backward wave amplitudes (Pb), and augmentation index (AI) were significantly associated with increased cardiovascular mortality in both studies.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 103,
+      "text": "Biomarkers derived from reservoir pressure-wave analysis were positively associated with cardiovascular mortality in the Kinmen study, and in the CVDFACTS study, only peak of reservoir pressure and DC remained significant in predicting cardiovascular mortality.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 104,
+      "text": "The authors concluded that these findings suggested that mechanical biomarkers derived from pulse wave analysis could not only independently predict the long-term cardiovascular risks beyond the traditional risk factors but also provide more accurate risk stratification by incorporating these mechanical biomarkers into the risk prediction models.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 106,
+      "text": "Carotid Intima-Media Thickness (CIMT) The clinical evidence is insufficient to show an added benefit of CIMT testing beyond traditional risk assessment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 107,
+      "text": "There is inadequate clinical evidence from prospective studies that the use of this technology alters patient management and improves clinical outcomes.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 111,
+      "text": "CIMT has been utilized as a predictor of future cardiovascular disease (CVD); however, various definitions of cIMT exist.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 112,
+      "text": "The authors concluded that Combined-IMT is more strongly associated with CVD events compared to single-segment cIMT definitions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 114,
+      "text": "Further studies are needed to draw a final conclusion on the strength of associations of the different definitions of cIMT with future CVD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 115,
+      "text": "Furthermore, the study does not address the incremental value or the clinical utility of the test for the management of CVD. Tschiderer et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 118,
+      "text": "The overall mean of baseline common carotid artery intima-media thickness (CCA-IMT) values was 0.71 mm, with 15 studies reporting mean CCA-IMT values and five studies reporting maximum CCA-IMT values.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 126,
+      "text": "The authors concluded the large-scale meta-analysis based on participant-level data, CCA-IMT is associated with the long-term risk of developing first-ever carotid plaque, independent of traditional cardiovascular risk factors.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 141,
+      "text": "The authors concluded the magnitude of the associations of CVD risk factors with CIMT has implications for ethnic specific primary prevention strategies and offer insights into racial-and ethnic-specific mechanisms involved in the pathogenesis of CVD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 153,
+      "text": "The authors concluded that elevated Lp(a) was associated with an increased risk for MCE and CVD in study participants with diabetes and that these results may lead to better identification of target populations who might benefit from future Lp(a)-lowering therapies. Some limitations were identified.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 170,
+      "text": "The authors concluded that elevated Lp-PLA2 levels are associated with higher stroke risk.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 172,
+      "text": "The test methods for Lp-PLA2 were not uniform in the included studies, which is a potential source of bias and there was a lack of studies in individuals ≥ 65 years.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 173,
+      "text": "Lp-PLA2 as a therapeutic target to prevent stroke requires further investigation.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 174,
+      "text": "Furthermore, the study did not address how integrating measurements of Lp- PLA2 to clinical care alters patient management and improves clinical outcomes. Benderly et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 175,
+      "text": "2017) performed a study to evaluate the relevance of Lp-PLA to risk prediction among patients with coronary heart disease (CHD).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 176,
+      "text": "Lp-PLA activity was measured in 2538 CHD participants included in the Bezafibrate Infarction Prevention (BIP) study.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 177,
+      "text": "Adjusting for study participant characteristics and traditional risk factors, one standard deviation of Lp-PLA was associated with a hazard ratio (HR) of 1.12 (95% confidence interval (CI): 1.00-1.25) for mortality and 1.03 (0.93-1.14) for cardiovascular events.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 178,
+      "text": "The authors concluded that Lp-PLA did not significantly improve model discrimination, or calibration and the results did not support added value of Lp-PLA for predicting cardiovascular events or mortality among CHD patients beyond traditional risk factor. Younus et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 179,
+      "text": "2017) performed a systematic review to clarify the relationship between lipoprotein-associated phospholipase A2 (Lp-PLA2) and subclinical cardiovascular disease (CVD) as defined by coronary artery calcium (CAC), carotid intima-media thickness (CIMT) and endothelial function.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 183,
+      "text": "The authors concluded that this review showed a variable association between Lp-PLA2, and subclinical disease and the results do not conclusively support the use of Lp-PLA2 in the diagnosis and management of subclinical CVD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 184,
+      "text": "Future research is needed to clarify what role Lp-PLA2 has in guiding treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 188,
+      "text": "Combined hazard ratios for CHD and IS risks for the highest category referring to lowest category of Lp-PLA2 were 1.46 and 1.58, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 189,
+      "text": "The same patterns were observed for both mass and activity, with the exception of those for CHD.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 190,
+      "text": "For every one standard deviation (SD) increase in Lp-PLA2 activity, CHD risk increased by 12%; no association between one SD increases in Lp- PLA2 activity and IS was observed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 191,
+      "text": "Lp-PLA2 mass was associated with CHD risk.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 193,
+      "text": "The authors concluded that greater Lp-PLA2 activity or mass was associated with an increased risk of CHD and IS; however, additional well-designed trials are warranted to confirm this association.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 196,
+      "text": "2017) to assess the associations of Lp-PLA2 levels (mass and activity) with recurrent vascular events in participants with transient ischemic attack (TIA) and/or first ischemic stroke and with stroke in the general population.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 200,
+      "text": "The authors concluded that in participants with TIA and first ischemic stroke, elevated Lp-PLA2 activity levels were associated with recurrent vascular events and in the general population elevated Lp-PLA2 levels were associated with the risk of stroke. Li et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 205,
+      "text": "The authors concluded that greater Lp-PLA2 activity or mass was independently associated with cardiovascular events in participants with CHD, particularly in participants with stable CHD who were not receiving therapies for inhibiting Lp-PLA2. Garg et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 214,
+      "text": "The authors concluded that Lp-PLA2 was positively associated with CVD and CHD risk, regardless of the presence of coronary artery calcium or a thickened carotid-intimal media. They did identify study limitations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 215,
+      "text": "The population included participants with no known baseline clinical CVD and findings cannot be generalized to dissimilar populations.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 216,
+      "text": "The number of CVD events was low for some strata in their stratified analyses.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 217,
+      "text": "Other studies or longer-term follow-up is required to further investigate these questions.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 218,
+      "text": "Lastly, their detection of atherosclerosis is based on surrogate measures and does not capture all participants with evidence of subclinical disease.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 219,
+      "text": "The Emerging Risk Factors Collaboration assessed whether adding various emerging lipid markers to total cholesterol and high-density lipoprotein cholesterol (HDL-C) improved cardiovascular disease (CVD) risk prediction.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 222,
+      "text": "Main outcome measures were CVD outcomes and low ( 50% stenosis), and major adverse cardiovascular events (MACEs) in study participants with type 2 diabetes mellitus (T2DM).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 223,
+      "text": "Endothelial function was assessed using peripheral arterial tonometry and correlated with participant characteristics and cardiovascular outcomes during a median follow-up of 22.8 months.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 225,
+      "text": "Serum low- and high-density lipoprotein cholesterol levels positively and negatively predicted RHI score, respectively.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 226,
+      "text": "Median coronary artery calcium (CAC) score was 109 Agatston units, but no correlation between CAC and RHI scores was observed.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 227,
+      "text": "The RHI score did not predict the number or severity of coronary plaques identified using computed tomography coronary angiography.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 228,
+      "text": "Additionally, there was no association between RHI score and the risk of a MACE during follow-up.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 229,
+      "text": "Overall, endothelial function was not predictive of CAC score, extent, and severity of coronary plaque or MACEs and did not demonstrate utility in cardiovascular risk stratifying participants with T2DM. Van den Heuvel et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 234,
+      "text": "RHI correlated with HeartScore, AIx with DF but both were not significantly different between normal and ischemic X-ECG groups.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 235,
+      "text": "RHI and AIx were similar between low risk as compared with intermediate-to-high risk and failed to predict revascularization.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 236,
+      "text": "The authors concluded that PAT cannot detect a low risk of CAD, possibly because RHI and Aix versus X-ECG, CCS and CTA represent independent processes. Rubinshtein et al. (",
+      "label": "PREMISE"
+    },
+    {
+      "id": 237,
+      "text": "2010) examined whether endothelial dysfunction, as detected by non-invasive peripheral arterial tonometry (EndoPAT), can predict late cardiovascular events (n = 270).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 238,
+      "text": "Once reactive hyperaemia (RH) was manually induced, participants were evaluated over a 7-year follow-up period for subsequent cardiovascular adverse events, such as cardiac death, myocardial infarction, revascularization, or cardiac hospitalization.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 239,
+      "text": "Cox regression models were used to estimate the association of EndoPAT results with adverse events, adjusted for age.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 240,
+      "text": "Univariate predictors of adverse events were natural logarithmic scaled RH index (LRHI), advancing age, and prior coronary bypass surgery.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 241,
+      "text": "Multivariate analysis identified LRHI value of less than 0.4 as an independent predictor of cardiovascular events.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 243,
+      "text": "2008) evaluated the relationship between digital pulse amplitude using a fingertip PAT device and cardiovascular disease risk factors.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 244,
+      "text": "Initial findings demonstrated that manually induced, reactive hyperemia resulted in a time-dependent increase in fingertip pulse amplitude.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 245,
+      "text": "Based on a stepwise, multivariate, linear regression model, a number of risk factors were inversely related to the hyperemic response (PAT ratio), including being male, body mass index (BMI), total/high density lipoprotein (HDL) cholesterol, diabetes, smoking, and lipid-lowering treatment.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 247,
+      "text": "▪ Ankle-brachial index ( 430 nmol/L) who may have a lifetime risk of atherosclerotic CV disease (ASCVD) that is equivalent to the risk associated with heterozygous familial hypercholesterolemia.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 248,
+      "text": "Lp(a) should be considered in selected patients with a family history of premature CVD, and for reclassification in people who are borderline between moderate and high-risk.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 249,
+      "text": "ApoB analysis is recommended for risk assessment, particularly in people with high triglycerides (TG), DM, obesity or metabolic syndrome, or very low LDL-C (Mach, 2020).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 250,
+      "text": "National Lipid Association (NLA) A focused update to the 2019 scientific statement was issued as accumulating epidemiological data has clarified the relationship between lipoprotein(a) [Lp(a)] levels and cardiovascular disease risk and cardiovascular risk reduction.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 253,
+      "text": "Individuals with Lp(a) levels < 75 nmol/L (30 mg/dL) are considered low risk, patients with Lp(a) levels ≥ 125 nmol/L (50 mg/dL) are considered high risk, and individuals with Lp(a) levels between 75 and 125 nmol/L (30-50 mg/dL) are at intermediate risk.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 254,
+      "text": "Cascade screening of first-degree relatives of individuals with elevated Lp(a) can identify those at risk and require intervention.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 255,
+      "text": "Patients with elevated Lp(a) should receive early, more-intensive risk factor management such as lifestyle modification and lipid-lowering medication therapy to reduce low-density lipoprotein cholesterol (LDL-C).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 256,
+      "text": "Although Lp(a) is an established independent causal risk factor for cardiovascular disease, and despite the high prevalence of Lp(a) elevation (approximately one of five individuals), measurement rates are low, warranting improved screening strategies for cardiovascular disease prevention (Koschinsky et al., 2024).",
+      "label": "PREMISE"
+    },
+    {
+      "id": 258,
+      "text": "LDL-P assays are not standardized but may help guide treatment in persons after initial lipid evaluation for select patients.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 259,
+      "text": "Lp(a) can help to guide therapy in persons with primary hypercholesterolemia or those at very high risk to develop ASCVD events.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 263,
+      "text": "Patients with high Lp(a) levels may have less-than expected LDL-C lowering on statin therapy.",
+      "label": "PREMISE"
+    },
+    {
+      "id": 267,
+      "text": "Copyright 2026 United HealthCare Services, Inc. U.S. Preventive Services Task Force (USPSTF) The USPSTF 2018 Recommendation Statement on screening for peripheral artery disease and cardiovascular disease risk assessment with the ankle-brachial index concluded that the current evidence is insufficient to assess the balance of benefits and harms of screening for PAD and CVD risk with the ABI in asymptomatic adults.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 268,
+      "text": "Veterans Affairs and Department of Defense (VA/DoD) The VA/DoD 2020 Clinical Practice Guidelines on the management of dyslipidemia for cardiovascular risk reduction suggested against the routine use of additional risk markers (e.g., high-sensitivity C-reactive protein, ankle-brachial index, coronary artery calcium) when assessing cardiovascular risk.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 271,
+      "text": "Non-invasive blood pressure measurement system products such as the CVProfilor are numerous.",
+      "label": "CLAIM"
+    },
+    {
+      "id": 275,
+      "text": "B-mode ultrasound equipment used to measure CIMT is regulated by the FDA, but products are too numerous to list.",
+      "label": "CLAIM"
+    }
+  ]
+}
